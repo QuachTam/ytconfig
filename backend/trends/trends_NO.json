@@ -1,582 +1,1365 @@
 {
   "status": "success",
-  "topQueries": [
-    {
-      "query": "the",
-      "value": 100,
-      "formattedValue": "100",
-      "raw": {
+  "topics": {
+    "top": [
+      {
+        "query": "Tin tức",
+        "value": 100,
+        "formattedValue": "100",
+        "raw": {
+          "topic": {
+            "mid": "/m/05jhg",
+            "title": "Tin tức",
+            "type": "Định dạng phát thanh"
+          },
+          "value": 100,
+          "formattedValue": "100",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/05jhg&date=now+7-d&geo=NO"
+        }
+      },
+      {
+        "query": "Bài hát",
+        "value": 80,
+        "formattedValue": "80",
+        "raw": {
+          "topic": {
+            "mid": "/m/074ft",
+            "title": "Bài hát",
+            "type": "Loại sáng tác"
+          },
+          "value": 80,
+          "formattedValue": "80",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/074ft&date=now+7-d&geo=NO"
+        }
+      },
+      {
+        "query": "Điện ảnh",
+        "value": 47,
+        "formattedValue": "47",
+        "raw": {
+          "topic": {
+            "mid": "/m/02vxn",
+            "title": "Điện ảnh",
+            "type": "Loại truyền hình"
+          },
+          "value": 47,
+          "formattedValue": "47",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/02vxn&date=now+7-d&geo=NO"
+        }
+      },
+      {
+        "query": "Âm nhạc",
+        "value": 43,
+        "formattedValue": "43",
+        "raw": {
+          "topic": {
+            "mid": "/m/04rlf",
+            "title": "Âm nhạc",
+            "type": "Định dạng âm thanh"
+          },
+          "value": 43,
+          "formattedValue": "43",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/04rlf&date=now+7-d&geo=NO"
+        }
+      },
+      {
+        "query": "2026",
+        "value": 36,
+        "formattedValue": "36",
+        "raw": {
+          "topic": {
+            "mid": "/g/11b77d6b6g",
+            "title": "2026",
+            "type": "Chủ đề"
+          },
+          "value": 36,
+          "formattedValue": "36",
+          "hasData": true,
+          "link": "/trends/explore?q=/g/11b77d6b6g&date=now+7-d&geo=NO"
+        }
+      },
+      {
+        "query": "Video",
+        "value": 24,
+        "formattedValue": "24",
+        "raw": {
+          "topic": {
+            "mid": "/m/07z4p",
+            "title": "Video",
+            "type": "Định dạng phim"
+          },
+          "value": 24,
+          "formattedValue": "24",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/07z4p&date=now+7-d&geo=NO"
+        }
+      },
+      {
+        "query": "Na Uy",
+        "value": 23,
+        "formattedValue": "23",
+        "raw": {
+          "topic": {
+            "mid": "/m/05b4w",
+            "title": "Na Uy",
+            "type": "Quốc gia ở Châu Âu"
+          },
+          "value": 23,
+          "formattedValue": "23",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/05b4w&date=now+7-d&geo=NO"
+        }
+      },
+      {
+        "query": "Minecraft",
+        "value": 22,
+        "formattedValue": "22",
+        "raw": {
+          "topic": {
+            "mid": "/m/09v6kpg",
+            "title": "Minecraft",
+            "type": "Trò chơi điện tử"
+          },
+          "value": 22,
+          "formattedValue": "22",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/09v6kpg&date=now+7-d&geo=NO"
+        }
+      },
+      {
+        "query": "Phản ứng kích thích cảm giác tự động",
+        "value": 20,
+        "formattedValue": "20",
+        "raw": {
+          "topic": {
+            "mid": "/m/0ngt1v6",
+            "title": "Phản ứng kích thích cảm giác tự động",
+            "type": "Chủ đề"
+          },
+          "value": 20,
+          "formattedValue": "20",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/0ngt1v6&date=now+7-d&geo=NO"
+        }
+      },
+      {
+        "query": "Tập phim",
+        "value": 19,
+        "formattedValue": "19",
+        "raw": {
+          "topic": {
+            "mid": "/m/02cphr",
+            "title": "Tập phim",
+            "type": "Chủ đề"
+          },
+          "value": 19,
+          "formattedValue": "19",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/02cphr&date=now+7-d&geo=NO"
+        }
+      },
+      {
+        "query": "Trò chơi",
+        "value": 18,
+        "formattedValue": "18",
+        "raw": {
+          "topic": {
+            "mid": "/m/03bt1gh",
+            "title": "Trò chơi",
+            "type": "Chủ đề"
+          },
+          "value": 18,
+          "formattedValue": "18",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/03bt1gh&date=now+7-d&geo=NO"
+        }
+      },
+      {
+        "query": "Trailer",
+        "value": 17,
+        "formattedValue": "17",
+        "raw": {
+          "topic": {
+            "mid": "/m/03hdbf",
+            "title": "Trailer",
+            "type": "Chủ đề"
+          },
+          "value": 17,
+          "formattedValue": "17",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/03hdbf&date=now+7-d&geo=NO"
+        }
+      },
+      {
+        "query": "Tiếng Na Uy",
+        "value": 16,
+        "formattedValue": "16",
+        "raw": {
+          "topic": {
+            "mid": "/m/05f_3",
+            "title": "Tiếng Na Uy",
+            "type": "Ngôn ngữ"
+          },
+          "value": 16,
+          "formattedValue": "16",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/05f_3&date=now+7-d&geo=NO"
+        }
+      },
+      {
+        "query": "Trẻ em",
+        "value": 15,
+        "formattedValue": "15",
+        "raw": {
+          "topic": {
+            "mid": "/m/0ytgt",
+            "title": "Trẻ em",
+            "type": "Chủ đề"
+          },
+          "value": 15,
+          "formattedValue": "15",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/0ytgt&date=now+7-d&geo=NO"
+        }
+      },
+      {
+        "query": "Nhảy múa",
+        "value": 15,
+        "formattedValue": "15",
+        "raw": {
+          "topic": {
+            "mid": "/m/026bk",
+            "title": "Nhảy múa",
+            "type": "Lĩnh vực nghề nghiệp"
+          },
+          "value": 15,
+          "formattedValue": "15",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/026bk&date=now+7-d&geo=NO"
+        }
+      },
+      {
+        "query": "Thế giới",
+        "value": 15,
+        "formattedValue": "15",
+        "raw": {
+          "topic": {
+            "mid": "/m/09nm_",
+            "title": "Thế giới",
+            "type": "Chủ đề"
+          },
+          "value": 15,
+          "formattedValue": "15",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/09nm_&date=now+7-d&geo=NO"
+        }
+      },
+      {
+        "query": "2025",
+        "value": 14,
+        "formattedValue": "14",
+        "raw": {
+          "topic": {
+            "mid": "/g/11b77d3kyg",
+            "title": "2025",
+            "type": "Chủ đề"
+          },
+          "value": 14,
+          "formattedValue": "14",
+          "hasData": true,
+          "link": "/trends/explore?q=/g/11b77d3kyg&date=now+7-d&geo=NO"
+        }
+      },
+      {
+        "query": "Âm thanh",
+        "value": 14,
+        "formattedValue": "14",
+        "raw": {
+          "topic": {
+            "mid": "/m/06qc5",
+            "title": "Âm thanh",
+            "type": "Chủ đề"
+          },
+          "value": 14,
+          "formattedValue": "14",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/06qc5&date=now+7-d&geo=NO"
+        }
+      },
+      {
+        "query": "Bóng đá",
+        "value": 14,
+        "formattedValue": "14",
+        "raw": {
+          "topic": {
+            "mid": "/m/02vx4",
+            "title": "Bóng đá",
+            "type": "Thể thao"
+          },
+          "value": 14,
+          "formattedValue": "14",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/02vx4&date=now+7-d&geo=NO"
+        }
+      },
+      {
+        "query": "Giải Bóng đá Vô địch Thế giới",
+        "value": 14,
+        "formattedValue": "14",
+        "raw": {
+          "topic": {
+            "mid": "/m/030q7",
+            "title": "Giải Bóng đá Vô địch Thế giới",
+            "type": "Giải bóng đá"
+          },
+          "value": 14,
+          "formattedValue": "14",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/030q7&date=now+7-d&geo=NO"
+        }
+      },
+      {
+        "query": "Roblox",
+        "value": 13,
+        "formattedValue": "13",
+        "raw": {
+          "topic": {
+            "mid": "/m/026bs1g",
+            "title": "Roblox",
+            "type": "Nền tảng điện toán"
+          },
+          "value": 13,
+          "formattedValue": "13",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/026bs1g&date=now+7-d&geo=NO"
+        }
+      },
+      {
+        "query": "create",
+        "value": 12,
+        "formattedValue": "12",
+        "raw": {
+          "topic": {
+            "mid": "/g/11qg_c03j7",
+            "title": "create",
+            "type": "Chủ đề"
+          },
+          "value": 12,
+          "formattedValue": "12",
+          "hasData": true,
+          "link": "/trends/explore?q=/g/11qg_c03j7&date=now+7-d&geo=NO"
+        }
+      },
+      {
+        "query": "Ô tô",
+        "value": 12,
+        "formattedValue": "12",
+        "raw": {
+          "topic": {
+            "mid": "/m/0k4j",
+            "title": "Ô tô",
+            "type": "Chế độ phương tiện"
+          },
+          "value": 12,
+          "formattedValue": "12",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/0k4j&date=now+7-d&geo=NO"
+        }
+      },
+      {
+        "query": "Truyền hình",
+        "value": 11,
+        "formattedValue": "11",
+        "raw": {
+          "topic": {
+            "mid": "/m/07c52",
+            "title": "Truyền hình",
+            "type": "Loại truyền hình"
+          },
+          "value": 11,
+          "formattedValue": "11",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/07c52&date=now+7-d&geo=NO"
+        }
+      },
+      {
+        "query": "Karaoke",
+        "value": 11,
+        "formattedValue": "11",
+        "raw": {
+          "topic": {
+            "mid": "/m/04c5p",
+            "title": "Karaoke",
+            "type": "Chủ đề"
+          },
+          "value": 11,
+          "formattedValue": "11",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/04c5p&date=now+7-d&geo=NO"
+        }
+      }
+    ],
+    "rising": [
+      {
+        "query": "Summer Game Fest",
+        "value": 1300,
+        "formattedValue": "+1.300%",
+        "raw": {
+          "topic": {
+            "mid": "/g/11tbwhcxz0",
+            "title": "Summer Game Fest",
+            "type": "Chủ đề"
+          },
+          "value": 1300,
+          "formattedValue": "+1.300%",
+          "link": "/trends/explore?q=/g/11tbwhcxz0&date=now+7-d&geo=NO"
+        }
+      },
+      {
+        "query": "Nike Store",
+        "value": 1200,
+        "formattedValue": "+1.200%",
+        "raw": {
+          "topic": {
+            "mid": "/g/11g_8bwpf",
+            "title": "Nike Store",
+            "type": "Chủ đề"
+          },
+          "value": 1200,
+          "formattedValue": "+1.200%",
+          "link": "/trends/explore?q=/g/11g_8bwpf&date=now+7-d&geo=NO"
+        }
+      },
+      {
+        "query": "Nike, Inc.",
+        "value": 750,
+        "formattedValue": "+750%",
+        "raw": {
+          "topic": {
+            "mid": "/m/0lwkh",
+            "title": "Nike, Inc.",
+            "type": "Tập đoàn"
+          },
+          "value": 750,
+          "formattedValue": "+750%",
+          "link": "/trends/explore?q=/m/0lwkh&date=now+7-d&geo=NO"
+        }
+      },
+      {
+        "query": "Nike",
+        "value": 700,
+        "formattedValue": "+700%",
+        "raw": {
+          "topic": {
+            "mid": "/m/0cnsqjb",
+            "title": "Nike",
+            "type": "Chủ đề"
+          },
+          "value": 700,
+          "formattedValue": "+700%",
+          "link": "/trends/explore?q=/m/0cnsqjb&date=now+7-d&geo=NO"
+        }
+      },
+      {
+        "query": "Tik Tok",
+        "value": 500,
+        "formattedValue": "+500%",
+        "raw": {
+          "topic": {
+            "mid": "/g/11fy265933",
+            "title": "Tik Tok",
+            "type": "Công ty"
+          },
+          "value": 500,
+          "formattedValue": "+500%",
+          "link": "/trends/explore?q=/g/11fy265933&date=now+7-d&geo=NO"
+        }
+      },
+      {
+        "query": "Nintendo of America",
+        "value": 450,
+        "formattedValue": "+450%",
+        "raw": {
+          "topic": {
+            "mid": "/g/11c2k6l0w3",
+            "title": "Nintendo of America",
+            "type": "Chủ đề"
+          },
+          "value": 450,
+          "formattedValue": "+450%",
+          "link": "/trends/explore?q=/g/11c2k6l0w3&date=now+7-d&geo=NO"
+        }
+      },
+      {
+        "query": "Nintendo",
+        "value": 250,
+        "formattedValue": "+250%",
+        "raw": {
+          "topic": {
+            "mid": "/m/059wk",
+            "title": "Nintendo",
+            "type": "Công ty"
+          },
+          "value": 250,
+          "formattedValue": "+250%",
+          "link": "/trends/explore?q=/m/059wk&date=now+7-d&geo=NO"
+        }
+      },
+      {
+        "query": "Phim quảng cáo",
+        "value": 250,
+        "formattedValue": "+250%",
+        "raw": {
+          "topic": {
+            "mid": "/m/018ng8",
+            "title": "Phim quảng cáo",
+            "type": "Chủ đề"
+          },
+          "value": 250,
+          "formattedValue": "+250%",
+          "link": "/trends/explore?q=/m/018ng8&date=now+7-d&geo=NO"
+        }
+      },
+      {
+        "query": "Maroc",
+        "value": 200,
+        "formattedValue": "+200%",
+        "raw": {
+          "topic": {
+            "mid": "/m/04wgh",
+            "title": "Maroc",
+            "type": "Quốc gia ở Bắc Phi"
+          },
+          "value": 200,
+          "formattedValue": "+200%",
+          "link": "/trends/explore?q=/m/04wgh&date=now+7-d&geo=NO"
+        }
+      },
+      {
+        "query": "Nintendo",
+        "value": 190,
+        "formattedValue": "+190%",
+        "raw": {
+          "topic": {
+            "mid": "/g/1ymzszlpz",
+            "title": "Nintendo",
+            "type": "Chủ đề"
+          },
+          "value": 190,
+          "formattedValue": "+190%",
+          "link": "/trends/explore?q=/g/1ymzszlpz&date=now+7-d&geo=NO"
+        }
+      },
+      {
+        "query": "Tháng",
+        "value": 140,
+        "formattedValue": "+140%",
+        "raw": {
+          "topic": {
+            "mid": "/m/053jb",
+            "title": "Tháng",
+            "type": "Đơn vị đo thời gian"
+          },
+          "value": 140,
+          "formattedValue": "+140%",
+          "link": "/trends/explore?q=/m/053jb&date=now+7-d&geo=NO"
+        }
+      },
+      {
+        "query": "Công thức 1",
+        "value": 120,
+        "formattedValue": "+120%",
+        "raw": {
+          "topic": {
+            "mid": "/m/02xz2",
+            "title": "Công thức 1",
+            "type": "Liên đoàn thể thao"
+          },
+          "value": 120,
+          "formattedValue": "+120%",
+          "link": "/trends/explore?q=/m/02xz2&date=now+7-d&geo=NO"
+        }
+      },
+      {
+        "query": "Mùa đông",
+        "value": 110,
+        "formattedValue": "+110%",
+        "raw": {
+          "topic": {
+            "mid": "/m/086mh",
+            "title": "Mùa đông",
+            "type": "Chủ đề"
+          },
+          "value": 110,
+          "formattedValue": "+110%",
+          "link": "/trends/explore?q=/m/086mh&date=now+7-d&geo=NO"
+        }
+      },
+      {
+        "query": "Xbox",
+        "value": 100,
+        "formattedValue": "+100%",
+        "raw": {
+          "topic": {
+            "mid": "/m/0t_fv9h",
+            "title": "Xbox",
+            "type": "Chủ đề"
+          },
+          "value": 100,
+          "formattedValue": "+100%",
+          "link": "/trends/explore?q=/m/0t_fv9h&date=now+7-d&geo=NO"
+        }
+      },
+      {
+        "query": "Rạp xiếc kỹ thuật số diệu kỳ",
+        "value": 100,
+        "formattedValue": "+100%",
+        "raw": {
+          "topic": {
+            "mid": "/g/11krktg_mq",
+            "title": "Rạp xiếc kỹ thuật số diệu kỳ",
+            "type": "Phim truyền hình"
+          },
+          "value": 100,
+          "formattedValue": "+100%",
+          "link": "/trends/explore?q=/g/11krktg_mq&date=now+7-d&geo=NO"
+        }
+      },
+      {
+        "query": "Erling Haaland",
+        "value": 100,
+        "formattedValue": "+100%",
+        "raw": {
+          "topic": {
+            "mid": "/g/11c6y_yl51",
+            "title": "Erling Haaland",
+            "type": "Cầu thủ"
+          },
+          "value": 100,
+          "formattedValue": "+100%",
+          "link": "/trends/explore?q=/g/11c6y_yl51&date=now+7-d&geo=NO"
+        }
+      },
+      {
+        "query": "Giải Bóng đá Thế giới 2026",
+        "value": 80,
+        "formattedValue": "+80%",
+        "raw": {
+          "topic": {
+            "mid": "/m/0r4xs1m",
+            "title": "Giải Bóng đá Thế giới 2026",
+            "type": "Mùa giải thể thao"
+          },
+          "value": 80,
+          "formattedValue": "+80%",
+          "link": "/trends/explore?q=/m/0r4xs1m&date=now+7-d&geo=NO"
+        }
+      },
+      {
+        "query": "The Backrooms",
+        "value": 60,
+        "formattedValue": "+60%",
+        "raw": {
+          "topic": {
+            "mid": "/g/11sp8_c7c1",
+            "title": "The Backrooms",
+            "type": "Chủ đề"
+          },
+          "value": 60,
+          "formattedValue": "+60%",
+          "link": "/trends/explore?q=/g/11sp8_c7c1&date=now+7-d&geo=NO"
+        }
+      },
+      {
+        "query": "Khách sạn",
+        "value": 60,
+        "formattedValue": "+60%",
+        "raw": {
+          "topic": {
+            "mid": "/m/03pty",
+            "title": "Khách sạn",
+            "type": "Loại phòng ở"
+          },
+          "value": 60,
+          "formattedValue": "+60%",
+          "link": "/trends/explore?q=/m/03pty&date=now+7-d&geo=NO"
+        }
+      },
+      {
+        "query": "Tin tức",
+        "value": 50,
+        "formattedValue": "+50%",
+        "raw": {
+          "topic": {
+            "mid": "/m/05jhg",
+            "title": "Tin tức",
+            "type": "Định dạng phát thanh"
+          },
+          "value": 50,
+          "formattedValue": "+50%",
+          "link": "/trends/explore?q=/m/05jhg&date=now+7-d&geo=NO"
+        }
+      },
+      {
+        "query": "Năm",
+        "value": 50,
+        "formattedValue": "+50%",
+        "raw": {
+          "topic": {
+            "mid": "/g/1213vdr5",
+            "title": "Năm",
+            "type": "Thời gian"
+          },
+          "value": 50,
+          "formattedValue": "+50%",
+          "link": "/trends/explore?q=/g/1213vdr5&date=now+7-d&geo=NO"
+        }
+      },
+      {
+        "query": "Elden Ring",
+        "value": 50,
+        "formattedValue": "+50%",
+        "raw": {
+          "topic": {
+            "mid": "/g/11h3z4_20j",
+            "title": "Elden Ring",
+            "type": "Trò chơi điện tử"
+          },
+          "value": 50,
+          "formattedValue": "+50%",
+          "link": "/trends/explore?q=/g/11h3z4_20j&date=now+7-d&geo=NO"
+        }
+      },
+      {
+        "query": "Trắng",
+        "value": 50,
+        "formattedValue": "+50%",
+        "raw": {
+          "topic": {
+            "mid": "/m/083jv",
+            "title": "Trắng",
+            "type": "Màu"
+          },
+          "value": 50,
+          "formattedValue": "+50%",
+          "link": "/trends/explore?q=/m/083jv&date=now+7-d&geo=NO"
+        }
+      },
+      {
+        "query": "Giải Bóng đá Vô địch Thế giới",
+        "value": 50,
+        "formattedValue": "+50%",
+        "raw": {
+          "topic": {
+            "mid": "/m/030q7",
+            "title": "Giải Bóng đá Vô địch Thế giới",
+            "type": "Giải bóng đá"
+          },
+          "value": 50,
+          "formattedValue": "+50%",
+          "link": "/trends/explore?q=/m/030q7&date=now+7-d&geo=NO"
+        }
+      },
+      {
+        "query": "BMW",
+        "value": 40,
+        "formattedValue": "+40%",
+        "raw": {
+          "topic": {
+            "mid": "/m/017yh",
+            "title": "BMW",
+            "type": "Nhà sản xuất ô tô"
+          },
+          "value": 40,
+          "formattedValue": "+40%",
+          "link": "/trends/explore?q=/m/017yh&date=now+7-d&geo=NO"
+        }
+      }
+    ]
+  },
+  "queries": {
+    "top": [
+      {
         "query": "the",
         "value": 100,
         "formattedValue": "100",
-        "hasData": true,
-        "link": "/trends/explore?q=the&date=now+7-d&geo=NO"
-      }
-    },
-    {
-      "query": "news",
-      "value": 84,
-      "formattedValue": "84",
-      "raw": {
+        "raw": {
+          "query": "the",
+          "value": 100,
+          "formattedValue": "100",
+          "hasData": true,
+          "link": "/trends/explore?q=the&date=now+7-d&geo=NO"
+        }
+      },
+      {
         "query": "news",
-        "value": 84,
-        "formattedValue": "84",
-        "hasData": true,
-        "link": "/trends/explore?q=news&date=now+7-d&geo=NO"
-      }
-    },
-    {
-      "query": "song",
-      "value": 32,
-      "formattedValue": "32",
-      "raw": {
+        "value": 91,
+        "formattedValue": "91",
+        "raw": {
+          "query": "news",
+          "value": 91,
+          "formattedValue": "91",
+          "hasData": true,
+          "link": "/trends/explore?q=news&date=now+7-d&geo=NO"
+        }
+      },
+      {
         "query": "song",
-        "value": 32,
-        "formattedValue": "32",
-        "hasData": true,
-        "link": "/trends/explore?q=song&date=now+7-d&geo=NO"
-      }
-    },
-    {
-      "query": "music",
-      "value": 25,
-      "formattedValue": "25",
-      "raw": {
+        "value": 35,
+        "formattedValue": "35",
+        "raw": {
+          "query": "song",
+          "value": 35,
+          "formattedValue": "35",
+          "hasData": true,
+          "link": "/trends/explore?q=song&date=now+7-d&geo=NO"
+        }
+      },
+      {
         "query": "music",
         "value": 25,
         "formattedValue": "25",
-        "hasData": true,
-        "link": "/trends/explore?q=music&date=now+7-d&geo=NO"
-      }
-    },
-    {
-      "query": "minecraft",
-      "value": 16,
-      "formattedValue": "16",
-      "raw": {
+        "raw": {
+          "query": "music",
+          "value": 25,
+          "formattedValue": "25",
+          "hasData": true,
+          "link": "/trends/explore?q=music&date=now+7-d&geo=NO"
+        }
+      },
+      {
         "query": "minecraft",
+        "value": 17,
+        "formattedValue": "17",
+        "raw": {
+          "query": "minecraft",
+          "value": 17,
+          "formattedValue": "17",
+          "hasData": true,
+          "link": "/trends/explore?q=minecraft&date=now+7-d&geo=NO"
+        }
+      },
+      {
+        "query": "songs",
         "value": 16,
         "formattedValue": "16",
-        "hasData": true,
-        "link": "/trends/explore?q=minecraft&date=now+7-d&geo=NO"
-      }
-    },
-    {
-      "query": "songs",
-      "value": 15,
-      "formattedValue": "15",
-      "raw": {
-        "query": "songs",
-        "value": 15,
-        "formattedValue": "15",
-        "hasData": true,
-        "link": "/trends/explore?q=songs&date=now+7-d&geo=NO"
-      }
-    },
-    {
-      "query": "asmr",
-      "value": 15,
-      "formattedValue": "15",
-      "raw": {
+        "raw": {
+          "query": "songs",
+          "value": 16,
+          "formattedValue": "16",
+          "hasData": true,
+          "link": "/trends/explore?q=songs&date=now+7-d&geo=NO"
+        }
+      },
+      {
         "query": "asmr",
         "value": 15,
         "formattedValue": "15",
-        "hasData": true,
-        "link": "/trends/explore?q=asmr&date=now+7-d&geo=NO"
-      }
-    },
-    {
-      "query": "trailer",
-      "value": 14,
-      "formattedValue": "14",
-      "raw": {
+        "raw": {
+          "query": "asmr",
+          "value": 15,
+          "formattedValue": "15",
+          "hasData": true,
+          "link": "/trends/explore?q=asmr&date=now+7-d&geo=NO"
+        }
+      },
+      {
         "query": "trailer",
-        "value": 14,
-        "formattedValue": "14",
-        "hasData": true,
-        "link": "/trends/explore?q=trailer&date=now+7-d&geo=NO"
-      }
-    },
-    {
-      "query": "norway",
-      "value": 10,
-      "formattedValue": "10",
-      "raw": {
+        "value": 15,
+        "formattedValue": "15",
+        "raw": {
+          "query": "trailer",
+          "value": 15,
+          "formattedValue": "15",
+          "hasData": true,
+          "link": "/trends/explore?q=trailer&date=now+7-d&geo=NO"
+        }
+      },
+      {
         "query": "norway",
-        "value": 10,
-        "formattedValue": "10",
-        "hasData": true,
-        "link": "/trends/explore?q=norway&date=now+7-d&geo=NO"
-      }
-    },
-    {
-      "query": "roblox",
-      "value": 10,
-      "formattedValue": "10",
-      "raw": {
+        "value": 11,
+        "formattedValue": "11",
+        "raw": {
+          "query": "norway",
+          "value": 11,
+          "formattedValue": "11",
+          "hasData": true,
+          "link": "/trends/explore?q=norway&date=now+7-d&geo=NO"
+        }
+      },
+      {
         "query": "roblox",
+        "value": 11,
+        "formattedValue": "11",
+        "raw": {
+          "query": "roblox",
+          "value": 11,
+          "formattedValue": "11",
+          "hasData": true,
+          "link": "/trends/explore?q=roblox&date=now+7-d&geo=NO"
+        }
+      },
+      {
+        "query": "world cup",
         "value": 10,
         "formattedValue": "10",
-        "hasData": true,
-        "link": "/trends/explore?q=roblox&date=now+7-d&geo=NO"
-      }
-    },
-    {
-      "query": "world cup",
-      "value": 9,
-      "formattedValue": "9",
-      "raw": {
-        "query": "world cup",
+        "raw": {
+          "query": "world cup",
+          "value": 10,
+          "formattedValue": "10",
+          "hasData": true,
+          "link": "/trends/explore?q=world+cup&date=now+7-d&geo=NO"
+        }
+      },
+      {
+        "query": "baby",
         "value": 9,
         "formattedValue": "9",
-        "hasData": true,
-        "link": "/trends/explore?q=world+cup&date=now+7-d&geo=NO"
-      }
-    },
-    {
-      "query": "karaoke",
-      "value": 9,
-      "formattedValue": "9",
-      "raw": {
+        "raw": {
+          "query": "baby",
+          "value": 9,
+          "formattedValue": "9",
+          "hasData": true,
+          "link": "/trends/explore?q=baby&date=now+7-d&geo=NO"
+        }
+      },
+      {
         "query": "karaoke",
         "value": 9,
         "formattedValue": "9",
-        "hasData": true,
-        "link": "/trends/explore?q=karaoke&date=now+7-d&geo=NO"
-      }
-    },
-    {
-      "query": "norge",
-      "value": 9,
-      "formattedValue": "9",
-      "raw": {
+        "raw": {
+          "query": "karaoke",
+          "value": 9,
+          "formattedValue": "9",
+          "hasData": true,
+          "link": "/trends/explore?q=karaoke&date=now+7-d&geo=NO"
+        }
+      },
+      {
         "query": "norge",
         "value": 9,
         "formattedValue": "9",
-        "hasData": true,
-        "link": "/trends/explore?q=norge&date=now+7-d&geo=NO"
-      }
-    },
-    {
-      "query": "funny",
-      "value": 8,
-      "formattedValue": "8",
-      "raw": {
+        "raw": {
+          "query": "norge",
+          "value": 9,
+          "formattedValue": "9",
+          "hasData": true,
+          "link": "/trends/explore?q=norge&date=now+7-d&geo=NO"
+        }
+      },
+      {
         "query": "funny",
+        "value": 9,
+        "formattedValue": "9",
+        "raw": {
+          "query": "funny",
+          "value": 9,
+          "formattedValue": "9",
+          "hasData": true,
+          "link": "/trends/explore?q=funny&date=now+7-d&geo=NO"
+        }
+      },
+      {
+        "query": "michael jackson",
         "value": 8,
         "formattedValue": "8",
-        "hasData": true,
-        "link": "/trends/explore?q=funny&date=now+7-d&geo=NO"
-      }
-    },
-    {
-      "query": "michael jackson",
-      "value": 7,
-      "formattedValue": "7",
-      "raw": {
-        "query": "michael jackson",
-        "value": 7,
-        "formattedValue": "7",
-        "hasData": true,
-        "link": "/trends/explore?q=michael+jackson&date=now+7-d&geo=NO"
-      }
-    },
-    {
-      "query": "football",
-      "value": 7,
-      "formattedValue": "7",
-      "raw": {
+        "raw": {
+          "query": "michael jackson",
+          "value": 8,
+          "formattedValue": "8",
+          "hasData": true,
+          "link": "/trends/explore?q=michael+jackson&date=now+7-d&geo=NO"
+        }
+      },
+      {
         "query": "football",
         "value": 7,
         "formattedValue": "7",
-        "hasData": true,
-        "link": "/trends/explore?q=football&date=now+7-d&geo=NO"
-      }
-    },
-    {
-      "query": "piano",
-      "value": 6,
-      "formattedValue": "6",
-      "raw": {
+        "raw": {
+          "query": "football",
+          "value": 7,
+          "formattedValue": "7",
+          "hasData": true,
+          "link": "/trends/explore?q=football&date=now+7-d&geo=NO"
+        }
+      },
+      {
         "query": "piano",
         "value": 6,
         "formattedValue": "6",
-        "hasData": true,
-        "link": "/trends/explore?q=piano&date=now+7-d&geo=NO"
-      }
-    },
-    {
-      "query": "fortnite",
-      "value": 5,
-      "formattedValue": "5",
-      "raw": {
+        "raw": {
+          "query": "piano",
+          "value": 6,
+          "formattedValue": "6",
+          "hasData": true,
+          "link": "/trends/explore?q=piano&date=now+7-d&geo=NO"
+        }
+      },
+      {
         "query": "fortnite",
-        "value": 5,
-        "formattedValue": "5",
-        "hasData": true,
-        "link": "/trends/explore?q=fortnite&date=now+7-d&geo=NO"
-      }
-    },
-    {
-      "query": "lego",
-      "value": 5,
-      "formattedValue": "5",
-      "raw": {
+        "value": 6,
+        "formattedValue": "6",
+        "raw": {
+          "query": "fortnite",
+          "value": 6,
+          "formattedValue": "6",
+          "hasData": true,
+          "link": "/trends/explore?q=fortnite&date=now+7-d&geo=NO"
+        }
+      },
+      {
         "query": "lego",
         "value": 5,
         "formattedValue": "5",
-        "hasData": true,
-        "link": "/trends/explore?q=lego&date=now+7-d&geo=NO"
-      }
-    },
-    {
-      "query": "cat",
-      "value": 5,
-      "formattedValue": "5",
-      "raw": {
-        "query": "cat",
-        "value": 5,
-        "formattedValue": "5",
-        "hasData": true,
-        "link": "/trends/explore?q=cat&date=now+7-d&geo=NO"
-      }
-    },
-    {
-      "query": "food",
-      "value": 5,
-      "formattedValue": "5",
-      "raw": {
+        "raw": {
+          "query": "lego",
+          "value": 5,
+          "formattedValue": "5",
+          "hasData": true,
+          "link": "/trends/explore?q=lego&date=now+7-d&geo=NO"
+        }
+      },
+      {
         "query": "food",
         "value": 5,
         "formattedValue": "5",
-        "hasData": true,
-        "link": "/trends/explore?q=food&date=now+7-d&geo=NO"
-      }
-    },
-    {
-      "query": "nike",
-      "value": 4,
-      "formattedValue": "4",
-      "raw": {
+        "raw": {
+          "query": "food",
+          "value": 5,
+          "formattedValue": "5",
+          "hasData": true,
+          "link": "/trends/explore?q=food&date=now+7-d&geo=NO"
+        }
+      },
+      {
+        "query": "cat",
+        "value": 5,
+        "formattedValue": "5",
+        "raw": {
+          "query": "cat",
+          "value": 5,
+          "formattedValue": "5",
+          "hasData": true,
+          "link": "/trends/explore?q=cat&date=now+7-d&geo=NO"
+        }
+      },
+      {
+        "query": "speed",
+        "value": 5,
+        "formattedValue": "5",
+        "raw": {
+          "query": "speed",
+          "value": 5,
+          "formattedValue": "5",
+          "hasData": true,
+          "link": "/trends/explore?q=speed&date=now+7-d&geo=NO"
+        }
+      },
+      {
         "query": "nike",
         "value": 4,
         "formattedValue": "4",
-        "hasData": true,
-        "link": "/trends/explore?q=nike&date=now+7-d&geo=NO"
-      }
-    },
-    {
-      "query": "speed",
-      "value": 4,
-      "formattedValue": "4",
-      "raw": {
-        "query": "speed",
-        "value": 4,
-        "formattedValue": "4",
-        "hasData": true,
-        "link": "/trends/explore?q=speed&date=now+7-d&geo=NO"
-      }
-    },
-    {
-      "query": "youtube",
-      "value": 4,
-      "formattedValue": "4",
-      "raw": {
+        "raw": {
+          "query": "nike",
+          "value": 4,
+          "formattedValue": "4",
+          "hasData": true,
+          "link": "/trends/explore?q=nike&date=now+7-d&geo=NO"
+        }
+      },
+      {
         "query": "youtube",
         "value": 4,
         "formattedValue": "4",
-        "hasData": true,
-        "link": "/trends/explore?q=youtube&date=now+7-d&geo=NO"
+        "raw": {
+          "query": "youtube",
+          "value": 4,
+          "formattedValue": "4",
+          "hasData": true,
+          "link": "/trends/explore?q=youtube&date=now+7-d&geo=NO"
+        }
       }
-    },
-    {
-      "query": "pokemon",
-      "value": 4,
-      "formattedValue": "4",
-      "raw": {
-        "query": "pokemon",
-        "value": 4,
-        "formattedValue": "4",
-        "hasData": true,
-        "link": "/trends/explore?q=pokemon&date=now+7-d&geo=NO"
-      }
-    }
-  ],
-  "risingQueries": [
-    {
-      "query": "rip the script",
-      "value": 3800,
-      "formattedValue": "+3.800%",
-      "raw": {
+    ],
+    "rising": [
+      {
         "query": "rip the script",
         "value": 3800,
         "formattedValue": "+3.800%",
-        "link": "/trends/explore?q=rip+the+script&date=now+7-d&geo=NO"
-      }
-    },
-    {
-      "query": "iconic by mistake",
-      "value": 2450,
-      "formattedValue": "+2.450%",
-      "raw": {
+        "raw": {
+          "query": "rip the script",
+          "value": 3800,
+          "formattedValue": "+3.800%",
+          "link": "/trends/explore?q=rip+the+script&date=now+7-d&geo=NO"
+        }
+      },
+      {
         "query": "iconic by mistake",
-        "value": 2450,
-        "formattedValue": "+2.450%",
-        "link": "/trends/explore?q=iconic+by+mistake&date=now+7-d&geo=NO"
-      }
-    },
-    {
-      "query": "belfast",
-      "value": 1850,
-      "formattedValue": "+1.850%",
-      "raw": {
-        "query": "belfast",
-        "value": 1850,
-        "formattedValue": "+1.850%",
-        "link": "/trends/explore?q=belfast&date=now+7-d&geo=NO"
-      }
-    },
-    {
-      "query": "nintendo direct",
-      "value": 1750,
-      "formattedValue": "+1.750%",
-      "raw": {
+        "value": 2500,
+        "formattedValue": "+2.500%",
+        "raw": {
+          "query": "iconic by mistake",
+          "value": 2500,
+          "formattedValue": "+2.500%",
+          "link": "/trends/explore?q=iconic+by+mistake&date=now+7-d&geo=NO"
+        }
+      },
+      {
         "query": "nintendo direct",
-        "value": 1750,
-        "formattedValue": "+1.750%",
-        "link": "/trends/explore?q=nintendo+direct&date=now+7-d&geo=NO"
-      }
-    },
-    {
-      "query": "norge marokko",
-      "value": 1650,
-      "formattedValue": "+1.650%",
-      "raw": {
+        "value": 1700,
+        "formattedValue": "+1.700%",
+        "raw": {
+          "query": "nintendo direct",
+          "value": 1700,
+          "formattedValue": "+1.700%",
+          "link": "/trends/explore?q=nintendo+direct&date=now+7-d&geo=NO"
+        }
+      },
+      {
+        "query": "belfast",
+        "value": 1700,
+        "formattedValue": "+1.700%",
+        "raw": {
+          "query": "belfast",
+          "value": 1700,
+          "formattedValue": "+1.700%",
+          "link": "/trends/explore?q=belfast&date=now+7-d&geo=NO"
+        }
+      },
+      {
         "query": "norge marokko",
-        "value": 1650,
-        "formattedValue": "+1.650%",
-        "link": "/trends/explore?q=norge+marokko&date=now+7-d&geo=NO"
-      }
-    },
-    {
-      "query": "ocarina of time remake",
-      "value": 1400,
-      "formattedValue": "+1.400%",
-      "raw": {
-        "query": "ocarina of time remake",
-        "value": 1400,
-        "formattedValue": "+1.400%",
-        "link": "/trends/explore?q=ocarina+of+time+remake&date=now+7-d&geo=NO"
-      }
-    },
-    {
-      "query": "nike world cup commercial 2026",
-      "value": 1350,
-      "formattedValue": "+1.350%",
-      "raw": {
-        "query": "nike world cup commercial 2026",
-        "value": 1350,
-        "formattedValue": "+1.350%",
-        "link": "/trends/explore?q=nike+world+cup+commercial+2026&date=now+7-d&geo=NO"
-      }
-    },
-    {
-      "query": "summer game fest",
-      "value": 1300,
-      "formattedValue": "+1.300%",
-      "raw": {
+        "value": 1700,
+        "formattedValue": "+1.700%",
+        "raw": {
+          "query": "norge marokko",
+          "value": 1700,
+          "formattedValue": "+1.700%",
+          "link": "/trends/explore?q=norge+marokko&date=now+7-d&geo=NO"
+        }
+      },
+      {
         "query": "summer game fest",
-        "value": 1300,
-        "formattedValue": "+1.300%",
-        "link": "/trends/explore?q=summer+game+fest&date=now+7-d&geo=NO"
-      }
-    },
-    {
-      "query": "summer game fest 2026",
-      "value": 1150,
-      "formattedValue": "+1.150%",
-      "raw": {
+        "value": 1200,
+        "formattedValue": "+1.200%",
+        "raw": {
+          "query": "summer game fest",
+          "value": 1200,
+          "formattedValue": "+1.200%",
+          "link": "/trends/explore?q=summer+game+fest&date=now+7-d&geo=NO"
+        }
+      },
+      {
         "query": "summer game fest 2026",
+        "value": 1200,
+        "formattedValue": "+1.200%",
+        "raw": {
+          "query": "summer game fest 2026",
+          "value": 1200,
+          "formattedValue": "+1.200%",
+          "link": "/trends/explore?q=summer+game+fest+2026&date=now+7-d&geo=NO"
+        }
+      },
+      {
+        "query": "nike world cup commercial 2026",
         "value": 1150,
         "formattedValue": "+1.150%",
-        "link": "/trends/explore?q=summer+game+fest+2026&date=now+7-d&geo=NO"
-      }
-    },
-    {
-      "query": "xbox showcase 2026",
-      "value": 1100,
-      "formattedValue": "+1.100%",
-      "raw": {
-        "query": "xbox showcase 2026",
+        "raw": {
+          "query": "nike world cup commercial 2026",
+          "value": 1150,
+          "formattedValue": "+1.150%",
+          "link": "/trends/explore?q=nike+world+cup+commercial+2026&date=now+7-d&geo=NO"
+        }
+      },
+      {
+        "query": "ocarina of time remake",
         "value": 1100,
         "formattedValue": "+1.100%",
-        "link": "/trends/explore?q=xbox+showcase+2026&date=now+7-d&geo=NO"
-      }
-    },
-    {
-      "query": "nike",
-      "value": 850,
-      "formattedValue": "+850%",
-      "raw": {
-        "query": "nike",
-        "value": 850,
-        "formattedValue": "+850%",
-        "link": "/trends/explore?q=nike&date=now+7-d&geo=NO"
-      }
-    },
-    {
-      "query": "guild wars 3",
-      "value": 800,
-      "formattedValue": "+800%",
-      "raw": {
+        "raw": {
+          "query": "ocarina of time remake",
+          "value": 1100,
+          "formattedValue": "+1.100%",
+          "link": "/trends/explore?q=ocarina+of+time+remake&date=now+7-d&geo=NO"
+        }
+      },
+      {
+        "query": "christian eriksen collapse",
+        "value": 1050,
+        "formattedValue": "+1.050%",
+        "raw": {
+          "query": "christian eriksen collapse",
+          "value": 1050,
+          "formattedValue": "+1.050%",
+          "link": "/trends/explore?q=christian+eriksen+collapse&date=now+7-d&geo=NO"
+        }
+      },
+      {
+        "query": "xbox showcase 2026",
+        "value": 1000,
+        "formattedValue": "+1.000%",
+        "raw": {
+          "query": "xbox showcase 2026",
+          "value": 1000,
+          "formattedValue": "+1.000%",
+          "link": "/trends/explore?q=xbox+showcase+2026&date=now+7-d&geo=NO"
+        }
+      },
+      {
         "query": "guild wars 3",
         "value": 800,
         "formattedValue": "+800%",
-        "link": "/trends/explore?q=guild+wars+3&date=now+7-d&geo=NO"
-      }
-    },
-    {
-      "query": "persona 6",
-      "value": 700,
-      "formattedValue": "+700%",
-      "raw": {
+        "raw": {
+          "query": "guild wars 3",
+          "value": 800,
+          "formattedValue": "+800%",
+          "link": "/trends/explore?q=guild+wars+3&date=now+7-d&geo=NO"
+        }
+      },
+      {
+        "query": "nike",
+        "value": 750,
+        "formattedValue": "+750%",
+        "raw": {
+          "query": "nike",
+          "value": 750,
+          "formattedValue": "+750%",
+          "link": "/trends/explore?q=nike&date=now+7-d&geo=NO"
+        }
+      },
+      {
         "query": "persona 6",
         "value": 700,
         "formattedValue": "+700%",
-        "link": "/trends/explore?q=persona+6&date=now+7-d&geo=NO"
-      }
-    },
-    {
-      "query": "mccreamy",
-      "value": 450,
-      "formattedValue": "+450%",
-      "raw": {
-        "query": "mccreamy",
-        "value": 450,
-        "formattedValue": "+450%",
-        "link": "/trends/explore?q=mccreamy&date=now+7-d&geo=NO"
-      }
-    },
-    {
-      "query": "tadc episode 9",
-      "value": 300,
-      "formattedValue": "+300%",
-      "raw": {
+        "raw": {
+          "query": "persona 6",
+          "value": 700,
+          "formattedValue": "+700%",
+          "link": "/trends/explore?q=persona+6&date=now+7-d&geo=NO"
+        }
+      },
+      {
         "query": "tadc episode 9",
         "value": 300,
         "formattedValue": "+300%",
-        "link": "/trends/explore?q=tadc+episode+9&date=now+7-d&geo=NO"
-      }
-    },
-    {
-      "query": "fotballandslaget",
-      "value": 300,
-      "formattedValue": "+300%",
-      "raw": {
+        "raw": {
+          "query": "tadc episode 9",
+          "value": 300,
+          "formattedValue": "+300%",
+          "link": "/trends/explore?q=tadc+episode+9&date=now+7-d&geo=NO"
+        }
+      },
+      {
         "query": "fotballandslaget",
-        "value": 300,
-        "formattedValue": "+300%",
-        "link": "/trends/explore?q=fotballandslaget&date=now+7-d&geo=NO"
-      }
-    },
-    {
-      "query": "nintendo",
-      "value": 250,
-      "formattedValue": "+250%",
-      "raw": {
+        "value": 250,
+        "formattedValue": "+250%",
+        "raw": {
+          "query": "fotballandslaget",
+          "value": 250,
+          "formattedValue": "+250%",
+          "link": "/trends/explore?q=fotballandslaget&date=now+7-d&geo=NO"
+        }
+      },
+      {
         "query": "nintendo",
         "value": 250,
         "formattedValue": "+250%",
-        "link": "/trends/explore?q=nintendo&date=now+7-d&geo=NO"
-      }
-    },
-    {
-      "query": "leah behn",
-      "value": 190,
-      "formattedValue": "+190%",
-      "raw": {
+        "raw": {
+          "query": "nintendo",
+          "value": 250,
+          "formattedValue": "+250%",
+          "link": "/trends/explore?q=nintendo&date=now+7-d&geo=NO"
+        }
+      },
+      {
         "query": "leah behn",
-        "value": 190,
-        "formattedValue": "+190%",
-        "link": "/trends/explore?q=leah+behn&date=now+7-d&geo=NO"
-      }
-    },
-    {
-      "query": "maphra",
-      "value": 180,
-      "formattedValue": "+180%",
-      "raw": {
+        "value": 180,
+        "formattedValue": "+180%",
+        "raw": {
+          "query": "leah behn",
+          "value": 180,
+          "formattedValue": "+180%",
+          "link": "/trends/explore?q=leah+behn&date=now+7-d&geo=NO"
+        }
+      },
+      {
         "query": "maphra",
-        "value": 180,
-        "formattedValue": "+180%",
-        "link": "/trends/explore?q=maphra&date=now+7-d&geo=NO"
-      }
-    },
-    {
-      "query": "zhc",
-      "value": 180,
-      "formattedValue": "+180%",
-      "raw": {
-        "query": "zhc",
-        "value": 180,
-        "formattedValue": "+180%",
-        "link": "/trends/explore?q=zhc&date=now+7-d&geo=NO"
-      }
-    },
-    {
-      "query": "foo fighters",
-      "value": 170,
-      "formattedValue": "+170%",
-      "raw": {
-        "query": "foo fighters",
         "value": 170,
         "formattedValue": "+170%",
-        "link": "/trends/explore?q=foo+fighters&date=now+7-d&geo=NO"
-      }
-    },
-    {
-      "query": "formula 1",
-      "value": 140,
-      "formattedValue": "+140%",
-      "raw": {
+        "raw": {
+          "query": "maphra",
+          "value": 170,
+          "formattedValue": "+170%",
+          "link": "/trends/explore?q=maphra&date=now+7-d&geo=NO"
+        }
+      },
+      {
+        "query": "foo fighters",
+        "value": 150,
+        "formattedValue": "+150%",
+        "raw": {
+          "query": "foo fighters",
+          "value": 150,
+          "formattedValue": "+150%",
+          "link": "/trends/explore?q=foo+fighters&date=now+7-d&geo=NO"
+        }
+      },
+      {
         "query": "formula 1",
         "value": 140,
         "formattedValue": "+140%",
-        "link": "/trends/explore?q=formula+1&date=now+7-d&geo=NO"
-      }
-    },
-    {
-      "query": "tadc",
-      "value": 140,
-      "formattedValue": "+140%",
-      "raw": {
+        "raw": {
+          "query": "formula 1",
+          "value": 140,
+          "formattedValue": "+140%",
+          "link": "/trends/explore?q=formula+1&date=now+7-d&geo=NO"
+        }
+      },
+      {
         "query": "tadc",
-        "value": 140,
-        "formattedValue": "+140%",
-        "link": "/trends/explore?q=tadc&date=now+7-d&geo=NO"
-      }
-    },
-    {
-      "query": "haaland",
-      "value": 110,
-      "formattedValue": "+110%",
-      "raw": {
+        "value": 120,
+        "formattedValue": "+120%",
+        "raw": {
+          "query": "tadc",
+          "value": 120,
+          "formattedValue": "+120%",
+          "link": "/trends/explore?q=tadc&date=now+7-d&geo=NO"
+        }
+      },
+      {
         "query": "haaland",
         "value": 110,
         "formattedValue": "+110%",
-        "link": "/trends/explore?q=haaland&date=now+7-d&geo=NO"
-      }
-    },
-    {
-      "query": "xbox",
-      "value": 110,
-      "formattedValue": "+110%",
-      "raw": {
+        "raw": {
+          "query": "haaland",
+          "value": 110,
+          "formattedValue": "+110%",
+          "link": "/trends/explore?q=haaland&date=now+7-d&geo=NO"
+        }
+      },
+      {
         "query": "xbox",
-        "value": 110,
-        "formattedValue": "+110%",
-        "link": "/trends/explore?q=xbox&date=now+7-d&geo=NO"
+        "value": 100,
+        "formattedValue": "+100%",
+        "raw": {
+          "query": "xbox",
+          "value": 100,
+          "formattedValue": "+100%",
+          "link": "/trends/explore?q=xbox&date=now+7-d&geo=NO"
+        }
+      },
+      {
+        "query": "f1",
+        "value": 100,
+        "formattedValue": "+100%",
+        "raw": {
+          "query": "f1",
+          "value": 100,
+          "formattedValue": "+100%",
+          "link": "/trends/explore?q=f1&date=now+7-d&geo=NO"
+        }
       }
-    }
-  ]
+    ]
+  }
 }
