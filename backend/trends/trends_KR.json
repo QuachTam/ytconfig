@@ -1,582 +1,1305 @@
 {
   "status": "success",
-  "topQueries": [
-    {
-      "query": "노래",
-      "value": 100,
-      "formattedValue": "100",
-      "raw": {
+  "topics": {
+    "top": [
+      {
+        "query": "Bài hát",
+        "value": 100,
+        "formattedValue": "100",
+        "raw": {
+          "topic": {
+            "mid": "/m/074ft",
+            "title": "Bài hát",
+            "type": "Loại sáng tác"
+          },
+          "value": 100,
+          "formattedValue": "100",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/074ft&date=now+7-d&geo=KR"
+        }
+      },
+      {
+        "query": "Vừa ăn vừa ghi hình",
+        "value": 43,
+        "formattedValue": "43",
+        "raw": {
+          "topic": {
+            "mid": "/m/0130_vh_",
+            "title": "Vừa ăn vừa ghi hình",
+            "type": "Chủ đề"
+          },
+          "value": 43,
+          "formattedValue": "43",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/0130_vh_&date=now+7-d&geo=KR"
+        }
+      },
+      {
+        "query": "Truyền hình",
+        "value": 43,
+        "formattedValue": "43",
+        "raw": {
+          "topic": {
+            "mid": "/m/07c52",
+            "title": "Truyền hình",
+            "type": "Loại truyền hình"
+          },
+          "value": 43,
+          "formattedValue": "43",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/07c52&date=now+7-d&geo=KR"
+        }
+      },
+      {
+        "query": "Teach You a Lesson",
+        "value": 33,
+        "formattedValue": "33",
+        "raw": {
+          "topic": {
+            "mid": "/g/11lyp2nqvl",
+            "title": "Teach You a Lesson",
+            "type": "Chương trình truyền hình"
+          },
+          "value": 33,
+          "formattedValue": "33",
+          "hasData": true,
+          "link": "/trends/explore?q=/g/11lyp2nqvl&date=now+7-d&geo=KR"
+        }
+      },
+      {
+        "query": "Nguyên âm",
+        "value": 30,
+        "formattedValue": "30",
+        "raw": {
+          "topic": {
+            "mid": "/m/080bx",
+            "title": "Nguyên âm",
+            "type": "Chủ đề"
+          },
+          "value": 30,
+          "formattedValue": "30",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/080bx&date=now+7-d&geo=KR"
+        }
+      },
+      {
+        "query": "Âm nhạc",
+        "value": 29,
+        "formattedValue": "29",
+        "raw": {
+          "topic": {
+            "mid": "/m/04rlf",
+            "title": "Âm nhạc",
+            "type": "Định dạng âm thanh"
+          },
+          "value": 29,
+          "formattedValue": "29",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/04rlf&date=now+7-d&geo=KR"
+        }
+      },
+      {
+        "query": "Điện ảnh",
+        "value": 28,
+        "formattedValue": "28",
+        "raw": {
+          "topic": {
+            "mid": "/m/02vxn",
+            "title": "Điện ảnh",
+            "type": "Loại truyền hình"
+          },
+          "value": 28,
+          "formattedValue": "28",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/02vxn&date=now+7-d&geo=KR"
+        }
+      },
+      {
+        "query": "Phản ứng kích thích cảm giác tự động",
+        "value": 25,
+        "formattedValue": "25",
+        "raw": {
+          "topic": {
+            "mid": "/m/0ngt1v6",
+            "title": "Phản ứng kích thích cảm giác tự động",
+            "type": "Chủ đề"
+          },
+          "value": 25,
+          "formattedValue": "25",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/0ngt1v6&date=now+7-d&geo=KR"
+        }
+      },
+      {
+        "query": "Giá cổ phần",
+        "value": 23,
+        "formattedValue": "23",
+        "raw": {
+          "topic": {
+            "mid": "/m/01xm4b",
+            "title": "Giá cổ phần",
+            "type": "Chủ đề"
+          },
+          "value": 23,
+          "formattedValue": "23",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/01xm4b&date=now+7-d&geo=KR"
+        }
+      },
+      {
+        "query": "Hàn Quốc",
+        "value": 23,
+        "formattedValue": "23",
+        "raw": {
+          "topic": {
+            "mid": "/m/06qd3",
+            "title": "Hàn Quốc",
+            "type": "Quốc gia ở Đông Á"
+          },
+          "value": 23,
+          "formattedValue": "23",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/06qd3&date=now+7-d&geo=KR"
+        }
+      },
+      {
+        "query": "Nhảy múa",
+        "value": 21,
+        "formattedValue": "21",
+        "raw": {
+          "topic": {
+            "mid": "/m/026bk",
+            "title": "Nhảy múa",
+            "type": "Lĩnh vực nghề nghiệp"
+          },
+          "value": 21,
+          "formattedValue": "21",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/026bk&date=now+7-d&geo=KR"
+        }
+      },
+      {
+        "query": "Phụ nữ",
+        "value": 19,
+        "formattedValue": "19",
+        "raw": {
+          "topic": {
+            "mid": "/m/03bt1vf",
+            "title": "Phụ nữ",
+            "type": "Chủ đề"
+          },
+          "value": 19,
+          "formattedValue": "19",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/03bt1vf&date=now+7-d&geo=KR"
+        }
+      },
+      {
+        "query": "Nam giới",
+        "value": 19,
+        "formattedValue": "19",
+        "raw": {
+          "topic": {
+            "mid": "/m/04yx4",
+            "title": "Nam giới",
+            "type": "Chủ đề"
+          },
+          "value": 19,
+          "formattedValue": "19",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/04yx4&date=now+7-d&geo=KR"
+        }
+      },
+      {
+        "query": "2026",
+        "value": 19,
+        "formattedValue": "19",
+        "raw": {
+          "topic": {
+            "mid": "/g/11b77d6b6g",
+            "title": "2026",
+            "type": "Chủ đề"
+          },
+          "value": 19,
+          "formattedValue": "19",
+          "hasData": true,
+          "link": "/trends/explore?q=/g/11b77d6b6g&date=now+7-d&geo=KR"
+        }
+      },
+      {
+        "query": "Du lịch",
+        "value": 18,
+        "formattedValue": "18",
+        "raw": {
+          "topic": {
+            "mid": "/m/014dsx",
+            "title": "Du lịch",
+            "type": "Chủ đề"
+          },
+          "value": 18,
+          "formattedValue": "18",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/014dsx&date=now+7-d&geo=KR"
+        }
+      },
+      {
+        "query": "Tin tức",
+        "value": 17,
+        "formattedValue": "17",
+        "raw": {
+          "topic": {
+            "mid": "/m/05jhg",
+            "title": "Tin tức",
+            "type": "Định dạng phát thanh"
+          },
+          "value": 17,
+          "formattedValue": "17",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/05jhg&date=now+7-d&geo=KR"
+        }
+      },
+      {
+        "query": "Dàn karaoke",
+        "value": 17,
+        "formattedValue": "17",
+        "raw": {
+          "topic": {
+            "mid": "/g/121hfzrw",
+            "title": "Dàn karaoke",
+            "type": "Chủ đề"
+          },
+          "value": 17,
+          "formattedValue": "17",
+          "hasData": true,
+          "link": "/trends/explore?q=/g/121hfzrw&date=now+7-d&geo=KR"
+        }
+      },
+      {
+        "query": "Kịch",
+        "value": 17,
+        "formattedValue": "17",
+        "raw": {
+          "topic": {
+            "mid": "/m/02822",
+            "title": "Kịch",
+            "type": "Thể loại văn học"
+          },
+          "value": 17,
+          "formattedValue": "17",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/02822&date=now+7-d&geo=KR"
+        }
+      },
+      {
+        "query": "Nhật Bản",
+        "value": 17,
+        "formattedValue": "17",
+        "raw": {
+          "topic": {
+            "mid": "/m/03_3d",
+            "title": "Nhật Bản",
+            "type": "Quốc gia ở Đông Á"
+          },
+          "value": 17,
+          "formattedValue": "17",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/03_3d&date=now+7-d&geo=KR"
+        }
+      },
+      {
+        "query": "Thể dục",
+        "value": 17,
+        "formattedValue": "17",
+        "raw": {
+          "topic": {
+            "mid": "/m/019w6h",
+            "title": "Thể dục",
+            "type": "Chủ đề"
+          },
+          "value": 17,
+          "formattedValue": "17",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/019w6h&date=now+7-d&geo=KR"
+        }
+      },
+      {
+        "query": "Soundtrack",
+        "value": 16,
+        "formattedValue": "16",
+        "raw": {
+          "topic": {
+            "mid": "/m/0l14gg",
+            "title": "Soundtrack",
+            "type": "Vai trò hoặc dịch vụ của công ty làm phim"
+          },
+          "value": 16,
+          "formattedValue": "16",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/0l14gg&date=now+7-d&geo=KR"
+        }
+      },
+      {
+        "query": "Phát sóng",
+        "value": 16,
+        "formattedValue": "16",
+        "raw": {
+          "topic": {
+            "mid": "/m/0sydc",
+            "title": "Phát sóng",
+            "type": "Chủ đề"
+          },
+          "value": 16,
+          "formattedValue": "16",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/0sydc&date=now+7-d&geo=KR"
+        }
+      },
+      {
+        "query": "Trò chơi",
+        "value": 16,
+        "formattedValue": "16",
+        "raw": {
+          "topic": {
+            "mid": "/m/03bt1gh",
+            "title": "Trò chơi",
+            "type": "Chủ đề"
+          },
+          "value": 16,
+          "formattedValue": "16",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/03bt1gh&date=now+7-d&geo=KR"
+        }
+      },
+      {
+        "query": "Video",
+        "value": 15,
+        "formattedValue": "15",
+        "raw": {
+          "topic": {
+            "mid": "/m/07z4p",
+            "title": "Video",
+            "type": "Định dạng phim"
+          },
+          "value": 15,
+          "formattedValue": "15",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/07z4p&date=now+7-d&geo=KR"
+        }
+      },
+      {
+        "query": "Cổ phần",
+        "value": 15,
+        "formattedValue": "15",
+        "raw": {
+          "topic": {
+            "mid": "/m/03jzl9",
+            "title": "Cổ phần",
+            "type": "Chủ đề"
+          },
+          "value": 15,
+          "formattedValue": "15",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/03jzl9&date=now+7-d&geo=KR"
+        }
+      }
+    ],
+    "rising": [
+      {
+        "query": "Sân bóng ném",
+        "value": 6650,
+        "formattedValue": "Đột phá",
+        "raw": {
+          "topic": {
+            "mid": "/g/11cnbw8h05",
+            "title": "Sân bóng ném",
+            "type": "Chủ đề"
+          },
+          "value": 6650,
+          "formattedValue": "Đột phá",
+          "link": "/trends/explore?q=/g/11cnbw8h05&date=now+7-d&geo=KR"
+        }
+      },
+      {
+        "query": "Olympic Park",
+        "value": 5700,
+        "formattedValue": "Đột phá",
+        "raw": {
+          "topic": {
+            "mid": "/m/0959c9",
+            "title": "Olympic Park",
+            "type": "Cung thể thao ở Seoul, Hàn Quốc"
+          },
+          "value": 5700,
+          "formattedValue": "Đột phá",
+          "link": "/trends/explore?q=/m/0959c9&date=now+7-d&geo=KR"
+        }
+      },
+      {
+        "query": "Teach You a Lesson",
+        "value": 2850,
+        "formattedValue": "+2.850%",
+        "raw": {
+          "topic": {
+            "mid": "/g/11lyp2nqvl",
+            "title": "Teach You a Lesson",
+            "type": "Chương trình truyền hình"
+          },
+          "value": 2850,
+          "formattedValue": "+2.850%",
+          "link": "/trends/explore?q=/g/11lyp2nqvl&date=now+7-d&geo=KR"
+        }
+      },
+      {
+        "query": "Địa điểm thể thao",
+        "value": 2250,
+        "formattedValue": "+2.250%",
+        "raw": {
+          "topic": {
+            "mid": "/m/0bmgjqz",
+            "title": "Địa điểm thể thao",
+            "type": "Chức năng của tòa nhà"
+          },
+          "value": 2250,
+          "formattedValue": "+2.250%",
+          "link": "/trends/explore?q=/m/0bmgjqz&date=now+7-d&geo=KR"
+        }
+      },
+      {
+        "query": "Professional Billiards Association",
+        "value": 850,
+        "formattedValue": "+850%",
+        "raw": {
+          "topic": {
+            "mid": "/g/11h_9xm0ld",
+            "title": "Professional Billiards Association",
+            "type": "Chủ đề"
+          },
+          "value": 850,
+          "formattedValue": "+850%",
+          "link": "/trends/explore?q=/g/11h_9xm0ld&date=now+7-d&geo=KR"
+        }
+      },
+      {
+        "query": "Hoàng Nhân Huân",
+        "value": 750,
+        "formattedValue": "+750%",
+        "raw": {
+          "topic": {
+            "mid": "/m/06n774",
+            "title": "Hoàng Nhân Huân",
+            "type": "Chủ tịch của NVIDIA"
+          },
+          "value": 750,
+          "formattedValue": "+750%",
+          "link": "/trends/explore?q=/m/06n774&date=now+7-d&geo=KR"
+        }
+      },
+      {
+        "query": "Biểu tình",
+        "value": 550,
+        "formattedValue": "+550%",
+        "raw": {
+          "topic": {
+            "mid": "/g/120ry1nd",
+            "title": "Biểu tình",
+            "type": "Chủ đề"
+          },
+          "value": 550,
+          "formattedValue": "+550%",
+          "link": "/trends/explore?q=/g/120ry1nd&date=now+7-d&geo=KR"
+        }
+      },
+      {
+        "query": "Lee Jung-hoo",
+        "value": 250,
+        "formattedValue": "+250%",
+        "raw": {
+          "topic": {
+            "mid": "/g/11c4cnkz8z",
+            "title": "Lee Jung-hoo",
+            "type": "Cầu thủ bóng chày"
+          },
+          "value": 250,
+          "formattedValue": "+250%",
+          "link": "/trends/explore?q=/g/11c4cnkz8z&date=now+7-d&geo=KR"
+        }
+      },
+      {
+        "query": "Ủy ban Bầu cử Quốc gia",
+        "value": 180,
+        "formattedValue": "+180%",
+        "raw": {
+          "topic": {
+            "mid": "/m/0gg4t33",
+            "title": "Ủy ban Bầu cử Quốc gia",
+            "type": "Cơ quan chính phủ"
+          },
+          "value": 180,
+          "formattedValue": "+180%",
+          "link": "/trends/explore?q=/m/0gg4t33&date=now+7-d&geo=KR"
+        }
+      },
+      {
+        "query": "Bi-a",
+        "value": 180,
+        "formattedValue": "+180%",
+        "raw": {
+          "topic": {
+            "mid": "/m/015_x",
+            "title": "Bi-a",
+            "type": "Chơi thể thao"
+          },
+          "value": 180,
+          "formattedValue": "+180%",
+          "link": "/trends/explore?q=/m/015_x&date=now+7-d&geo=KR"
+        }
+      },
+      {
+        "query": "Cảnh sát",
+        "value": 140,
+        "formattedValue": "+140%",
+        "raw": {
+          "topic": {
+            "mid": "/m/05ws7",
+            "title": "Cảnh sát",
+            "type": "Loại hình tổ chức"
+          },
+          "value": 140,
+          "formattedValue": "+140%",
+          "link": "/trends/explore?q=/m/05ws7&date=now+7-d&geo=KR"
+        }
+      },
+      {
+        "query": "Giải Bóng đá Vô địch Thế giới",
+        "value": 120,
+        "formattedValue": "+120%",
+        "raw": {
+          "topic": {
+            "mid": "/m/030q7",
+            "title": "Giải Bóng đá Vô địch Thế giới",
+            "type": "Giải bóng đá"
+          },
+          "value": 120,
+          "formattedValue": "+120%",
+          "link": "/trends/explore?q=/m/030q7&date=now+7-d&geo=KR"
+        }
+      },
+      {
+        "query": "Yoon Suk-yeol",
+        "value": 120,
+        "formattedValue": "+120%",
+        "raw": {
+          "topic": {
+            "mid": "/g/1ydxptg68",
+            "title": "Yoon Suk-yeol",
+            "type": "Cựu Tổng thống Hàn Quốc"
+          },
+          "value": 120,
+          "formattedValue": "+120%",
+          "link": "/trends/explore?q=/g/1ydxptg68&date=now+7-d&geo=KR"
+        }
+      },
+      {
+        "query": "Netflix",
+        "value": 110,
+        "formattedValue": "+110%",
+        "raw": {
+          "topic": {
+            "mid": "/m/017rf_",
+            "title": "Netflix",
+            "type": "Mạng truyền hình"
+          },
+          "value": 110,
+          "formattedValue": "+110%",
+          "link": "/trends/explore?q=/m/017rf_&date=now+7-d&geo=KR"
+        }
+      },
+      {
+        "query": "Jamsil",
+        "value": 100,
+        "formattedValue": "+100%",
+        "raw": {
+          "topic": {
+            "mid": "/m/0281d_p",
+            "title": "Jamsil",
+            "type": "Ga tàu điện ngầm ở Seoul, Hàn Quốc"
+          },
+          "value": 100,
+          "formattedValue": "+100%",
+          "link": "/trends/explore?q=/m/0281d_p&date=now+7-d&geo=KR"
+        }
+      },
+      {
+        "query": "Baek Jong-won",
+        "value": 80,
+        "formattedValue": "+80%",
+        "raw": {
+          "topic": {
+            "mid": "/m/0sgdg0v",
+            "title": "Baek Jong-won",
+            "type": "Doanh nhân"
+          },
+          "value": 80,
+          "formattedValue": "+80%",
+          "link": "/trends/explore?q=/m/0sgdg0v&date=now+7-d&geo=KR"
+        }
+      },
+      {
+        "query": "Gian lận bầu cử",
+        "value": 80,
+        "formattedValue": "+80%",
+        "raw": {
+          "topic": {
+            "mid": "/m/021r13",
+            "title": "Gian lận bầu cử",
+            "type": "Chủ đề"
+          },
+          "value": 80,
+          "formattedValue": "+80%",
+          "link": "/trends/explore?q=/m/021r13&date=now+7-d&geo=KR"
+        }
+      },
+      {
+        "query": "Bơi lội",
+        "value": 80,
+        "formattedValue": "+80%",
+        "raw": {
+          "topic": {
+            "mid": "/m/06z6r",
+            "title": "Bơi lội",
+            "type": "Thể thao"
+          },
+          "value": 80,
+          "formattedValue": "+80%",
+          "link": "/trends/explore?q=/m/06z6r&date=now+7-d&geo=KR"
+        }
+      },
+      {
+        "query": "Yako",
+        "value": 70,
+        "formattedValue": "+70%",
+        "raw": {
+          "topic": {
+            "mid": "/m/0s9bhpj",
+            "title": "Yako",
+            "type": "Chủ đề"
+          },
+          "value": 70,
+          "formattedValue": "+70%",
+          "link": "/trends/explore?q=/m/0s9bhpj&date=now+7-d&geo=KR"
+        }
+      },
+      {
+        "query": "Heart Signal",
+        "value": 70,
+        "formattedValue": "+70%",
+        "raw": {
+          "topic": {
+            "mid": "/g/11fylkk93p",
+            "title": "Heart Signal",
+            "type": "Chương trình truyền hình"
+          },
+          "value": 70,
+          "formattedValue": "+70%",
+          "link": "/trends/explore?q=/g/11fylkk93p&date=now+7-d&geo=KR"
+        }
+      },
+      {
+        "query": "Lee Jae Myung",
+        "value": 70,
+        "formattedValue": "+70%",
+        "raw": {
+          "topic": {
+            "mid": "/g/120_gclc",
+            "title": "Lee Jae Myung",
+            "type": "Tổng thống Hàn Quốc"
+          },
+          "value": 70,
+          "formattedValue": "+70%",
+          "link": "/trends/explore?q=/g/120_gclc&date=now+7-d&geo=KR"
+        }
+      }
+    ]
+  },
+  "queries": {
+    "top": [
+      {
         "query": "노래",
         "value": 100,
         "formattedValue": "100",
-        "hasData": true,
-        "link": "/trends/explore?q=%EB%85%B8%EB%9E%98&date=now+7-d&geo=KR"
-      }
-    },
-    {
-      "query": "먹방",
-      "value": 40,
-      "formattedValue": "40",
-      "raw": {
+        "raw": {
+          "query": "노래",
+          "value": 100,
+          "formattedValue": "100",
+          "hasData": true,
+          "link": "/trends/explore?q=%EB%85%B8%EB%9E%98&date=now+7-d&geo=KR"
+        }
+      },
+      {
         "query": "먹방",
-        "value": 40,
-        "formattedValue": "40",
-        "hasData": true,
-        "link": "/trends/explore?q=%EB%A8%B9%EB%B0%A9&date=now+7-d&geo=KR"
-      }
-    },
-    {
-      "query": "참교육",
-      "value": 33,
-      "formattedValue": "33",
-      "raw": {
-        "query": "참교육",
+        "value": 38,
+        "formattedValue": "38",
+        "raw": {
+          "query": "먹방",
+          "value": 38,
+          "formattedValue": "38",
+          "hasData": true,
+          "link": "/trends/explore?q=%EB%A8%B9%EB%B0%A9&date=now+7-d&geo=KR"
+        }
+      },
+      {
+        "query": "노래 모음",
         "value": 33,
         "formattedValue": "33",
-        "hasData": true,
-        "link": "/trends/explore?q=%EC%B0%B8%EA%B5%90%EC%9C%A1&date=now+7-d&geo=KR"
-      }
-    },
-    {
-      "query": "노래 모음",
-      "value": 32,
-      "formattedValue": "32",
-      "raw": {
-        "query": "노래 모음",
+        "raw": {
+          "query": "노래 모음",
+          "value": 33,
+          "formattedValue": "33",
+          "hasData": true,
+          "link": "/trends/explore?q=%EB%85%B8%EB%9E%98+%EB%AA%A8%EC%9D%8C&date=now+7-d&geo=KR"
+        }
+      },
+      {
+        "query": "참교육",
         "value": 32,
         "formattedValue": "32",
-        "hasData": true,
-        "link": "/trends/explore?q=%EB%85%B8%EB%9E%98+%EB%AA%A8%EC%9D%8C&date=now+7-d&geo=KR"
-      }
-    },
-    {
-      "query": "뉴스",
-      "value": 30,
-      "formattedValue": "30",
-      "raw": {
+        "raw": {
+          "query": "참교육",
+          "value": 32,
+          "formattedValue": "32",
+          "hasData": true,
+          "link": "/trends/explore?q=%EC%B0%B8%EA%B5%90%EC%9C%A1&date=now+7-d&geo=KR"
+        }
+      },
+      {
         "query": "뉴스",
         "value": 30,
         "formattedValue": "30",
-        "hasData": true,
-        "link": "/trends/explore?q=%EB%89%B4%EC%8A%A4&date=now+7-d&geo=KR"
-      }
-    },
-    {
-      "query": "asmr",
-      "value": 22,
-      "formattedValue": "22",
-      "raw": {
+        "raw": {
+          "query": "뉴스",
+          "value": 30,
+          "formattedValue": "30",
+          "hasData": true,
+          "link": "/trends/explore?q=%EB%89%B4%EC%8A%A4&date=now+7-d&geo=KR"
+        }
+      },
+      {
         "query": "asmr",
         "value": 22,
         "formattedValue": "22",
-        "hasData": true,
-        "link": "/trends/explore?q=asmr&date=now+7-d&geo=KR"
-      }
-    },
-    {
-      "query": "음악",
-      "value": 22,
-      "formattedValue": "22",
-      "raw": {
+        "raw": {
+          "query": "asmr",
+          "value": 22,
+          "formattedValue": "22",
+          "hasData": true,
+          "link": "/trends/explore?q=asmr&date=now+7-d&geo=KR"
+        }
+      },
+      {
         "query": "음악",
         "value": 22,
         "formattedValue": "22",
-        "hasData": true,
-        "link": "/trends/explore?q=%EC%9D%8C%EC%95%85&date=now+7-d&geo=KR"
-      }
-    },
-    {
-      "query": "영화",
-      "value": 20,
-      "formattedValue": "20",
-      "raw": {
+        "raw": {
+          "query": "음악",
+          "value": 22,
+          "formattedValue": "22",
+          "hasData": true,
+          "link": "/trends/explore?q=%EC%9D%8C%EC%95%85&date=now+7-d&geo=KR"
+        }
+      },
+      {
         "query": "영화",
         "value": 20,
         "formattedValue": "20",
-        "hasData": true,
-        "link": "/trends/explore?q=%EC%98%81%ED%99%94&date=now+7-d&geo=KR"
-      }
-    },
-    {
-      "query": "드라마",
-      "value": 18,
-      "formattedValue": "18",
-      "raw": {
+        "raw": {
+          "query": "영화",
+          "value": 20,
+          "formattedValue": "20",
+          "hasData": true,
+          "link": "/trends/explore?q=%EC%98%81%ED%99%94&date=now+7-d&geo=KR"
+        }
+      },
+      {
         "query": "드라마",
         "value": 18,
         "formattedValue": "18",
-        "hasData": true,
-        "link": "/trends/explore?q=%EB%93%9C%EB%9D%BC%EB%A7%88&date=now+7-d&geo=KR"
-      }
-    },
-    {
-      "query": "리니지",
-      "value": 17,
-      "formattedValue": "17",
-      "raw": {
+        "raw": {
+          "query": "드라마",
+          "value": 18,
+          "formattedValue": "18",
+          "hasData": true,
+          "link": "/trends/explore?q=%EB%93%9C%EB%9D%BC%EB%A7%88&date=now+7-d&geo=KR"
+        }
+      },
+      {
         "query": "리니지",
         "value": 17,
         "formattedValue": "17",
-        "hasData": true,
-        "link": "/trends/explore?q=%EB%A6%AC%EB%8B%88%EC%A7%80&date=now+7-d&geo=KR"
-      }
-    },
-    {
-      "query": "노래방",
-      "value": 17,
-      "formattedValue": "17",
-      "raw": {
-        "query": "노래방",
-        "value": 17,
-        "formattedValue": "17",
-        "hasData": true,
-        "link": "/trends/explore?q=%EB%85%B8%EB%9E%98%EB%B0%A9&date=now+7-d&geo=KR"
-      }
-    },
-    {
-      "query": "브이 로그",
-      "value": 16,
-      "formattedValue": "16",
-      "raw": {
+        "raw": {
+          "query": "리니지",
+          "value": 17,
+          "formattedValue": "17",
+          "hasData": true,
+          "link": "/trends/explore?q=%EB%A6%AC%EB%8B%88%EC%A7%80&date=now+7-d&geo=KR"
+        }
+      },
+      {
         "query": "브이 로그",
         "value": 16,
         "formattedValue": "16",
-        "hasData": true,
-        "link": "/trends/explore?q=%EB%B8%8C%EC%9D%B4+%EB%A1%9C%EA%B7%B8&date=now+7-d&geo=KR"
-      }
-    },
-    {
-      "query": "잠실",
-      "value": 15,
-      "formattedValue": "15",
-      "raw": {
-        "query": "잠실",
+        "raw": {
+          "query": "브이 로그",
+          "value": 16,
+          "formattedValue": "16",
+          "hasData": true,
+          "link": "/trends/explore?q=%EB%B8%8C%EC%9D%B4+%EB%A1%9C%EA%B7%B8&date=now+7-d&geo=KR"
+        }
+      },
+      {
+        "query": "노래방",
+        "value": 16,
+        "formattedValue": "16",
+        "raw": {
+          "query": "노래방",
+          "value": 16,
+          "formattedValue": "16",
+          "hasData": true,
+          "link": "/trends/explore?q=%EB%85%B8%EB%9E%98%EB%B0%A9&date=now+7-d&geo=KR"
+        }
+      },
+      {
+        "query": "주식",
         "value": 15,
         "formattedValue": "15",
-        "hasData": true,
-        "link": "/trends/explore?q=%EC%9E%A0%EC%8B%A4&date=now+7-d&geo=KR"
-      }
-    },
-    {
-      "query": "주식",
-      "value": 14,
-      "formattedValue": "14",
-      "raw": {
-        "query": "주식",
+        "raw": {
+          "query": "주식",
+          "value": 15,
+          "formattedValue": "15",
+          "hasData": true,
+          "link": "/trends/explore?q=%EC%A3%BC%EC%8B%9D&date=now+7-d&geo=KR"
+        }
+      },
+      {
+        "query": "잠실",
         "value": 14,
         "formattedValue": "14",
-        "hasData": true,
-        "link": "/trends/explore?q=%EC%A3%BC%EC%8B%9D&date=now+7-d&geo=KR"
-      }
-    },
-    {
-      "query": "플레이 리스트",
-      "value": 14,
-      "formattedValue": "14",
-      "raw": {
+        "raw": {
+          "query": "잠실",
+          "value": 14,
+          "formattedValue": "14",
+          "hasData": true,
+          "link": "/trends/explore?q=%EC%9E%A0%EC%8B%A4&date=now+7-d&geo=KR"
+        }
+      },
+      {
         "query": "플레이 리스트",
         "value": 14,
         "formattedValue": "14",
-        "hasData": true,
-        "link": "/trends/explore?q=%ED%94%8C%EB%A0%88%EC%9D%B4+%EB%A6%AC%EC%8A%A4%ED%8A%B8&date=now+7-d&geo=KR"
-      }
-    },
-    {
-      "query": "야구",
-      "value": 13,
-      "formattedValue": "13",
-      "raw": {
+        "raw": {
+          "query": "플레이 리스트",
+          "value": 14,
+          "formattedValue": "14",
+          "hasData": true,
+          "link": "/trends/explore?q=%ED%94%8C%EB%A0%88%EC%9D%B4+%EB%A6%AC%EC%8A%A4%ED%8A%B8&date=now+7-d&geo=KR"
+        }
+      },
+      {
+        "query": "선거",
+        "value": 14,
+        "formattedValue": "14",
+        "raw": {
+          "query": "선거",
+          "value": 14,
+          "formattedValue": "14",
+          "hasData": true,
+          "link": "/trends/explore?q=%EC%84%A0%EA%B1%B0&date=now+7-d&geo=KR"
+        }
+      },
+      {
         "query": "야구",
         "value": 13,
         "formattedValue": "13",
-        "hasData": true,
-        "link": "/trends/explore?q=%EC%95%BC%EA%B5%AC&date=now+7-d&geo=KR"
-      }
-    },
-    {
-      "query": "선거",
-      "value": 13,
-      "formattedValue": "13",
-      "raw": {
-        "query": "선거",
-        "value": 13,
-        "formattedValue": "13",
-        "hasData": true,
-        "link": "/trends/explore?q=%EC%84%A0%EA%B1%B0&date=now+7-d&geo=KR"
-      }
-    },
-    {
-      "query": "리 센느",
-      "value": 13,
-      "formattedValue": "13",
-      "raw": {
+        "raw": {
+          "query": "야구",
+          "value": 13,
+          "formattedValue": "13",
+          "hasData": true,
+          "link": "/trends/explore?q=%EC%95%BC%EA%B5%AC&date=now+7-d&geo=KR"
+        }
+      },
+      {
         "query": "리 센느",
         "value": 13,
         "formattedValue": "13",
-        "hasData": true,
-        "link": "/trends/explore?q=%EB%A6%AC+%EC%84%BC%EB%8A%90&date=now+7-d&geo=KR"
-      }
-    },
-    {
-      "query": "리니지 클래식",
-      "value": 12,
-      "formattedValue": "12",
-      "raw": {
-        "query": "리니지 클래식",
-        "value": 12,
-        "formattedValue": "12",
-        "hasData": true,
-        "link": "/trends/explore?q=%EB%A6%AC%EB%8B%88%EC%A7%80+%ED%81%B4%EB%9E%98%EC%8B%9D&date=now+7-d&geo=KR"
-      }
-    },
-    {
-      "query": "메이플",
-      "value": 12,
-      "formattedValue": "12",
-      "raw": {
-        "query": "메이플",
-        "value": 12,
-        "formattedValue": "12",
-        "hasData": true,
-        "link": "/trends/explore?q=%EB%A9%94%EC%9D%B4%ED%94%8C&date=now+7-d&geo=KR"
-      }
-    },
-    {
-      "query": "월드컵",
-      "value": 12,
-      "formattedValue": "12",
-      "raw": {
-        "query": "월드컵",
-        "value": 12,
-        "formattedValue": "12",
-        "hasData": true,
-        "link": "/trends/explore?q=%EC%9B%94%EB%93%9C%EC%BB%B5&date=now+7-d&geo=KR"
-      }
-    },
-    {
-      "query": "유튜브",
-      "value": 12,
-      "formattedValue": "12",
-      "raw": {
+        "raw": {
+          "query": "리 센느",
+          "value": 13,
+          "formattedValue": "13",
+          "hasData": true,
+          "link": "/trends/explore?q=%EB%A6%AC+%EC%84%BC%EB%8A%90&date=now+7-d&geo=KR"
+        }
+      },
+      {
         "query": "유튜브",
         "value": 12,
         "formattedValue": "12",
-        "hasData": true,
-        "link": "/trends/explore?q=%EC%9C%A0%ED%8A%9C%EB%B8%8C&date=now+7-d&geo=KR"
-      }
-    },
-    {
-      "query": "이정후",
-      "value": 11,
-      "formattedValue": "11",
-      "raw": {
+        "raw": {
+          "query": "유튜브",
+          "value": 12,
+          "formattedValue": "12",
+          "hasData": true,
+          "link": "/trends/explore?q=%EC%9C%A0%ED%8A%9C%EB%B8%8C&date=now+7-d&geo=KR"
+        }
+      },
+      {
+        "query": "메이플",
+        "value": 12,
+        "formattedValue": "12",
+        "raw": {
+          "query": "메이플",
+          "value": 12,
+          "formattedValue": "12",
+          "hasData": true,
+          "link": "/trends/explore?q=%EB%A9%94%EC%9D%B4%ED%94%8C&date=now+7-d&geo=KR"
+        }
+      },
+      {
+        "query": "리니지 클래식",
+        "value": 12,
+        "formattedValue": "12",
+        "raw": {
+          "query": "리니지 클래식",
+          "value": 12,
+          "formattedValue": "12",
+          "hasData": true,
+          "link": "/trends/explore?q=%EB%A6%AC%EB%8B%88%EC%A7%80+%ED%81%B4%EB%9E%98%EC%8B%9D&date=now+7-d&geo=KR"
+        }
+      },
+      {
+        "query": "월드컵",
+        "value": 11,
+        "formattedValue": "11",
+        "raw": {
+          "query": "월드컵",
+          "value": 11,
+          "formattedValue": "11",
+          "hasData": true,
+          "link": "/trends/explore?q=%EC%9B%94%EB%93%9C%EC%BB%B5&date=now+7-d&geo=KR"
+        }
+      },
+      {
         "query": "이정후",
         "value": 11,
         "formattedValue": "11",
-        "hasData": true,
-        "link": "/trends/explore?q=%EC%9D%B4%EC%A0%95%ED%9B%84&date=now+7-d&geo=KR"
-      }
-    },
-    {
-      "query": "한동훈",
-      "value": 11,
-      "formattedValue": "11",
-      "raw": {
+        "raw": {
+          "query": "이정후",
+          "value": 11,
+          "formattedValue": "11",
+          "hasData": true,
+          "link": "/trends/explore?q=%EC%9D%B4%EC%A0%95%ED%9B%84&date=now+7-d&geo=KR"
+        }
+      },
+      {
         "query": "한동훈",
         "value": 11,
         "formattedValue": "11",
-        "hasData": true,
-        "link": "/trends/explore?q=%ED%95%9C%EB%8F%99%ED%9B%88&date=now+7-d&geo=KR"
-      }
-    },
-    {
-      "query": "이재명",
-      "value": 10,
-      "formattedValue": "10",
-      "raw": {
-        "query": "이재명",
+        "raw": {
+          "query": "한동훈",
+          "value": 11,
+          "formattedValue": "11",
+          "hasData": true,
+          "link": "/trends/explore?q=%ED%95%9C%EB%8F%99%ED%9B%88&date=now+7-d&geo=KR"
+        }
+      },
+      {
+        "query": "플리",
         "value": 10,
         "formattedValue": "10",
-        "hasData": true,
-        "link": "/trends/explore?q=%EC%9D%B4%EC%9E%AC%EB%AA%85&date=now+7-d&geo=KR"
+        "raw": {
+          "query": "플리",
+          "value": 10,
+          "formattedValue": "10",
+          "hasData": true,
+          "link": "/trends/explore?q=%ED%94%8C%EB%A6%AC&date=now+7-d&geo=KR"
+        }
       }
-    }
-  ],
-  "risingQueries": [
-    {
-      "query": "난닝구",
-      "value": 7850,
-      "formattedValue": "Đột phá",
-      "raw": {
+    ],
+    "rising": [
+      {
         "query": "난닝구",
-        "value": 7850,
+        "value": 7700,
         "formattedValue": "Đột phá",
-        "link": "/trends/explore?q=%EB%82%9C%EB%8B%9D%EA%B5%AC&date=now+7-d&geo=KR"
-      }
-    },
-    {
-      "query": "올림픽 공원",
-      "value": 7350,
-      "formattedValue": "Đột phá",
-      "raw": {
+        "raw": {
+          "query": "난닝구",
+          "value": 7700,
+          "formattedValue": "Đột phá",
+          "link": "/trends/explore?q=%EB%82%9C%EB%8B%9D%EA%B5%AC&date=now+7-d&geo=KR"
+        }
+      },
+      {
         "query": "올림픽 공원",
-        "value": 7350,
+        "value": 7300,
         "formattedValue": "Đột phá",
-        "link": "/trends/explore?q=%EC%98%AC%EB%A6%BC%ED%94%BD+%EA%B3%B5%EC%9B%90&date=now+7-d&geo=KR"
-      }
-    },
-    {
-      "query": "난닝구 사망",
-      "value": 4050,
-      "formattedValue": "+4.050%",
-      "raw": {
-        "query": "난닝구 사망",
-        "value": 4050,
-        "formattedValue": "+4.050%",
-        "link": "/trends/explore?q=%EB%82%9C%EB%8B%9D%EA%B5%AC+%EC%82%AC%EB%A7%9D&date=now+7-d&geo=KR"
-      }
-    },
-    {
-      "query": "올림픽 공원 핸드볼 경기장",
-      "value": 3800,
-      "formattedValue": "+3.800%",
-      "raw": {
+        "raw": {
+          "query": "올림픽 공원",
+          "value": 7300,
+          "formattedValue": "Đột phá",
+          "link": "/trends/explore?q=%EC%98%AC%EB%A6%BC%ED%94%BD+%EA%B3%B5%EC%9B%90&date=now+7-d&geo=KR"
+        }
+      },
+      {
         "query": "올림픽 공원 핸드볼 경기장",
-        "value": 3800,
-        "formattedValue": "+3.800%",
-        "link": "/trends/explore?q=%EC%98%AC%EB%A6%BC%ED%94%BD+%EA%B3%B5%EC%9B%90+%ED%95%B8%EB%93%9C%EB%B3%BC+%EA%B2%BD%EA%B8%B0%EC%9E%A5&date=now+7-d&geo=KR"
-      }
-    },
-    {
-      "query": "참교육 드라마",
-      "value": 3300,
-      "formattedValue": "+3.300%",
-      "raw": {
+        "value": 4400,
+        "formattedValue": "+4.400%",
+        "raw": {
+          "query": "올림픽 공원 핸드볼 경기장",
+          "value": 4400,
+          "formattedValue": "+4.400%",
+          "link": "/trends/explore?q=%EC%98%AC%EB%A6%BC%ED%94%BD+%EA%B3%B5%EC%9B%90+%ED%95%B8%EB%93%9C%EB%B3%BC+%EA%B2%BD%EA%B8%B0%EC%9E%A5&date=now+7-d&geo=KR"
+        }
+      },
+      {
+        "query": "난닝구 사망",
+        "value": 4150,
+        "formattedValue": "+4.150%",
+        "raw": {
+          "query": "난닝구 사망",
+          "value": 4150,
+          "formattedValue": "+4.150%",
+          "link": "/trends/explore?q=%EB%82%9C%EB%8B%9D%EA%B5%AC+%EC%82%AC%EB%A7%9D&date=now+7-d&geo=KR"
+        }
+      },
+      {
         "query": "참교육 드라마",
-        "value": 3300,
-        "formattedValue": "+3.300%",
-        "link": "/trends/explore?q=%EC%B0%B8%EA%B5%90%EC%9C%A1+%EB%93%9C%EB%9D%BC%EB%A7%88&date=now+7-d&geo=KR"
-      }
-    },
-    {
-      "query": "참교육 넷플릭스",
-      "value": 3250,
-      "formattedValue": "+3.250%",
-      "raw": {
+        "value": 3400,
+        "formattedValue": "+3.400%",
+        "raw": {
+          "query": "참교육 드라마",
+          "value": 3400,
+          "formattedValue": "+3.400%",
+          "link": "/trends/explore?q=%EC%B0%B8%EA%B5%90%EC%9C%A1+%EB%93%9C%EB%9D%BC%EB%A7%88&date=now+7-d&geo=KR"
+        }
+      },
+      {
         "query": "참교육 넷플릭스",
-        "value": 3250,
-        "formattedValue": "+3.250%",
-        "link": "/trends/explore?q=%EC%B0%B8%EA%B5%90%EC%9C%A1+%EB%84%B7%ED%94%8C%EB%A6%AD%EC%8A%A4&date=now+7-d&geo=KR"
-      }
-    },
-    {
-      "query": "재선거",
-      "value": 2700,
-      "formattedValue": "+2.700%",
-      "raw": {
-        "query": "재선거",
-        "value": 2700,
-        "formattedValue": "+2.700%",
-        "link": "/trends/explore?q=%EC%9E%AC%EC%84%A0%EA%B1%B0&date=now+7-d&geo=KR"
-      }
-    },
-    {
-      "query": "정경호 수영",
-      "value": 2600,
-      "formattedValue": "+2.600%",
-      "raw": {
-        "query": "정경호 수영",
-        "value": 2600,
-        "formattedValue": "+2.600%",
-        "link": "/trends/explore?q=%EC%A0%95%EA%B2%BD%ED%98%B8+%EC%88%98%EC%98%81&date=now+7-d&geo=KR"
-      }
-    },
-    {
-      "query": "fifa 월드컵 2026",
-      "value": 2550,
-      "formattedValue": "+2.550%",
-      "raw": {
+        "value": 3050,
+        "formattedValue": "+3.050%",
+        "raw": {
+          "query": "참교육 넷플릭스",
+          "value": 3050,
+          "formattedValue": "+3.050%",
+          "link": "/trends/explore?q=%EC%B0%B8%EA%B5%90%EC%9C%A1+%EB%84%B7%ED%94%8C%EB%A6%AD%EC%8A%A4&date=now+7-d&geo=KR"
+        }
+      },
+      {
         "query": "fifa 월드컵 2026",
-        "value": 2550,
-        "formattedValue": "+2.550%",
-        "link": "/trends/explore?q=fifa+%EC%9B%94%EB%93%9C%EC%BB%B5+2026&date=now+7-d&geo=KR"
-      }
-    },
-    {
-      "query": "진기 주",
-      "value": 2150,
-      "formattedValue": "+2.150%",
-      "raw": {
+        "value": 2950,
+        "formattedValue": "+2.950%",
+        "raw": {
+          "query": "fifa 월드컵 2026",
+          "value": 2950,
+          "formattedValue": "+2.950%",
+          "link": "/trends/explore?q=fifa+%EC%9B%94%EB%93%9C%EC%BB%B5+2026&date=now+7-d&geo=KR"
+        }
+      },
+      {
+        "query": "재선거",
+        "value": 2800,
+        "formattedValue": "+2.800%",
+        "raw": {
+          "query": "재선거",
+          "value": 2800,
+          "formattedValue": "+2.800%",
+          "link": "/trends/explore?q=%EC%9E%AC%EC%84%A0%EA%B1%B0&date=now+7-d&geo=KR"
+        }
+      },
+      {
         "query": "진기 주",
         "value": 2150,
         "formattedValue": "+2.150%",
-        "link": "/trends/explore?q=%EC%A7%84%EA%B8%B0+%EC%A3%BC&date=now+7-d&geo=KR"
-      }
-    },
-    {
-      "query": "김무열",
-      "value": 2150,
-      "formattedValue": "+2.150%",
-      "raw": {
+        "raw": {
+          "query": "진기 주",
+          "value": 2150,
+          "formattedValue": "+2.150%",
+          "link": "/trends/explore?q=%EC%A7%84%EA%B8%B0+%EC%A3%BC&date=now+7-d&geo=KR"
+        }
+      },
+      {
         "query": "김무열",
-        "value": 2150,
-        "formattedValue": "+2.150%",
-        "link": "/trends/explore?q=%EA%B9%80%EB%AC%B4%EC%97%B4&date=now+7-d&geo=KR"
-      }
-    },
-    {
-      "query": "대진 연",
-      "value": 1950,
-      "formattedValue": "+1.950%",
-      "raw": {
+        "value": 2050,
+        "formattedValue": "+2.050%",
+        "raw": {
+          "query": "김무열",
+          "value": 2050,
+          "formattedValue": "+2.050%",
+          "link": "/trends/explore?q=%EA%B9%80%EB%AC%B4%EC%97%B4&date=now+7-d&geo=KR"
+        }
+      },
+      {
         "query": "대진 연",
-        "value": 1950,
-        "formattedValue": "+1.950%",
-        "link": "/trends/explore?q=%EB%8C%80%EC%A7%84+%EC%97%B0&date=now+7-d&geo=KR"
-      }
-    },
-    {
-      "query": "참교육",
-      "value": 1800,
-      "formattedValue": "+1.800%",
-      "raw": {
+        "value": 2000,
+        "formattedValue": "+2.000%",
+        "raw": {
+          "query": "대진 연",
+          "value": 2000,
+          "formattedValue": "+2.000%",
+          "link": "/trends/explore?q=%EB%8C%80%EC%A7%84+%EC%97%B0&date=now+7-d&geo=KR"
+        }
+      },
+      {
         "query": "참교육",
-        "value": 1800,
-        "formattedValue": "+1.800%",
-        "link": "/trends/explore?q=%EC%B0%B8%EA%B5%90%EC%9C%A1&date=now+7-d&geo=KR"
-      }
-    },
-    {
-      "query": "박대성",
-      "value": 1100,
-      "formattedValue": "+1.100%",
-      "raw": {
+        "value": 1700,
+        "formattedValue": "+1.700%",
+        "raw": {
+          "query": "참교육",
+          "value": 1700,
+          "formattedValue": "+1.700%",
+          "link": "/trends/explore?q=%EC%B0%B8%EA%B5%90%EC%9C%A1&date=now+7-d&geo=KR"
+        }
+      },
+      {
         "query": "박대성",
-        "value": 1100,
-        "formattedValue": "+1.100%",
-        "link": "/trends/explore?q=%EB%B0%95%EB%8C%80%EC%84%B1&date=now+7-d&geo=KR"
-      }
-    },
-    {
-      "query": "pba",
-      "value": 850,
-      "formattedValue": "+850%",
-      "raw": {
+        "value": 1050,
+        "formattedValue": "+1.050%",
+        "raw": {
+          "query": "박대성",
+          "value": 1050,
+          "formattedValue": "+1.050%",
+          "link": "/trends/explore?q=%EB%B0%95%EB%8C%80%EC%84%B1&date=now+7-d&geo=KR"
+        }
+      },
+      {
         "query": "pba",
-        "value": 850,
-        "formattedValue": "+850%",
-        "link": "/trends/explore?q=pba&date=now+7-d&geo=KR"
-      }
-    },
-    {
-      "query": "하트 시그널 규리",
-      "value": 800,
-      "formattedValue": "+800%",
-      "raw": {
+        "value": 800,
+        "formattedValue": "+800%",
+        "raw": {
+          "query": "pba",
+          "value": 800,
+          "formattedValue": "+800%",
+          "link": "/trends/explore?q=pba&date=now+7-d&geo=KR"
+        }
+      },
+      {
         "query": "하트 시그널 규리",
         "value": 800,
         "formattedValue": "+800%",
-        "link": "/trends/explore?q=%ED%95%98%ED%8A%B8+%EC%8B%9C%EA%B7%B8%EB%84%90+%EA%B7%9C%EB%A6%AC&date=now+7-d&geo=KR"
-      }
-    },
-    {
-      "query": "시위",
-      "value": 800,
-      "formattedValue": "+800%",
-      "raw": {
+        "raw": {
+          "query": "하트 시그널 규리",
+          "value": 800,
+          "formattedValue": "+800%",
+          "link": "/trends/explore?q=%ED%95%98%ED%8A%B8+%EC%8B%9C%EA%B7%B8%EB%84%90+%EA%B7%9C%EB%A6%AC&date=now+7-d&geo=KR"
+        }
+      },
+      {
         "query": "시위",
-        "value": 800,
-        "formattedValue": "+800%",
-        "link": "/trends/explore?q=%EC%8B%9C%EC%9C%84&date=now+7-d&geo=KR"
-      }
-    },
-    {
-      "query": "젠슨 황",
-      "value": 700,
-      "formattedValue": "+700%",
-      "raw": {
-        "query": "젠슨 황",
         "value": 700,
         "formattedValue": "+700%",
-        "link": "/trends/explore?q=%EC%A0%A0%EC%8A%A8+%ED%99%A9&date=now+7-d&geo=KR"
-      }
-    },
-    {
-      "query": "아이 바오",
-      "value": 500,
-      "formattedValue": "+500%",
-      "raw": {
+        "raw": {
+          "query": "시위",
+          "value": 700,
+          "formattedValue": "+700%",
+          "link": "/trends/explore?q=%EC%8B%9C%EC%9C%84&date=now+7-d&geo=KR"
+        }
+      },
+      {
+        "query": "젠슨 황",
+        "value": 600,
+        "formattedValue": "+600%",
+        "raw": {
+          "query": "젠슨 황",
+          "value": 600,
+          "formattedValue": "+600%",
+          "link": "/trends/explore?q=%EC%A0%A0%EC%8A%A8+%ED%99%A9&date=now+7-d&geo=KR"
+        }
+      },
+      {
         "query": "아이 바오",
         "value": 500,
         "formattedValue": "+500%",
-        "link": "/trends/explore?q=%EC%95%84%EC%9D%B4+%EB%B0%94%EC%98%A4&date=now+7-d&geo=KR"
-      }
-    },
-    {
-      "query": "fifa world cup",
-      "value": 450,
-      "formattedValue": "+450%",
-      "raw": {
+        "raw": {
+          "query": "아이 바오",
+          "value": 500,
+          "formattedValue": "+500%",
+          "link": "/trends/explore?q=%EC%95%84%EC%9D%B4+%EB%B0%94%EC%98%A4&date=now+7-d&geo=KR"
+        }
+      },
+      {
         "query": "fifa world cup",
         "value": 450,
         "formattedValue": "+450%",
-        "link": "/trends/explore?q=fifa+world+cup&date=now+7-d&geo=KR"
-      }
-    },
-    {
-      "query": "자유 대학",
-      "value": 400,
-      "formattedValue": "+400%",
-      "raw": {
+        "raw": {
+          "query": "fifa world cup",
+          "value": 450,
+          "formattedValue": "+450%",
+          "link": "/trends/explore?q=fifa+world+cup&date=now+7-d&geo=KR"
+        }
+      },
+      {
         "query": "자유 대학",
         "value": 400,
         "formattedValue": "+400%",
-        "link": "/trends/explore?q=%EC%9E%90%EC%9C%A0+%EB%8C%80%ED%95%99&date=now+7-d&geo=KR"
-      }
-    },
-    {
-      "query": "환율",
-      "value": 350,
-      "formattedValue": "+350%",
-      "raw": {
+        "raw": {
+          "query": "자유 대학",
+          "value": 400,
+          "formattedValue": "+400%",
+          "link": "/trends/explore?q=%EC%9E%90%EC%9C%A0+%EB%8C%80%ED%95%99&date=now+7-d&geo=KR"
+        }
+      },
+      {
         "query": "환율",
         "value": 350,
         "formattedValue": "+350%",
-        "link": "/trends/explore?q=%ED%99%98%EC%9C%A8&date=now+7-d&geo=KR"
-      }
-    },
-    {
-      "query": "이정후",
-      "value": 300,
-      "formattedValue": "+300%",
-      "raw": {
+        "raw": {
+          "query": "환율",
+          "value": 350,
+          "formattedValue": "+350%",
+          "link": "/trends/explore?q=%ED%99%98%EC%9C%A8&date=now+7-d&geo=KR"
+        }
+      },
+      {
         "query": "이정후",
-        "value": 300,
-        "formattedValue": "+300%",
-        "link": "/trends/explore?q=%EC%9D%B4%EC%A0%95%ED%9B%84&date=now+7-d&geo=KR"
-      }
-    },
-    {
-      "query": "마마 무",
-      "value": 250,
-      "formattedValue": "+250%",
-      "raw": {
+        "value": 250,
+        "formattedValue": "+250%",
+        "raw": {
+          "query": "이정후",
+          "value": 250,
+          "formattedValue": "+250%",
+          "link": "/trends/explore?q=%EC%9D%B4%EC%A0%95%ED%9B%84&date=now+7-d&geo=KR"
+        }
+      },
+      {
         "query": "마마 무",
         "value": 250,
         "formattedValue": "+250%",
-        "link": "/trends/explore?q=%EB%A7%88%EB%A7%88+%EB%AC%B4&date=now+7-d&geo=KR"
-      }
-    },
-    {
-      "query": "잠실",
-      "value": 250,
-      "formattedValue": "+250%",
-      "raw": {
+        "raw": {
+          "query": "마마 무",
+          "value": 250,
+          "formattedValue": "+250%",
+          "link": "/trends/explore?q=%EB%A7%88%EB%A7%88+%EB%AC%B4&date=now+7-d&geo=KR"
+        }
+      },
+      {
         "query": "잠실",
         "value": 250,
         "formattedValue": "+250%",
-        "link": "/trends/explore?q=%EC%9E%A0%EC%8B%A4&date=now+7-d&geo=KR"
+        "raw": {
+          "query": "잠실",
+          "value": 250,
+          "formattedValue": "+250%",
+          "link": "/trends/explore?q=%EC%9E%A0%EC%8B%A4&date=now+7-d&geo=KR"
+        }
+      },
+      {
+        "query": "당구",
+        "value": 200,
+        "formattedValue": "+200%",
+        "raw": {
+          "query": "당구",
+          "value": 200,
+          "formattedValue": "+200%",
+          "link": "/trends/explore?q=%EB%8B%B9%EA%B5%AC&date=now+7-d&geo=KR"
+        }
       }
-    }
-  ]
+    ]
+  }
 }
