@@ -1,582 +1,1335 @@
 {
   "status": "success",
-  "topQueries": [
-    {
-      "query": "en vivo",
-      "value": 100,
-      "formattedValue": "100",
-      "raw": {
+  "topics": {
+    "top": [
+      {
+        "query": "Tiếng Tây Ban Nha",
+        "value": 100,
+        "formattedValue": "100",
+        "raw": {
+          "topic": {
+            "mid": "/m/06nm1",
+            "title": "Tiếng Tây Ban Nha",
+            "type": "Tiếng"
+          },
+          "value": 100,
+          "formattedValue": "100",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/06nm1&date=now+7-d&geo=AR"
+        }
+      },
+      {
+        "query": "Điện ảnh",
+        "value": 84,
+        "formattedValue": "84",
+        "raw": {
+          "topic": {
+            "mid": "/m/02vxn",
+            "title": "Điện ảnh",
+            "type": "Loại truyền hình"
+          },
+          "value": 84,
+          "formattedValue": "84",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/02vxn&date=now+7-d&geo=AR"
+        }
+      },
+      {
+        "query": "Bài hát",
+        "value": 56,
+        "formattedValue": "56",
+        "raw": {
+          "topic": {
+            "mid": "/m/074ft",
+            "title": "Bài hát",
+            "type": "Loại sáng tác"
+          },
+          "value": 56,
+          "formattedValue": "56",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/074ft&date=now+7-d&geo=AR"
+        }
+      },
+      {
+        "query": "Âm nhạc",
+        "value": 54,
+        "formattedValue": "54",
+        "raw": {
+          "topic": {
+            "mid": "/m/04rlf",
+            "title": "Âm nhạc",
+            "type": "Định dạng âm thanh"
+          },
+          "value": 54,
+          "formattedValue": "54",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/04rlf&date=now+7-d&geo=AR"
+        }
+      },
+      {
+        "query": "2026",
+        "value": 44,
+        "formattedValue": "44",
+        "raw": {
+          "topic": {
+            "mid": "/g/11b77d6b6g",
+            "title": "2026",
+            "type": "Chủ đề"
+          },
+          "value": 44,
+          "formattedValue": "44",
+          "hasData": true,
+          "link": "/trends/explore?q=/g/11b77d6b6g&date=now+7-d&geo=AR"
+        }
+      },
+      {
+        "query": "Video",
+        "value": 35,
+        "formattedValue": "35",
+        "raw": {
+          "topic": {
+            "mid": "/m/07z4p",
+            "title": "Video",
+            "type": "Định dạng phim"
+          },
+          "value": 35,
+          "formattedValue": "35",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/07z4p&date=now+7-d&geo=AR"
+        }
+      },
+      {
+        "query": "Argentina",
+        "value": 35,
+        "formattedValue": "35",
+        "raw": {
+          "topic": {
+            "mid": "/m/0jgd",
+            "title": "Argentina",
+            "type": "Quốc gia ở Nam Mỹ"
+          },
+          "value": 35,
+          "formattedValue": "35",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/0jgd&date=now+7-d&geo=AR"
+        }
+      },
+      {
+        "query": "Fede Vigevani",
+        "value": 34,
+        "formattedValue": "34",
+        "raw": {
+          "topic": {
+            "mid": "/g/11fx8yx8dh",
+            "title": "Fede Vigevani",
+            "type": "Người làm YouTube"
+          },
+          "value": 34,
+          "formattedValue": "34",
+          "hasData": true,
+          "link": "/trends/explore?q=/g/11fx8yx8dh&date=now+7-d&geo=AR"
+        }
+      },
+      {
+        "query": "Indio Solari",
+        "value": 33,
+        "formattedValue": "33",
+        "raw": {
+          "topic": {
+            "mid": "/m/01x0jf4",
+            "title": "Indio Solari",
+            "type": "Ca sĩ"
+          },
+          "value": 33,
+          "formattedValue": "33",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/01x0jf4&date=now+7-d&geo=AR"
+        }
+      },
+      {
+        "query": "Tiếng Latinh",
+        "value": 28,
+        "formattedValue": "28",
+        "raw": {
+          "topic": {
+            "mid": "/m/04h9h",
+            "title": "Tiếng Latinh",
+            "type": "Ngôn ngữ"
+          },
+          "value": 28,
+          "formattedValue": "28",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/04h9h&date=now+7-d&geo=AR"
+        }
+      },
+      {
+        "query": "Lời bài hát",
+        "value": 26,
+        "formattedValue": "26",
+        "raw": {
+          "topic": {
+            "mid": "/m/09lgd",
+            "title": "Lời bài hát",
+            "type": "Chủ đề"
+          },
+          "value": 26,
+          "formattedValue": "26",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/09lgd&date=now+7-d&geo=AR"
+        }
+      },
+      {
+        "query": "TN",
+        "value": 23,
+        "formattedValue": "23",
+        "raw": {
+          "topic": {
+            "mid": "/m/05zr63f",
+            "title": "TN",
+            "type": "Mạng truyền hình"
+          },
+          "value": 23,
+          "formattedValue": "23",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/05zr63f&date=now+7-d&geo=AR"
+        }
+      },
+      {
+        "query": "Giải Bóng đá Vô địch Thế giới",
+        "value": 20,
+        "formattedValue": "20",
+        "raw": {
+          "topic": {
+            "mid": "/m/030q7",
+            "title": "Giải Bóng đá Vô địch Thế giới",
+            "type": "Giải bóng đá"
+          },
+          "value": 20,
+          "formattedValue": "20",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/030q7&date=now+7-d&geo=AR"
+        }
+      },
+      {
+        "query": "Nhảy múa",
+        "value": 18,
+        "formattedValue": "18",
+        "raw": {
+          "topic": {
+            "mid": "/m/026bk",
+            "title": "Nhảy múa",
+            "type": "Lĩnh vực nghề nghiệp"
+          },
+          "value": 18,
+          "formattedValue": "18",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/026bk&date=now+7-d&geo=AR"
+        }
+      },
+      {
+        "query": "Trò chơi",
+        "value": 18,
+        "formattedValue": "18",
+        "raw": {
+          "topic": {
+            "mid": "/m/03bt1gh",
+            "title": "Trò chơi",
+            "type": "Chủ đề"
+          },
+          "value": 18,
+          "formattedValue": "18",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/03bt1gh&date=now+7-d&geo=AR"
+        }
+      },
+      {
+        "query": "Patricio Rey y sus Redonditos de Ricota",
+        "value": 17,
+        "formattedValue": "17",
+        "raw": {
+          "topic": {
+            "mid": "/m/04ryw4",
+            "title": "Patricio Rey y sus Redonditos de Ricota",
+            "type": "Nhóm nhạc"
+          },
+          "value": 17,
+          "formattedValue": "17",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/04ryw4&date=now+7-d&geo=AR"
+        }
+      },
+      {
+        "query": "Đội tuyển Bóng đá Quốc gia Argentina",
+        "value": 17,
+        "formattedValue": "17",
+        "raw": {
+          "topic": {
+            "mid": "/m/02bh_v",
+            "title": "Đội tuyển Bóng đá Quốc gia Argentina",
+            "type": "Đội bóng đá"
+          },
+          "value": 17,
+          "formattedValue": "17",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/02bh_v&date=now+7-d&geo=AR"
+        }
+      },
+      {
+        "query": "Alejo Igoa",
+        "value": 16,
+        "formattedValue": "16",
+        "raw": {
+          "topic": {
+            "mid": "/g/11f2byxxd1",
+            "title": "Alejo Igoa",
+            "type": "Nhân vật nổi tiếng trên Internet"
+          },
+          "value": 16,
+          "formattedValue": "16",
+          "hasData": true,
+          "link": "/trends/explore?q=/g/11f2byxxd1&date=now+7-d&geo=AR"
+        }
+      },
+      {
+        "query": "Gran Hermano",
+        "value": 16,
+        "formattedValue": "16",
+        "raw": {
+          "topic": {
+            "mid": "/m/07cffct",
+            "title": "Gran Hermano",
+            "type": "Chương trình truyền hình"
+          },
+          "value": 16,
+          "formattedValue": "16",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/07cffct&date=now+7-d&geo=AR"
+        }
+      },
+      {
+        "query": "Telefe",
+        "value": 15,
+        "formattedValue": "15",
+        "raw": {
+          "topic": {
+            "mid": "/m/02hzyg",
+            "title": "Telefe",
+            "type": "Mạng truyền hình"
+          },
+          "value": 15,
+          "formattedValue": "15",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/02hzyg&date=now+7-d&geo=AR"
+        }
+      },
+      {
+        "query": "Canal 5 Noticias",
+        "value": 14,
+        "formattedValue": "14",
+        "raw": {
+          "topic": {
+            "mid": "/m/03ydx6m",
+            "title": "Canal 5 Noticias",
+            "type": "Mạng truyền hình"
+          },
+          "value": 14,
+          "formattedValue": "14",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/03ydx6m&date=now+7-d&geo=AR"
+        }
+      },
+      {
+        "query": "Tập phim",
+        "value": 14,
+        "formattedValue": "14",
+        "raw": {
+          "topic": {
+            "mid": "/m/02cphr",
+            "title": "Tập phim",
+            "type": "Chủ đề"
+          },
+          "value": 14,
+          "formattedValue": "14",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/02cphr&date=now+7-d&geo=AR"
+        }
+      },
+      {
+        "query": "Tình yêu",
+        "value": 14,
+        "formattedValue": "14",
+        "raw": {
+          "topic": {
+            "mid": "/m/048knlz",
+            "title": "Tình yêu",
+            "type": "Chủ đề"
+          },
+          "value": 14,
+          "formattedValue": "14",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/048knlz&date=now+7-d&geo=AR"
+        }
+      },
+      {
+        "query": "TikTok",
+        "value": 14,
+        "formattedValue": "14",
+        "raw": {
+          "topic": {
+            "mid": "/g/11f555cn8l",
+            "title": "TikTok",
+            "type": "Trang mạng"
+          },
+          "value": 14,
+          "formattedValue": "14",
+          "hasData": true,
+          "link": "/trends/explore?q=/g/11f555cn8l&date=now+7-d&geo=AR"
+        }
+      },
+      {
+        "query": "Hội Họa",
+        "value": 13,
+        "formattedValue": "13",
+        "raw": {
+          "topic": {
+            "mid": "/m/02csf",
+            "title": "Hội Họa",
+            "type": "Hình thức nghệ thuật thị giác"
+          },
+          "value": 13,
+          "formattedValue": "13",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/02csf&date=now+7-d&geo=AR"
+        }
+      }
+    ],
+    "rising": [
+      {
+        "query": "Đội tuyển bóng đá quốc gia Honduras",
+        "value": 4800,
+        "formattedValue": "+4.800%",
+        "raw": {
+          "topic": {
+            "mid": "/m/03z8bw",
+            "title": "Đội tuyển bóng đá quốc gia Honduras",
+            "type": "Đội bóng đá"
+          },
+          "value": 4800,
+          "formattedValue": "+4.800%",
+          "link": "/trends/explore?q=/m/03z8bw&date=now+7-d&geo=AR"
+        }
+      },
+      {
+        "query": "Đội tuyển Bóng đá Quốc gia Iceland",
+        "value": 4450,
+        "formattedValue": "+4.450%",
+        "raw": {
+          "topic": {
+            "mid": "/m/03yv67",
+            "title": "Đội tuyển Bóng đá Quốc gia Iceland",
+            "type": "Đội bóng đá"
+          },
+          "value": 4450,
+          "formattedValue": "+4.450%",
+          "link": "/trends/explore?q=/m/03yv67&date=now+7-d&geo=AR"
+        }
+      },
+      {
+        "query": "Indio Solari",
+        "value": 3950,
+        "formattedValue": "+3.950%",
+        "raw": {
+          "topic": {
+            "mid": "/m/01x0jf4",
+            "title": "Indio Solari",
+            "type": "Ca sĩ"
+          },
+          "value": 3950,
+          "formattedValue": "+3.950%",
+          "link": "/trends/explore?q=/m/01x0jf4&date=now+7-d&geo=AR"
+        }
+      },
+      {
+        "query": "Argentina v Honduras",
+        "value": 3600,
+        "formattedValue": "+3.600%",
+        "raw": {
+          "topic": {
+            "mid": "/g/11z776zvqw",
+            "title": "Argentina v Honduras",
+            "type": "Chủ đề"
+          },
+          "value": 3600,
+          "formattedValue": "+3.600%",
+          "link": "/trends/explore?q=/g/11z776zvqw&date=now+7-d&geo=AR"
+        }
+      },
+      {
+        "query": "Iceland",
+        "value": 2400,
+        "formattedValue": "+2.400%",
+        "raw": {
+          "topic": {
+            "mid": "/m/03rj0",
+            "title": "Iceland",
+            "type": "Quốc gia ở Châu Âu"
+          },
+          "value": 2400,
+          "formattedValue": "+2.400%",
+          "link": "/trends/explore?q=/m/03rj0&date=now+7-d&geo=AR"
+        }
+      },
+      {
+        "query": "Jijiji",
+        "value": 2300,
+        "formattedValue": "+2.300%",
+        "raw": {
+          "topic": {
+            "mid": "/g/11f_dn9zh_",
+            "title": "Jijiji",
+            "type": "Bài hát"
+          },
+          "value": 2300,
+          "formattedValue": "+2.300%",
+          "link": "/trends/explore?q=/g/11f_dn9zh_&date=now+7-d&geo=AR"
+        }
+      },
+      {
+        "query": "Jijiji",
+        "value": 1550,
+        "formattedValue": "+1.550%",
+        "raw": {
+          "topic": {
+            "mid": "/m/0bb744y",
+            "title": "Jijiji",
+            "type": "Bài hát"
+          },
+          "value": 1550,
+          "formattedValue": "+1.550%",
+          "link": "/trends/explore?q=/m/0bb744y&date=now+7-d&geo=AR"
+        }
+      },
+      {
+        "query": "Los Fundamentalistas Del Aire Acondicionado",
+        "value": 1150,
+        "formattedValue": "+1.150%",
+        "raw": {
+          "topic": {
+            "mid": "/m/01r7fqz",
+            "title": "Los Fundamentalistas Del Aire Acondicionado",
+            "type": "Ban nhạc"
+          },
+          "value": 1150,
+          "formattedValue": "+1.150%",
+          "link": "/trends/explore?q=/m/01r7fqz&date=now+7-d&geo=AR"
+        }
+      },
+      {
+        "query": "Patricio Rey y sus Redonditos de Ricota",
+        "value": 850,
+        "formattedValue": "+850%",
+        "raw": {
+          "topic": {
+            "mid": "/m/04ryw4",
+            "title": "Patricio Rey y sus Redonditos de Ricota",
+            "type": "Nhóm nhạc"
+          },
+          "value": 850,
+          "formattedValue": "+850%",
+          "link": "/trends/explore?q=/m/04ryw4&date=now+7-d&geo=AR"
+        }
+      },
+      {
+        "query": "Tik Tok",
+        "value": 800,
+        "formattedValue": "+800%",
+        "raw": {
+          "topic": {
+            "mid": "/g/11fy265933",
+            "title": "Tik Tok",
+            "type": "Công ty"
+          },
+          "value": 800,
+          "formattedValue": "+800%",
+          "link": "/trends/explore?q=/g/11fy265933&date=now+7-d&geo=AR"
+        }
+      },
+      {
+        "query": "Cân",
+        "value": 450,
+        "formattedValue": "+450%",
+        "raw": {
+          "topic": {
+            "mid": "/m/03txqz",
+            "title": "Cân",
+            "type": "Dụng cụ đo"
+          },
+          "value": 450,
+          "formattedValue": "+450%",
+          "link": "/trends/explore?q=/m/03txqz&date=now+7-d&geo=AR"
+        }
+      },
+      {
+        "query": "Công thức 1",
+        "value": 250,
+        "formattedValue": "+250%",
+        "raw": {
+          "topic": {
+            "mid": "/m/02xz2",
+            "title": "Công thức 1",
+            "type": "Liên đoàn thể thao"
+          },
+          "value": 250,
+          "formattedValue": "+250%",
+          "link": "/trends/explore?q=/m/02xz2&date=now+7-d&geo=AR"
+        }
+      },
+      {
+        "query": "Lali Espósito",
+        "value": 200,
+        "formattedValue": "+200%",
+        "raw": {
+          "topic": {
+            "mid": "/m/047md91",
+            "title": "Lali Espósito",
+            "type": "Ca sĩ"
+          },
+          "value": 200,
+          "formattedValue": "+200%",
+          "link": "/trends/explore?q=/m/047md91&date=now+7-d&geo=AR"
+        }
+      },
+      {
+        "query": "Đội tuyển Bóng đá Quốc gia Argentina",
+        "value": 180,
+        "formattedValue": "+180%",
+        "raw": {
+          "topic": {
+            "mid": "/m/02bh_v",
+            "title": "Đội tuyển Bóng đá Quốc gia Argentina",
+            "type": "Đội bóng đá"
+          },
+          "value": 180,
+          "formattedValue": "+180%",
+          "link": "/trends/explore?q=/m/02bh_v&date=now+7-d&geo=AR"
+        }
+      },
+      {
+        "query": "Rạp xiếc kỹ thuật số diệu kỳ",
+        "value": 150,
+        "formattedValue": "+150%",
+        "raw": {
+          "topic": {
+            "mid": "/g/11krktg_mq",
+            "title": "Rạp xiếc kỹ thuật số diệu kỳ",
+            "type": "Phim truyền hình"
+          },
+          "value": 150,
+          "formattedValue": "+150%",
+          "link": "/trends/explore?q=/g/11krktg_mq&date=now+7-d&geo=AR"
+        }
+      },
+      {
+        "query": "2017",
+        "value": 150,
+        "formattedValue": "+150%",
+        "raw": {
+          "topic": {
+            "mid": "/g/11b77qrp3k",
+            "title": "2017",
+            "type": "Chủ đề"
+          },
+          "value": 150,
+          "formattedValue": "+150%",
+          "link": "/trends/explore?q=/g/11b77qrp3k&date=now+7-d&geo=AR"
+        }
+      },
+      {
+        "query": "Nahir Galarza",
+        "value": 140,
+        "formattedValue": "+140%",
+        "raw": {
+          "topic": {
+            "mid": "/g/11fhtkzbl4",
+            "title": "Nahir Galarza",
+            "type": "Chủ đề"
+          },
+          "value": 140,
+          "formattedValue": "+140%",
+          "link": "/trends/explore?q=/g/11fhtkzbl4&date=now+7-d&geo=AR"
+        }
+      },
+      {
+        "query": "TyC Sports",
+        "value": 110,
+        "formattedValue": "+110%",
+        "raw": {
+          "topic": {
+            "mid": "/g/120mc0kr",
+            "title": "TyC Sports",
+            "type": "Mạng truyền hình"
+          },
+          "value": 110,
+          "formattedValue": "+110%",
+          "link": "/trends/explore?q=/g/120mc0kr&date=now+7-d&geo=AR"
+        }
+      },
+      {
+        "query": "Interview",
+        "value": 80,
+        "formattedValue": "+80%",
+        "raw": {
+          "topic": {
+            "mid": "/m/012rch83",
+            "title": "Interview",
+            "type": "Chủ đề"
+          },
+          "value": 80,
+          "formattedValue": "+80%",
+          "link": "/trends/explore?q=/m/012rch83&date=now+7-d&geo=AR"
+        }
+      },
+      {
+        "query": "Hạnh phúc",
+        "value": 80,
+        "formattedValue": "+80%",
+        "raw": {
+          "topic": {
+            "mid": "/m/016pp7",
+            "title": "Hạnh phúc",
+            "type": "Chủ đề"
+          },
+          "value": 80,
+          "formattedValue": "+80%",
+          "link": "/trends/explore?q=/m/016pp7&date=now+7-d&geo=AR"
+        }
+      },
+      {
+        "query": "Among Us",
+        "value": 70,
+        "formattedValue": "+70%",
+        "raw": {
+          "topic": {
+            "mid": "/g/11fmxtkfkz",
+            "title": "Among Us",
+            "type": "Trò chơi điện tử"
+          },
+          "value": 70,
+          "formattedValue": "+70%",
+          "link": "/trends/explore?q=/g/11fmxtkfkz&date=now+7-d&geo=AR"
+        }
+      },
+      {
+        "query": "Peru",
+        "value": 70,
+        "formattedValue": "+70%",
+        "raw": {
+          "topic": {
+            "mid": "/m/016wzw",
+            "title": "Peru",
+            "type": "Quốc gia ở Nam Mỹ"
+          },
+          "value": 70,
+          "formattedValue": "+70%",
+          "link": "/trends/explore?q=/m/016wzw&date=now+7-d&geo=AR"
+        }
+      },
+      {
+        "query": "Buổi hòa nhạc",
+        "value": 70,
+        "formattedValue": "+70%",
+        "raw": {
+          "topic": {
+            "mid": "/m/01jddz",
+            "title": "Buổi hòa nhạc",
+            "type": "Chủ đề"
+          },
+          "value": 70,
+          "formattedValue": "+70%",
+          "link": "/trends/explore?q=/m/01jddz&date=now+7-d&geo=AR"
+        }
+      }
+    ]
+  },
+  "queries": {
+    "top": [
+      {
         "query": "en vivo",
         "value": 100,
         "formattedValue": "100",
-        "hasData": true,
-        "link": "/trends/explore?q=en+vivo&date=now+7-d&geo=AR"
-      }
-    },
-    {
-      "query": "argentina",
-      "value": 33,
-      "formattedValue": "33",
-      "raw": {
+        "raw": {
+          "query": "en vivo",
+          "value": 100,
+          "formattedValue": "100",
+          "hasData": true,
+          "link": "/trends/explore?q=en+vivo&date=now+7-d&geo=AR"
+        }
+      },
+      {
         "query": "argentina",
-        "value": 33,
-        "formattedValue": "33",
-        "hasData": true,
-        "link": "/trends/explore?q=argentina&date=now+7-d&geo=AR"
-      }
-    },
-    {
-      "query": "peliculas",
-      "value": 27,
-      "formattedValue": "27",
-      "raw": {
+        "value": 32,
+        "formattedValue": "32",
+        "raw": {
+          "query": "argentina",
+          "value": 32,
+          "formattedValue": "32",
+          "hasData": true,
+          "link": "/trends/explore?q=argentina&date=now+7-d&geo=AR"
+        }
+      },
+      {
+        "query": "fede",
+        "value": 27,
+        "formattedValue": "27",
+        "raw": {
+          "query": "fede",
+          "value": 27,
+          "formattedValue": "27",
+          "hasData": true,
+          "link": "/trends/explore?q=fede&date=now+7-d&geo=AR"
+        }
+      },
+      {
         "query": "peliculas",
         "value": 27,
         "formattedValue": "27",
-        "hasData": true,
-        "link": "/trends/explore?q=peliculas&date=now+7-d&geo=AR"
-      }
-    },
-    {
-      "query": "fede",
-      "value": 26,
-      "formattedValue": "26",
-      "raw": {
-        "query": "fede",
-        "value": 26,
-        "formattedValue": "26",
-        "hasData": true,
-        "link": "/trends/explore?q=fede&date=now+7-d&geo=AR"
-      }
-    },
-    {
-      "query": "musica",
-      "value": 25,
-      "formattedValue": "25",
-      "raw": {
+        "raw": {
+          "query": "peliculas",
+          "value": 27,
+          "formattedValue": "27",
+          "hasData": true,
+          "link": "/trends/explore?q=peliculas&date=now+7-d&geo=AR"
+        }
+      },
+      {
         "query": "musica",
         "value": 25,
         "formattedValue": "25",
-        "hasData": true,
-        "link": "/trends/explore?q=musica&date=now+7-d&geo=AR"
-      }
-    },
-    {
-      "query": "indio solari",
-      "value": 23,
-      "formattedValue": "23",
-      "raw": {
+        "raw": {
+          "query": "musica",
+          "value": 25,
+          "formattedValue": "25",
+          "hasData": true,
+          "link": "/trends/explore?q=musica&date=now+7-d&geo=AR"
+        }
+      },
+      {
+        "query": "fede vigevani",
+        "value": 23,
+        "formattedValue": "23",
+        "raw": {
+          "query": "fede vigevani",
+          "value": 23,
+          "formattedValue": "23",
+          "hasData": true,
+          "link": "/trends/explore?q=fede+vigevani&date=now+7-d&geo=AR"
+        }
+      },
+      {
         "query": "indio solari",
         "value": 23,
         "formattedValue": "23",
-        "hasData": true,
-        "link": "/trends/explore?q=indio+solari&date=now+7-d&geo=AR"
-      }
-    },
-    {
-      "query": "fede vigevani",
-      "value": 22,
-      "formattedValue": "22",
-      "raw": {
-        "query": "fede vigevani",
-        "value": 22,
-        "formattedValue": "22",
-        "hasData": true,
-        "link": "/trends/explore?q=fede+vigevani&date=now+7-d&geo=AR"
-      }
-    },
-    {
-      "query": "peliculas completas en español",
-      "value": 21,
-      "formattedValue": "21",
-      "raw": {
+        "raw": {
+          "query": "indio solari",
+          "value": 23,
+          "formattedValue": "23",
+          "hasData": true,
+          "link": "/trends/explore?q=indio+solari&date=now+7-d&geo=AR"
+        }
+      },
+      {
         "query": "peliculas completas en español",
         "value": 21,
         "formattedValue": "21",
-        "hasData": true,
-        "link": "/trends/explore?q=peliculas+completas+en+espa%C3%B1ol&date=now+7-d&geo=AR"
-      }
-    },
-    {
-      "query": "amor",
-      "value": 20,
-      "formattedValue": "20",
-      "raw": {
+        "raw": {
+          "query": "peliculas completas en español",
+          "value": 21,
+          "formattedValue": "21",
+          "hasData": true,
+          "link": "/trends/explore?q=peliculas+completas+en+espa%C3%B1ol&date=now+7-d&geo=AR"
+        }
+      },
+      {
         "query": "amor",
-        "value": 20,
-        "formattedValue": "20",
-        "hasData": true,
-        "link": "/trends/explore?q=amor&date=now+7-d&geo=AR"
-      }
-    },
-    {
-      "query": "tn",
-      "value": 17,
-      "formattedValue": "17",
-      "raw": {
+        "value": 19,
+        "formattedValue": "19",
+        "raw": {
+          "query": "amor",
+          "value": 19,
+          "formattedValue": "19",
+          "hasData": true,
+          "link": "/trends/explore?q=amor&date=now+7-d&geo=AR"
+        }
+      },
+      {
         "query": "tn",
         "value": 17,
         "formattedValue": "17",
-        "hasData": true,
-        "link": "/trends/explore?q=tn&date=now+7-d&geo=AR"
-      }
-    },
-    {
-      "query": "tn en vivo",
-      "value": 16,
-      "formattedValue": "16",
-      "raw": {
+        "raw": {
+          "query": "tn",
+          "value": 17,
+          "formattedValue": "17",
+          "hasData": true,
+          "link": "/trends/explore?q=tn&date=now+7-d&geo=AR"
+        }
+      },
+      {
         "query": "tn en vivo",
         "value": 16,
         "formattedValue": "16",
-        "hasData": true,
-        "link": "/trends/explore?q=tn+en+vivo&date=now+7-d&geo=AR"
-      }
-    },
-    {
-      "query": "videos",
-      "value": 16,
-      "formattedValue": "16",
-      "raw": {
-        "query": "videos",
-        "value": 16,
-        "formattedValue": "16",
-        "hasData": true,
-        "link": "/trends/explore?q=videos&date=now+7-d&geo=AR"
-      }
-    },
-    {
-      "query": "peliculas completas en español latino",
-      "value": 15,
-      "formattedValue": "15",
-      "raw": {
-        "query": "peliculas completas en español latino",
-        "value": 15,
-        "formattedValue": "15",
-        "hasData": true,
-        "link": "/trends/explore?q=peliculas+completas+en+espa%C3%B1ol+latino&date=now+7-d&geo=AR"
-      }
-    },
-    {
-      "query": "canciones",
-      "value": 15,
-      "formattedValue": "15",
-      "raw": {
+        "raw": {
+          "query": "tn en vivo",
+          "value": 16,
+          "formattedValue": "16",
+          "hasData": true,
+          "link": "/trends/explore?q=tn+en+vivo&date=now+7-d&geo=AR"
+        }
+      },
+      {
         "query": "canciones",
         "value": 15,
         "formattedValue": "15",
-        "hasData": true,
-        "link": "/trends/explore?q=canciones&date=now+7-d&geo=AR"
-      }
-    },
-    {
-      "query": "alejo",
-      "value": 13,
-      "formattedValue": "13",
-      "raw": {
+        "raw": {
+          "query": "canciones",
+          "value": 15,
+          "formattedValue": "15",
+          "hasData": true,
+          "link": "/trends/explore?q=canciones&date=now+7-d&geo=AR"
+        }
+      },
+      {
+        "query": "videos",
+        "value": 15,
+        "formattedValue": "15",
+        "raw": {
+          "query": "videos",
+          "value": 15,
+          "formattedValue": "15",
+          "hasData": true,
+          "link": "/trends/explore?q=videos&date=now+7-d&geo=AR"
+        }
+      },
+      {
+        "query": "peliculas completas en español latino",
+        "value": 15,
+        "formattedValue": "15",
+        "raw": {
+          "query": "peliculas completas en español latino",
+          "value": 15,
+          "formattedValue": "15",
+          "hasData": true,
+          "link": "/trends/explore?q=peliculas+completas+en+espa%C3%B1ol+latino&date=now+7-d&geo=AR"
+        }
+      },
+      {
         "query": "alejo",
         "value": 13,
         "formattedValue": "13",
-        "hasData": true,
-        "link": "/trends/explore?q=alejo&date=now+7-d&geo=AR"
-      }
-    },
-    {
-      "query": "alejo igoa",
-      "value": 12,
-      "formattedValue": "12",
-      "raw": {
-        "query": "alejo igoa",
-        "value": 12,
-        "formattedValue": "12",
-        "hasData": true,
-        "link": "/trends/explore?q=alejo+igoa&date=now+7-d&geo=AR"
-      }
-    },
-    {
-      "query": "telefe",
-      "value": 11,
-      "formattedValue": "11",
-      "raw": {
+        "raw": {
+          "query": "alejo",
+          "value": 13,
+          "formattedValue": "13",
+          "hasData": true,
+          "link": "/trends/explore?q=alejo&date=now+7-d&geo=AR"
+        }
+      },
+      {
         "query": "telefe",
         "value": 11,
         "formattedValue": "11",
-        "hasData": true,
-        "link": "/trends/explore?q=telefe&date=now+7-d&geo=AR"
-      }
-    },
-    {
-      "query": "c5n",
-      "value": 11,
-      "formattedValue": "11",
-      "raw": {
+        "raw": {
+          "query": "telefe",
+          "value": 11,
+          "formattedValue": "11",
+          "hasData": true,
+          "link": "/trends/explore?q=telefe&date=now+7-d&geo=AR"
+        }
+      },
+      {
+        "query": "alejo igoa",
+        "value": 11,
+        "formattedValue": "11",
+        "raw": {
+          "query": "alejo igoa",
+          "value": 11,
+          "formattedValue": "11",
+          "hasData": true,
+          "link": "/trends/explore?q=alejo+igoa&date=now+7-d&geo=AR"
+        }
+      },
+      {
         "query": "c5n",
         "value": 11,
         "formattedValue": "11",
-        "hasData": true,
-        "link": "/trends/explore?q=c5n&date=now+7-d&geo=AR"
-      }
-    },
-    {
-      "query": "música",
-      "value": 11,
-      "formattedValue": "11",
-      "raw": {
-        "query": "música",
-        "value": 11,
-        "formattedValue": "11",
-        "hasData": true,
-        "link": "/trends/explore?q=m%C3%BAsica&date=now+7-d&geo=AR"
-      }
-    },
-    {
-      "query": "terror",
-      "value": 10,
-      "formattedValue": "10",
-      "raw": {
+        "raw": {
+          "query": "c5n",
+          "value": 11,
+          "formattedValue": "11",
+          "hasData": true,
+          "link": "/trends/explore?q=c5n&date=now+7-d&geo=AR"
+        }
+      },
+      {
         "query": "terror",
         "value": 10,
         "formattedValue": "10",
-        "hasData": true,
-        "link": "/trends/explore?q=terror&date=now+7-d&geo=AR"
-      }
-    },
-    {
-      "query": "tiktok",
-      "value": 10,
-      "formattedValue": "10",
-      "raw": {
-        "query": "tiktok",
+        "raw": {
+          "query": "terror",
+          "value": 10,
+          "formattedValue": "10",
+          "hasData": true,
+          "link": "/trends/explore?q=terror&date=now+7-d&geo=AR"
+        }
+      },
+      {
+        "query": "música",
         "value": 10,
         "formattedValue": "10",
-        "hasData": true,
-        "link": "/trends/explore?q=tiktok&date=now+7-d&geo=AR"
-      }
-    },
-    {
-      "query": "c5n en vivo",
-      "value": 10,
-      "formattedValue": "10",
-      "raw": {
-        "query": "c5n en vivo",
-        "value": 10,
-        "formattedValue": "10",
-        "hasData": true,
-        "link": "/trends/explore?q=c5n+en+vivo&date=now+7-d&geo=AR"
-      }
-    },
-    {
-      "query": "gran hermano",
-      "value": 10,
-      "formattedValue": "10",
-      "raw": {
+        "raw": {
+          "query": "música",
+          "value": 10,
+          "formattedValue": "10",
+          "hasData": true,
+          "link": "/trends/explore?q=m%C3%BAsica&date=now+7-d&geo=AR"
+        }
+      },
+      {
         "query": "gran hermano",
         "value": 10,
         "formattedValue": "10",
-        "hasData": true,
-        "link": "/trends/explore?q=gran+hermano&date=now+7-d&geo=AR"
-      }
-    },
-    {
-      "query": "telefe en vivo",
-      "value": 10,
-      "formattedValue": "10",
-      "raw": {
-        "query": "telefe en vivo",
+        "raw": {
+          "query": "gran hermano",
+          "value": 10,
+          "formattedValue": "10",
+          "hasData": true,
+          "link": "/trends/explore?q=gran+hermano&date=now+7-d&geo=AR"
+        }
+      },
+      {
+        "query": "c5n en vivo",
         "value": 10,
         "formattedValue": "10",
-        "hasData": true,
-        "link": "/trends/explore?q=telefe+en+vivo&date=now+7-d&geo=AR"
-      }
-    },
-    {
-      "query": "los redondos",
-      "value": 9,
-      "formattedValue": "9",
-      "raw": {
-        "query": "los redondos",
+        "raw": {
+          "query": "c5n en vivo",
+          "value": 10,
+          "formattedValue": "10",
+          "hasData": true,
+          "link": "/trends/explore?q=c5n+en+vivo&date=now+7-d&geo=AR"
+        }
+      },
+      {
+        "query": "tiktok",
+        "value": 10,
+        "formattedValue": "10",
+        "raw": {
+          "query": "tiktok",
+          "value": 10,
+          "formattedValue": "10",
+          "hasData": true,
+          "link": "/trends/explore?q=tiktok&date=now+7-d&geo=AR"
+        }
+      },
+      {
+        "query": "telefe en vivo",
         "value": 9,
         "formattedValue": "9",
-        "hasData": true,
-        "link": "/trends/explore?q=los+redondos&date=now+7-d&geo=AR"
+        "raw": {
+          "query": "telefe en vivo",
+          "value": 9,
+          "formattedValue": "9",
+          "hasData": true,
+          "link": "/trends/explore?q=telefe+en+vivo&date=now+7-d&geo=AR"
+        }
+      },
+      {
+        "query": "los redondos",
+        "value": 8,
+        "formattedValue": "8",
+        "raw": {
+          "query": "los redondos",
+          "value": 8,
+          "formattedValue": "8",
+          "hasData": true,
+          "link": "/trends/explore?q=los+redondos&date=now+7-d&geo=AR"
+        }
       }
-    }
-  ],
-  "risingQueries": [
-    {
-      "query": "argentina vs islandia",
-      "value": 6950,
-      "formattedValue": "Đột phá",
-      "raw": {
+    ],
+    "rising": [
+      {
         "query": "argentina vs islandia",
-        "value": 6950,
+        "value": 6600,
         "formattedValue": "Đột phá",
-        "link": "/trends/explore?q=argentina+vs+islandia&date=now+7-d&geo=AR"
-      }
-    },
-    {
-      "query": "argentina vs honduras",
-      "value": 5050,
-      "formattedValue": "Đột phá",
-      "raw": {
+        "raw": {
+          "query": "argentina vs islandia",
+          "value": 6600,
+          "formattedValue": "Đột phá",
+          "link": "/trends/explore?q=argentina+vs+islandia&date=now+7-d&geo=AR"
+        }
+      },
+      {
         "query": "argentina vs honduras",
-        "value": 5050,
-        "formattedValue": "Đột phá",
-        "link": "/trends/explore?q=argentina+vs+honduras&date=now+7-d&geo=AR"
-      }
-    },
-    {
-      "query": "indio solari en vivo",
-      "value": 3750,
-      "formattedValue": "+3.750%",
-      "raw": {
+        "value": 4750,
+        "formattedValue": "+4.750%",
+        "raw": {
+          "query": "argentina vs honduras",
+          "value": 4750,
+          "formattedValue": "+4.750%",
+          "link": "/trends/explore?q=argentina+vs+honduras&date=now+7-d&geo=AR"
+        }
+      },
+      {
         "query": "indio solari en vivo",
-        "value": 3750,
-        "formattedValue": "+3.750%",
-        "link": "/trends/explore?q=indio+solari+en+vivo&date=now+7-d&geo=AR"
-      }
-    },
-    {
-      "query": "indio solari",
-      "value": 3700,
-      "formattedValue": "+3.700%",
-      "raw": {
+        "value": 3550,
+        "formattedValue": "+3.550%",
+        "raw": {
+          "query": "indio solari en vivo",
+          "value": 3550,
+          "formattedValue": "+3.550%",
+          "link": "/trends/explore?q=indio+solari+en+vivo&date=now+7-d&geo=AR"
+        }
+      },
+      {
         "query": "indio solari",
-        "value": 3700,
-        "formattedValue": "+3.700%",
-        "link": "/trends/explore?q=indio+solari&date=now+7-d&geo=AR"
-      }
-    },
-    {
-      "query": "el indio solari",
-      "value": 3050,
-      "formattedValue": "+3.050%",
-      "raw": {
+        "value": 3450,
+        "formattedValue": "+3.450%",
+        "raw": {
+          "query": "indio solari",
+          "value": 3450,
+          "formattedValue": "+3.450%",
+          "link": "/trends/explore?q=indio+solari&date=now+7-d&geo=AR"
+        }
+      },
+      {
         "query": "el indio solari",
-        "value": 3050,
-        "formattedValue": "+3.050%",
-        "link": "/trends/explore?q=el+indio+solari&date=now+7-d&geo=AR"
-      }
-    },
-    {
-      "query": "indio solari enganchados",
-      "value": 3050,
-      "formattedValue": "+3.050%",
-      "raw": {
+        "value": 2950,
+        "formattedValue": "+2.950%",
+        "raw": {
+          "query": "el indio solari",
+          "value": 2950,
+          "formattedValue": "+2.950%",
+          "link": "/trends/explore?q=el+indio+solari&date=now+7-d&geo=AR"
+        }
+      },
+      {
         "query": "indio solari enganchados",
-        "value": 3050,
-        "formattedValue": "+3.050%",
-        "link": "/trends/explore?q=indio+solari+enganchados&date=now+7-d&geo=AR"
-      }
-    },
-    {
-      "query": "copa mundial de la fifa 2026",
-      "value": 2850,
-      "formattedValue": "+2.850%",
-      "raw": {
+        "value": 2750,
+        "formattedValue": "+2.750%",
+        "raw": {
+          "query": "indio solari enganchados",
+          "value": 2750,
+          "formattedValue": "+2.750%",
+          "link": "/trends/explore?q=indio+solari+enganchados&date=now+7-d&geo=AR"
+        }
+      },
+      {
         "query": "copa mundial de la fifa 2026",
-        "value": 2850,
-        "formattedValue": "+2.850%",
-        "link": "/trends/explore?q=copa+mundial+de+la+fifa+2026&date=now+7-d&geo=AR"
-      }
-    },
-    {
-      "query": "encuentro con un angel indio solari",
-      "value": 2300,
-      "formattedValue": "+2.300%",
-      "raw": {
+        "value": 2750,
+        "formattedValue": "+2.750%",
+        "raw": {
+          "query": "copa mundial de la fifa 2026",
+          "value": 2750,
+          "formattedValue": "+2.750%",
+          "link": "/trends/explore?q=copa+mundial+de+la+fifa+2026&date=now+7-d&geo=AR"
+        }
+      },
+      {
         "query": "encuentro con un angel indio solari",
-        "value": 2300,
-        "formattedValue": "+2.300%",
-        "link": "/trends/explore?q=encuentro+con+un+angel+indio+solari&date=now+7-d&geo=AR"
-      }
-    },
-    {
-      "query": "juguetes perdidos",
-      "value": 1900,
-      "formattedValue": "+1.900%",
-      "raw": {
+        "value": 2350,
+        "formattedValue": "+2.350%",
+        "raw": {
+          "query": "encuentro con un angel indio solari",
+          "value": 2350,
+          "formattedValue": "+2.350%",
+          "link": "/trends/explore?q=encuentro+con+un+angel+indio+solari&date=now+7-d&geo=AR"
+        }
+      },
+      {
         "query": "juguetes perdidos",
         "value": 1900,
         "formattedValue": "+1.900%",
-        "link": "/trends/explore?q=juguetes+perdidos&date=now+7-d&geo=AR"
-      }
-    },
-    {
-      "query": "carito muller",
-      "value": 1750,
-      "formattedValue": "+1.750%",
-      "raw": {
+        "raw": {
+          "query": "juguetes perdidos",
+          "value": 1900,
+          "formattedValue": "+1.900%",
+          "link": "/trends/explore?q=juguetes+perdidos&date=now+7-d&geo=AR"
+        }
+      },
+      {
         "query": "carito muller",
-        "value": 1750,
-        "formattedValue": "+1.750%",
-        "link": "/trends/explore?q=carito+muller&date=now+7-d&geo=AR"
-      }
-    },
-    {
-      "query": "jijiji",
-      "value": 1500,
-      "formattedValue": "+1.500%",
-      "raw": {
+        "value": 1700,
+        "formattedValue": "+1.700%",
+        "raw": {
+          "query": "carito muller",
+          "value": 1700,
+          "formattedValue": "+1.700%",
+          "link": "/trends/explore?q=carito+muller&date=now+7-d&geo=AR"
+        }
+      },
+      {
         "query": "jijiji",
         "value": 1500,
         "formattedValue": "+1.500%",
-        "link": "/trends/explore?q=jijiji&date=now+7-d&geo=AR"
-      }
-    },
-    {
-      "query": "los fundamentalistas del aire acondicionado",
-      "value": 1200,
-      "formattedValue": "+1.200%",
-      "raw": {
+        "raw": {
+          "query": "jijiji",
+          "value": 1500,
+          "formattedValue": "+1.500%",
+          "link": "/trends/explore?q=jijiji&date=now+7-d&geo=AR"
+        }
+      },
+      {
         "query": "los fundamentalistas del aire acondicionado",
-        "value": 1200,
-        "formattedValue": "+1.200%",
-        "link": "/trends/explore?q=los+fundamentalistas+del+aire+acondicionado&date=now+7-d&geo=AR"
-      }
-    },
-    {
-      "query": "indio solari y los fundamentalistas del aire acondicionado",
-      "value": 1150,
-      "formattedValue": "+1.150%",
-      "raw": {
-        "query": "indio solari y los fundamentalistas del aire acondicionado",
-        "value": 1150,
-        "formattedValue": "+1.150%",
-        "link": "/trends/explore?q=indio+solari+y+los+fundamentalistas+del+aire+acondicionado&date=now+7-d&geo=AR"
-      }
-    },
-    {
-      "query": "jijiji los redondos letra",
-      "value": 1150,
-      "formattedValue": "+1.150%",
-      "raw": {
+        "value": 1300,
+        "formattedValue": "+1.300%",
+        "raw": {
+          "query": "los fundamentalistas del aire acondicionado",
+          "value": 1300,
+          "formattedValue": "+1.300%",
+          "link": "/trends/explore?q=los+fundamentalistas+del+aire+acondicionado&date=now+7-d&geo=AR"
+        }
+      },
+      {
         "query": "jijiji los redondos letra",
-        "value": 1150,
-        "formattedValue": "+1.150%",
-        "link": "/trends/explore?q=jijiji+los+redondos+letra&date=now+7-d&geo=AR"
-      }
-    },
-    {
-      "query": "empiezo por el final terminas en el principio indio solari",
-      "value": 1050,
-      "formattedValue": "+1.050%",
-      "raw": {
+        "value": 1100,
+        "formattedValue": "+1.100%",
+        "raw": {
+          "query": "jijiji los redondos letra",
+          "value": 1100,
+          "formattedValue": "+1.100%",
+          "link": "/trends/explore?q=jijiji+los+redondos+letra&date=now+7-d&geo=AR"
+        }
+      },
+      {
+        "query": "indio solari y los fundamentalistas del aire acondicionado",
+        "value": 1100,
+        "formattedValue": "+1.100%",
+        "raw": {
+          "query": "indio solari y los fundamentalistas del aire acondicionado",
+          "value": 1100,
+          "formattedValue": "+1.100%",
+          "link": "/trends/explore?q=indio+solari+y+los+fundamentalistas+del+aire+acondicionado&date=now+7-d&geo=AR"
+        }
+      },
+      {
         "query": "empiezo por el final terminas en el principio indio solari",
         "value": 1050,
         "formattedValue": "+1.050%",
-        "link": "/trends/explore?q=empiezo+por+el+final+terminas+en+el+principio+indio+solari&date=now+7-d&geo=AR"
-      }
-    },
-    {
-      "query": "redonditos de ricota",
-      "value": 900,
-      "formattedValue": "+900%",
-      "raw": {
+        "raw": {
+          "query": "empiezo por el final terminas en el principio indio solari",
+          "value": 1050,
+          "formattedValue": "+1.050%",
+          "link": "/trends/explore?q=empiezo+por+el+final+terminas+en+el+principio+indio+solari&date=now+7-d&geo=AR"
+        }
+      },
+      {
         "query": "redonditos de ricota",
-        "value": 900,
-        "formattedValue": "+900%",
-        "link": "/trends/explore?q=redonditos+de+ricota&date=now+7-d&geo=AR"
-      }
-    },
-    {
-      "query": "los redonditos de ricota",
-      "value": 850,
-      "formattedValue": "+850%",
-      "raw": {
+        "value": 850,
+        "formattedValue": "+850%",
+        "raw": {
+          "query": "redonditos de ricota",
+          "value": 850,
+          "formattedValue": "+850%",
+          "link": "/trends/explore?q=redonditos+de+ricota&date=now+7-d&geo=AR"
+        }
+      },
+      {
         "query": "los redonditos de ricota",
         "value": 850,
         "formattedValue": "+850%",
-        "link": "/trends/explore?q=los+redonditos+de+ricota&date=now+7-d&geo=AR"
-      }
-    },
-    {
-      "query": "los redondos",
-      "value": 800,
-      "formattedValue": "+800%",
-      "raw": {
+        "raw": {
+          "query": "los redonditos de ricota",
+          "value": 850,
+          "formattedValue": "+850%",
+          "link": "/trends/explore?q=los+redonditos+de+ricota&date=now+7-d&geo=AR"
+        }
+      },
+      {
         "query": "los redondos",
         "value": 800,
         "formattedValue": "+800%",
-        "link": "/trends/explore?q=los+redondos&date=now+7-d&geo=AR"
-      }
-    },
-    {
-      "query": "todo un palo",
-      "value": 750,
-      "formattedValue": "+750%",
-      "raw": {
+        "raw": {
+          "query": "los redondos",
+          "value": 800,
+          "formattedValue": "+800%",
+          "link": "/trends/explore?q=los+redondos&date=now+7-d&geo=AR"
+        }
+      },
+      {
         "query": "todo un palo",
-        "value": 750,
-        "formattedValue": "+750%",
-        "link": "/trends/explore?q=todo+un+palo&date=now+7-d&geo=AR"
-      }
-    },
-    {
-      "query": "patricio rey y sus redonditos de ricota",
-      "value": 650,
-      "formattedValue": "+650%",
-      "raw": {
+        "value": 800,
+        "formattedValue": "+800%",
+        "raw": {
+          "query": "todo un palo",
+          "value": 800,
+          "formattedValue": "+800%",
+          "link": "/trends/explore?q=todo+un+palo&date=now+7-d&geo=AR"
+        }
+      },
+      {
         "query": "patricio rey y sus redonditos de ricota",
-        "value": 650,
-        "formattedValue": "+650%",
-        "link": "/trends/explore?q=patricio+rey+y+sus+redonditos+de+ricota&date=now+7-d&geo=AR"
-      }
-    },
-    {
-      "query": "liga bazooka",
-      "value": 650,
-      "formattedValue": "+650%",
-      "raw": {
+        "value": 700,
+        "formattedValue": "+700%",
+        "raw": {
+          "query": "patricio rey y sus redonditos de ricota",
+          "value": 700,
+          "formattedValue": "+700%",
+          "link": "/trends/explore?q=patricio+rey+y+sus+redonditos+de+ricota&date=now+7-d&geo=AR"
+        }
+      },
+      {
         "query": "liga bazooka",
         "value": 650,
         "formattedValue": "+650%",
-        "link": "/trends/explore?q=liga+bazooka&date=now+7-d&geo=AR"
-      }
-    },
-    {
-      "query": "team balanza",
-      "value": 550,
-      "formattedValue": "+550%",
-      "raw": {
-        "query": "team balanza",
+        "raw": {
+          "query": "liga bazooka",
+          "value": 650,
+          "formattedValue": "+650%",
+          "link": "/trends/explore?q=liga+bazooka&date=now+7-d&geo=AR"
+        }
+      },
+      {
+        "query": "los redondos enganchados",
         "value": 550,
         "formattedValue": "+550%",
-        "link": "/trends/explore?q=team+balanza&date=now+7-d&geo=AR"
-      }
-    },
-    {
-      "query": "balanza",
-      "value": 500,
-      "formattedValue": "+500%",
-      "raw": {
+        "raw": {
+          "query": "los redondos enganchados",
+          "value": 550,
+          "formattedValue": "+550%",
+          "link": "/trends/explore?q=los+redondos+enganchados&date=now+7-d&geo=AR"
+        }
+      },
+      {
         "query": "balanza",
         "value": 500,
         "formattedValue": "+500%",
-        "link": "/trends/explore?q=balanza&date=now+7-d&geo=AR"
-      }
-    },
-    {
-      "query": "los redondos enganchados",
-      "value": 450,
-      "formattedValue": "+450%",
-      "raw": {
-        "query": "los redondos enganchados",
-        "value": 450,
-        "formattedValue": "+450%",
-        "link": "/trends/explore?q=los+redondos+enganchados&date=now+7-d&geo=AR"
-      }
-    },
-    {
-      "query": "digital circus 9",
-      "value": 350,
-      "formattedValue": "+350%",
-      "raw": {
+        "raw": {
+          "query": "balanza",
+          "value": 500,
+          "formattedValue": "+500%",
+          "link": "/trends/explore?q=balanza&date=now+7-d&geo=AR"
+        }
+      },
+      {
+        "query": "team balanza",
+        "value": 500,
+        "formattedValue": "+500%",
+        "raw": {
+          "query": "team balanza",
+          "value": 500,
+          "formattedValue": "+500%",
+          "link": "/trends/explore?q=team+balanza&date=now+7-d&geo=AR"
+        }
+      },
+      {
         "query": "digital circus 9",
         "value": 350,
         "formattedValue": "+350%",
-        "link": "/trends/explore?q=digital+circus+9&date=now+7-d&geo=AR"
+        "raw": {
+          "query": "digital circus 9",
+          "value": 350,
+          "formattedValue": "+350%",
+          "link": "/trends/explore?q=digital+circus+9&date=now+7-d&geo=AR"
+        }
       }
-    }
-  ]
+    ]
+  }
 }
