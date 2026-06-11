@@ -1,0 +1,582 @@
+{
+  "status": "success",
+  "topQueries": [
+    {
+      "query": "اغاني",
+      "value": 100,
+      "formattedValue": "100",
+      "raw": {
+        "query": "اغاني",
+        "value": 100,
+        "formattedValue": "100",
+        "hasData": true,
+        "link": "/trends/explore?q=%D8%A7%D8%BA%D8%A7%D9%86%D9%8A&date=now+7-d&geo=SA"
+      }
+    },
+    {
+      "query": "اغاني اغاني",
+      "value": 95,
+      "formattedValue": "95",
+      "raw": {
+        "query": "اغاني اغاني",
+        "value": 95,
+        "formattedValue": "95",
+        "hasData": true,
+        "link": "/trends/explore?q=%D8%A7%D8%BA%D8%A7%D9%86%D9%8A+%D8%A7%D8%BA%D8%A7%D9%86%D9%8A&date=now+7-d&geo=SA"
+      }
+    },
+    {
+      "query": "song",
+      "value": 78,
+      "formattedValue": "78",
+      "raw": {
+        "query": "song",
+        "value": 78,
+        "formattedValue": "78",
+        "hasData": true,
+        "link": "/trends/explore?q=song&date=now+7-d&geo=SA"
+      }
+    },
+    {
+      "query": "مسلسل",
+      "value": 72,
+      "formattedValue": "72",
+      "raw": {
+        "query": "مسلسل",
+        "value": 72,
+        "formattedValue": "72",
+        "hasData": true,
+        "link": "/trends/explore?q=%D9%85%D8%B3%D9%84%D8%B3%D9%84&date=now+7-d&geo=SA"
+      }
+    },
+    {
+      "query": "شفا",
+      "value": 68,
+      "formattedValue": "68",
+      "raw": {
+        "query": "شفا",
+        "value": 68,
+        "formattedValue": "68",
+        "hasData": true,
+        "link": "/trends/explore?q=%D8%B4%D9%81%D8%A7&date=now+7-d&geo=SA"
+      }
+    },
+    {
+      "query": "شفا شفا",
+      "value": 67,
+      "formattedValue": "67",
+      "raw": {
+        "query": "شفا شفا",
+        "value": 67,
+        "formattedValue": "67",
+        "hasData": true,
+        "link": "/trends/explore?q=%D8%B4%D9%81%D8%A7+%D8%B4%D9%81%D8%A7&date=now+7-d&geo=SA"
+      }
+    },
+    {
+      "query": "اغنيه",
+      "value": 63,
+      "formattedValue": "63",
+      "raw": {
+        "query": "اغنيه",
+        "value": 63,
+        "formattedValue": "63",
+        "hasData": true,
+        "link": "/trends/explore?q=%D8%A7%D8%BA%D9%86%D9%8A%D9%87&date=now+7-d&geo=SA"
+      }
+    },
+    {
+      "query": "شباب البومب",
+      "value": 53,
+      "formattedValue": "53",
+      "raw": {
+        "query": "شباب البومب",
+        "value": 53,
+        "formattedValue": "53",
+        "hasData": true,
+        "link": "/trends/explore?q=%D8%B4%D8%A8%D8%A7%D8%A8+%D8%A7%D9%84%D8%A8%D9%88%D9%85%D8%A8&date=now+7-d&geo=SA"
+      }
+    },
+    {
+      "query": "قصص",
+      "value": 44,
+      "formattedValue": "44",
+      "raw": {
+        "query": "قصص",
+        "value": 44,
+        "formattedValue": "44",
+        "hasData": true,
+        "link": "/trends/explore?q=%D9%82%D8%B5%D8%B5&date=now+7-d&geo=SA"
+      }
+    },
+    {
+      "query": "songs",
+      "value": 42,
+      "formattedValue": "42",
+      "raw": {
+        "query": "songs",
+        "value": 42,
+        "formattedValue": "42",
+        "hasData": true,
+        "link": "/trends/explore?q=songs&date=now+7-d&geo=SA"
+      }
+    },
+    {
+      "query": "اطفال",
+      "value": 34,
+      "formattedValue": "34",
+      "raw": {
+        "query": "اطفال",
+        "value": 34,
+        "formattedValue": "34",
+        "hasData": true,
+        "link": "/trends/explore?q=%D8%A7%D8%B7%D9%81%D8%A7%D9%84&date=now+7-d&geo=SA"
+      }
+    },
+    {
+      "query": "اغنية",
+      "value": 31,
+      "formattedValue": "31",
+      "raw": {
+        "query": "اغنية",
+        "value": 31,
+        "formattedValue": "31",
+        "hasData": true,
+        "link": "/trends/explore?q=%D8%A7%D8%BA%D9%86%D9%8A%D8%A9&date=now+7-d&geo=SA"
+      }
+    },
+    {
+      "query": "شيلات",
+      "value": 30,
+      "formattedValue": "30",
+      "raw": {
+        "query": "شيلات",
+        "value": 30,
+        "formattedValue": "30",
+        "hasData": true,
+        "link": "/trends/explore?q=%D8%B4%D9%8A%D9%84%D8%A7%D8%AA&date=now+7-d&geo=SA"
+      }
+    },
+    {
+      "query": "فيلم",
+      "value": 27,
+      "formattedValue": "27",
+      "raw": {
+        "query": "فيلم",
+        "value": 27,
+        "formattedValue": "27",
+        "hasData": true,
+        "link": "/trends/explore?q=%D9%81%D9%8A%D9%84%D9%85&date=now+7-d&geo=SA"
+      }
+    },
+    {
+      "query": "باور",
+      "value": 26,
+      "formattedValue": "26",
+      "raw": {
+        "query": "باور",
+        "value": 26,
+        "formattedValue": "26",
+        "hasData": true,
+        "link": "/trends/explore?q=%D8%A8%D8%A7%D9%88%D8%B1&date=now+7-d&geo=SA"
+      }
+    },
+    {
+      "query": "لولو",
+      "value": 26,
+      "formattedValue": "26",
+      "raw": {
+        "query": "لولو",
+        "value": 26,
+        "formattedValue": "26",
+        "hasData": true,
+        "link": "/trends/explore?q=%D9%84%D9%88%D9%84%D9%88&date=now+7-d&geo=SA"
+      }
+    },
+    {
+      "query": "بيبي بيبي",
+      "value": 26,
+      "formattedValue": "26",
+      "raw": {
+        "query": "بيبي بيبي",
+        "value": 26,
+        "formattedValue": "26",
+        "hasData": true,
+        "link": "/trends/explore?q=%D8%A8%D9%8A%D8%A8%D9%8A+%D8%A8%D9%8A%D8%A8%D9%8A&date=now+7-d&geo=SA"
+      }
+    },
+    {
+      "query": "بيبي",
+      "value": 26,
+      "formattedValue": "26",
+      "raw": {
+        "query": "بيبي",
+        "value": 26,
+        "formattedValue": "26",
+        "hasData": true,
+        "link": "/trends/explore?q=%D8%A8%D9%8A%D8%A8%D9%8A&date=now+7-d&geo=SA"
+      }
+    },
+    {
+      "query": "নাটক",
+      "value": 24,
+      "formattedValue": "24",
+      "raw": {
+        "query": "নাটক",
+        "value": 24,
+        "formattedValue": "24",
+        "hasData": true,
+        "link": "/trends/explore?q=%E0%A6%A8%E0%A6%BE%E0%A6%9F%E0%A6%95&date=now+7-d&geo=SA"
+      }
+    },
+    {
+      "query": "شباب البومب 14",
+      "value": 22,
+      "formattedValue": "22",
+      "raw": {
+        "query": "شباب البومب 14",
+        "value": 22,
+        "formattedValue": "22",
+        "hasData": true,
+        "link": "/trends/explore?q=%D8%B4%D8%A8%D8%A7%D8%A8+%D8%A7%D9%84%D8%A8%D9%88%D9%85%D8%A8+14&date=now+7-d&geo=SA"
+      }
+    },
+    {
+      "query": "افلام",
+      "value": 19,
+      "formattedValue": "19",
+      "raw": {
+        "query": "افلام",
+        "value": 19,
+        "formattedValue": "19",
+        "hasData": true,
+        "link": "/trends/explore?q=%D8%A7%D9%81%D9%84%D8%A7%D9%85&date=now+7-d&geo=SA"
+      }
+    },
+    {
+      "query": "شيله",
+      "value": 18,
+      "formattedValue": "18",
+      "raw": {
+        "query": "شيله",
+        "value": 18,
+        "formattedValue": "18",
+        "hasData": true,
+        "link": "/trends/explore?q=%D8%B4%D9%8A%D9%84%D9%87&date=now+7-d&geo=SA"
+      }
+    },
+    {
+      "query": "قران",
+      "value": 17,
+      "formattedValue": "17",
+      "raw": {
+        "query": "قران",
+        "value": 17,
+        "formattedValue": "17",
+        "hasData": true,
+        "link": "/trends/explore?q=%D9%82%D8%B1%D8%A7%D9%86&date=now+7-d&geo=SA"
+      }
+    },
+    {
+      "query": "فارس",
+      "value": 17,
+      "formattedValue": "17",
+      "raw": {
+        "query": "فارس",
+        "value": 17,
+        "formattedValue": "17",
+        "hasData": true,
+        "link": "/trends/explore?q=%D9%81%D8%A7%D8%B1%D8%B3&date=now+7-d&geo=SA"
+      }
+    },
+    {
+      "query": "شيلة",
+      "value": 17,
+      "formattedValue": "17",
+      "raw": {
+        "query": "شيلة",
+        "value": 17,
+        "formattedValue": "17",
+        "hasData": true,
+        "link": "/trends/explore?q=%D8%B4%D9%8A%D9%84%D8%A9&date=now+7-d&geo=SA"
+      }
+    }
+  ],
+  "risingQueries": [
+    {
+      "query": "كأس العالم fifa 2026",
+      "value": 4900,
+      "formattedValue": "+4.900%",
+      "raw": {
+        "query": "كأس العالم fifa 2026",
+        "value": 4900,
+        "formattedValue": "+4.900%",
+        "link": "/trends/explore?q=%D9%83%D8%A3%D8%B3+%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85+fifa+2026&date=now+7-d&geo=SA"
+      }
+    },
+    {
+      "query": "مصر والبرازيل",
+      "value": 1800,
+      "formattedValue": "+1.800%",
+      "raw": {
+        "query": "مصر والبرازيل",
+        "value": 1800,
+        "formattedValue": "+1.800%",
+        "link": "/trends/explore?q=%D9%85%D8%B5%D8%B1+%D9%88%D8%A7%D9%84%D8%A8%D8%B1%D8%A7%D8%B2%D9%8A%D9%84&date=now+7-d&geo=SA"
+      }
+    },
+    {
+      "query": "معصي",
+      "value": 1400,
+      "formattedValue": "+1.400%",
+      "raw": {
+        "query": "معصي",
+        "value": 1400,
+        "formattedValue": "+1.400%",
+        "link": "/trends/explore?q=%D9%85%D8%B9%D8%B5%D9%8A&date=now+7-d&geo=SA"
+      }
+    },
+    {
+      "query": "حلا الترك",
+      "value": 500,
+      "formattedValue": "+500%",
+      "raw": {
+        "query": "حلا الترك",
+        "value": 500,
+        "formattedValue": "+500%",
+        "link": "/trends/explore?q=%D8%AD%D9%84%D8%A7+%D8%A7%D9%84%D8%AA%D8%B1%D9%83&date=now+7-d&geo=SA"
+      }
+    },
+    {
+      "query": "fifa world cup",
+      "value": 500,
+      "formattedValue": "+500%",
+      "raw": {
+        "query": "fifa world cup",
+        "value": 500,
+        "formattedValue": "+500%",
+        "link": "/trends/explore?q=fifa+world+cup&date=now+7-d&geo=SA"
+      }
+    },
+    {
+      "query": "ضرب وحيدات الحد",
+      "value": 400,
+      "formattedValue": "+400%",
+      "raw": {
+        "query": "ضرب وحيدات الحد",
+        "value": 400,
+        "formattedValue": "+400%",
+        "link": "/trends/explore?q=%D8%B6%D8%B1%D8%A8+%D9%88%D8%AD%D9%8A%D8%AF%D8%A7%D8%AA+%D8%A7%D9%84%D8%AD%D8%AF&date=now+7-d&geo=SA"
+      }
+    },
+    {
+      "query": "fifa world cup 2026",
+      "value": 350,
+      "formattedValue": "+350%",
+      "raw": {
+        "query": "fifa world cup 2026",
+        "value": 350,
+        "formattedValue": "+350%",
+        "link": "/trends/explore?q=fifa+world+cup+2026&date=now+7-d&geo=SA"
+      }
+    },
+    {
+      "query": "اغاني تخرج",
+      "value": 200,
+      "formattedValue": "+200%",
+      "raw": {
+        "query": "اغاني تخرج",
+        "value": 200,
+        "formattedValue": "+200%",
+        "link": "/trends/explore?q=%D8%A7%D8%BA%D8%A7%D9%86%D9%8A+%D8%AA%D8%AE%D8%B1%D8%AC&date=now+7-d&geo=SA"
+      }
+    },
+    {
+      "query": "بث شونق",
+      "value": 200,
+      "formattedValue": "+200%",
+      "raw": {
+        "query": "بث شونق",
+        "value": 200,
+        "formattedValue": "+200%",
+        "link": "/trends/explore?q=%D8%A8%D8%AB+%D8%B4%D9%88%D9%86%D9%82&date=now+7-d&geo=SA"
+      }
+    },
+    {
+      "query": "تخرج",
+      "value": 180,
+      "formattedValue": "+180%",
+      "raw": {
+        "query": "تخرج",
+        "value": 180,
+        "formattedValue": "+180%",
+        "link": "/trends/explore?q=%D8%AA%D8%AE%D8%B1%D8%AC&date=now+7-d&geo=SA"
+      }
+    },
+    {
+      "query": "world cup",
+      "value": 150,
+      "formattedValue": "+150%",
+      "raw": {
+        "query": "world cup",
+        "value": 150,
+        "formattedValue": "+150%",
+        "link": "/trends/explore?q=world+cup&date=now+7-d&geo=SA"
+      }
+    },
+    {
+      "query": "بث ابو سويحل",
+      "value": 150,
+      "formattedValue": "+150%",
+      "raw": {
+        "query": "بث ابو سويحل",
+        "value": 150,
+        "formattedValue": "+150%",
+        "link": "/trends/explore?q=%D8%A8%D8%AB+%D8%A7%D8%A8%D9%88+%D8%B3%D9%88%D9%8A%D8%AD%D9%84&date=now+7-d&geo=SA"
+      }
+    },
+    {
+      "query": "الواقع",
+      "value": 140,
+      "formattedValue": "+140%",
+      "raw": {
+        "query": "الواقع",
+        "value": 140,
+        "formattedValue": "+140%",
+        "link": "/trends/explore?q=%D8%A7%D9%84%D9%88%D8%A7%D9%82%D8%B9&date=now+7-d&geo=SA"
+      }
+    },
+    {
+      "query": "سيدرا بيوتي",
+      "value": 120,
+      "formattedValue": "+120%",
+      "raw": {
+        "query": "سيدرا بيوتي",
+        "value": 120,
+        "formattedValue": "+120%",
+        "link": "/trends/explore?q=%D8%B3%D9%8A%D8%AF%D8%B1%D8%A7+%D8%A8%D9%8A%D9%88%D8%AA%D9%8A&date=now+7-d&geo=SA"
+      }
+    },
+    {
+      "query": "ary news live",
+      "value": 90,
+      "formattedValue": "+90%",
+      "raw": {
+        "query": "ary news live",
+        "value": 90,
+        "formattedValue": "+90%",
+        "link": "/trends/explore?q=ary+news+live&date=now+7-d&geo=SA"
+      }
+    },
+    {
+      "query": "نارين بيوتي",
+      "value": 80,
+      "formattedValue": "+80%",
+      "raw": {
+        "query": "نارين بيوتي",
+        "value": 80,
+        "formattedValue": "+80%",
+        "link": "/trends/explore?q=%D9%86%D8%A7%D8%B1%D9%8A%D9%86+%D8%A8%D9%8A%D9%88%D8%AA%D9%8A&date=now+7-d&geo=SA"
+      }
+    },
+    {
+      "query": "محمد عدنان",
+      "value": 80,
+      "formattedValue": "+80%",
+      "raw": {
+        "query": "محمد عدنان",
+        "value": 80,
+        "formattedValue": "+80%",
+        "link": "/trends/explore?q=%D9%85%D8%AD%D9%85%D8%AF+%D8%B9%D8%AF%D9%86%D8%A7%D9%86&date=now+7-d&geo=SA"
+      }
+    },
+    {
+      "query": "مشاري بن نافل",
+      "value": 70,
+      "formattedValue": "+70%",
+      "raw": {
+        "query": "مشاري بن نافل",
+        "value": 70,
+        "formattedValue": "+70%",
+        "link": "/trends/explore?q=%D9%85%D8%B4%D8%A7%D8%B1%D9%8A+%D8%A8%D9%86+%D9%86%D8%A7%D9%81%D9%84&date=now+7-d&geo=SA"
+      }
+    },
+    {
+      "query": "ابو سويحل",
+      "value": 70,
+      "formattedValue": "+70%",
+      "raw": {
+        "query": "ابو سويحل",
+        "value": 70,
+        "formattedValue": "+70%",
+        "link": "/trends/explore?q=%D8%A7%D8%A8%D9%88+%D8%B3%D9%88%D9%8A%D8%AD%D9%84&date=now+7-d&geo=SA"
+      }
+    },
+    {
+      "query": "geo news live",
+      "value": 70,
+      "formattedValue": "+70%",
+      "raw": {
+        "query": "geo news live",
+        "value": 70,
+        "formattedValue": "+70%",
+        "link": "/trends/explore?q=geo+news+live&date=now+7-d&geo=SA"
+      }
+    },
+    {
+      "query": "غيث مروان",
+      "value": 60,
+      "formattedValue": "+60%",
+      "raw": {
+        "query": "غيث مروان",
+        "value": 60,
+        "formattedValue": "+60%",
+        "link": "/trends/explore?q=%D8%BA%D9%8A%D8%AB+%D9%85%D8%B1%D9%88%D8%A7%D9%86&date=now+7-d&geo=SA"
+      }
+    },
+    {
+      "query": "خنفوش",
+      "value": 60,
+      "formattedValue": "+60%",
+      "raw": {
+        "query": "خنفوش",
+        "value": 60,
+        "formattedValue": "+60%",
+        "link": "/trends/explore?q=%D8%AE%D9%86%D9%81%D9%88%D8%B4&date=now+7-d&geo=SA"
+      }
+    },
+    {
+      "query": "تحدي الثلاثين",
+      "value": 60,
+      "formattedValue": "+60%",
+      "raw": {
+        "query": "تحدي الثلاثين",
+        "value": 60,
+        "formattedValue": "+60%",
+        "link": "/trends/explore?q=%D8%AA%D8%AD%D8%AF%D9%8A+%D8%A7%D9%84%D8%AB%D9%84%D8%A7%D8%AB%D9%8A%D9%86&date=now+7-d&geo=SA"
+      }
+    },
+    {
+      "query": "صليح",
+      "value": 60,
+      "formattedValue": "+60%",
+      "raw": {
+        "query": "صليح",
+        "value": 60,
+        "formattedValue": "+60%",
+        "link": "/trends/explore?q=%D8%B5%D9%84%D9%8A%D8%AD&date=now+7-d&geo=SA"
+      }
+    },
+    {
+      "query": "شنغل ومنغل",
+      "value": 60,
+      "formattedValue": "+60%",
+      "raw": {
+        "query": "شنغل ومنغل",
+        "value": 60,
+        "formattedValue": "+60%",
+        "link": "/trends/explore?q=%D8%B4%D9%86%D8%BA%D9%84+%D9%88%D9%85%D9%86%D8%BA%D9%84&date=now+7-d&geo=SA"
+      }
+    }
+  ]
+}
