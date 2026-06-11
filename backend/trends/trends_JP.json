@@ -1,582 +1,1275 @@
 {
   "status": "success",
-  "topQueries": [
-    {
-      "query": "歌",
-      "value": 100,
-      "formattedValue": "100",
-      "raw": {
+  "topics": {
+    "top": [
+      {
+        "query": "Bài hát",
+        "value": 100,
+        "formattedValue": "100",
+        "raw": {
+          "topic": {
+            "mid": "/m/074ft",
+            "title": "Bài hát",
+            "type": "Loại sáng tác"
+          },
+          "value": 100,
+          "formattedValue": "100",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/074ft&date=now+7-d&geo=JP"
+        }
+      },
+      {
+        "query": "Phản ứng kích thích cảm giác tự động",
+        "value": 35,
+        "formattedValue": "35",
+        "raw": {
+          "topic": {
+            "mid": "/m/0ngt1v6",
+            "title": "Phản ứng kích thích cảm giác tự động",
+            "type": "Chủ đề"
+          },
+          "value": 35,
+          "formattedValue": "35",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/0ngt1v6&date=now+7-d&geo=JP"
+        }
+      },
+      {
+        "query": "Nhạc nền",
+        "value": 34,
+        "formattedValue": "34",
+        "raw": {
+          "topic": {
+            "mid": "/m/025td0t",
+            "title": "Nhạc nền",
+            "type": "Thể loại nhạc"
+          },
+          "value": 34,
+          "formattedValue": "34",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/025td0t&date=now+7-d&geo=JP"
+        }
+      },
+      {
+        "query": "Âm nhạc",
+        "value": 34,
+        "formattedValue": "34",
+        "raw": {
+          "topic": {
+            "mid": "/m/04rlf",
+            "title": "Âm nhạc",
+            "type": "Định dạng âm thanh"
+          },
+          "value": 34,
+          "formattedValue": "34",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/04rlf&date=now+7-d&geo=JP"
+        }
+      },
+      {
+        "query": "Buổi hòa nhạc",
+        "value": 33,
+        "formattedValue": "33",
+        "raw": {
+          "topic": {
+            "mid": "/m/01jddz",
+            "title": "Buổi hòa nhạc",
+            "type": "Chủ đề"
+          },
+          "value": 33,
+          "formattedValue": "33",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/01jddz&date=now+7-d&geo=JP"
+        }
+      },
+      {
+        "query": "2026",
+        "value": 30,
+        "formattedValue": "30",
+        "raw": {
+          "topic": {
+            "mid": "/g/11b77d6b6g",
+            "title": "2026",
+            "type": "Chủ đề"
+          },
+          "value": 30,
+          "formattedValue": "30",
+          "hasData": true,
+          "link": "/trends/explore?q=/g/11b77d6b6g&date=now+7-d&geo=JP"
+        }
+      },
+      {
+        "query": "Điện ảnh",
+        "value": 30,
+        "formattedValue": "30",
+        "raw": {
+          "topic": {
+            "mid": "/m/02vxn",
+            "title": "Điện ảnh",
+            "type": "Loại truyền hình"
+          },
+          "value": 30,
+          "formattedValue": "30",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/02vxn&date=now+7-d&geo=JP"
+        }
+      },
+      {
+        "query": "Trò chơi",
+        "value": 27,
+        "formattedValue": "27",
+        "raw": {
+          "topic": {
+            "mid": "/m/03bt1gh",
+            "title": "Trò chơi",
+            "type": "Chủ đề"
+          },
+          "value": 27,
+          "formattedValue": "27",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/03bt1gh&date=now+7-d&geo=JP"
+        }
+      },
+      {
+        "query": "Anime",
+        "value": 27,
+        "formattedValue": "27",
+        "raw": {
+          "topic": {
+            "mid": "/m/0jxy",
+            "title": "Anime",
+            "type": "Thể loại văn học"
+          },
+          "value": 27,
+          "formattedValue": "27",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/0jxy&date=now+7-d&geo=JP"
+        }
+      },
+      {
+        "query": "Minecraft",
+        "value": 27,
+        "formattedValue": "27",
+        "raw": {
+          "topic": {
+            "mid": "/m/09v6kpg",
+            "title": "Minecraft",
+            "type": "Trò chơi điện tử"
+          },
+          "value": 27,
+          "formattedValue": "27",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/09v6kpg&date=now+7-d&geo=JP"
+        }
+      },
+      {
+        "query": "Nhảy múa",
+        "value": 27,
+        "formattedValue": "27",
+        "raw": {
+          "topic": {
+            "mid": "/m/026bk",
+            "title": "Nhảy múa",
+            "type": "Lĩnh vực nghề nghiệp"
+          },
+          "value": 27,
+          "formattedValue": "27",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/026bk&date=now+7-d&geo=JP"
+        }
+      },
+      {
+        "query": "Arashi",
+        "value": 24,
+        "formattedValue": "24",
+        "raw": {
+          "topic": {
+            "mid": "/m/02gmlv",
+            "title": "Arashi",
+            "type": "Nhóm nhạc"
+          },
+          "value": 24,
+          "formattedValue": "24",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/02gmlv&date=now+7-d&geo=JP"
+        }
+      },
+      {
+        "query": "Nhật Bản",
+        "value": 22,
+        "formattedValue": "22",
+        "raw": {
+          "topic": {
+            "mid": "/m/03_3d",
+            "title": "Nhật Bản",
+            "type": "Quốc gia ở Đông Á"
+          },
+          "value": 22,
+          "formattedValue": "22",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/03_3d&date=now+7-d&geo=JP"
+        }
+      },
+      {
+        "query": "Công thức nấu ăn",
+        "value": 21,
+        "formattedValue": "21",
+        "raw": {
+          "topic": {
+            "mid": "/m/0p57p",
+            "title": "Công thức nấu ăn",
+            "type": "Thể loại văn học"
+          },
+          "value": 21,
+          "formattedValue": "21",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/0p57p&date=now+7-d&geo=JP"
+        }
+      },
+      {
+        "query": "Karaoke",
+        "value": 20,
+        "formattedValue": "20",
+        "raw": {
+          "topic": {
+            "mid": "/m/04c5p",
+            "title": "Karaoke",
+            "type": "Chủ đề"
+          },
+          "value": 20,
+          "formattedValue": "20",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/04c5p&date=now+7-d&geo=JP"
+        }
+      },
+      {
+        "query": "Bóng đá",
+        "value": 20,
+        "formattedValue": "20",
+        "raw": {
+          "topic": {
+            "mid": "/m/02vx4",
+            "title": "Bóng đá",
+            "type": "Thể thao"
+          },
+          "value": 20,
+          "formattedValue": "20",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/02vx4&date=now+7-d&geo=JP"
+        }
+      },
+      {
+        "query": "Anpanman",
+        "value": 20,
+        "formattedValue": "20",
+        "raw": {
+          "topic": {
+            "mid": "/m/013317",
+            "title": "Anpanman",
+            "type": "Loạt truyện tranh"
+          },
+          "value": 20,
+          "formattedValue": "20",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/013317&date=now+7-d&geo=JP"
+        }
+      },
+      {
+        "query": "Phụ nữ",
+        "value": 19,
+        "formattedValue": "19",
+        "raw": {
+          "topic": {
+            "mid": "/m/03bt1vf",
+            "title": "Phụ nữ",
+            "type": "Chủ đề"
+          },
+          "value": 19,
+          "formattedValue": "19",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/03bt1vf&date=now+7-d&geo=JP"
+        }
+      },
+      {
+        "query": "Truyện tranh",
+        "value": 19,
+        "formattedValue": "19",
+        "raw": {
+          "topic": {
+            "mid": "/m/012h24",
+            "title": "Truyện tranh",
+            "type": "Hình thức nghệ thuật thị giác"
+          },
+          "value": 19,
+          "formattedValue": "19",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/012h24&date=now+7-d&geo=JP"
+        }
+      },
+      {
+        "query": "Dương cầm",
+        "value": 19,
+        "formattedValue": "19",
+        "raw": {
+          "topic": {
+            "mid": "/m/05r5c",
+            "title": "Dương cầm",
+            "type": "Nhạc cụ"
+          },
+          "value": 19,
+          "formattedValue": "19",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/05r5c&date=now+7-d&geo=JP"
+        }
+      },
+      {
+        "query": "Medley",
+        "value": 19,
+        "formattedValue": "19",
+        "raw": {
+          "topic": {
+            "mid": "/g/120kh955",
+            "title": "Medley",
+            "type": "Âm nhạc"
+          },
+          "value": 19,
+          "formattedValue": "19",
+          "hasData": true,
+          "link": "/trends/explore?q=/g/120kh955&date=now+7-d&geo=JP"
+        }
+      },
+      {
+        "query": "Nintendo",
+        "value": 19,
+        "formattedValue": "19",
+        "raw": {
+          "topic": {
+            "mid": "/m/059wk",
+            "title": "Nintendo",
+            "type": "Công ty"
+          },
+          "value": 19,
+          "formattedValue": "19",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/059wk&date=now+7-d&geo=JP"
+        }
+      },
+      {
+        "query": "Nintendo of America",
+        "value": 19,
+        "formattedValue": "19",
+        "raw": {
+          "topic": {
+            "mid": "/g/11c2k6l0w3",
+            "title": "Nintendo of America",
+            "type": "Chủ đề"
+          },
+          "value": 19,
+          "formattedValue": "19",
+          "hasData": true,
+          "link": "/trends/explore?q=/g/11c2k6l0w3&date=now+7-d&geo=JP"
+        }
+      },
+      {
+        "query": "Truyền hình",
+        "value": 18,
+        "formattedValue": "18",
+        "raw": {
+          "topic": {
+            "mid": "/m/07c52",
+            "title": "Truyền hình",
+            "type": "Loại truyền hình"
+          },
+          "value": 18,
+          "formattedValue": "18",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/07c52&date=now+7-d&geo=JP"
+        }
+      },
+      {
+        "query": "Nintendo Direct",
+        "value": 18,
+        "formattedValue": "18",
+        "raw": {
+          "topic": {
+            "mid": "/g/11bwdskm14",
+            "title": "Nintendo Direct",
+            "type": "Chủ đề"
+          },
+          "value": 18,
+          "formattedValue": "18",
+          "hasData": true,
+          "link": "/trends/explore?q=/g/11bwdskm14&date=now+7-d&geo=JP"
+        }
+      }
+    ],
+    "rising": [
+      {
+        "query": "Nintendo Direct",
+        "value": 3250,
+        "formattedValue": "+3.250%",
+        "raw": {
+          "topic": {
+            "mid": "/g/11bwdskm14",
+            "title": "Nintendo Direct",
+            "type": "Chủ đề"
+          },
+          "value": 3250,
+          "formattedValue": "+3.250%",
+          "link": "/trends/explore?q=/g/11bwdskm14&date=now+7-d&geo=JP"
+        }
+      },
+      {
+        "query": "LAST CALL",
+        "value": 2000,
+        "formattedValue": "+2.000%",
+        "raw": {
+          "topic": {
+            "mid": "/g/1vsprh05",
+            "title": "LAST CALL",
+            "type": "Chủ đề"
+          },
+          "value": 2000,
+          "formattedValue": "+2.000%",
+          "link": "/trends/explore?q=/g/1vsprh05&date=now+7-d&geo=JP"
+        }
+      },
+      {
+        "query": "Nintendo of America",
+        "value": 1900,
+        "formattedValue": "+1.900%",
+        "raw": {
+          "topic": {
+            "mid": "/g/11c2k6l0w3",
+            "title": "Nintendo of America",
+            "type": "Chủ đề"
+          },
+          "value": 1900,
+          "formattedValue": "+1.900%",
+          "link": "/trends/explore?q=/g/11c2k6l0w3&date=now+7-d&geo=JP"
+        }
+      },
+      {
+        "query": "Nintendo",
+        "value": 1500,
+        "formattedValue": "+1.500%",
+        "raw": {
+          "topic": {
+            "mid": "/m/059wk",
+            "title": "Nintendo",
+            "type": "Công ty"
+          },
+          "value": 1500,
+          "formattedValue": "+1.500%",
+          "link": "/trends/explore?q=/m/059wk&date=now+7-d&geo=JP"
+        }
+      },
+      {
+        "query": "Yasuda Kinen",
+        "value": 450,
+        "formattedValue": "+450%",
+        "raw": {
+          "topic": {
+            "mid": "/m/026_p16",
+            "title": "Yasuda Kinen",
+            "type": "Chủ đề"
+          },
+          "value": 450,
+          "formattedValue": "+450%",
+          "link": "/trends/explore?q=/m/026_p16&date=now+7-d&geo=JP"
+        }
+      },
+      {
+        "query": "Nintendo",
+        "value": 350,
+        "formattedValue": "+350%",
+        "raw": {
+          "topic": {
+            "mid": "/g/1ymzszlpz",
+            "title": "Nintendo",
+            "type": "Chủ đề"
+          },
+          "value": 350,
+          "formattedValue": "+350%",
+          "link": "/trends/explore?q=/g/1ymzszlpz&date=now+7-d&geo=JP"
+        }
+      },
+      {
+        "query": "Rizin Fighting Federation",
+        "value": 300,
+        "formattedValue": "+300%",
+        "raw": {
+          "topic": {
+            "mid": "/g/11bwc8d41v",
+            "title": "Rizin Fighting Federation",
+            "type": "Tổ chức võ thuật"
+          },
+          "value": 300,
+          "formattedValue": "+300%",
+          "link": "/trends/explore?q=/g/11bwc8d41v&date=now+7-d&geo=JP"
+        }
+      },
+      {
+        "query": "Philippines",
+        "value": 180,
+        "formattedValue": "+180%",
+        "raw": {
+          "topic": {
+            "mid": "/m/05v8c",
+            "title": "Philippines",
+            "type": "Quốc gia ở Châu Á"
+          },
+          "value": 180,
+          "formattedValue": "+180%",
+          "link": "/trends/explore?q=/m/05v8c&date=now+7-d&geo=JP"
+        }
+      },
+      {
+        "query": "Giải Bóng đá Vô địch Thế giới",
+        "value": 170,
+        "formattedValue": "+170%",
+        "raw": {
+          "topic": {
+            "mid": "/m/030q7",
+            "title": "Giải Bóng đá Vô địch Thế giới",
+            "type": "Giải bóng đá"
+          },
+          "value": 170,
+          "formattedValue": "+170%",
+          "link": "/trends/explore?q=/m/030q7&date=now+7-d&geo=JP"
+        }
+      },
+      {
+        "query": "Persona",
+        "value": 150,
+        "formattedValue": "+150%",
+        "raw": {
+          "topic": {
+            "mid": "/m/05_5v5j",
+            "title": "Persona",
+            "type": "Loạt trò chơi điện tử"
+          },
+          "value": 150,
+          "formattedValue": "+150%",
+          "link": "/trends/explore?q=/m/05_5v5j&date=now+7-d&geo=JP"
+        }
+      },
+      {
+        "query": "Công thức 1",
+        "value": 130,
+        "formattedValue": "+130%",
+        "raw": {
+          "topic": {
+            "mid": "/m/02xz2",
+            "title": "Công thức 1",
+            "type": "Liên đoàn thể thao"
+          },
+          "value": 130,
+          "formattedValue": "+130%",
+          "link": "/trends/explore?q=/m/02xz2&date=now+7-d&geo=JP"
+        }
+      },
+      {
+        "query": "Động đất",
+        "value": 100,
+        "formattedValue": "+100%",
+        "raw": {
+          "topic": {
+            "mid": "/m/02r97",
+            "title": "Động đất",
+            "type": "Chủ đề"
+          },
+          "value": 100,
+          "formattedValue": "+100%",
+          "link": "/trends/explore?q=/m/02r97&date=now+7-d&geo=JP"
+        }
+      },
+      {
+        "query": "Monster Hunter",
+        "value": 100,
+        "formattedValue": "+100%",
+        "raw": {
+          "topic": {
+            "mid": "/m/065_q7h",
+            "title": "Monster Hunter",
+            "type": "Loạt trò chơi điện tử"
+          },
+          "value": 100,
+          "formattedValue": "+100%",
+          "link": "/trends/explore?q=/m/065_q7h&date=now+7-d&geo=JP"
+        }
+      },
+      {
+        "query": "Power Pros",
+        "value": 70,
+        "formattedValue": "+70%",
+        "raw": {
+          "topic": {
+            "mid": "/g/11bc5m9f0m",
+            "title": "Power Pros",
+            "type": "Dòng sản phẩm"
+          },
+          "value": 70,
+          "formattedValue": "+70%",
+          "link": "/trends/explore?q=/g/11bc5m9f0m&date=now+7-d&geo=JP"
+        }
+      },
+      {
+        "query": "Đội Bóng chày Hokkaido Nippon-Ham Fighters",
+        "value": 50,
+        "formattedValue": "+50%",
+        "raw": {
+          "topic": {
+            "mid": "/m/04910b",
+            "title": "Đội Bóng chày Hokkaido Nippon-Ham Fighters",
+            "type": "Đội bóng chày"
+          },
+          "value": 50,
+          "formattedValue": "+50%",
+          "link": "/trends/explore?q=/m/04910b&date=now+7-d&geo=JP"
+        }
+      },
+      {
+        "query": "The Legend of Zelda",
+        "value": 40,
+        "formattedValue": "+40%",
+        "raw": {
+          "topic": {
+            "mid": "/m/07d5v",
+            "title": "The Legend of Zelda",
+            "type": "Loạt trò chơi điện tử"
+          },
+          "value": 40,
+          "formattedValue": "+40%",
+          "link": "/trends/explore?q=/m/07d5v&date=now+7-d&geo=JP"
+        }
+      },
+      {
+        "query": "Bóng chuyền",
+        "value": 40,
+        "formattedValue": "+40%",
+        "raw": {
+          "topic": {
+            "mid": "/m/07_53",
+            "title": "Bóng chuyền",
+            "type": "Thể thao"
+          },
+          "value": 40,
+          "formattedValue": "+40%",
+          "link": "/trends/explore?q=/m/07_53&date=now+7-d&geo=JP"
+        }
+      },
+      {
+        "query": "Họ Gấu",
+        "value": 40,
+        "formattedValue": "+40%",
+        "raw": {
+          "topic": {
+            "mid": "/m/01dws",
+            "title": "Họ Gấu",
+            "type": "Động vật"
+          },
+          "value": 40,
+          "formattedValue": "+40%",
+          "link": "/trends/explore?q=/m/01dws&date=now+7-d&geo=JP"
+        }
+      },
+      {
+        "query": "Saitama Seibu Lions",
+        "value": 40,
+        "formattedValue": "+40%",
+        "raw": {
+          "topic": {
+            "mid": "/m/02hfgl",
+            "title": "Saitama Seibu Lions",
+            "type": "Đội bóng chày"
+          },
+          "value": 40,
+          "formattedValue": "+40%",
+          "link": "/trends/explore?q=/m/02hfgl&date=now+7-d&geo=JP"
+        }
+      }
+    ]
+  },
+  "queries": {
+    "top": [
+      {
         "query": "歌",
         "value": 100,
         "formattedValue": "100",
-        "hasData": true,
-        "link": "/trends/explore?q=%E6%AD%8C&date=now+7-d&geo=JP"
-      }
-    },
-    {
-      "query": "曲",
-      "value": 71,
-      "formattedValue": "71",
-      "raw": {
+        "raw": {
+          "query": "歌",
+          "value": 100,
+          "formattedValue": "100",
+          "hasData": true,
+          "link": "/trends/explore?q=%E6%AD%8C&date=now+7-d&geo=JP"
+        }
+      },
+      {
         "query": "曲",
-        "value": 71,
-        "formattedValue": "71",
-        "hasData": true,
-        "link": "/trends/explore?q=%E6%9B%B2&date=now+7-d&geo=JP"
-      }
-    },
-    {
-      "query": "asmr",
-      "value": 58,
-      "formattedValue": "58",
-      "raw": {
+        "value": 70,
+        "formattedValue": "70",
+        "raw": {
+          "query": "曲",
+          "value": 70,
+          "formattedValue": "70",
+          "hasData": true,
+          "link": "/trends/explore?q=%E6%9B%B2&date=now+7-d&geo=JP"
+        }
+      },
+      {
         "query": "asmr",
-        "value": 58,
-        "formattedValue": "58",
-        "hasData": true,
-        "link": "/trends/explore?q=asmr&date=now+7-d&geo=JP"
-      }
-    },
-    {
-      "query": "ダンス",
-      "value": 50,
-      "formattedValue": "50",
-      "raw": {
+        "value": 57,
+        "formattedValue": "57",
+        "raw": {
+          "query": "asmr",
+          "value": 57,
+          "formattedValue": "57",
+          "hasData": true,
+          "link": "/trends/explore?q=asmr&date=now+7-d&geo=JP"
+        }
+      },
+      {
         "query": "ダンス",
-        "value": 50,
-        "formattedValue": "50",
-        "hasData": true,
-        "link": "/trends/explore?q=%E3%83%80%E3%83%B3%E3%82%B9&date=now+7-d&geo=JP"
-      }
-    },
-    {
-      "query": "マイクラ",
-      "value": 45,
-      "formattedValue": "45",
-      "raw": {
-        "query": "マイクラ",
-        "value": 45,
-        "formattedValue": "45",
-        "hasData": true,
-        "link": "/trends/explore?q=%E3%83%9E%E3%82%A4%E3%82%AF%E3%83%A9&date=now+7-d&geo=JP"
-      }
-    },
-    {
-      "query": "アニメ",
-      "value": 45,
-      "formattedValue": "45",
-      "raw": {
+        "value": 48,
+        "formattedValue": "48",
+        "raw": {
+          "query": "ダンス",
+          "value": 48,
+          "formattedValue": "48",
+          "hasData": true,
+          "link": "/trends/explore?q=%E3%83%80%E3%83%B3%E3%82%B9&date=now+7-d&geo=JP"
+        }
+      },
+      {
         "query": "アニメ",
         "value": 45,
         "formattedValue": "45",
-        "hasData": true,
-        "link": "/trends/explore?q=%E3%82%A2%E3%83%8B%E3%83%A1&date=now+7-d&geo=JP"
-      }
-    },
-    {
-      "query": "嵐",
-      "value": 43,
-      "formattedValue": "43",
-      "raw": {
-        "query": "嵐",
+        "raw": {
+          "query": "アニメ",
+          "value": 45,
+          "formattedValue": "45",
+          "hasData": true,
+          "link": "/trends/explore?q=%E3%82%A2%E3%83%8B%E3%83%A1&date=now+7-d&geo=JP"
+        }
+      },
+      {
+        "query": "マイクラ",
         "value": 43,
         "formattedValue": "43",
-        "hasData": true,
-        "link": "/trends/explore?q=%E5%B5%90&date=now+7-d&geo=JP"
-      }
-    },
-    {
-      "query": "映画",
-      "value": 38,
-      "formattedValue": "38",
-      "raw": {
-        "query": "映画",
-        "value": 38,
-        "formattedValue": "38",
-        "hasData": true,
-        "link": "/trends/explore?q=%E6%98%A0%E7%94%BB&date=now+7-d&geo=JP"
-      }
-    },
-    {
-      "query": "ポケモン",
-      "value": 36,
-      "formattedValue": "36",
-      "raw": {
+        "raw": {
+          "query": "マイクラ",
+          "value": 43,
+          "formattedValue": "43",
+          "hasData": true,
+          "link": "/trends/explore?q=%E3%83%9E%E3%82%A4%E3%82%AF%E3%83%A9&date=now+7-d&geo=JP"
+        }
+      },
+      {
+        "query": "嵐",
+        "value": 42,
+        "formattedValue": "42",
+        "raw": {
+          "query": "嵐",
+          "value": 42,
+          "formattedValue": "42",
+          "hasData": true,
+          "link": "/trends/explore?q=%E5%B5%90&date=now+7-d&geo=JP"
+        }
+      },
+      {
         "query": "ポケモン",
+        "value": 39,
+        "formattedValue": "39",
+        "raw": {
+          "query": "ポケモン",
+          "value": 39,
+          "formattedValue": "39",
+          "hasData": true,
+          "link": "/trends/explore?q=%E3%83%9D%E3%82%B1%E3%83%A2%E3%83%B3&date=now+7-d&geo=JP"
+        }
+      },
+      {
+        "query": "映画",
         "value": 36,
         "formattedValue": "36",
-        "hasData": true,
-        "link": "/trends/explore?q=%E3%83%9D%E3%82%B1%E3%83%A2%E3%83%B3&date=now+7-d&geo=JP"
-      }
-    },
-    {
-      "query": "アンパンマン",
-      "value": 35,
-      "formattedValue": "35",
-      "raw": {
+        "raw": {
+          "query": "映画",
+          "value": 36,
+          "formattedValue": "36",
+          "hasData": true,
+          "link": "/trends/explore?q=%E6%98%A0%E7%94%BB&date=now+7-d&geo=JP"
+        }
+      },
+      {
         "query": "アンパンマン",
-        "value": 35,
-        "formattedValue": "35",
-        "hasData": true,
-        "link": "/trends/explore?q=%E3%82%A2%E3%83%B3%E3%83%91%E3%83%B3%E3%83%9E%E3%83%B3&date=now+7-d&geo=JP"
-      }
-    },
-    {
-      "query": "音楽",
-      "value": 32,
-      "formattedValue": "32",
-      "raw": {
-        "query": "音楽",
-        "value": 32,
-        "formattedValue": "32",
-        "hasData": true,
-        "link": "/trends/explore?q=%E9%9F%B3%E6%A5%BD&date=now+7-d&geo=JP"
-      }
-    },
-    {
-      "query": "ピアノ",
-      "value": 31,
-      "formattedValue": "31",
-      "raw": {
-        "query": "ピアノ",
-        "value": 31,
-        "formattedValue": "31",
-        "hasData": true,
-        "link": "/trends/explore?q=%E3%83%94%E3%82%A2%E3%83%8E&date=now+7-d&geo=JP"
-      }
-    },
-    {
-      "query": "サッカー",
-      "value": 31,
-      "formattedValue": "31",
-      "raw": {
+        "value": 34,
+        "formattedValue": "34",
+        "raw": {
+          "query": "アンパンマン",
+          "value": 34,
+          "formattedValue": "34",
+          "hasData": true,
+          "link": "/trends/explore?q=%E3%82%A2%E3%83%B3%E3%83%91%E3%83%B3%E3%83%9E%E3%83%B3&date=now+7-d&geo=JP"
+        }
+      },
+      {
         "query": "サッカー",
         "value": 31,
         "formattedValue": "31",
-        "hasData": true,
-        "link": "/trends/explore?q=%E3%82%B5%E3%83%83%E3%82%AB%E3%83%BC&date=now+7-d&geo=JP"
-      }
-    },
-    {
-      "query": "あ",
-      "value": 30,
-      "formattedValue": "30",
-      "raw": {
-        "query": "あ",
+        "raw": {
+          "query": "サッカー",
+          "value": 31,
+          "formattedValue": "31",
+          "hasData": true,
+          "link": "/trends/explore?q=%E3%82%B5%E3%83%83%E3%82%AB%E3%83%BC&date=now+7-d&geo=JP"
+        }
+      },
+      {
+        "query": "ピアノ",
         "value": 30,
         "formattedValue": "30",
-        "hasData": true,
-        "link": "/trends/explore?q=%E3%81%82&date=now+7-d&geo=JP"
-      }
-    },
-    {
-      "query": "野球",
-      "value": 29,
-      "formattedValue": "29",
-      "raw": {
-        "query": "野球",
+        "raw": {
+          "query": "ピアノ",
+          "value": 30,
+          "formattedValue": "30",
+          "hasData": true,
+          "link": "/trends/explore?q=%E3%83%94%E3%82%A2%E3%83%8E&date=now+7-d&geo=JP"
+        }
+      },
+      {
+        "query": "音楽",
+        "value": 30,
+        "formattedValue": "30",
+        "raw": {
+          "query": "音楽",
+          "value": 30,
+          "formattedValue": "30",
+          "hasData": true,
+          "link": "/trends/explore?q=%E9%9F%B3%E6%A5%BD&date=now+7-d&geo=JP"
+        }
+      },
+      {
+        "query": "あ",
         "value": 29,
         "formattedValue": "29",
-        "hasData": true,
-        "link": "/trends/explore?q=%E9%87%8E%E7%90%83&date=now+7-d&geo=JP"
-      }
-    },
-    {
-      "query": "競馬",
-      "value": 27,
-      "formattedValue": "27",
-      "raw": {
+        "raw": {
+          "query": "あ",
+          "value": 29,
+          "formattedValue": "29",
+          "hasData": true,
+          "link": "/trends/explore?q=%E3%81%82&date=now+7-d&geo=JP"
+        }
+      },
+      {
         "query": "競馬",
         "value": 27,
         "formattedValue": "27",
-        "hasData": true,
-        "link": "/trends/explore?q=%E7%AB%B6%E9%A6%AC&date=now+7-d&geo=JP"
-      }
-    },
-    {
-      "query": "カラオケ",
-      "value": 27,
-      "formattedValue": "27",
-      "raw": {
+        "raw": {
+          "query": "競馬",
+          "value": 27,
+          "formattedValue": "27",
+          "hasData": true,
+          "link": "/trends/explore?q=%E7%AB%B6%E9%A6%AC&date=now+7-d&geo=JP"
+        }
+      },
+      {
         "query": "カラオケ",
         "value": 27,
         "formattedValue": "27",
-        "hasData": true,
-        "link": "/trends/explore?q=%E3%82%AB%E3%83%A9%E3%82%AA%E3%82%B1&date=now+7-d&geo=JP"
-      }
-    },
-    {
-      "query": "ニュース",
-      "value": 25,
-      "formattedValue": "25",
-      "raw": {
+        "raw": {
+          "query": "カラオケ",
+          "value": 27,
+          "formattedValue": "27",
+          "hasData": true,
+          "link": "/trends/explore?q=%E3%82%AB%E3%83%A9%E3%82%AA%E3%82%B1&date=now+7-d&geo=JP"
+        }
+      },
+      {
+        "query": "野球",
+        "value": 25,
+        "formattedValue": "25",
+        "raw": {
+          "query": "野球",
+          "value": 25,
+          "formattedValue": "25",
+          "hasData": true,
+          "link": "/trends/explore?q=%E9%87%8E%E7%90%83&date=now+7-d&geo=JP"
+        }
+      },
+      {
         "query": "ニュース",
         "value": 25,
         "formattedValue": "25",
-        "hasData": true,
-        "link": "/trends/explore?q=%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9&date=now+7-d&geo=JP"
-      }
-    },
-    {
-      "query": "パチンコ",
-      "value": 24,
-      "formattedValue": "24",
-      "raw": {
+        "raw": {
+          "query": "ニュース",
+          "value": 25,
+          "formattedValue": "25",
+          "hasData": true,
+          "link": "/trends/explore?q=%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9&date=now+7-d&geo=JP"
+        }
+      },
+      {
         "query": "パチンコ",
-        "value": 24,
-        "formattedValue": "24",
-        "hasData": true,
-        "link": "/trends/explore?q=%E3%83%91%E3%83%81%E3%83%B3%E3%82%B3&date=now+7-d&geo=JP"
-      }
-    },
-    {
-      "query": "に じ さん じ",
-      "value": 21,
-      "formattedValue": "21",
-      "raw": {
+        "value": 23,
+        "formattedValue": "23",
+        "raw": {
+          "query": "パチンコ",
+          "value": 23,
+          "formattedValue": "23",
+          "hasData": true,
+          "link": "/trends/explore?q=%E3%83%91%E3%83%81%E3%83%B3%E3%82%B3&date=now+7-d&geo=JP"
+        }
+      },
+      {
         "query": "に じ さん じ",
         "value": 21,
         "formattedValue": "21",
-        "hasData": true,
-        "link": "/trends/explore?q=%E3%81%AB+%E3%81%98+%E3%81%95%E3%82%93+%E3%81%98&date=now+7-d&geo=JP"
-      }
-    },
-    {
-      "query": "ライブ カメラ",
-      "value": 20,
-      "formattedValue": "20",
-      "raw": {
-        "query": "ライブ カメラ",
+        "raw": {
+          "query": "に じ さん じ",
+          "value": 21,
+          "formattedValue": "21",
+          "hasData": true,
+          "link": "/trends/explore?q=%E3%81%AB+%E3%81%98+%E3%81%95%E3%82%93+%E3%81%98&date=now+7-d&geo=JP"
+        }
+      },
+      {
+        "query": "歌っ て みた",
+        "value": 21,
+        "formattedValue": "21",
+        "raw": {
+          "query": "歌っ て みた",
+          "value": 21,
+          "formattedValue": "21",
+          "hasData": true,
+          "link": "/trends/explore?q=%E6%AD%8C%E3%81%A3+%E3%81%A6+%E3%81%BF%E3%81%9F&date=now+7-d&geo=JP"
+        }
+      },
+      {
+        "query": "異 世界 漫画",
         "value": 20,
         "formattedValue": "20",
-        "hasData": true,
-        "link": "/trends/explore?q=%E3%83%A9%E3%82%A4%E3%83%96+%E3%82%AB%E3%83%A1%E3%83%A9&date=now+7-d&geo=JP"
-      }
-    },
-    {
-      "query": "漫画 異 世界",
-      "value": 20,
-      "formattedValue": "20",
-      "raw": {
-        "query": "漫画 異 世界",
-        "value": 20,
-        "formattedValue": "20",
-        "hasData": true,
-        "link": "/trends/explore?q=%E6%BC%AB%E7%94%BB+%E7%95%B0+%E4%B8%96%E7%95%8C&date=now+7-d&geo=JP"
-      }
-    },
-    {
-      "query": "ワンピース",
-      "value": 20,
-      "formattedValue": "20",
-      "raw": {
+        "raw": {
+          "query": "異 世界 漫画",
+          "value": 20,
+          "formattedValue": "20",
+          "hasData": true,
+          "link": "/trends/explore?q=%E7%95%B0+%E4%B8%96%E7%95%8C+%E6%BC%AB%E7%94%BB&date=now+7-d&geo=JP"
+        }
+      },
+      {
         "query": "ワンピース",
-        "value": 20,
-        "formattedValue": "20",
-        "hasData": true,
-        "link": "/trends/explore?q=%E3%83%AF%E3%83%B3%E3%83%94%E3%83%BC%E3%82%B9&date=now+7-d&geo=JP"
-      }
-    },
-    {
-      "query": "東海 オンエア",
-      "value": 19,
-      "formattedValue": "19",
-      "raw": {
+        "value": 19,
+        "formattedValue": "19",
+        "raw": {
+          "query": "ワンピース",
+          "value": 19,
+          "formattedValue": "19",
+          "hasData": true,
+          "link": "/trends/explore?q=%E3%83%AF%E3%83%B3%E3%83%94%E3%83%BC%E3%82%B9&date=now+7-d&geo=JP"
+        }
+      },
+      {
+        "query": "ライブ カメラ",
+        "value": 19,
+        "formattedValue": "19",
+        "raw": {
+          "query": "ライブ カメラ",
+          "value": 19,
+          "formattedValue": "19",
+          "hasData": true,
+          "link": "/trends/explore?q=%E3%83%A9%E3%82%A4%E3%83%96+%E3%82%AB%E3%83%A1%E3%83%A9&date=now+7-d&geo=JP"
+        }
+      },
+      {
         "query": "東海 オンエア",
         "value": 19,
         "formattedValue": "19",
-        "hasData": true,
-        "link": "/trends/explore?q=%E6%9D%B1%E6%B5%B7+%E3%82%AA%E3%83%B3%E3%82%A8%E3%82%A2&date=now+7-d&geo=JP"
+        "raw": {
+          "query": "東海 オンエア",
+          "value": 19,
+          "formattedValue": "19",
+          "hasData": true,
+          "link": "/trends/explore?q=%E6%9D%B1%E6%B5%B7+%E3%82%AA%E3%83%B3%E3%82%A8%E3%82%A2&date=now+7-d&geo=JP"
+        }
       }
-    },
-    {
-      "query": "フォート ナイト",
-      "value": 19,
-      "formattedValue": "19",
-      "raw": {
-        "query": "フォート ナイト",
-        "value": 19,
-        "formattedValue": "19",
-        "hasData": true,
-        "link": "/trends/explore?q=%E3%83%95%E3%82%A9%E3%83%BC%E3%83%88+%E3%83%8A%E3%82%A4%E3%83%88&date=now+7-d&geo=JP"
-      }
-    }
-  ],
-  "risingQueries": [
-    {
-      "query": "フィリピン 地震",
-      "value": 3900,
-      "formattedValue": "+3.900%",
-      "raw": {
+    ],
+    "rising": [
+      {
         "query": "フィリピン 地震",
-        "value": 3900,
-        "formattedValue": "+3.900%",
-        "link": "/trends/explore?q=%E3%83%95%E3%82%A3%E3%83%AA%E3%83%94%E3%83%B3+%E5%9C%B0%E9%9C%87&date=now+7-d&geo=JP"
-      }
-    },
-    {
-      "query": "ニンテンドー ダイレクト",
-      "value": 3300,
-      "formattedValue": "+3.300%",
-      "raw": {
+        "value": 3850,
+        "formattedValue": "+3.850%",
+        "raw": {
+          "query": "フィリピン 地震",
+          "value": 3850,
+          "formattedValue": "+3.850%",
+          "link": "/trends/explore?q=%E3%83%95%E3%82%A3%E3%83%AA%E3%83%94%E3%83%B3+%E5%9C%B0%E9%9C%87&date=now+7-d&geo=JP"
+        }
+      },
+      {
         "query": "ニンテンドー ダイレクト",
         "value": 3300,
         "formattedValue": "+3.300%",
-        "link": "/trends/explore?q=%E3%83%8B%E3%83%B3%E3%83%86%E3%83%B3%E3%83%89%E3%83%BC+%E3%83%80%E3%82%A4%E3%83%AC%E3%82%AF%E3%83%88&date=now+7-d&geo=JP"
-      }
-    },
-    {
-      "query": "fifa ワールド カップ 26",
-      "value": 2650,
-      "formattedValue": "+2.650%",
-      "raw": {
+        "raw": {
+          "query": "ニンテンドー ダイレクト",
+          "value": 3300,
+          "formattedValue": "+3.300%",
+          "link": "/trends/explore?q=%E3%83%8B%E3%83%B3%E3%83%86%E3%83%B3%E3%83%89%E3%83%BC+%E3%83%80%E3%82%A4%E3%83%AC%E3%82%AF%E3%83%88&date=now+7-d&geo=JP"
+        }
+      },
+      {
         "query": "fifa ワールド カップ 26",
-        "value": 2650,
-        "formattedValue": "+2.650%",
-        "link": "/trends/explore?q=fifa+%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89+%E3%82%AB%E3%83%83%E3%83%97+26&date=now+7-d&geo=JP"
-      }
-    },
-    {
-      "query": "森下 退場",
-      "value": 2450,
-      "formattedValue": "+2.450%",
-      "raw": {
+        "value": 2600,
+        "formattedValue": "+2.600%",
+        "raw": {
+          "query": "fifa ワールド カップ 26",
+          "value": 2600,
+          "formattedValue": "+2.600%",
+          "link": "/trends/explore?q=fifa+%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89+%E3%82%AB%E3%83%83%E3%83%97+26&date=now+7-d&geo=JP"
+        }
+      },
+      {
         "query": "森下 退場",
-        "value": 2450,
-        "formattedValue": "+2.450%",
-        "link": "/trends/explore?q=%E6%A3%AE%E4%B8%8B+%E9%80%80%E5%A0%B4&date=now+7-d&geo=JP"
-      }
-    },
-    {
-      "query": "ニンダイ",
-      "value": 2350,
-      "formattedValue": "+2.350%",
-      "raw": {
+        "value": 2600,
+        "formattedValue": "+2.600%",
+        "raw": {
+          "query": "森下 退場",
+          "value": 2600,
+          "formattedValue": "+2.600%",
+          "link": "/trends/explore?q=%E6%A3%AE%E4%B8%8B+%E9%80%80%E5%A0%B4&date=now+7-d&geo=JP"
+        }
+      },
+      {
         "query": "ニンダイ",
-        "value": 2350,
-        "formattedValue": "+2.350%",
-        "link": "/trends/explore?q=%E3%83%8B%E3%83%B3%E3%83%80%E3%82%A4&date=now+7-d&geo=JP"
-      }
-    },
-    {
-      "query": "あら なみ マイクラ",
-      "value": 2250,
-      "formattedValue": "+2.250%",
-      "raw": {
-        "query": "あら なみ マイクラ",
         "value": 2250,
         "formattedValue": "+2.250%",
-        "link": "/trends/explore?q=%E3%81%82%E3%82%89+%E3%81%AA%E3%81%BF+%E3%83%9E%E3%82%A4%E3%82%AF%E3%83%A9&date=now+7-d&geo=JP"
-      }
-    },
-    {
-      "query": "music awards japan 2026",
-      "value": 1750,
-      "formattedValue": "+1.750%",
-      "raw": {
+        "raw": {
+          "query": "ニンダイ",
+          "value": 2250,
+          "formattedValue": "+2.250%",
+          "link": "/trends/explore?q=%E3%83%8B%E3%83%B3%E3%83%80%E3%82%A4&date=now+7-d&geo=JP"
+        }
+      },
+      {
+        "query": "あら なみ マイクラ",
+        "value": 2150,
+        "formattedValue": "+2.150%",
+        "raw": {
+          "query": "あら なみ マイクラ",
+          "value": 2150,
+          "formattedValue": "+2.150%",
+          "link": "/trends/explore?q=%E3%81%82%E3%82%89+%E3%81%AA%E3%81%BF+%E3%83%9E%E3%82%A4%E3%82%AF%E3%83%A9&date=now+7-d&geo=JP"
+        }
+      },
+      {
         "query": "music awards japan 2026",
-        "value": 1750,
-        "formattedValue": "+1.750%",
-        "link": "/trends/explore?q=music+awards+japan+2026&date=now+7-d&geo=JP"
-      }
-    },
-    {
-      "query": "渋川 難波",
-      "value": 1550,
-      "formattedValue": "+1.550%",
-      "raw": {
+        "value": 1800,
+        "formattedValue": "+1.800%",
+        "raw": {
+          "query": "music awards japan 2026",
+          "value": 1800,
+          "formattedValue": "+1.800%",
+          "link": "/trends/explore?q=music+awards+japan+2026&date=now+7-d&geo=JP"
+        }
+      },
+      {
         "query": "渋川 難波",
-        "value": 1550,
-        "formattedValue": "+1.550%",
-        "link": "/trends/explore?q=%E6%B8%8B%E5%B7%9D+%E9%9B%A3%E6%B3%A2&date=now+7-d&geo=JP"
-      }
-    },
-    {
-      "query": "宇佐美 正 パトリック",
-      "value": 1500,
-      "formattedValue": "+1.500%",
-      "raw": {
+        "value": 1500,
+        "formattedValue": "+1.500%",
+        "raw": {
+          "query": "渋川 難波",
+          "value": 1500,
+          "formattedValue": "+1.500%",
+          "link": "/trends/explore?q=%E6%B8%8B%E5%B7%9D+%E9%9B%A3%E6%B3%A2&date=now+7-d&geo=JP"
+        }
+      },
+      {
         "query": "宇佐美 正 パトリック",
         "value": 1500,
         "formattedValue": "+1.500%",
-        "link": "/trends/explore?q=%E5%AE%87%E4%BD%90%E7%BE%8E+%E6%AD%A3+%E3%83%91%E3%83%88%E3%83%AA%E3%83%83%E3%82%AF&date=now+7-d&geo=JP"
-      }
-    },
-    {
-      "query": "宝塚 記念 2026",
-      "value": 1450,
-      "formattedValue": "+1.450%",
-      "raw": {
+        "raw": {
+          "query": "宇佐美 正 パトリック",
+          "value": 1500,
+          "formattedValue": "+1.500%",
+          "link": "/trends/explore?q=%E5%AE%87%E4%BD%90%E7%BE%8E+%E6%AD%A3+%E3%83%91%E3%83%88%E3%83%AA%E3%83%83%E3%82%AF&date=now+7-d&geo=JP"
+        }
+      },
+      {
         "query": "宝塚 記念 2026",
         "value": 1450,
         "formattedValue": "+1.450%",
-        "link": "/trends/explore?q=%E5%AE%9D%E5%A1%9A+%E8%A8%98%E5%BF%B5+2026&date=now+7-d&geo=JP"
-      }
-    },
-    {
-      "query": "藤川 退場",
-      "value": 1250,
-      "formattedValue": "+1.250%",
-      "raw": {
-        "query": "藤川 退場",
-        "value": 1250,
-        "formattedValue": "+1.250%",
-        "link": "/trends/explore?q=%E8%97%A4%E5%B7%9D+%E9%80%80%E5%A0%B4&date=now+7-d&geo=JP"
-      }
-    },
-    {
-      "query": "大井 競馬 ライブ",
-      "value": 1250,
-      "formattedValue": "+1.250%",
-      "raw": {
+        "raw": {
+          "query": "宝塚 記念 2026",
+          "value": 1450,
+          "formattedValue": "+1.450%",
+          "link": "/trends/explore?q=%E5%AE%9D%E5%A1%9A+%E8%A8%98%E5%BF%B5+2026&date=now+7-d&geo=JP"
+        }
+      },
+      {
         "query": "大井 競馬 ライブ",
-        "value": 1250,
-        "formattedValue": "+1.250%",
-        "link": "/trends/explore?q=%E5%A4%A7%E4%BA%95+%E7%AB%B6%E9%A6%AC+%E3%83%A9%E3%82%A4%E3%83%96&date=now+7-d&geo=JP"
-      }
-    },
-    {
-      "query": "summer game fest 2026",
-      "value": 1000,
-      "formattedValue": "+1.000%",
-      "raw": {
-        "query": "summer game fest 2026",
-        "value": 1000,
-        "formattedValue": "+1.000%",
-        "link": "/trends/explore?q=summer+game+fest+2026&date=now+7-d&geo=JP"
-      }
-    },
-    {
-      "query": "東京 ダービー 2026",
-      "value": 750,
-      "formattedValue": "+750%",
-      "raw": {
+        "value": 1300,
+        "formattedValue": "+1.300%",
+        "raw": {
+          "query": "大井 競馬 ライブ",
+          "value": 1300,
+          "formattedValue": "+1.300%",
+          "link": "/trends/explore?q=%E5%A4%A7%E4%BA%95+%E7%AB%B6%E9%A6%AC+%E3%83%A9%E3%82%A4%E3%83%96&date=now+7-d&geo=JP"
+        }
+      },
+      {
+        "query": "藤川 退場",
+        "value": 1300,
+        "formattedValue": "+1.300%",
+        "raw": {
+          "query": "藤川 退場",
+          "value": 1300,
+          "formattedValue": "+1.300%",
+          "link": "/trends/explore?q=%E8%97%A4%E5%B7%9D+%E9%80%80%E5%A0%B4&date=now+7-d&geo=JP"
+        }
+      },
+      {
         "query": "東京 ダービー 2026",
         "value": 750,
         "formattedValue": "+750%",
-        "link": "/trends/explore?q=%E6%9D%B1%E4%BA%AC+%E3%83%80%E3%83%BC%E3%83%93%E3%83%BC+2026&date=now+7-d&geo=JP"
-      }
-    },
-    {
-      "query": "安田 記念 2026 予想",
-      "value": 500,
-      "formattedValue": "+500%",
-      "raw": {
+        "raw": {
+          "query": "東京 ダービー 2026",
+          "value": 750,
+          "formattedValue": "+750%",
+          "link": "/trends/explore?q=%E6%9D%B1%E4%BA%AC+%E3%83%80%E3%83%BC%E3%83%93%E3%83%BC+2026&date=now+7-d&geo=JP"
+        }
+      },
+      {
         "query": "安田 記念 2026 予想",
         "value": 500,
         "formattedValue": "+500%",
-        "link": "/trends/explore?q=%E5%AE%89%E7%94%B0+%E8%A8%98%E5%BF%B5+2026+%E4%BA%88%E6%83%B3&date=now+7-d&geo=JP"
-      }
-    },
-    {
-      "query": "安田 記念 2026",
-      "value": 450,
-      "formattedValue": "+450%",
-      "raw": {
+        "raw": {
+          "query": "安田 記念 2026 予想",
+          "value": 500,
+          "formattedValue": "+500%",
+          "link": "/trends/explore?q=%E5%AE%89%E7%94%B0+%E8%A8%98%E5%BF%B5+2026+%E4%BA%88%E6%83%B3&date=now+7-d&geo=JP"
+        }
+      },
+      {
         "query": "安田 記念 2026",
         "value": 450,
         "formattedValue": "+450%",
-        "link": "/trends/explore?q=%E5%AE%89%E7%94%B0+%E8%A8%98%E5%BF%B5+2026&date=now+7-d&geo=JP"
-      }
-    },
-    {
-      "query": "安田 記念",
-      "value": 450,
-      "formattedValue": "+450%",
-      "raw": {
+        "raw": {
+          "query": "安田 記念 2026",
+          "value": 450,
+          "formattedValue": "+450%",
+          "link": "/trends/explore?q=%E5%AE%89%E7%94%B0+%E8%A8%98%E5%BF%B5+2026&date=now+7-d&geo=JP"
+        }
+      },
+      {
         "query": "安田 記念",
-        "value": 450,
-        "formattedValue": "+450%",
-        "link": "/trends/explore?q=%E5%AE%89%E7%94%B0+%E8%A8%98%E5%BF%B5&date=now+7-d&geo=JP"
-      }
-    },
-    {
-      "query": "ライジン",
-      "value": 300,
-      "formattedValue": "+300%",
-      "raw": {
+        "value": 400,
+        "formattedValue": "+400%",
+        "raw": {
+          "query": "安田 記念",
+          "value": 400,
+          "formattedValue": "+400%",
+          "link": "/trends/explore?q=%E5%AE%89%E7%94%B0+%E8%A8%98%E5%BF%B5&date=now+7-d&geo=JP"
+        }
+      },
+      {
         "query": "ライジン",
         "value": 300,
         "formattedValue": "+300%",
-        "link": "/trends/explore?q=%E3%83%A9%E3%82%A4%E3%82%B8%E3%83%B3&date=now+7-d&geo=JP"
-      }
-    },
-    {
-      "query": "パワプロ 2026",
-      "value": 300,
-      "formattedValue": "+300%",
-      "raw": {
+        "raw": {
+          "query": "ライジン",
+          "value": 300,
+          "formattedValue": "+300%",
+          "link": "/trends/explore?q=%E3%83%A9%E3%82%A4%E3%82%B8%E3%83%B3&date=now+7-d&geo=JP"
+        }
+      },
+      {
         "query": "パワプロ 2026",
         "value": 300,
         "formattedValue": "+300%",
-        "link": "/trends/explore?q=%E3%83%91%E3%83%AF%E3%83%97%E3%83%AD+2026&date=now+7-d&geo=JP"
-      }
-    },
-    {
-      "query": "rizin",
-      "value": 250,
-      "formattedValue": "+250%",
-      "raw": {
+        "raw": {
+          "query": "パワプロ 2026",
+          "value": 300,
+          "formattedValue": "+300%",
+          "link": "/trends/explore?q=%E3%83%91%E3%83%AF%E3%83%97%E3%83%AD+2026&date=now+7-d&geo=JP"
+        }
+      },
+      {
         "query": "rizin",
         "value": 250,
         "formattedValue": "+250%",
-        "link": "/trends/explore?q=rizin&date=now+7-d&geo=JP"
-      }
-    },
-    {
-      "query": "戦国 乙女 5",
-      "value": 250,
-      "formattedValue": "+250%",
-      "raw": {
-        "query": "戦国 乙女 5",
-        "value": 250,
-        "formattedValue": "+250%",
-        "link": "/trends/explore?q=%E6%88%A6%E5%9B%BD+%E4%B9%99%E5%A5%B3+5&date=now+7-d&geo=JP"
-      }
-    },
-    {
-      "query": "もっ ちゅ りん",
-      "value": 250,
-      "formattedValue": "+250%",
-      "raw": {
+        "raw": {
+          "query": "rizin",
+          "value": 250,
+          "formattedValue": "+250%",
+          "link": "/trends/explore?q=rizin&date=now+7-d&geo=JP"
+        }
+      },
+      {
         "query": "もっ ちゅ りん",
         "value": 250,
         "formattedValue": "+250%",
-        "link": "/trends/explore?q=%E3%82%82%E3%81%A3+%E3%81%A1%E3%82%85+%E3%82%8A%E3%82%93&date=now+7-d&geo=JP"
-      }
-    },
-    {
-      "query": "宮島 競艇 ライブ",
-      "value": 200,
-      "formattedValue": "+200%",
-      "raw": {
+        "raw": {
+          "query": "もっ ちゅ りん",
+          "value": 250,
+          "formattedValue": "+250%",
+          "link": "/trends/explore?q=%E3%82%82%E3%81%A3+%E3%81%A1%E3%82%85+%E3%82%8A%E3%82%93&date=now+7-d&geo=JP"
+        }
+      },
+      {
+        "query": "戦国 乙女 5",
+        "value": 250,
+        "formattedValue": "+250%",
+        "raw": {
+          "query": "戦国 乙女 5",
+          "value": 250,
+          "formattedValue": "+250%",
+          "link": "/trends/explore?q=%E6%88%A6%E5%9B%BD+%E4%B9%99%E5%A5%B3+5&date=now+7-d&geo=JP"
+        }
+      },
+      {
         "query": "宮島 競艇 ライブ",
         "value": 200,
         "formattedValue": "+200%",
-        "link": "/trends/explore?q=%E5%AE%AE%E5%B3%B6+%E7%AB%B6%E8%89%87+%E3%83%A9%E3%82%A4%E3%83%96&date=now+7-d&geo=JP"
-      }
-    },
-    {
-      "query": "モンハン ワイルズ",
-      "value": 200,
-      "formattedValue": "+200%",
-      "raw": {
+        "raw": {
+          "query": "宮島 競艇 ライブ",
+          "value": 200,
+          "formattedValue": "+200%",
+          "link": "/trends/explore?q=%E5%AE%AE%E5%B3%B6+%E7%AB%B6%E8%89%87+%E3%83%A9%E3%82%A4%E3%83%96&date=now+7-d&geo=JP"
+        }
+      },
+      {
         "query": "モンハン ワイルズ",
         "value": 200,
         "formattedValue": "+200%",
-        "link": "/trends/explore?q=%E3%83%A2%E3%83%B3%E3%83%8F%E3%83%B3+%E3%83%AF%E3%82%A4%E3%83%AB%E3%82%BA&date=now+7-d&geo=JP"
-      }
-    },
-    {
-      "query": "渚 トラウト",
-      "value": 160,
-      "formattedValue": "+160%",
-      "raw": {
+        "raw": {
+          "query": "モンハン ワイルズ",
+          "value": 200,
+          "formattedValue": "+200%",
+          "link": "/trends/explore?q=%E3%83%A2%E3%83%B3%E3%83%8F%E3%83%B3+%E3%83%AF%E3%82%A4%E3%83%AB%E3%82%BA&date=now+7-d&geo=JP"
+        }
+      },
+      {
+        "query": "ワイルズ",
+        "value": 170,
+        "formattedValue": "+170%",
+        "raw": {
+          "query": "ワイルズ",
+          "value": 170,
+          "formattedValue": "+170%",
+          "link": "/trends/explore?q=%E3%83%AF%E3%82%A4%E3%83%AB%E3%82%BA&date=now+7-d&geo=JP"
+        }
+      },
+      {
         "query": "渚 トラウト",
         "value": 160,
         "formattedValue": "+160%",
-        "link": "/trends/explore?q=%E6%B8%9A+%E3%83%88%E3%83%A9%E3%82%A6%E3%83%88&date=now+7-d&geo=JP"
+        "raw": {
+          "query": "渚 トラウト",
+          "value": 160,
+          "formattedValue": "+160%",
+          "link": "/trends/explore?q=%E6%B8%9A+%E3%83%88%E3%83%A9%E3%82%A6%E3%83%88&date=now+7-d&geo=JP"
+        }
       }
-    }
-  ]
+    ]
+  }
 }
