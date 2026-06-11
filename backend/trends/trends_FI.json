@@ -1,582 +1,1365 @@
 {
   "status": "success",
-  "topQueries": [
-    {
-      "query": "asmr",
-      "value": 100,
-      "formattedValue": "100",
-      "raw": {
+  "topics": {
+    "top": [
+      {
+        "query": "Bài hát",
+        "value": 100,
+        "formattedValue": "100",
+        "raw": {
+          "topic": {
+            "mid": "/m/074ft",
+            "title": "Bài hát",
+            "type": "Loại sáng tác"
+          },
+          "value": 100,
+          "formattedValue": "100",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/074ft&date=now+7-d&geo=FI"
+        }
+      },
+      {
+        "query": "2026",
+        "value": 79,
+        "formattedValue": "79",
+        "raw": {
+          "topic": {
+            "mid": "/g/11b77d6b6g",
+            "title": "2026",
+            "type": "Chủ đề"
+          },
+          "value": 79,
+          "formattedValue": "79",
+          "hasData": true,
+          "link": "/trends/explore?q=/g/11b77d6b6g&date=now+7-d&geo=FI"
+        }
+      },
+      {
+        "query": "Phần Lan",
+        "value": 72,
+        "formattedValue": "72",
+        "raw": {
+          "topic": {
+            "mid": "/m/02vzc",
+            "title": "Phần Lan",
+            "type": "Quốc gia ở Châu Âu"
+          },
+          "value": 72,
+          "formattedValue": "72",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/02vzc&date=now+7-d&geo=FI"
+        }
+      },
+      {
+        "query": "Âm nhạc",
+        "value": 66,
+        "formattedValue": "66",
+        "raw": {
+          "topic": {
+            "mid": "/m/04rlf",
+            "title": "Âm nhạc",
+            "type": "Định dạng âm thanh"
+          },
+          "value": 66,
+          "formattedValue": "66",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/04rlf&date=now+7-d&geo=FI"
+        }
+      },
+      {
+        "query": "Tiếng Phần Lan",
+        "value": 64,
+        "formattedValue": "64",
+        "raw": {
+          "topic": {
+            "mid": "/m/01gp_d",
+            "title": "Tiếng Phần Lan",
+            "type": "Ngôn ngữ"
+          },
+          "value": 64,
+          "formattedValue": "64",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/01gp_d&date=now+7-d&geo=FI"
+        }
+      },
+      {
+        "query": "Điện ảnh",
+        "value": 63,
+        "formattedValue": "63",
+        "raw": {
+          "topic": {
+            "mid": "/m/02vxn",
+            "title": "Điện ảnh",
+            "type": "Loại truyền hình"
+          },
+          "value": 63,
+          "formattedValue": "63",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/02vxn&date=now+7-d&geo=FI"
+        }
+      },
+      {
+        "query": "Phản ứng kích thích cảm giác tự động",
+        "value": 62,
+        "formattedValue": "62",
+        "raw": {
+          "topic": {
+            "mid": "/m/0ngt1v6",
+            "title": "Phản ứng kích thích cảm giác tự động",
+            "type": "Chủ đề"
+          },
+          "value": 62,
+          "formattedValue": "62",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/0ngt1v6&date=now+7-d&geo=FI"
+        }
+      },
+      {
+        "query": "Video",
+        "value": 46,
+        "formattedValue": "46",
+        "raw": {
+          "topic": {
+            "mid": "/m/07z4p",
+            "title": "Video",
+            "type": "Định dạng phim"
+          },
+          "value": 46,
+          "formattedValue": "46",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/07z4p&date=now+7-d&geo=FI"
+        }
+      },
+      {
+        "query": "Tin tức",
+        "value": 43,
+        "formattedValue": "43",
+        "raw": {
+          "topic": {
+            "mid": "/m/05jhg",
+            "title": "Tin tức",
+            "type": "Định dạng phát thanh"
+          },
+          "value": 43,
+          "formattedValue": "43",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/05jhg&date=now+7-d&geo=FI"
+        }
+      },
+      {
+        "query": "Minecraft",
+        "value": 43,
+        "formattedValue": "43",
+        "raw": {
+          "topic": {
+            "mid": "/m/09v6kpg",
+            "title": "Minecraft",
+            "type": "Trò chơi điện tử"
+          },
+          "value": 43,
+          "formattedValue": "43",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/09v6kpg&date=now+7-d&geo=FI"
+        }
+      },
+      {
+        "query": "Trò chơi",
+        "value": 32,
+        "formattedValue": "32",
+        "raw": {
+          "topic": {
+            "mid": "/m/03bt1gh",
+            "title": "Trò chơi",
+            "type": "Chủ đề"
+          },
+          "value": 32,
+          "formattedValue": "32",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/03bt1gh&date=now+7-d&geo=FI"
+        }
+      },
+      {
+        "query": "Trẻ em",
+        "value": 31,
+        "formattedValue": "31",
+        "raw": {
+          "topic": {
+            "mid": "/m/0ytgt",
+            "title": "Trẻ em",
+            "type": "Chủ đề"
+          },
+          "value": 31,
+          "formattedValue": "31",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/0ytgt&date=now+7-d&geo=FI"
+        }
+      },
+      {
+        "query": "Trailer",
+        "value": 28,
+        "formattedValue": "28",
+        "raw": {
+          "topic": {
+            "mid": "/m/03hdbf",
+            "title": "Trailer",
+            "type": "Chủ đề"
+          },
+          "value": 28,
+          "formattedValue": "28",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/03hdbf&date=now+7-d&geo=FI"
+        }
+      },
+      {
+        "query": "Nhảy múa",
+        "value": 27,
+        "formattedValue": "27",
+        "raw": {
+          "topic": {
+            "mid": "/m/026bk",
+            "title": "Nhảy múa",
+            "type": "Lĩnh vực nghề nghiệp"
+          },
+          "value": 27,
+          "formattedValue": "27",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/026bk&date=now+7-d&geo=FI"
+        }
+      },
+      {
+        "query": "Âm thanh",
+        "value": 27,
+        "formattedValue": "27",
+        "raw": {
+          "topic": {
+            "mid": "/m/06qc5",
+            "title": "Âm thanh",
+            "type": "Chủ đề"
+          },
+          "value": 27,
+          "formattedValue": "27",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/06qc5&date=now+7-d&geo=FI"
+        }
+      },
+      {
+        "query": "Dạy kèm",
+        "value": 25,
+        "formattedValue": "25",
+        "raw": {
+          "topic": {
+            "mid": "/m/0157xl",
+            "title": "Dạy kèm",
+            "type": "Chủ đề"
+          },
+          "value": 25,
+          "formattedValue": "25",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/0157xl&date=now+7-d&geo=FI"
+        }
+      },
+      {
+        "query": "2025",
+        "value": 24,
+        "formattedValue": "24",
+        "raw": {
+          "topic": {
+            "mid": "/g/11b77d3kyg",
+            "title": "2025",
+            "type": "Chủ đề"
+          },
+          "value": 24,
+          "formattedValue": "24",
+          "hasData": true,
+          "link": "/trends/explore?q=/g/11b77d3kyg&date=now+7-d&geo=FI"
+        }
+      },
+      {
+        "query": "Tập phim",
+        "value": 24,
+        "formattedValue": "24",
+        "raw": {
+          "topic": {
+            "mid": "/m/02cphr",
+            "title": "Tập phim",
+            "type": "Chủ đề"
+          },
+          "value": 24,
+          "formattedValue": "24",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/02cphr&date=now+7-d&geo=FI"
+        }
+      },
+      {
+        "query": "Ô tô",
+        "value": 22,
+        "formattedValue": "22",
+        "raw": {
+          "topic": {
+            "mid": "/m/0k4j",
+            "title": "Ô tô",
+            "type": "Chế độ phương tiện"
+          },
+          "value": 22,
+          "formattedValue": "22",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/0k4j&date=now+7-d&geo=FI"
+        }
+      },
+      {
+        "query": "Roblox",
+        "value": 22,
+        "formattedValue": "22",
+        "raw": {
+          "topic": {
+            "mid": "/m/026bs1g",
+            "title": "Roblox",
+            "type": "Nền tảng điện toán"
+          },
+          "value": 22,
+          "formattedValue": "22",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/026bs1g&date=now+7-d&geo=FI"
+        }
+      },
+      {
+        "query": "Salatut elämät",
+        "value": 20,
+        "formattedValue": "20",
+        "raw": {
+          "topic": {
+            "mid": "/m/0661q7",
+            "title": "Salatut elämät",
+            "type": "Phim"
+          },
+          "value": 20,
+          "formattedValue": "20",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/0661q7&date=now+7-d&geo=FI"
+        }
+      },
+      {
+        "query": "Lời bài hát",
+        "value": 18,
+        "formattedValue": "18",
+        "raw": {
+          "topic": {
+            "mid": "/m/09lgd",
+            "title": "Lời bài hát",
+            "type": "Chủ đề"
+          },
+          "value": 18,
+          "formattedValue": "18",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/09lgd&date=now+7-d&geo=FI"
+        }
+      },
+      {
+        "query": "Trò chơi video",
+        "value": 17,
+        "formattedValue": "17",
+        "raw": {
+          "topic": {
+            "mid": "/m/01mw1",
+            "title": "Trò chơi video",
+            "type": "Chủ đề"
+          },
+          "value": 17,
+          "formattedValue": "17",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/01mw1&date=now+7-d&geo=FI"
+        }
+      },
+      {
+        "query": "Thế giới",
+        "value": 17,
+        "formattedValue": "17",
+        "raw": {
+          "topic": {
+            "mid": "/m/09nm_",
+            "title": "Thế giới",
+            "type": "Chủ đề"
+          },
+          "value": 17,
+          "formattedValue": "17",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/09nm_&date=now+7-d&geo=FI"
+        }
+      },
+      {
+        "query": "Karaoke",
+        "value": 16,
+        "formattedValue": "16",
+        "raw": {
+          "topic": {
+            "mid": "/m/04c5p",
+            "title": "Karaoke",
+            "type": "Chủ đề"
+          },
+          "value": 16,
+          "formattedValue": "16",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/04c5p&date=now+7-d&geo=FI"
+        }
+      }
+    ],
+    "rising": [
+      {
+        "query": "RebelWorks",
+        "value": 4450,
+        "formattedValue": "+4.450%",
+        "raw": {
+          "topic": {
+            "mid": "/g/11lftq6v1x",
+            "title": "RebelWorks",
+            "type": "Công ty"
+          },
+          "value": 4450,
+          "formattedValue": "+4.450%",
+          "link": "/trends/explore?q=/g/11lftq6v1x&date=now+7-d&geo=FI"
+        }
+      },
+      {
+        "query": "Nintendo Direct",
+        "value": 1800,
+        "formattedValue": "+1.800%",
+        "raw": {
+          "topic": {
+            "mid": "/g/11bwdskm14",
+            "title": "Nintendo Direct",
+            "type": "Chủ đề"
+          },
+          "value": 1800,
+          "formattedValue": "+1.800%",
+          "link": "/trends/explore?q=/g/11bwdskm14&date=now+7-d&geo=FI"
+        }
+      },
+      {
+        "query": "Summer Game Fest",
+        "value": 1700,
+        "formattedValue": "+1.700%",
+        "raw": {
+          "topic": {
+            "mid": "/g/11tbwhcxz0",
+            "title": "Summer Game Fest",
+            "type": "Chủ đề"
+          },
+          "value": 1700,
+          "formattedValue": "+1.700%",
+          "link": "/trends/explore?q=/g/11tbwhcxz0&date=now+7-d&geo=FI"
+        }
+      },
+      {
+        "query": "Niko ja Santtu",
+        "value": 500,
+        "formattedValue": "+500%",
+        "raw": {
+          "topic": {
+            "mid": "/g/11zk4f9s6t",
+            "title": "Niko ja Santtu",
+            "type": "Chủ đề"
+          },
+          "value": 500,
+          "formattedValue": "+500%",
+          "link": "/trends/explore?q=/g/11zk4f9s6t&date=now+7-d&geo=FI"
+        }
+      },
+      {
+        "query": "Tik Tok",
+        "value": 450,
+        "formattedValue": "+450%",
+        "raw": {
+          "topic": {
+            "mid": "/g/11fy265933",
+            "title": "Tik Tok",
+            "type": "Công ty"
+          },
+          "value": 450,
+          "formattedValue": "+450%",
+          "link": "/trends/explore?q=/g/11fy265933&date=now+7-d&geo=FI"
+        }
+      },
+      {
+        "query": "Nintendo of America",
+        "value": 450,
+        "formattedValue": "+450%",
+        "raw": {
+          "topic": {
+            "mid": "/g/11c2k6l0w3",
+            "title": "Nintendo of America",
+            "type": "Chủ đề"
+          },
+          "value": 450,
+          "formattedValue": "+450%",
+          "link": "/trends/explore?q=/g/11c2k6l0w3&date=now+7-d&geo=FI"
+        }
+      },
+      {
+        "query": "Nintendo",
+        "value": 300,
+        "formattedValue": "+300%",
+        "raw": {
+          "topic": {
+            "mid": "/m/059wk",
+            "title": "Nintendo",
+            "type": "Công ty"
+          },
+          "value": 300,
+          "formattedValue": "+300%",
+          "link": "/trends/explore?q=/m/059wk&date=now+7-d&geo=FI"
+        }
+      },
+      {
+        "query": "Tháng",
+        "value": 250,
+        "formattedValue": "+250%",
+        "raw": {
+          "topic": {
+            "mid": "/m/053jb",
+            "title": "Tháng",
+            "type": "Đơn vị đo thời gian"
+          },
+          "value": 250,
+          "formattedValue": "+250%",
+          "link": "/trends/explore?q=/m/053jb&date=now+7-d&geo=FI"
+        }
+      },
+      {
+        "query": "Eppu Normaali",
+        "value": 200,
+        "formattedValue": "+200%",
+        "raw": {
+          "topic": {
+            "mid": "/m/05xtql",
+            "title": "Eppu Normaali",
+            "type": "Nhóm nhạc"
+          },
+          "value": 200,
+          "formattedValue": "+200%",
+          "link": "/trends/explore?q=/m/05xtql&date=now+7-d&geo=FI"
+        }
+      },
+      {
+        "query": "Jaakko Parkkali",
+        "value": 180,
+        "formattedValue": "+180%",
+        "raw": {
+          "topic": {
+            "mid": "/g/11cs22jx1g",
+            "title": "Jaakko Parkkali",
+            "type": "Người làm YouTube"
+          },
+          "value": 180,
+          "formattedValue": "+180%",
+          "link": "/trends/explore?q=/g/11cs22jx1g&date=now+7-d&geo=FI"
+        }
+      },
+      {
+        "query": "Nintendo",
+        "value": 170,
+        "formattedValue": "+170%",
+        "raw": {
+          "topic": {
+            "mid": "/g/1ymzszlpz",
+            "title": "Nintendo",
+            "type": "Chủ đề"
+          },
+          "value": 170,
+          "formattedValue": "+170%",
+          "link": "/trends/explore?q=/g/1ymzszlpz&date=now+7-d&geo=FI"
+        }
+      },
+      {
+        "query": "Mùa đông",
+        "value": 160,
+        "formattedValue": "+160%",
+        "raw": {
+          "topic": {
+            "mid": "/m/086mh",
+            "title": "Mùa đông",
+            "type": "Chủ đề"
+          },
+          "value": 160,
+          "formattedValue": "+160%",
+          "link": "/trends/explore?q=/m/086mh&date=now+7-d&geo=FI"
+        }
+      },
+      {
+        "query": "Công thức 1",
+        "value": 150,
+        "formattedValue": "+150%",
+        "raw": {
+          "topic": {
+            "mid": "/m/02xz2",
+            "title": "Công thức 1",
+            "type": "Liên đoàn thể thao"
+          },
+          "value": 150,
+          "formattedValue": "+150%",
+          "link": "/trends/explore?q=/m/02xz2&date=now+7-d&geo=FI"
+        }
+      },
+      {
+        "query": "Khách sạn",
+        "value": 130,
+        "formattedValue": "+130%",
+        "raw": {
+          "topic": {
+            "mid": "/m/03pty",
+            "title": "Khách sạn",
+            "type": "Loại phòng ở"
+          },
+          "value": 130,
+          "formattedValue": "+130%",
+          "link": "/trends/explore?q=/m/03pty&date=now+7-d&geo=FI"
+        }
+      },
+      {
+        "query": "Tuần",
+        "value": 120,
+        "formattedValue": "+120%",
+        "raw": {
+          "topic": {
+            "mid": "/m/083sl",
+            "title": "Tuần",
+            "type": "Thời gian"
+          },
+          "value": 120,
+          "formattedValue": "+120%",
+          "link": "/trends/explore?q=/m/083sl&date=now+7-d&geo=FI"
+        }
+      },
+      {
+        "query": "Rạp xiếc kỹ thuật số diệu kỳ",
+        "value": 120,
+        "formattedValue": "+120%",
+        "raw": {
+          "topic": {
+            "mid": "/g/11krktg_mq",
+            "title": "Rạp xiếc kỹ thuật số diệu kỳ",
+            "type": "Phim truyền hình"
+          },
+          "value": 120,
+          "formattedValue": "+120%",
+          "link": "/trends/explore?q=/g/11krktg_mq&date=now+7-d&geo=FI"
+        }
+      },
+      {
+        "query": "Xbox",
+        "value": 110,
+        "formattedValue": "+110%",
+        "raw": {
+          "topic": {
+            "mid": "/m/0t_fv9h",
+            "title": "Xbox",
+            "type": "Chủ đề"
+          },
+          "value": 110,
+          "formattedValue": "+110%",
+          "link": "/trends/explore?q=/m/0t_fv9h&date=now+7-d&geo=FI"
+        }
+      },
+      {
+        "query": "Năm",
+        "value": 90,
+        "formattedValue": "+90%",
+        "raw": {
+          "topic": {
+            "mid": "/g/1213vdr5",
+            "title": "Năm",
+            "type": "Thời gian"
+          },
+          "value": 90,
+          "formattedValue": "+90%",
+          "link": "/trends/explore?q=/g/1213vdr5&date=now+7-d&geo=FI"
+        }
+      },
+      {
+        "query": "Đường trường",
+        "value": 90,
+        "formattedValue": "+90%",
+        "raw": {
+          "topic": {
+            "mid": "/m/0dr19",
+            "title": "Đường trường",
+            "type": "Thể thao"
+          },
+          "value": 90,
+          "formattedValue": "+90%",
+          "link": "/trends/explore?q=/m/0dr19&date=now+7-d&geo=FI"
+        }
+      },
+      {
+        "query": "Fortnite",
+        "value": 70,
+        "formattedValue": "+70%",
+        "raw": {
+          "topic": {
+            "mid": "/m/0k9bc90",
+            "title": "Fortnite",
+            "type": "Trò chơi điện tử"
+          },
+          "value": 70,
+          "formattedValue": "+70%",
+          "link": "/trends/explore?q=/m/0k9bc90&date=now+7-d&geo=FI"
+        }
+      },
+      {
+        "query": "Nhà hàng",
+        "value": 70,
+        "formattedValue": "+70%",
+        "raw": {
+          "topic": {
+            "mid": "/m/06l8d",
+            "title": "Nhà hàng",
+            "type": "Chức năng của tòa nhà"
+          },
+          "value": 70,
+          "formattedValue": "+70%",
+          "link": "/trends/explore?q=/m/06l8d&date=now+7-d&geo=FI"
+        }
+      },
+      {
+        "query": "BMW",
+        "value": 60,
+        "formattedValue": "+60%",
+        "raw": {
+          "topic": {
+            "mid": "/g/11c3wz1jch",
+            "title": "BMW",
+            "type": "Chủ đề"
+          },
+          "value": 60,
+          "formattedValue": "+60%",
+          "link": "/trends/explore?q=/g/11c3wz1jch&date=now+7-d&geo=FI"
+        }
+      },
+      {
+        "query": "BikeFin",
+        "value": 60,
+        "formattedValue": "+60%",
+        "raw": {
+          "topic": {
+            "mid": "/g/11ry3hf2zr",
+            "title": "BikeFin",
+            "type": "Chủ đề"
+          },
+          "value": 60,
+          "formattedValue": "+60%",
+          "link": "/trends/explore?q=/g/11ry3hf2zr&date=now+7-d&geo=FI"
+        }
+      },
+      {
+        "query": "BMW",
+        "value": 60,
+        "formattedValue": "+60%",
+        "raw": {
+          "topic": {
+            "mid": "/m/017yh",
+            "title": "BMW",
+            "type": "Nhà sản xuất ô tô"
+          },
+          "value": 60,
+          "formattedValue": "+60%",
+          "link": "/trends/explore?q=/m/017yh&date=now+7-d&geo=FI"
+        }
+      },
+      {
+        "query": "Trượt bánh sau",
+        "value": 50,
+        "formattedValue": "+50%",
+        "raw": {
+          "topic": {
+            "mid": "/m/04yr41",
+            "title": "Trượt bánh sau",
+            "type": "Đua xe thể thao"
+          },
+          "value": 50,
+          "formattedValue": "+50%",
+          "link": "/trends/explore?q=/m/04yr41&date=now+7-d&geo=FI"
+        }
+      }
+    ]
+  },
+  "queries": {
+    "top": [
+      {
         "query": "asmr",
         "value": 100,
         "formattedValue": "100",
-        "hasData": true,
-        "link": "/trends/explore?q=asmr&date=now+7-d&geo=FI"
-      }
-    },
-    {
-      "query": "music",
-      "value": 78,
-      "formattedValue": "78",
-      "raw": {
+        "raw": {
+          "query": "asmr",
+          "value": 100,
+          "formattedValue": "100",
+          "hasData": true,
+          "link": "/trends/explore?q=asmr&date=now+7-d&geo=FI"
+        }
+      },
+      {
         "query": "music",
-        "value": 78,
-        "formattedValue": "78",
-        "hasData": true,
-        "link": "/trends/explore?q=music&date=now+7-d&geo=FI"
-      }
-    },
-    {
-      "query": "minecraft",
-      "value": 64,
-      "formattedValue": "64",
-      "raw": {
+        "value": 80,
+        "formattedValue": "80",
+        "raw": {
+          "query": "music",
+          "value": 80,
+          "formattedValue": "80",
+          "hasData": true,
+          "link": "/trends/explore?q=music&date=now+7-d&geo=FI"
+        }
+      },
+      {
         "query": "minecraft",
         "value": 64,
         "formattedValue": "64",
-        "hasData": true,
-        "link": "/trends/explore?q=minecraft&date=now+7-d&geo=FI"
-      }
-    },
-    {
-      "query": "news",
-      "value": 58,
-      "formattedValue": "58",
-      "raw": {
+        "raw": {
+          "query": "minecraft",
+          "value": 64,
+          "formattedValue": "64",
+          "hasData": true,
+          "link": "/trends/explore?q=minecraft&date=now+7-d&geo=FI"
+        }
+      },
+      {
         "query": "news",
-        "value": 58,
-        "formattedValue": "58",
-        "hasData": true,
-        "link": "/trends/explore?q=news&date=now+7-d&geo=FI"
-      }
-    },
-    {
-      "query": "trailer",
-      "value": 37,
-      "formattedValue": "37",
-      "raw": {
+        "value": 61,
+        "formattedValue": "61",
+        "raw": {
+          "query": "news",
+          "value": 61,
+          "formattedValue": "61",
+          "hasData": true,
+          "link": "/trends/explore?q=news&date=now+7-d&geo=FI"
+        }
+      },
+      {
         "query": "trailer",
-        "value": 37,
-        "formattedValue": "37",
-        "hasData": true,
-        "link": "/trends/explore?q=trailer&date=now+7-d&geo=FI"
-      }
-    },
-    {
-      "query": "songs",
-      "value": 37,
-      "formattedValue": "37",
-      "raw": {
+        "value": 40,
+        "formattedValue": "40",
+        "raw": {
+          "query": "trailer",
+          "value": 40,
+          "formattedValue": "40",
+          "hasData": true,
+          "link": "/trends/explore?q=trailer&date=now+7-d&geo=FI"
+        }
+      },
+      {
         "query": "songs",
-        "value": 37,
-        "formattedValue": "37",
-        "hasData": true,
-        "link": "/trends/explore?q=songs&date=now+7-d&geo=FI"
-      }
-    },
-    {
-      "query": "finland",
-      "value": 32,
-      "formattedValue": "32",
-      "raw": {
+        "value": 34,
+        "formattedValue": "34",
+        "raw": {
+          "query": "songs",
+          "value": 34,
+          "formattedValue": "34",
+          "hasData": true,
+          "link": "/trends/explore?q=songs&date=now+7-d&geo=FI"
+        }
+      },
+      {
         "query": "finland",
-        "value": 32,
-        "formattedValue": "32",
-        "hasData": true,
-        "link": "/trends/explore?q=finland&date=now+7-d&geo=FI"
-      }
-    },
-    {
-      "query": "roblox",
-      "value": 32,
-      "formattedValue": "32",
-      "raw": {
+        "value": 33,
+        "formattedValue": "33",
+        "raw": {
+          "query": "finland",
+          "value": 33,
+          "formattedValue": "33",
+          "hasData": true,
+          "link": "/trends/explore?q=finland&date=now+7-d&geo=FI"
+        }
+      },
+      {
         "query": "roblox",
         "value": 32,
         "formattedValue": "32",
-        "hasData": true,
-        "link": "/trends/explore?q=roblox&date=now+7-d&geo=FI"
-      }
-    },
-    {
-      "query": "rebelwerks",
-      "value": 26,
-      "formattedValue": "26",
-      "raw": {
+        "raw": {
+          "query": "roblox",
+          "value": 32,
+          "formattedValue": "32",
+          "hasData": true,
+          "link": "/trends/explore?q=roblox&date=now+7-d&geo=FI"
+        }
+      },
+      {
         "query": "rebelwerks",
+        "value": 27,
+        "formattedValue": "27",
+        "raw": {
+          "query": "rebelwerks",
+          "value": 27,
+          "formattedValue": "27",
+          "hasData": true,
+          "link": "/trends/explore?q=rebelwerks&date=now+7-d&geo=FI"
+        }
+      },
+      {
+        "query": "karaoke",
         "value": 26,
         "formattedValue": "26",
-        "hasData": true,
-        "link": "/trends/explore?q=rebelwerks&date=now+7-d&geo=FI"
-      }
-    },
-    {
-      "query": "karaoke",
-      "value": 25,
-      "formattedValue": "25",
-      "raw": {
-        "query": "karaoke",
-        "value": 25,
-        "formattedValue": "25",
-        "hasData": true,
-        "link": "/trends/explore?q=karaoke&date=now+7-d&geo=FI"
-      }
-    },
-    {
-      "query": "salkkarit",
-      "value": 23,
-      "formattedValue": "23",
-      "raw": {
+        "raw": {
+          "query": "karaoke",
+          "value": 26,
+          "formattedValue": "26",
+          "hasData": true,
+          "link": "/trends/explore?q=karaoke&date=now+7-d&geo=FI"
+        }
+      },
+      {
         "query": "salkkarit",
-        "value": 23,
-        "formattedValue": "23",
-        "hasData": true,
-        "link": "/trends/explore?q=salkkarit&date=now+7-d&geo=FI"
-      }
-    },
-    {
-      "query": "lakko",
-      "value": 19,
-      "formattedValue": "19",
-      "raw": {
+        "value": 24,
+        "formattedValue": "24",
+        "raw": {
+          "query": "salkkarit",
+          "value": 24,
+          "formattedValue": "24",
+          "hasData": true,
+          "link": "/trends/explore?q=salkkarit&date=now+7-d&geo=FI"
+        }
+      },
+      {
         "query": "lakko",
-        "value": 19,
-        "formattedValue": "19",
-        "hasData": true,
-        "link": "/trends/explore?q=lakko&date=now+7-d&geo=FI"
-      }
-    },
-    {
-      "query": "paqpa",
-      "value": 18,
-      "formattedValue": "18",
-      "raw": {
+        "value": 21,
+        "formattedValue": "21",
+        "raw": {
+          "query": "lakko",
+          "value": 21,
+          "formattedValue": "21",
+          "hasData": true,
+          "link": "/trends/explore?q=lakko&date=now+7-d&geo=FI"
+        }
+      },
+      {
         "query": "paqpa",
+        "value": 20,
+        "formattedValue": "20",
+        "raw": {
+          "query": "paqpa",
+          "value": 20,
+          "formattedValue": "20",
+          "hasData": true,
+          "link": "/trends/explore?q=paqpa&date=now+7-d&geo=FI"
+        }
+      },
+      {
+        "query": "michael jackson",
         "value": 18,
         "formattedValue": "18",
-        "hasData": true,
-        "link": "/trends/explore?q=paqpa&date=now+7-d&geo=FI"
-      }
-    },
-    {
-      "query": "lego",
-      "value": 18,
-      "formattedValue": "18",
-      "raw": {
+        "raw": {
+          "query": "michael jackson",
+          "value": 18,
+          "formattedValue": "18",
+          "hasData": true,
+          "link": "/trends/explore?q=michael+jackson&date=now+7-d&geo=FI"
+        }
+      },
+      {
+        "query": "world cup",
+        "value": 18,
+        "formattedValue": "18",
+        "raw": {
+          "query": "world cup",
+          "value": 18,
+          "formattedValue": "18",
+          "hasData": true,
+          "link": "/trends/explore?q=world+cup&date=now+7-d&geo=FI"
+        }
+      },
+      {
         "query": "lego",
         "value": 18,
         "formattedValue": "18",
-        "hasData": true,
-        "link": "/trends/explore?q=lego&date=now+7-d&geo=FI"
-      }
-    },
-    {
-      "query": "iha just imus",
-      "value": 17,
-      "formattedValue": "17",
-      "raw": {
+        "raw": {
+          "query": "lego",
+          "value": 18,
+          "formattedValue": "18",
+          "hasData": true,
+          "link": "/trends/explore?q=lego&date=now+7-d&geo=FI"
+        }
+      },
+      {
         "query": "iha just imus",
-        "value": 17,
-        "formattedValue": "17",
-        "hasData": true,
-        "link": "/trends/explore?q=iha+just+imus&date=now+7-d&geo=FI"
-      }
-    },
-    {
-      "query": "michael jackson",
-      "value": 17,
-      "formattedValue": "17",
-      "raw": {
-        "query": "michael jackson",
-        "value": 17,
-        "formattedValue": "17",
-        "hasData": true,
-        "link": "/trends/explore?q=michael+jackson&date=now+7-d&geo=FI"
-      }
-    },
-    {
-      "query": "fortnite",
-      "value": 16,
-      "formattedValue": "16",
-      "raw": {
-        "query": "fortnite",
-        "value": 16,
-        "formattedValue": "16",
-        "hasData": true,
-        "link": "/trends/explore?q=fortnite&date=now+7-d&geo=FI"
-      }
-    },
-    {
-      "query": "world cup",
-      "value": 16,
-      "formattedValue": "16",
-      "raw": {
-        "query": "world cup",
-        "value": 16,
-        "formattedValue": "16",
-        "hasData": true,
-        "link": "/trends/explore?q=world+cup&date=now+7-d&geo=FI"
-      }
-    },
-    {
-      "query": "nhl",
-      "value": 16,
-      "formattedValue": "16",
-      "raw": {
-        "query": "nhl",
-        "value": 16,
-        "formattedValue": "16",
-        "hasData": true,
-        "link": "/trends/explore?q=nhl&date=now+7-d&geo=FI"
-      }
-    },
-    {
-      "query": "robbe",
-      "value": 16,
-      "formattedValue": "16",
-      "raw": {
+        "value": 18,
+        "formattedValue": "18",
+        "raw": {
+          "query": "iha just imus",
+          "value": 18,
+          "formattedValue": "18",
+          "hasData": true,
+          "link": "/trends/explore?q=iha+just+imus&date=now+7-d&geo=FI"
+        }
+      },
+      {
         "query": "robbe",
-        "value": 16,
-        "formattedValue": "16",
-        "hasData": true,
-        "link": "/trends/explore?q=robbe&date=now+7-d&geo=FI"
-      }
-    },
-    {
-      "query": "metsa man",
-      "value": 16,
-      "formattedValue": "16",
-      "raw": {
+        "value": 17,
+        "formattedValue": "17",
+        "raw": {
+          "query": "robbe",
+          "value": 17,
+          "formattedValue": "17",
+          "hasData": true,
+          "link": "/trends/explore?q=robbe&date=now+7-d&geo=FI"
+        }
+      },
+      {
+        "query": "fortnite",
+        "value": 17,
+        "formattedValue": "17",
+        "raw": {
+          "query": "fortnite",
+          "value": 17,
+          "formattedValue": "17",
+          "hasData": true,
+          "link": "/trends/explore?q=fortnite&date=now+7-d&geo=FI"
+        }
+      },
+      {
+        "query": "nhl",
+        "value": 17,
+        "formattedValue": "17",
+        "raw": {
+          "query": "nhl",
+          "value": 17,
+          "formattedValue": "17",
+          "hasData": true,
+          "link": "/trends/explore?q=nhl&date=now+7-d&geo=FI"
+        }
+      },
+      {
         "query": "metsa man",
         "value": 16,
         "formattedValue": "16",
-        "hasData": true,
-        "link": "/trends/explore?q=metsa+man&date=now+7-d&geo=FI"
-      }
-    },
-    {
-      "query": "football",
-      "value": 14,
-      "formattedValue": "14",
-      "raw": {
+        "raw": {
+          "query": "metsa man",
+          "value": 16,
+          "formattedValue": "16",
+          "hasData": true,
+          "link": "/trends/explore?q=metsa+man&date=now+7-d&geo=FI"
+        }
+      },
+      {
         "query": "football",
         "value": 14,
         "formattedValue": "14",
-        "hasData": true,
-        "link": "/trends/explore?q=football&date=now+7-d&geo=FI"
-      }
-    },
-    {
-      "query": "katseye",
-      "value": 14,
-      "formattedValue": "14",
-      "raw": {
-        "query": "katseye",
-        "value": 14,
-        "formattedValue": "14",
-        "hasData": true,
-        "link": "/trends/explore?q=katseye&date=now+7-d&geo=FI"
-      }
-    },
-    {
-      "query": "niko ja santtu",
-      "value": 13,
-      "formattedValue": "13",
-      "raw": {
+        "raw": {
+          "query": "football",
+          "value": 14,
+          "formattedValue": "14",
+          "hasData": true,
+          "link": "/trends/explore?q=football&date=now+7-d&geo=FI"
+        }
+      },
+      {
         "query": "niko ja santtu",
         "value": 13,
         "formattedValue": "13",
-        "hasData": true,
-        "link": "/trends/explore?q=niko+ja+santtu&date=now+7-d&geo=FI"
-      }
-    },
-    {
-      "query": "asmr suomi",
-      "value": 13,
-      "formattedValue": "13",
-      "raw": {
+        "raw": {
+          "query": "niko ja santtu",
+          "value": 13,
+          "formattedValue": "13",
+          "hasData": true,
+          "link": "/trends/explore?q=niko+ja+santtu&date=now+7-d&geo=FI"
+        }
+      },
+      {
+        "query": "katseye",
+        "value": 13,
+        "formattedValue": "13",
+        "raw": {
+          "query": "katseye",
+          "value": 13,
+          "formattedValue": "13",
+          "hasData": true,
+          "link": "/trends/explore?q=katseye&date=now+7-d&geo=FI"
+        }
+      },
+      {
         "query": "asmr suomi",
         "value": 13,
         "formattedValue": "13",
-        "hasData": true,
-        "link": "/trends/explore?q=asmr+suomi&date=now+7-d&geo=FI"
+        "raw": {
+          "query": "asmr suomi",
+          "value": 13,
+          "formattedValue": "13",
+          "hasData": true,
+          "link": "/trends/explore?q=asmr+suomi&date=now+7-d&geo=FI"
+        }
       }
-    }
-  ],
-  "risingQueries": [
-    {
-      "query": "pohjanmaa ralli 2026",
-      "value": 3700,
-      "formattedValue": "+3.700%",
-      "raw": {
+    ],
+    "rising": [
+      {
         "query": "pohjanmaa ralli 2026",
-        "value": 3700,
-        "formattedValue": "+3.700%",
-        "link": "/trends/explore?q=pohjanmaa+ralli+2026&date=now+7-d&geo=FI"
-      }
-    },
-    {
-      "query": "iconic by mistake",
-      "value": 3200,
-      "formattedValue": "+3.200%",
-      "raw": {
+        "value": 3400,
+        "formattedValue": "+3.400%",
+        "raw": {
+          "query": "pohjanmaa ralli 2026",
+          "value": 3400,
+          "formattedValue": "+3.400%",
+          "link": "/trends/explore?q=pohjanmaa+ralli+2026&date=now+7-d&geo=FI"
+        }
+      },
+      {
         "query": "iconic by mistake",
-        "value": 3200,
-        "formattedValue": "+3.200%",
-        "link": "/trends/explore?q=iconic+by+mistake&date=now+7-d&geo=FI"
-      }
-    },
-    {
-      "query": "arvi lind",
-      "value": 2800,
-      "formattedValue": "+2.800%",
-      "raw": {
+        "value": 3250,
+        "formattedValue": "+3.250%",
+        "raw": {
+          "query": "iconic by mistake",
+          "value": 3250,
+          "formattedValue": "+3.250%",
+          "link": "/trends/explore?q=iconic+by+mistake&date=now+7-d&geo=FI"
+        }
+      },
+      {
         "query": "arvi lind",
-        "value": 2800,
-        "formattedValue": "+2.800%",
-        "link": "/trends/explore?q=arvi+lind&date=now+7-d&geo=FI"
-      }
-    },
-    {
-      "query": "christian eriksen",
-      "value": 1950,
-      "formattedValue": "+1.950%",
-      "raw": {
+        "value": 3150,
+        "formattedValue": "+3.150%",
+        "raw": {
+          "query": "arvi lind",
+          "value": 3150,
+          "formattedValue": "+3.150%",
+          "link": "/trends/explore?q=arvi+lind&date=now+7-d&geo=FI"
+        }
+      },
+      {
         "query": "christian eriksen",
-        "value": 1950,
-        "formattedValue": "+1.950%",
-        "link": "/trends/explore?q=christian+eriksen&date=now+7-d&geo=FI"
-      }
-    },
-    {
-      "query": "erno kostamo crash",
-      "value": 1700,
-      "formattedValue": "+1.700%",
-      "raw": {
+        "value": 2000,
+        "formattedValue": "+2.000%",
+        "raw": {
+          "query": "christian eriksen",
+          "value": 2000,
+          "formattedValue": "+2.000%",
+          "link": "/trends/explore?q=christian+eriksen&date=now+7-d&geo=FI"
+        }
+      },
+      {
         "query": "erno kostamo crash",
-        "value": 1700,
-        "formattedValue": "+1.700%",
-        "link": "/trends/explore?q=erno+kostamo+crash&date=now+7-d&geo=FI"
-      }
-    },
-    {
-      "query": "nintendo direct",
-      "value": 1600,
-      "formattedValue": "+1.600%",
-      "raw": {
+        "value": 1850,
+        "formattedValue": "+1.850%",
+        "raw": {
+          "query": "erno kostamo crash",
+          "value": 1850,
+          "formattedValue": "+1.850%",
+          "link": "/trends/explore?q=erno+kostamo+crash&date=now+7-d&geo=FI"
+        }
+      },
+      {
         "query": "nintendo direct",
         "value": 1600,
         "formattedValue": "+1.600%",
-        "link": "/trends/explore?q=nintendo+direct&date=now+7-d&geo=FI"
-      }
-    },
-    {
-      "query": "summer games fest 2026",
-      "value": 1250,
-      "formattedValue": "+1.250%",
-      "raw": {
+        "raw": {
+          "query": "nintendo direct",
+          "value": 1600,
+          "formattedValue": "+1.600%",
+          "link": "/trends/explore?q=nintendo+direct&date=now+7-d&geo=FI"
+        }
+      },
+      {
         "query": "summer games fest 2026",
-        "value": 1250,
-        "formattedValue": "+1.250%",
-        "link": "/trends/explore?q=summer+games+fest+2026&date=now+7-d&geo=FI"
-      }
-    },
-    {
-      "query": "summer game fest 2026",
-      "value": 1100,
-      "formattedValue": "+1.100%",
-      "raw": {
+        "value": 1300,
+        "formattedValue": "+1.300%",
+        "raw": {
+          "query": "summer games fest 2026",
+          "value": 1300,
+          "formattedValue": "+1.300%",
+          "link": "/trends/explore?q=summer+games+fest+2026&date=now+7-d&geo=FI"
+        }
+      },
+      {
         "query": "summer game fest 2026",
-        "value": 1100,
-        "formattedValue": "+1.100%",
-        "link": "/trends/explore?q=summer+game+fest+2026&date=now+7-d&geo=FI"
-      }
-    },
-    {
-      "query": "porittajat",
-      "value": 550,
-      "formattedValue": "+550%",
-      "raw": {
+        "value": 1150,
+        "formattedValue": "+1.150%",
+        "raw": {
+          "query": "summer game fest 2026",
+          "value": 1150,
+          "formattedValue": "+1.150%",
+          "link": "/trends/explore?q=summer+game+fest+2026&date=now+7-d&geo=FI"
+        }
+      },
+      {
         "query": "porittajat",
         "value": 550,
         "formattedValue": "+550%",
-        "link": "/trends/explore?q=porittajat&date=now+7-d&geo=FI"
-      }
-    },
-    {
-      "query": "abba hussein",
-      "value": 550,
-      "formattedValue": "+550%",
-      "raw": {
+        "raw": {
+          "query": "porittajat",
+          "value": 550,
+          "formattedValue": "+550%",
+          "link": "/trends/explore?q=porittajat&date=now+7-d&geo=FI"
+        }
+      },
+      {
         "query": "abba hussein",
         "value": 550,
         "formattedValue": "+550%",
-        "link": "/trends/explore?q=abba+hussein&date=now+7-d&geo=FI"
-      }
-    },
-    {
-      "query": "большое шоу",
-      "value": 450,
-      "formattedValue": "+450%",
-      "raw": {
+        "raw": {
+          "query": "abba hussein",
+          "value": 550,
+          "formattedValue": "+550%",
+          "link": "/trends/explore?q=abba+hussein&date=now+7-d&geo=FI"
+        }
+      },
+      {
         "query": "большое шоу",
-        "value": 450,
-        "formattedValue": "+450%",
-        "link": "/trends/explore?q=%D0%B1%D0%BE%D0%BB%D1%8C%D1%88%D0%BE%D0%B5+%D1%88%D0%BE%D1%83&date=now+7-d&geo=FI"
-      }
-    },
-    {
-      "query": "control resonant",
-      "value": 400,
-      "formattedValue": "+400%",
-      "raw": {
+        "value": 400,
+        "formattedValue": "+400%",
+        "raw": {
+          "query": "большое шоу",
+          "value": 400,
+          "formattedValue": "+400%",
+          "link": "/trends/explore?q=%D0%B1%D0%BE%D0%BB%D1%8C%D1%88%D0%BE%D0%B5+%D1%88%D0%BE%D1%83&date=now+7-d&geo=FI"
+        }
+      },
+      {
         "query": "control resonant",
         "value": 400,
         "formattedValue": "+400%",
-        "link": "/trends/explore?q=control+resonant&date=now+7-d&geo=FI"
-      }
-    },
-    {
-      "query": "suomen vahvin",
-      "value": 300,
-      "formattedValue": "+300%",
-      "raw": {
+        "raw": {
+          "query": "control resonant",
+          "value": 400,
+          "formattedValue": "+400%",
+          "link": "/trends/explore?q=control+resonant&date=now+7-d&geo=FI"
+        }
+      },
+      {
         "query": "suomen vahvin",
         "value": 300,
         "formattedValue": "+300%",
-        "link": "/trends/explore?q=suomen+vahvin&date=now+7-d&geo=FI"
-      }
-    },
-    {
-      "query": "nintendo",
-      "value": 250,
-      "formattedValue": "+250%",
-      "raw": {
+        "raw": {
+          "query": "suomen vahvin",
+          "value": 300,
+          "formattedValue": "+300%",
+          "link": "/trends/explore?q=suomen+vahvin&date=now+7-d&geo=FI"
+        }
+      },
+      {
         "query": "nintendo",
         "value": 250,
         "formattedValue": "+250%",
-        "link": "/trends/explore?q=nintendo&date=now+7-d&geo=FI"
-      }
-    },
-    {
-      "query": "asmr tingles",
-      "value": 200,
-      "formattedValue": "+200%",
-      "raw": {
-        "query": "asmr tingles",
+        "raw": {
+          "query": "nintendo",
+          "value": 250,
+          "formattedValue": "+250%",
+          "link": "/trends/explore?q=nintendo&date=now+7-d&geo=FI"
+        }
+      },
+      {
+        "query": "kotkamies",
         "value": 200,
         "formattedValue": "+200%",
-        "link": "/trends/explore?q=asmr+tingles&date=now+7-d&geo=FI"
-      }
-    },
-    {
-      "query": "kotkamies",
-      "value": 190,
-      "formattedValue": "+190%",
-      "raw": {
-        "query": "kotkamies",
-        "value": 190,
-        "formattedValue": "+190%",
-        "link": "/trends/explore?q=kotkamies&date=now+7-d&geo=FI"
-      }
-    },
-    {
-      "query": "eppu normaali",
-      "value": 190,
-      "formattedValue": "+190%",
-      "raw": {
+        "raw": {
+          "query": "kotkamies",
+          "value": 200,
+          "formattedValue": "+200%",
+          "link": "/trends/explore?q=kotkamies&date=now+7-d&geo=FI"
+        }
+      },
+      {
         "query": "eppu normaali",
+        "value": 200,
+        "formattedValue": "+200%",
+        "raw": {
+          "query": "eppu normaali",
+          "value": 200,
+          "formattedValue": "+200%",
+          "link": "/trends/explore?q=eppu+normaali&date=now+7-d&geo=FI"
+        }
+      },
+      {
+        "query": "asmr tingles",
         "value": 190,
         "formattedValue": "+190%",
-        "link": "/trends/explore?q=eppu+normaali&date=now+7-d&geo=FI"
-      }
-    },
-    {
-      "query": "jaakko parkkali",
-      "value": 180,
-      "formattedValue": "+180%",
-      "raw": {
+        "raw": {
+          "query": "asmr tingles",
+          "value": 190,
+          "formattedValue": "+190%",
+          "link": "/trends/explore?q=asmr+tingles&date=now+7-d&geo=FI"
+        }
+      },
+      {
         "query": "jaakko parkkali",
         "value": 180,
         "formattedValue": "+180%",
-        "link": "/trends/explore?q=jaakko+parkkali&date=now+7-d&geo=FI"
-      }
-    },
-    {
-      "query": "formula 1",
-      "value": 170,
-      "formattedValue": "+170%",
-      "raw": {
+        "raw": {
+          "query": "jaakko parkkali",
+          "value": 180,
+          "formattedValue": "+180%",
+          "link": "/trends/explore?q=jaakko+parkkali&date=now+7-d&geo=FI"
+        }
+      },
+      {
         "query": "formula 1",
         "value": 170,
         "formattedValue": "+170%",
-        "link": "/trends/explore?q=formula+1&date=now+7-d&geo=FI"
-      }
-    },
-    {
-      "query": "pernilla böckerman",
-      "value": 170,
-      "formattedValue": "+170%",
-      "raw": {
+        "raw": {
+          "query": "formula 1",
+          "value": 170,
+          "formattedValue": "+170%",
+          "link": "/trends/explore?q=formula+1&date=now+7-d&geo=FI"
+        }
+      },
+      {
         "query": "pernilla böckerman",
         "value": 170,
         "formattedValue": "+170%",
-        "link": "/trends/explore?q=pernilla+b%C3%B6ckerman&date=now+7-d&geo=FI"
-      }
-    },
-    {
-      "query": "zounaas",
-      "value": 160,
-      "formattedValue": "+160%",
-      "raw": {
+        "raw": {
+          "query": "pernilla böckerman",
+          "value": 170,
+          "formattedValue": "+170%",
+          "link": "/trends/explore?q=pernilla+b%C3%B6ckerman&date=now+7-d&geo=FI"
+        }
+      },
+      {
+        "query": "tadc",
+        "value": 170,
+        "formattedValue": "+170%",
+        "raw": {
+          "query": "tadc",
+          "value": 170,
+          "formattedValue": "+170%",
+          "link": "/trends/explore?q=tadc&date=now+7-d&geo=FI"
+        }
+      },
+      {
         "query": "zounaas",
         "value": 160,
         "formattedValue": "+160%",
-        "link": "/trends/explore?q=zounaas&date=now+7-d&geo=FI"
-      }
-    },
-    {
-      "query": "esl",
-      "value": 160,
-      "formattedValue": "+160%",
-      "raw": {
+        "raw": {
+          "query": "zounaas",
+          "value": 160,
+          "formattedValue": "+160%",
+          "link": "/trends/explore?q=zounaas&date=now+7-d&geo=FI"
+        }
+      },
+      {
         "query": "esl",
         "value": 160,
         "formattedValue": "+160%",
-        "link": "/trends/explore?q=esl&date=now+7-d&geo=FI"
-      }
-    },
-    {
-      "query": "automania",
-      "value": 150,
-      "formattedValue": "+150%",
-      "raw": {
+        "raw": {
+          "query": "esl",
+          "value": 160,
+          "formattedValue": "+160%",
+          "link": "/trends/explore?q=esl&date=now+7-d&geo=FI"
+        }
+      },
+      {
         "query": "automania",
         "value": 150,
         "formattedValue": "+150%",
-        "link": "/trends/explore?q=automania&date=now+7-d&geo=FI"
-      }
-    },
-    {
-      "query": "tadc",
-      "value": 150,
-      "formattedValue": "+150%",
-      "raw": {
-        "query": "tadc",
+        "raw": {
+          "query": "automania",
+          "value": 150,
+          "formattedValue": "+150%",
+          "link": "/trends/explore?q=automania&date=now+7-d&geo=FI"
+        }
+      },
+      {
+        "query": "f1",
         "value": 150,
         "formattedValue": "+150%",
-        "link": "/trends/explore?q=tadc&date=now+7-d&geo=FI"
+        "raw": {
+          "query": "f1",
+          "value": 150,
+          "formattedValue": "+150%",
+          "link": "/trends/explore?q=f1&date=now+7-d&geo=FI"
+        }
       }
-    },
-    {
-      "query": "f1",
-      "value": 130,
-      "formattedValue": "+130%",
-      "raw": {
-        "query": "f1",
-        "value": 130,
-        "formattedValue": "+130%",
-        "link": "/trends/explore?q=f1&date=now+7-d&geo=FI"
-      }
-    }
-  ]
+    ]
+  }
 }
