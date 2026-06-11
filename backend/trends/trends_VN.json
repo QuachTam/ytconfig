@@ -1,472 +1,1075 @@
 {
   "status": "success",
-  "topQueries": [
-    {
-      "query": "nhạc",
-      "value": 100,
-      "formattedValue": "100",
-      "raw": {
+  "topics": {
+    "top": [
+      {
+        "query": "Âm nhạc",
+        "value": 100,
+        "formattedValue": "100",
+        "raw": {
+          "topic": {
+            "mid": "/m/04rlf",
+            "title": "Âm nhạc",
+            "type": "Định dạng âm thanh"
+          },
+          "value": 100,
+          "formattedValue": "100",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/04rlf&date=now+7-d&geo=VN"
+        }
+      },
+      {
+        "query": "Điện ảnh",
+        "value": 85,
+        "formattedValue": "85",
+        "raw": {
+          "topic": {
+            "mid": "/m/02vxn",
+            "title": "Điện ảnh",
+            "type": "Loại truyền hình"
+          },
+          "value": 85,
+          "formattedValue": "85",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/02vxn&date=now+7-d&geo=VN"
+        }
+      },
+      {
+        "query": "Karaoke",
+        "value": 71,
+        "formattedValue": "71",
+        "raw": {
+          "topic": {
+            "mid": "/m/04c5p",
+            "title": "Karaoke",
+            "type": "Chủ đề"
+          },
+          "value": 71,
+          "formattedValue": "71",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/04c5p&date=now+7-d&geo=VN"
+        }
+      },
+      {
+        "query": "Remix",
+        "value": 43,
+        "formattedValue": "43",
+        "raw": {
+          "topic": {
+            "mid": "/m/014k25",
+            "title": "Remix",
+            "type": "Chủ đề"
+          },
+          "value": 43,
+          "formattedValue": "43",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/014k25&date=now+7-d&geo=VN"
+        }
+      },
+      {
+        "query": "Số",
+        "value": 34,
+        "formattedValue": "34",
+        "raw": {
+          "topic": {
+            "mid": "/m/05fwb",
+            "title": "Số",
+            "type": "Chủ đề"
+          },
+          "value": 34,
+          "formattedValue": "34",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/05fwb&date=now+7-d&geo=VN"
+        }
+      },
+      {
+        "query": "Việt Nam",
+        "value": 29,
+        "formattedValue": "29",
+        "raw": {
+          "topic": {
+            "mid": "/m/01crd5",
+            "title": "Việt Nam",
+            "type": "Quốc gia ở Châu Á"
+          },
+          "value": 29,
+          "formattedValue": "29",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/01crd5&date=now+7-d&geo=VN"
+        }
+      },
+      {
+        "query": "Truyền hình",
+        "value": 22,
+        "formattedValue": "22",
+        "raw": {
+          "topic": {
+            "mid": "/m/07c52",
+            "title": "Truyền hình",
+            "type": "Loại truyền hình"
+          },
+          "value": 22,
+          "formattedValue": "22",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/07c52&date=now+7-d&geo=VN"
+        }
+      },
+      {
+        "query": "Xổ số",
+        "value": 20,
+        "formattedValue": "20",
+        "raw": {
+          "topic": {
+            "mid": "/m/01h8pw",
+            "title": "Xổ số",
+            "type": "Chủ đề"
+          },
+          "value": 20,
+          "formattedValue": "20",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/01h8pw&date=now+7-d&geo=VN"
+        }
+      },
+      {
+        "query": "Doraemon",
+        "value": 20,
+        "formattedValue": "20",
+        "raw": {
+          "topic": {
+            "mid": "/m/0h57ksr",
+            "title": "Doraemon",
+            "type": "Nhân vật"
+          },
+          "value": 20,
+          "formattedValue": "20",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/0h57ksr&date=now+7-d&geo=VN"
+        }
+      },
+      {
+        "query": "Ma",
+        "value": 19,
+        "formattedValue": "19",
+        "raw": {
+          "topic": {
+            "mid": "/m/038_l",
+            "title": "Ma",
+            "type": "Chủ đề"
+          },
+          "value": 19,
+          "formattedValue": "19",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/038_l&date=now+7-d&geo=VN"
+        }
+      },
+      {
+        "query": "Bài hát",
+        "value": 17,
+        "formattedValue": "17",
+        "raw": {
+          "topic": {
+            "mid": "/m/074ft",
+            "title": "Bài hát",
+            "type": "Loại sáng tác"
+          },
+          "value": 17,
+          "formattedValue": "17",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/074ft&date=now+7-d&geo=VN"
+        }
+      },
+      {
+        "query": "Hát",
+        "value": 15,
+        "formattedValue": "15",
+        "raw": {
+          "topic": {
+            "mid": "/m/015lz1",
+            "title": "Hát",
+            "type": "Lĩnh vực nghề nghiệp"
+          },
+          "value": 15,
+          "formattedValue": "15",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/015lz1&date=now+7-d&geo=VN"
+        }
+      },
+      {
+        "query": "Ăn",
+        "value": 15,
+        "formattedValue": "15",
+        "raw": {
+          "topic": {
+            "mid": "/m/01f5gx",
+            "title": "Ăn",
+            "type": "Chủ đề"
+          },
+          "value": 15,
+          "formattedValue": "15",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/01f5gx&date=now+7-d&geo=VN"
+        }
+      },
+      {
+        "query": "2026",
+        "value": 14,
+        "formattedValue": "14",
+        "raw": {
+          "topic": {
+            "mid": "/g/11b77d6b6g",
+            "title": "2026",
+            "type": "Chủ đề"
+          },
+          "value": 14,
+          "formattedValue": "14",
+          "hasData": true,
+          "link": "/trends/explore?q=/g/11b77d6b6g&date=now+7-d&geo=VN"
+        }
+      },
+      {
+        "query": "Tiếng Việt",
+        "value": 14,
+        "formattedValue": "14",
+        "raw": {
+          "topic": {
+            "mid": "/m/07zrf",
+            "title": "Tiếng Việt",
+            "type": "Ngôn ngữ"
+          },
+          "value": 14,
+          "formattedValue": "14",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/07zrf&date=now+7-d&geo=VN"
+        }
+      },
+      {
+        "query": "Trò chơi",
+        "value": 13,
+        "formattedValue": "13",
+        "raw": {
+          "topic": {
+            "mid": "/m/03bt1gh",
+            "title": "Trò chơi",
+            "type": "Chủ đề"
+          },
+          "value": 13,
+          "formattedValue": "13",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/03bt1gh&date=now+7-d&geo=VN"
+        }
+      },
+      {
+        "query": "Ngày",
+        "value": 13,
+        "formattedValue": "13",
+        "raw": {
+          "topic": {
+            "mid": "/m/02bbq",
+            "title": "Ngày",
+            "type": "Thời gian"
+          },
+          "value": 13,
+          "formattedValue": "13",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/02bbq&date=now+7-d&geo=VN"
+        }
+      },
+      {
+        "query": "TikTok",
+        "value": 13,
+        "formattedValue": "13",
+        "raw": {
+          "topic": {
+            "mid": "/g/11f555cn8l",
+            "title": "TikTok",
+            "type": "Trang mạng"
+          },
+          "value": 13,
+          "formattedValue": "13",
+          "hasData": true,
+          "link": "/trends/explore?q=/g/11f555cn8l&date=now+7-d&geo=VN"
+        }
+      },
+      {
+        "query": "Kinh dị",
+        "value": 13,
+        "formattedValue": "13",
+        "raw": {
+          "topic": {
+            "mid": "/m/03npn",
+            "title": "Kinh dị",
+            "type": "Thể loại phim"
+          },
+          "value": 13,
+          "formattedValue": "13",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/03npn&date=now+7-d&geo=VN"
+        }
+      },
+      {
+        "query": "Trống",
+        "value": 13,
+        "formattedValue": "13",
+        "raw": {
+          "topic": {
+            "mid": "/m/026t6",
+            "title": "Trống",
+            "type": "Nhạc cụ"
+          },
+          "value": 13,
+          "formattedValue": "13",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/026t6&date=now+7-d&geo=VN"
+        }
+      },
+      {
+        "query": "Trẻ em",
+        "value": 13,
+        "formattedValue": "13",
+        "raw": {
+          "topic": {
+            "mid": "/m/0ytgt",
+            "title": "Trẻ em",
+            "type": "Chủ đề"
+          },
+          "value": 13,
+          "formattedValue": "13",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/0ytgt&date=now+7-d&geo=VN"
+        }
+      },
+      {
+        "query": "Con gái",
+        "value": 12,
+        "formattedValue": "12",
+        "raw": {
+          "topic": {
+            "mid": "/m/05r655",
+            "title": "Con gái",
+            "type": "Chủ đề"
+          },
+          "value": 12,
+          "formattedValue": "12",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/05r655&date=now+7-d&geo=VN"
+        }
+      },
+      {
+        "query": "Người",
+        "value": 11,
+        "formattedValue": "11",
+        "raw": {
+          "topic": {
+            "mid": "/m/0dgw9r",
+            "title": "Người",
+            "type": "Bộ Linh trưởng"
+          },
+          "value": 11,
+          "formattedValue": "11",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/0dgw9r&date=now+7-d&geo=VN"
+        }
+      },
+      {
+        "query": "Ô tô",
+        "value": 11,
+        "formattedValue": "11",
+        "raw": {
+          "topic": {
+            "mid": "/m/0k4j",
+            "title": "Ô tô",
+            "type": "Chế độ phương tiện"
+          },
+          "value": 11,
+          "formattedValue": "11",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/0k4j&date=now+7-d&geo=VN"
+        }
+      },
+      {
+        "query": "Tình yêu",
+        "value": 10,
+        "formattedValue": "10",
+        "raw": {
+          "topic": {
+            "mid": "/m/048knlz",
+            "title": "Tình yêu",
+            "type": "Chủ đề"
+          },
+          "value": 10,
+          "formattedValue": "10",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/048knlz&date=now+7-d&geo=VN"
+        }
+      }
+    ],
+    "rising": [
+      {
+        "query": "Tóc Tiên",
+        "value": 1050,
+        "formattedValue": "+1.050%",
+        "raw": {
+          "topic": {
+            "mid": "/m/0h1f8xj",
+            "title": "Tóc Tiên",
+            "type": "Ca sĩ"
+          },
+          "value": 1050,
+          "formattedValue": "+1.050%",
+          "link": "/trends/explore?q=/m/0h1f8xj&date=now+7-d&geo=VN"
+        }
+      },
+      {
+        "query": "Tik Tok",
+        "value": 600,
+        "formattedValue": "+600%",
+        "raw": {
+          "topic": {
+            "mid": "/g/11fy265933",
+            "title": "Tik Tok",
+            "type": "Công ty"
+          },
+          "value": 600,
+          "formattedValue": "+600%",
+          "link": "/trends/explore?q=/g/11fy265933&date=now+7-d&geo=VN"
+        }
+      },
+      {
+        "query": "Đội tuyển bóng đá U-19 quốc gia Việt Nam",
+        "value": 250,
+        "formattedValue": "+250%",
+        "raw": {
+          "topic": {
+            "mid": "/m/0dlmc1x",
+            "title": "Đội tuyển bóng đá U-19 quốc gia Việt Nam",
+            "type": "Đội bóng đá"
+          },
+          "value": 250,
+          "formattedValue": "+250%",
+          "link": "/trends/explore?q=/m/0dlmc1x&date=now+7-d&geo=VN"
+        }
+      },
+      {
+        "query": "Bóng chuyền",
+        "value": 200,
+        "formattedValue": "+200%",
+        "raw": {
+          "topic": {
+            "mid": "/m/07_53",
+            "title": "Bóng chuyền",
+            "type": "Thể thao"
+          },
+          "value": 200,
+          "formattedValue": "+200%",
+          "link": "/trends/explore?q=/m/07_53&date=now+7-d&geo=VN"
+        }
+      },
+      {
+        "query": "Giải Bóng đá Thế giới 2026",
+        "value": 170,
+        "formattedValue": "+170%",
+        "raw": {
+          "topic": {
+            "mid": "/m/0r4xs1m",
+            "title": "Giải Bóng đá Thế giới 2026",
+            "type": "Mùa giải thể thao"
+          },
+          "value": 170,
+          "formattedValue": "+170%",
+          "link": "/trends/explore?q=/m/0r4xs1m&date=now+7-d&geo=VN"
+        }
+      },
+      {
+        "query": "Giải Bóng đá Vô địch Thế giới",
+        "value": 130,
+        "formattedValue": "+130%",
+        "raw": {
+          "topic": {
+            "mid": "/m/030q7",
+            "title": "Giải Bóng đá Vô địch Thế giới",
+            "type": "Giải bóng đá"
+          },
+          "value": 130,
+          "formattedValue": "+130%",
+          "link": "/trends/explore?q=/m/030q7&date=now+7-d&geo=VN"
+        }
+      },
+      {
+        "query": "Tháng 6",
+        "value": 130,
+        "formattedValue": "+130%",
+        "raw": {
+          "topic": {
+            "mid": "/m/040fb",
+            "title": "Tháng 6",
+            "type": "Tháng"
+          },
+          "value": 130,
+          "formattedValue": "+130%",
+          "link": "/trends/explore?q=/m/040fb&date=now+7-d&geo=VN"
+        }
+      },
+      {
+        "query": "Khánh Linh",
+        "value": 120,
+        "formattedValue": "+120%",
+        "raw": {
+          "topic": {
+            "mid": "/m/0nhwnj4",
+            "title": "Khánh Linh",
+            "type": "Ca sĩ"
+          },
+          "value": 120,
+          "formattedValue": "+120%",
+          "link": "/trends/explore?q=/m/0nhwnj4&date=now+7-d&geo=VN"
+        }
+      },
+      {
+        "query": "Công ty",
+        "value": 110,
+        "formattedValue": "+110%",
+        "raw": {
+          "topic": {
+            "mid": "/g/120z18l3",
+            "title": "Công ty",
+            "type": "Loại hình tổ chức"
+          },
+          "value": 110,
+          "formattedValue": "+110%",
+          "link": "/trends/explore?q=/g/120z18l3&date=now+7-d&geo=VN"
+        }
+      },
+      {
+        "query": "Đánh cá",
+        "value": 80,
+        "formattedValue": "+80%",
+        "raw": {
+          "topic": {
+            "mid": "/m/094jc",
+            "title": "Đánh cá",
+            "type": "Chủ đề"
+          },
+          "value": 80,
+          "formattedValue": "+80%",
+          "link": "/trends/explore?q=/m/094jc&date=now+7-d&geo=VN"
+        }
+      },
+      {
+        "query": "Come My Way",
+        "value": 70,
+        "formattedValue": "+70%",
+        "raw": {
+          "topic": {
+            "mid": "/g/11rd2hf8l0",
+            "title": "Come My Way",
+            "type": "Album nhạc của Wande Coal"
+          },
+          "value": 70,
+          "formattedValue": "+70%",
+          "link": "/trends/explore?q=/g/11rd2hf8l0&date=now+7-d&geo=VN"
+        }
+      },
+      {
+        "query": "Come My Way",
+        "value": 70,
+        "formattedValue": "+70%",
+        "raw": {
+          "topic": {
+            "mid": "/g/11p5zq5tjl",
+            "title": "Come My Way",
+            "type": "Bài hát của Wande Coal"
+          },
+          "value": 70,
+          "formattedValue": "+70%",
+          "link": "/trends/explore?q=/g/11p5zq5tjl&date=now+7-d&geo=VN"
+        }
+      },
+      {
+        "query": "Sau Này Em Cưới Ai Rồi",
+        "value": 40,
+        "formattedValue": "+40%",
+        "raw": {
+          "topic": {
+            "mid": "/g/11xl_n3k07",
+            "title": "Sau Này Em Cưới Ai Rồi",
+            "type": "Bài hát của An Clock và Thái Học"
+          },
+          "value": 40,
+          "formattedValue": "+40%",
+          "link": "/trends/explore?q=/g/11xl_n3k07&date=now+7-d&geo=VN"
+        }
+      }
+    ]
+  },
+  "queries": {
+    "top": [
+      {
         "query": "nhạc",
         "value": 100,
         "formattedValue": "100",
-        "hasData": true,
-        "link": "/trends/explore?q=nh%E1%BA%A1c&date=now+7-d&geo=VN"
-      }
-    },
-    {
-      "query": "phim",
-      "value": 97,
-      "formattedValue": "97",
-      "raw": {
+        "raw": {
+          "query": "nhạc",
+          "value": 100,
+          "formattedValue": "100",
+          "hasData": true,
+          "link": "/trends/explore?q=nh%E1%BA%A1c&date=now+7-d&geo=VN"
+        }
+      },
+      {
         "query": "phim",
-        "value": 97,
-        "formattedValue": "97",
-        "hasData": true,
-        "link": "/trends/explore?q=phim&date=now+7-d&geo=VN"
-      }
-    },
-    {
-      "query": "karaoke",
-      "value": 85,
-      "formattedValue": "85",
-      "raw": {
+        "value": 98,
+        "formattedValue": "98",
+        "raw": {
+          "query": "phim",
+          "value": 98,
+          "formattedValue": "98",
+          "hasData": true,
+          "link": "/trends/explore?q=phim&date=now+7-d&geo=VN"
+        }
+      },
+      {
         "query": "karaoke",
-        "value": 85,
-        "formattedValue": "85",
-        "hasData": true,
-        "link": "/trends/explore?q=karaoke&date=now+7-d&geo=VN"
-      }
-    },
-    {
-      "query": "em",
-      "value": 74,
-      "formattedValue": "74",
-      "raw": {
+        "value": 82,
+        "formattedValue": "82",
+        "raw": {
+          "query": "karaoke",
+          "value": 82,
+          "formattedValue": "82",
+          "hasData": true,
+          "link": "/trends/explore?q=karaoke&date=now+7-d&geo=VN"
+        }
+      },
+      {
         "query": "em",
-        "value": 74,
-        "formattedValue": "74",
-        "hasData": true,
-        "link": "/trends/explore?q=em&date=now+7-d&geo=VN"
-      }
-    },
-    {
-      "query": "remix",
-      "value": 53,
-      "formattedValue": "53",
-      "raw": {
+        "value": 71,
+        "formattedValue": "71",
+        "raw": {
+          "query": "em",
+          "value": 71,
+          "formattedValue": "71",
+          "hasData": true,
+          "link": "/trends/explore?q=em&date=now+7-d&geo=VN"
+        }
+      },
+      {
         "query": "remix",
         "value": 53,
         "formattedValue": "53",
-        "hasData": true,
-        "link": "/trends/explore?q=remix&date=now+7-d&geo=VN"
-      }
-    },
-    {
-      "query": "ma",
-      "value": 41,
-      "formattedValue": "41",
-      "raw": {
+        "raw": {
+          "query": "remix",
+          "value": 53,
+          "formattedValue": "53",
+          "hasData": true,
+          "link": "/trends/explore?q=remix&date=now+7-d&geo=VN"
+        }
+      },
+      {
         "query": "ma",
-        "value": 41,
-        "formattedValue": "41",
-        "hasData": true,
-        "link": "/trends/explore?q=ma&date=now+7-d&geo=VN"
-      }
-    },
-    {
-      "query": "doraemon",
-      "value": 26,
-      "formattedValue": "26",
-      "raw": {
+        "value": 39,
+        "formattedValue": "39",
+        "raw": {
+          "query": "ma",
+          "value": 39,
+          "formattedValue": "39",
+          "hasData": true,
+          "link": "/trends/explore?q=ma&date=now+7-d&geo=VN"
+        }
+      },
+      {
         "query": "doraemon",
         "value": 26,
         "formattedValue": "26",
-        "hasData": true,
-        "link": "/trends/explore?q=doraemon&date=now+7-d&geo=VN"
-      }
-    },
-    {
-      "query": "review phim",
-      "value": 25,
-      "formattedValue": "25",
-      "raw": {
+        "raw": {
+          "query": "doraemon",
+          "value": 26,
+          "formattedValue": "26",
+          "hasData": true,
+          "link": "/trends/explore?q=doraemon&date=now+7-d&geo=VN"
+        }
+      },
+      {
         "query": "review phim",
-        "value": 25,
-        "formattedValue": "25",
-        "hasData": true,
-        "link": "/trends/explore?q=review+phim&date=now+7-d&geo=VN"
-      }
-    },
-    {
-      "query": "cá",
-      "value": 22,
-      "formattedValue": "22",
-      "raw": {
+        "value": 24,
+        "formattedValue": "24",
+        "raw": {
+          "query": "review phim",
+          "value": 24,
+          "formattedValue": "24",
+          "hasData": true,
+          "link": "/trends/explore?q=review+phim&date=now+7-d&geo=VN"
+        }
+      },
+      {
         "query": "cá",
-        "value": 22,
-        "formattedValue": "22",
-        "hasData": true,
-        "link": "/trends/explore?q=c%C3%A1&date=now+7-d&geo=VN"
-      }
-    },
-    {
-      "query": "nhac",
-      "value": 20,
-      "formattedValue": "20",
-      "raw": {
+        "value": 21,
+        "formattedValue": "21",
+        "raw": {
+          "query": "cá",
+          "value": 21,
+          "formattedValue": "21",
+          "hasData": true,
+          "link": "/trends/explore?q=c%C3%A1&date=now+7-d&geo=VN"
+        }
+      },
+      {
         "query": "nhac",
-        "value": 20,
-        "formattedValue": "20",
-        "hasData": true,
-        "link": "/trends/explore?q=nhac&date=now+7-d&geo=VN"
-      }
-    },
-    {
-      "query": "audio",
-      "value": 19,
-      "formattedValue": "19",
-      "raw": {
+        "value": 19,
+        "formattedValue": "19",
+        "raw": {
+          "query": "nhac",
+          "value": 19,
+          "formattedValue": "19",
+          "hasData": true,
+          "link": "/trends/explore?q=nhac&date=now+7-d&geo=VN"
+        }
+      },
+      {
         "query": "audio",
-        "value": 19,
-        "formattedValue": "19",
-        "hasData": true,
-        "link": "/trends/explore?q=audio&date=now+7-d&geo=VN"
-      }
-    },
-    {
-      "query": "nhạc remix",
-      "value": 19,
-      "formattedValue": "19",
-      "raw": {
-        "query": "nhạc remix",
-        "value": 19,
-        "formattedValue": "19",
-        "hasData": true,
-        "link": "/trends/explore?q=nh%E1%BA%A1c+remix&date=now+7-d&geo=VN"
-      }
-    },
-    {
-      "query": "việt nam",
-      "value": 18,
-      "formattedValue": "18",
-      "raw": {
-        "query": "việt nam",
         "value": 18,
         "formattedValue": "18",
-        "hasData": true,
-        "link": "/trends/explore?q=vi%E1%BB%87t+nam&date=now+7-d&geo=VN"
-      }
-    },
-    {
-      "query": "tiktok",
-      "value": 15,
-      "formattedValue": "15",
-      "raw": {
+        "raw": {
+          "query": "audio",
+          "value": 18,
+          "formattedValue": "18",
+          "hasData": true,
+          "link": "/trends/explore?q=audio&date=now+7-d&geo=VN"
+        }
+      },
+      {
+        "query": "nhạc remix",
+        "value": 18,
+        "formattedValue": "18",
+        "raw": {
+          "query": "nhạc remix",
+          "value": 18,
+          "formattedValue": "18",
+          "hasData": true,
+          "link": "/trends/explore?q=nh%E1%BA%A1c+remix&date=now+7-d&geo=VN"
+        }
+      },
+      {
+        "query": "việt nam",
+        "value": 17,
+        "formattedValue": "17",
+        "raw": {
+          "query": "việt nam",
+          "value": 17,
+          "formattedValue": "17",
+          "hasData": true,
+          "link": "/trends/explore?q=vi%E1%BB%87t+nam&date=now+7-d&geo=VN"
+        }
+      },
+      {
         "query": "tiktok",
-        "value": 15,
-        "formattedValue": "15",
-        "hasData": true,
-        "link": "/trends/explore?q=tiktok&date=now+7-d&geo=VN"
-      }
-    },
-    {
-      "query": "con vịt",
-      "value": 12,
-      "formattedValue": "12",
-      "raw": {
+        "value": 13,
+        "formattedValue": "13",
+        "raw": {
+          "query": "tiktok",
+          "value": 13,
+          "formattedValue": "13",
+          "hasData": true,
+          "link": "/trends/explore?q=tiktok&date=now+7-d&geo=VN"
+        }
+      },
+      {
         "query": "con vịt",
         "value": 12,
         "formattedValue": "12",
-        "hasData": true,
-        "link": "/trends/explore?q=con+v%E1%BB%8Bt&date=now+7-d&geo=VN"
-      }
-    },
-    {
-      "query": "nhạc karaoke",
-      "value": 12,
-      "formattedValue": "12",
-      "raw": {
+        "raw": {
+          "query": "con vịt",
+          "value": 12,
+          "formattedValue": "12",
+          "hasData": true,
+          "link": "/trends/explore?q=con+v%E1%BB%8Bt&date=now+7-d&geo=VN"
+        }
+      },
+      {
         "query": "nhạc karaoke",
-        "value": 12,
-        "formattedValue": "12",
-        "hasData": true,
-        "link": "/trends/explore?q=nh%E1%BA%A1c+karaoke&date=now+7-d&geo=VN"
-      }
-    },
-    {
-      "query": "phim ma",
-      "value": 12,
-      "formattedValue": "12",
-      "raw": {
+        "value": 11,
+        "formattedValue": "11",
+        "raw": {
+          "query": "nhạc karaoke",
+          "value": 11,
+          "formattedValue": "11",
+          "hasData": true,
+          "link": "/trends/explore?q=nh%E1%BA%A1c+karaoke&date=now+7-d&geo=VN"
+        }
+      },
+      {
         "query": "phim ma",
-        "value": 12,
-        "formattedValue": "12",
-        "hasData": true,
-        "link": "/trends/explore?q=phim+ma&date=now+7-d&geo=VN"
-      }
-    },
-    {
-      "query": "anime",
-      "value": 11,
-      "formattedValue": "11",
-      "raw": {
+        "value": 11,
+        "formattedValue": "11",
+        "raw": {
+          "query": "phim ma",
+          "value": 11,
+          "formattedValue": "11",
+          "hasData": true,
+          "link": "/trends/explore?q=phim+ma&date=now+7-d&geo=VN"
+        }
+      },
+      {
         "query": "anime",
-        "value": 11,
-        "formattedValue": "11",
-        "hasData": true,
-        "link": "/trends/explore?q=anime&date=now+7-d&geo=VN"
-      }
-    },
-    {
-      "query": "roblox",
-      "value": 11,
-      "formattedValue": "11",
-      "raw": {
+        "value": 10,
+        "formattedValue": "10",
+        "raw": {
+          "query": "anime",
+          "value": 10,
+          "formattedValue": "10",
+          "hasData": true,
+          "link": "/trends/explore?q=anime&date=now+7-d&geo=VN"
+        }
+      },
+      {
         "query": "roblox",
-        "value": 11,
-        "formattedValue": "11",
-        "hasData": true,
-        "link": "/trends/explore?q=roblox&date=now+7-d&geo=VN"
-      }
-    },
-    {
-      "query": "bài hát",
-      "value": 10,
-      "formattedValue": "10",
-      "raw": {
+        "value": 10,
+        "formattedValue": "10",
+        "raw": {
+          "query": "roblox",
+          "value": 10,
+          "formattedValue": "10",
+          "hasData": true,
+          "link": "/trends/explore?q=roblox&date=now+7-d&geo=VN"
+        }
+      },
+      {
         "query": "bài hát",
         "value": 10,
         "formattedValue": "10",
-        "hasData": true,
-        "link": "/trends/explore?q=b%C3%A0i+h%C3%A1t&date=now+7-d&geo=VN"
-      }
-    },
-    {
-      "query": "ca nhạc",
-      "value": 10,
-      "formattedValue": "10",
-      "raw": {
+        "raw": {
+          "query": "bài hát",
+          "value": 10,
+          "formattedValue": "10",
+          "hasData": true,
+          "link": "/trends/explore?q=b%C3%A0i+h%C3%A1t&date=now+7-d&geo=VN"
+        }
+      },
+      {
         "query": "ca nhạc",
         "value": 10,
         "formattedValue": "10",
-        "hasData": true,
-        "link": "/trends/explore?q=ca+nh%E1%BA%A1c&date=now+7-d&geo=VN"
-      }
-    },
-    {
-      "query": "thiếu nhi",
-      "value": 10,
-      "formattedValue": "10",
-      "raw": {
+        "raw": {
+          "query": "ca nhạc",
+          "value": 10,
+          "formattedValue": "10",
+          "hasData": true,
+          "link": "/trends/explore?q=ca+nh%E1%BA%A1c&date=now+7-d&geo=VN"
+        }
+      },
+      {
         "query": "thiếu nhi",
-        "value": 10,
-        "formattedValue": "10",
-        "hasData": true,
-        "link": "/trends/explore?q=thi%E1%BA%BFu+nhi&date=now+7-d&geo=VN"
-      }
-    },
-    {
-      "query": "vietsub",
-      "value": 9,
-      "formattedValue": "9",
-      "raw": {
-        "query": "vietsub",
         "value": 9,
         "formattedValue": "9",
-        "hasData": true,
-        "link": "/trends/explore?q=vietsub&date=now+7-d&geo=VN"
-      }
-    },
-    {
-      "query": "minecraft",
-      "value": 9,
-      "formattedValue": "9",
-      "raw": {
+        "raw": {
+          "query": "thiếu nhi",
+          "value": 9,
+          "formattedValue": "9",
+          "hasData": true,
+          "link": "/trends/explore?q=thi%E1%BA%BFu+nhi&date=now+7-d&geo=VN"
+        }
+      },
+      {
         "query": "minecraft",
-        "value": 9,
-        "formattedValue": "9",
-        "hasData": true,
-        "link": "/trends/explore?q=minecraft&date=now+7-d&geo=VN"
-      }
-    },
-    {
-      "query": "tổng tài",
-      "value": 8,
-      "formattedValue": "8",
-      "raw": {
+        "value": 8,
+        "formattedValue": "8",
+        "raw": {
+          "query": "minecraft",
+          "value": 8,
+          "formattedValue": "8",
+          "hasData": true,
+          "link": "/trends/explore?q=minecraft&date=now+7-d&geo=VN"
+        }
+      },
+      {
         "query": "tổng tài",
         "value": 8,
         "formattedValue": "8",
-        "hasData": true,
-        "link": "/trends/explore?q=t%E1%BB%95ng+t%C3%A0i&date=now+7-d&geo=VN"
+        "raw": {
+          "query": "tổng tài",
+          "value": 8,
+          "formattedValue": "8",
+          "hasData": true,
+          "link": "/trends/explore?q=t%E1%BB%95ng+t%C3%A0i&date=now+7-d&geo=VN"
+        }
+      },
+      {
+        "query": "vietsub",
+        "value": 8,
+        "formattedValue": "8",
+        "raw": {
+          "query": "vietsub",
+          "value": 8,
+          "formattedValue": "8",
+          "hasData": true,
+          "link": "/trends/explore?q=vietsub&date=now+7-d&geo=VN"
+        }
       }
-    }
-  ],
-  "risingQueries": [
-    {
-      "query": "giải bóng đá thế giới 2026",
-      "value": 2900,
-      "formattedValue": "+2.900%",
-      "raw": {
+    ],
+    "rising": [
+      {
         "query": "giải bóng đá thế giới 2026",
-        "value": 2900,
-        "formattedValue": "+2.900%",
-        "link": "/trends/explore?q=gi%E1%BA%A3i+b%C3%B3ng+%C4%91%C3%A1+th%E1%BA%BF+gi%E1%BB%9Bi+2026&date=now+7-d&geo=VN"
-      }
-    },
-    {
-      "query": "phía bên kia thành phố tập 9",
-      "value": 1150,
-      "formattedValue": "+1.150%",
-      "raw": {
+        "value": 2850,
+        "formattedValue": "+2.850%",
+        "raw": {
+          "query": "giải bóng đá thế giới 2026",
+          "value": 2850,
+          "formattedValue": "+2.850%",
+          "link": "/trends/explore?q=gi%E1%BA%A3i+b%C3%B3ng+%C4%91%C3%A1+th%E1%BA%BF+gi%E1%BB%9Bi+2026&date=now+7-d&geo=VN"
+        }
+      },
+      {
         "query": "phía bên kia thành phố tập 9",
-        "value": 1150,
-        "formattedValue": "+1.150%",
-        "link": "/trends/explore?q=ph%C3%ADa+b%C3%AAn+kia+th%C3%A0nh+ph%E1%BB%91+t%E1%BA%ADp+9&date=now+7-d&geo=VN"
-      }
-    },
-    {
-      "query": "toc tien",
-      "value": 1000,
-      "formattedValue": "+1.000%",
-      "raw": {
+        "value": 1200,
+        "formattedValue": "+1.200%",
+        "raw": {
+          "query": "phía bên kia thành phố tập 9",
+          "value": 1200,
+          "formattedValue": "+1.200%",
+          "link": "/trends/explore?q=ph%C3%ADa+b%C3%AAn+kia+th%C3%A0nh+ph%E1%BB%91+t%E1%BA%ADp+9&date=now+7-d&geo=VN"
+        }
+      },
+      {
         "query": "toc tien",
-        "value": 1000,
-        "formattedValue": "+1.000%",
-        "link": "/trends/explore?q=toc+tien&date=now+7-d&geo=VN"
-      }
-    },
-    {
-      "query": "tóc tiên",
-      "value": 850,
-      "formattedValue": "+850%",
-      "raw": {
+        "value": 950,
+        "formattedValue": "+950%",
+        "raw": {
+          "query": "toc tien",
+          "value": 950,
+          "formattedValue": "+950%",
+          "link": "/trends/explore?q=toc+tien&date=now+7-d&geo=VN"
+        }
+      },
+      {
         "query": "tóc tiên",
-        "value": 850,
-        "formattedValue": "+850%",
-        "link": "/trends/explore?q=t%C3%B3c+ti%C3%AAn&date=now+7-d&geo=VN"
-      }
-    },
-    {
-      "query": "say hi rực rỡ",
-      "value": 500,
-      "formattedValue": "+500%",
-      "raw": {
+        "value": 900,
+        "formattedValue": "+900%",
+        "raw": {
+          "query": "tóc tiên",
+          "value": 900,
+          "formattedValue": "+900%",
+          "link": "/trends/explore?q=t%C3%B3c+ti%C3%AAn&date=now+7-d&geo=VN"
+        }
+      },
+      {
         "query": "say hi rực rỡ",
         "value": 500,
         "formattedValue": "+500%",
-        "link": "/trends/explore?q=say+hi+r%E1%BB%B1c+r%E1%BB%A1&date=now+7-d&geo=VN"
-      }
-    },
-    {
-      "query": "fifa world cup",
-      "value": 250,
-      "formattedValue": "+250%",
-      "raw": {
+        "raw": {
+          "query": "say hi rực rỡ",
+          "value": 500,
+          "formattedValue": "+500%",
+          "link": "/trends/explore?q=say+hi+r%E1%BB%B1c+r%E1%BB%A1&date=now+7-d&geo=VN"
+        }
+      },
+      {
         "query": "fifa world cup",
         "value": 250,
         "formattedValue": "+250%",
-        "link": "/trends/explore?q=fifa+world+cup&date=now+7-d&geo=VN"
-      }
-    },
-    {
-      "query": "phía bên kia thành phố",
-      "value": 250,
-      "formattedValue": "+250%",
-      "raw": {
+        "raw": {
+          "query": "fifa world cup",
+          "value": 250,
+          "formattedValue": "+250%",
+          "link": "/trends/explore?q=fifa+world+cup&date=now+7-d&geo=VN"
+        }
+      },
+      {
         "query": "phía bên kia thành phố",
-        "value": 250,
-        "formattedValue": "+250%",
-        "link": "/trends/explore?q=ph%C3%ADa+b%C3%AAn+kia+th%C3%A0nh+ph%E1%BB%91&date=now+7-d&geo=VN"
-      }
-    },
-    {
-      "query": "đừng đóng vai anh",
-      "value": 180,
-      "formattedValue": "+180%",
-      "raw": {
-        "query": "đừng đóng vai anh",
-        "value": 180,
-        "formattedValue": "+180%",
-        "link": "/trends/explore?q=%C4%91%E1%BB%ABng+%C4%91%C3%B3ng+vai+anh&date=now+7-d&geo=VN"
-      }
-    },
-    {
-      "query": "thỏ ơi",
-      "value": 170,
-      "formattedValue": "+170%",
-      "raw": {
+        "value": 200,
+        "formattedValue": "+200%",
+        "raw": {
+          "query": "phía bên kia thành phố",
+          "value": 200,
+          "formattedValue": "+200%",
+          "link": "/trends/explore?q=ph%C3%ADa+b%C3%AAn+kia+th%C3%A0nh+ph%E1%BB%91&date=now+7-d&geo=VN"
+        }
+      },
+      {
         "query": "thỏ ơi",
         "value": 170,
         "formattedValue": "+170%",
-        "link": "/trends/explore?q=th%E1%BB%8F+%C6%A1i&date=now+7-d&geo=VN"
-      }
-    },
-    {
-      "query": "world cup 2026",
-      "value": 90,
-      "formattedValue": "+90%",
-      "raw": {
+        "raw": {
+          "query": "thỏ ơi",
+          "value": 170,
+          "formattedValue": "+170%",
+          "link": "/trends/explore?q=th%E1%BB%8F+%C6%A1i&date=now+7-d&geo=VN"
+        }
+      },
+      {
+        "query": "đừng đóng vai anh",
+        "value": 150,
+        "formattedValue": "+150%",
+        "raw": {
+          "query": "đừng đóng vai anh",
+          "value": 150,
+          "formattedValue": "+150%",
+          "link": "/trends/explore?q=%C4%91%E1%BB%ABng+%C4%91%C3%B3ng+vai+anh&date=now+7-d&geo=VN"
+        }
+      },
+      {
         "query": "world cup 2026",
-        "value": 90,
-        "formattedValue": "+90%",
-        "link": "/trends/explore?q=world+cup+2026&date=now+7-d&geo=VN"
-      }
-    },
-    {
-      "query": "anh trai và cái đuôi nhỏ",
-      "value": 70,
-      "formattedValue": "+70%",
-      "raw": {
+        "value": 80,
+        "formattedValue": "+80%",
+        "raw": {
+          "query": "world cup 2026",
+          "value": 80,
+          "formattedValue": "+80%",
+          "link": "/trends/explore?q=world+cup+2026&date=now+7-d&geo=VN"
+        }
+      },
+      {
+        "query": "bong da truc tiep hom nay",
+        "value": 70,
+        "formattedValue": "+70%",
+        "raw": {
+          "query": "bong da truc tiep hom nay",
+          "value": 70,
+          "formattedValue": "+70%",
+          "link": "/trends/explore?q=bong+da+truc+tiep+hom+nay&date=now+7-d&geo=VN"
+        }
+      },
+      {
         "query": "anh trai và cái đuôi nhỏ",
         "value": 70,
         "formattedValue": "+70%",
-        "link": "/trends/explore?q=anh+trai+v%C3%A0+c%C3%A1i+%C4%91u%C3%B4i+nh%E1%BB%8F&date=now+7-d&geo=VN"
-      }
-    },
-    {
-      "query": "kairon tv",
-      "value": 60,
-      "formattedValue": "+60%",
-      "raw": {
+        "raw": {
+          "query": "anh trai và cái đuôi nhỏ",
+          "value": 70,
+          "formattedValue": "+70%",
+          "link": "/trends/explore?q=anh+trai+v%C3%A0+c%C3%A1i+%C4%91u%C3%B4i+nh%E1%BB%8F&date=now+7-d&geo=VN"
+        }
+      },
+      {
         "query": "kairon tv",
         "value": 60,
         "formattedValue": "+60%",
-        "link": "/trends/explore?q=kairon+tv&date=now+7-d&geo=VN"
-      }
-    },
-    {
-      "query": "khánh linh ff",
-      "value": 60,
-      "formattedValue": "+60%",
-      "raw": {
+        "raw": {
+          "query": "kairon tv",
+          "value": 60,
+          "formattedValue": "+60%",
+          "link": "/trends/explore?q=kairon+tv&date=now+7-d&geo=VN"
+        }
+      },
+      {
         "query": "khánh linh ff",
         "value": 60,
         "formattedValue": "+60%",
-        "link": "/trends/explore?q=kh%C3%A1nh+linh+ff&date=now+7-d&geo=VN"
-      }
-    },
-    {
-      "query": "quang con",
-      "value": 40,
-      "formattedValue": "+40%",
-      "raw": {
+        "raw": {
+          "query": "khánh linh ff",
+          "value": 60,
+          "formattedValue": "+60%",
+          "link": "/trends/explore?q=kh%C3%A1nh+linh+ff&date=now+7-d&geo=VN"
+        }
+      },
+      {
         "query": "quang con",
         "value": 40,
         "formattedValue": "+40%",
-        "link": "/trends/explore?q=quang+con&date=now+7-d&geo=VN"
+        "raw": {
+          "query": "quang con",
+          "value": 40,
+          "formattedValue": "+40%",
+          "link": "/trends/explore?q=quang+con&date=now+7-d&geo=VN"
+        }
       }
-    },
-    {
-      "query": "k1 gaming",
-      "value": 40,
-      "formattedValue": "+40%",
-      "raw": {
-        "query": "k1 gaming",
-        "value": 40,
-        "formattedValue": "+40%",
-        "link": "/trends/explore?q=k1+gaming&date=now+7-d&geo=VN"
-      }
-    }
-  ]
+    ]
+  }
 }
