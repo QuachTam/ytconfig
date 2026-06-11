@@ -1,0 +1,582 @@
+{
+  "status": "success",
+  "topQueries": [
+    {
+      "query": "news",
+      "value": 100,
+      "formattedValue": "100",
+      "raw": {
+        "query": "news",
+        "value": 100,
+        "formattedValue": "100",
+        "hasData": true,
+        "link": "/trends/explore?q=news&date=now+7-d&geo=CH"
+      }
+    },
+    {
+      "query": "song",
+      "value": 87,
+      "formattedValue": "87",
+      "raw": {
+        "query": "song",
+        "value": 87,
+        "formattedValue": "87",
+        "hasData": true,
+        "link": "/trends/explore?q=song&date=now+7-d&geo=CH"
+      }
+    },
+    {
+      "query": "music",
+      "value": 69,
+      "formattedValue": "69",
+      "raw": {
+        "query": "music",
+        "value": 69,
+        "formattedValue": "69",
+        "hasData": true,
+        "link": "/trends/explore?q=music&date=now+7-d&geo=CH"
+      }
+    },
+    {
+      "query": "film",
+      "value": 54,
+      "formattedValue": "54",
+      "raw": {
+        "query": "film",
+        "value": 54,
+        "formattedValue": "54",
+        "hasData": true,
+        "link": "/trends/explore?q=film&date=now+7-d&geo=CH"
+      }
+    },
+    {
+      "query": "songs",
+      "value": 43,
+      "formattedValue": "43",
+      "raw": {
+        "query": "songs",
+        "value": 43,
+        "formattedValue": "43",
+        "hasData": true,
+        "link": "/trends/explore?q=songs&date=now+7-d&geo=CH"
+      }
+    },
+    {
+      "query": "minecraft",
+      "value": 29,
+      "formattedValue": "29",
+      "raw": {
+        "query": "minecraft",
+        "value": 29,
+        "formattedValue": "29",
+        "hasData": true,
+        "link": "/trends/explore?q=minecraft&date=now+7-d&geo=CH"
+      }
+    },
+    {
+      "query": "asmr",
+      "value": 29,
+      "formattedValue": "29",
+      "raw": {
+        "query": "asmr",
+        "value": 29,
+        "formattedValue": "29",
+        "hasData": true,
+        "link": "/trends/explore?q=asmr&date=now+7-d&geo=CH"
+      }
+    },
+    {
+      "query": "michael jackson",
+      "value": 23,
+      "formattedValue": "23",
+      "raw": {
+        "query": "michael jackson",
+        "value": 23,
+        "formattedValue": "23",
+        "hasData": true,
+        "link": "/trends/explore?q=michael+jackson&date=now+7-d&geo=CH"
+      }
+    },
+    {
+      "query": "кс",
+      "value": 22,
+      "formattedValue": "22",
+      "raw": {
+        "query": "кс",
+        "value": 22,
+        "formattedValue": "22",
+        "hasData": true,
+        "link": "/trends/explore?q=%D0%BA%D1%81&date=now+7-d&geo=CH"
+      }
+    },
+    {
+      "query": "musique",
+      "value": 21,
+      "formattedValue": "21",
+      "raw": {
+        "query": "musique",
+        "value": 21,
+        "formattedValue": "21",
+        "hasData": true,
+        "link": "/trends/explore?q=musique&date=now+7-d&geo=CH"
+      }
+    },
+    {
+      "query": "musik",
+      "value": 21,
+      "formattedValue": "21",
+      "raw": {
+        "query": "musik",
+        "value": 21,
+        "formattedValue": "21",
+        "hasData": true,
+        "link": "/trends/explore?q=musik&date=now+7-d&geo=CH"
+      }
+    },
+    {
+      "query": "roblox",
+      "value": 20,
+      "formattedValue": "20",
+      "raw": {
+        "query": "roblox",
+        "value": 20,
+        "formattedValue": "20",
+        "hasData": true,
+        "link": "/trends/explore?q=roblox&date=now+7-d&geo=CH"
+      }
+    },
+    {
+      "query": "karaoke",
+      "value": 19,
+      "formattedValue": "19",
+      "raw": {
+        "query": "karaoke",
+        "value": 19,
+        "formattedValue": "19",
+        "hasData": true,
+        "link": "/trends/explore?q=karaoke&date=now+7-d&geo=CH"
+      }
+    },
+    {
+      "query": "doku",
+      "value": 18,
+      "formattedValue": "18",
+      "raw": {
+        "query": "doku",
+        "value": 18,
+        "formattedValue": "18",
+        "hasData": true,
+        "link": "/trends/explore?q=doku&date=now+7-d&geo=CH"
+      }
+    },
+    {
+      "query": "piano",
+      "value": 17,
+      "formattedValue": "17",
+      "raw": {
+        "query": "piano",
+        "value": 17,
+        "formattedValue": "17",
+        "hasData": true,
+        "link": "/trends/explore?q=piano&date=now+7-d&geo=CH"
+      }
+    },
+    {
+      "query": "cs",
+      "value": 15,
+      "formattedValue": "15",
+      "raw": {
+        "query": "cs",
+        "value": 15,
+        "formattedValue": "15",
+        "hasData": true,
+        "link": "/trends/explore?q=cs&date=now+7-d&geo=CH"
+      }
+    },
+    {
+      "query": "youtube",
+      "value": 13,
+      "formattedValue": "13",
+      "raw": {
+        "query": "youtube",
+        "value": 13,
+        "formattedValue": "13",
+        "hasData": true,
+        "link": "/trends/explore?q=youtube&date=now+7-d&geo=CH"
+      }
+    },
+    {
+      "query": "shorts",
+      "value": 13,
+      "formattedValue": "13",
+      "raw": {
+        "query": "shorts",
+        "value": 13,
+        "formattedValue": "13",
+        "hasData": true,
+        "link": "/trends/explore?q=shorts&date=now+7-d&geo=CH"
+      }
+    },
+    {
+      "query": "tiktok",
+      "value": 12,
+      "formattedValue": "12",
+      "raw": {
+        "query": "tiktok",
+        "value": 12,
+        "formattedValue": "12",
+        "hasData": true,
+        "link": "/trends/explore?q=tiktok&date=now+7-d&geo=CH"
+      }
+    },
+    {
+      "query": "кс 2",
+      "value": 12,
+      "formattedValue": "12",
+      "raw": {
+        "query": "кс 2",
+        "value": 12,
+        "formattedValue": "12",
+        "hasData": true,
+        "link": "/trends/explore?q=%D0%BA%D1%81+2&date=now+7-d&geo=CH"
+      }
+    },
+    {
+      "query": "ukraine",
+      "value": 12,
+      "formattedValue": "12",
+      "raw": {
+        "query": "ukraine",
+        "value": 12,
+        "formattedValue": "12",
+        "hasData": true,
+        "link": "/trends/explore?q=ukraine&date=now+7-d&geo=CH"
+      }
+    },
+    {
+      "query": "srf",
+      "value": 12,
+      "formattedValue": "12",
+      "raw": {
+        "query": "srf",
+        "value": 12,
+        "formattedValue": "12",
+        "hasData": true,
+        "link": "/trends/explore?q=srf&date=now+7-d&geo=CH"
+      }
+    },
+    {
+      "query": "musica",
+      "value": 11,
+      "formattedValue": "11",
+      "raw": {
+        "query": "musica",
+        "value": 11,
+        "formattedValue": "11",
+        "hasData": true,
+        "link": "/trends/explore?q=musica&date=now+7-d&geo=CH"
+      }
+    },
+    {
+      "query": "shakira",
+      "value": 11,
+      "formattedValue": "11",
+      "raw": {
+        "query": "shakira",
+        "value": 11,
+        "formattedValue": "11",
+        "hasData": true,
+        "link": "/trends/explore?q=shakira&date=now+7-d&geo=CH"
+      }
+    },
+    {
+      "query": "elita 9",
+      "value": 11,
+      "formattedValue": "11",
+      "raw": {
+        "query": "elita 9",
+        "value": 11,
+        "formattedValue": "11",
+        "hasData": true,
+        "link": "/trends/explore?q=elita+9&date=now+7-d&geo=CH"
+      }
+    }
+  ],
+  "risingQueries": [
+    {
+      "query": "patrick fischer",
+      "value": 1850,
+      "formattedValue": "+1.850%",
+      "raw": {
+        "query": "patrick fischer",
+        "value": 1850,
+        "formattedValue": "+1.850%",
+        "link": "/trends/explore?q=patrick+fischer&date=now+7-d&geo=CH"
+      }
+    },
+    {
+      "query": "france irlande du nord",
+      "value": 1550,
+      "formattedValue": "+1.550%",
+      "raw": {
+        "query": "france irlande du nord",
+        "value": 1550,
+        "formattedValue": "+1.550%",
+        "link": "/trends/explore?q=france+irlande+du+nord&date=now+7-d&geo=CH"
+      }
+    },
+    {
+      "query": "belfast",
+      "value": 1400,
+      "formattedValue": "+1.400%",
+      "raw": {
+        "query": "belfast",
+        "value": 1400,
+        "formattedValue": "+1.400%",
+        "link": "/trends/explore?q=belfast&date=now+7-d&geo=CH"
+      }
+    },
+    {
+      "query": "nintendo direct",
+      "value": 1350,
+      "formattedValue": "+1.350%",
+      "raw": {
+        "query": "nintendo direct",
+        "value": 1350,
+        "formattedValue": "+1.350%",
+        "link": "/trends/explore?q=nintendo+direct&date=now+7-d&geo=CH"
+      }
+    },
+    {
+      "query": "iconic by mistake",
+      "value": 1350,
+      "formattedValue": "+1.350%",
+      "raw": {
+        "query": "iconic by mistake",
+        "value": 1350,
+        "formattedValue": "+1.350%",
+        "link": "/trends/explore?q=iconic+by+mistake&date=now+7-d&geo=CH"
+      }
+    },
+    {
+      "query": "summer game fest 2026",
+      "value": 1050,
+      "formattedValue": "+1.050%",
+      "raw": {
+        "query": "summer game fest 2026",
+        "value": 1050,
+        "formattedValue": "+1.050%",
+        "link": "/trends/explore?q=summer+game+fest+2026&date=now+7-d&geo=CH"
+      }
+    },
+    {
+      "query": "belfast attack",
+      "value": 1000,
+      "formattedValue": "+1.000%",
+      "raw": {
+        "query": "belfast attack",
+        "value": 1000,
+        "formattedValue": "+1.000%",
+        "link": "/trends/explore?q=belfast+attack&date=now+7-d&geo=CH"
+      }
+    },
+    {
+      "query": "guild wars 3",
+      "value": 700,
+      "formattedValue": "+700%",
+      "raw": {
+        "query": "guild wars 3",
+        "value": 700,
+        "formattedValue": "+700%",
+        "link": "/trends/explore?q=guild+wars+3&date=now+7-d&geo=CH"
+      }
+    },
+    {
+      "query": "du bist gut genug shirin david",
+      "value": 600,
+      "formattedValue": "+600%",
+      "raw": {
+        "query": "du bist gut genug shirin david",
+        "value": 600,
+        "formattedValue": "+600%",
+        "link": "/trends/explore?q=du+bist+gut+genug+shirin+david&date=now+7-d&geo=CH"
+      }
+    },
+    {
+      "query": "mister v",
+      "value": 400,
+      "formattedValue": "+400%",
+      "raw": {
+        "query": "mister v",
+        "value": 400,
+        "formattedValue": "+400%",
+        "link": "/trends/explore?q=mister+v&date=now+7-d&geo=CH"
+      }
+    },
+    {
+      "query": "klartext marc",
+      "value": 350,
+      "formattedValue": "+350%",
+      "raw": {
+        "query": "klartext marc",
+        "value": 350,
+        "formattedValue": "+350%",
+        "link": "/trends/explore?q=klartext+marc&date=now+7-d&geo=CH"
+      }
+    },
+    {
+      "query": "gothic remake",
+      "value": 350,
+      "formattedValue": "+350%",
+      "raw": {
+        "query": "gothic remake",
+        "value": 350,
+        "formattedValue": "+350%",
+        "link": "/trends/explore?q=gothic+remake&date=now+7-d&geo=CH"
+      }
+    },
+    {
+      "query": "blok3",
+      "value": 250,
+      "formattedValue": "+250%",
+      "raw": {
+        "query": "blok3",
+        "value": 250,
+        "formattedValue": "+250%",
+        "link": "/trends/explore?q=blok3&date=now+7-d&geo=CH"
+      }
+    },
+    {
+      "query": "f1",
+      "value": 160,
+      "formattedValue": "+160%",
+      "raw": {
+        "query": "f1",
+        "value": 160,
+        "formattedValue": "+160%",
+        "link": "/trends/explore?q=f1&date=now+7-d&geo=CH"
+      }
+    },
+    {
+      "query": "formel 1",
+      "value": 150,
+      "formattedValue": "+150%",
+      "raw": {
+        "query": "formel 1",
+        "value": 150,
+        "formattedValue": "+150%",
+        "link": "/trends/explore?q=formel+1&date=now+7-d&geo=CH"
+      }
+    },
+    {
+      "query": "csfail",
+      "value": 130,
+      "formattedValue": "+130%",
+      "raw": {
+        "query": "csfail",
+        "value": 130,
+        "formattedValue": "+130%",
+        "link": "/trends/explore?q=csfail&date=now+7-d&geo=CH"
+      }
+    },
+    {
+      "query": "the amazing digital circus",
+      "value": 120,
+      "formattedValue": "+120%",
+      "raw": {
+        "query": "the amazing digital circus",
+        "value": 120,
+        "formattedValue": "+120%",
+        "link": "/trends/explore?q=the+amazing+digital+circus&date=now+7-d&geo=CH"
+      }
+    },
+    {
+      "query": "wiloo",
+      "value": 120,
+      "formattedValue": "+120%",
+      "raw": {
+        "query": "wiloo",
+        "value": 120,
+        "formattedValue": "+120%",
+        "link": "/trends/explore?q=wiloo&date=now+7-d&geo=CH"
+      }
+    },
+    {
+      "query": "csgorun",
+      "value": 120,
+      "formattedValue": "+120%",
+      "raw": {
+        "query": "csgorun",
+        "value": 120,
+        "formattedValue": "+120%",
+        "link": "/trends/explore?q=csgorun&date=now+7-d&geo=CH"
+      }
+    },
+    {
+      "query": "londrim",
+      "value": 100,
+      "formattedValue": "+100%",
+      "raw": {
+        "query": "londrim",
+        "value": 100,
+        "formattedValue": "+100%",
+        "link": "/trends/explore?q=londrim&date=now+7-d&geo=CH"
+      }
+    },
+    {
+      "query": "daha 17",
+      "value": 100,
+      "formattedValue": "+100%",
+      "raw": {
+        "query": "daha 17",
+        "value": 100,
+        "formattedValue": "+100%",
+        "link": "/trends/explore?q=daha+17&date=now+7-d&geo=CH"
+      }
+    },
+    {
+      "query": "portugal",
+      "value": 80,
+      "formattedValue": "+80%",
+      "raw": {
+        "query": "portugal",
+        "value": 80,
+        "formattedValue": "+80%",
+        "link": "/trends/explore?q=portugal&date=now+7-d&geo=CH"
+      }
+    },
+    {
+      "query": "taki seni görene kadar",
+      "value": 80,
+      "formattedValue": "+80%",
+      "raw": {
+        "query": "taki seni görene kadar",
+        "value": 80,
+        "formattedValue": "+80%",
+        "link": "/trends/explore?q=taki+seni+g%C3%B6rene+kadar&date=now+7-d&geo=CH"
+      }
+    },
+    {
+      "query": "debat plus",
+      "value": 70,
+      "formattedValue": "+70%",
+      "raw": {
+        "query": "debat plus",
+        "value": 70,
+        "formattedValue": "+70%",
+        "link": "/trends/explore?q=debat+plus&date=now+7-d&geo=CH"
+      }
+    },
+    {
+      "query": "butrint imeri",
+      "value": 70,
+      "formattedValue": "+70%",
+      "raw": {
+        "query": "butrint imeri",
+        "value": 70,
+        "formattedValue": "+70%",
+        "link": "/trends/explore?q=butrint+imeri&date=now+7-d&geo=CH"
+      }
+    }
+  ]
+}
