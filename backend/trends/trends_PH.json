@@ -1,450 +1,1199 @@
 {
   "status": "success",
-  "topQueries": [
-    {
-      "query": "karaoke",
-      "value": 100,
-      "formattedValue": "100",
-      "raw": {
+  "topics": {
+    "top": [
+      {
+        "query": "Bài hát",
+        "value": 100,
+        "formattedValue": "100",
+        "raw": {
+          "topic": {
+            "mid": "/m/074ft",
+            "title": "Bài hát",
+            "type": "Loại sáng tác"
+          },
+          "value": 100,
+          "formattedValue": "100",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/074ft&date=now+7-d&geo=PH"
+        }
+      },
+      {
+        "query": "Điện ảnh",
+        "value": 59,
+        "formattedValue": "59",
+        "raw": {
+          "topic": {
+            "mid": "/m/02vxn",
+            "title": "Điện ảnh",
+            "type": "Loại truyền hình"
+          },
+          "value": 59,
+          "formattedValue": "59",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/02vxn&date=now+7-d&geo=PH"
+        }
+      },
+      {
+        "query": "Karaoke",
+        "value": 58,
+        "formattedValue": "58",
+        "raw": {
+          "topic": {
+            "mid": "/m/04c5p",
+            "title": "Karaoke",
+            "type": "Chủ đề"
+          },
+          "value": 58,
+          "formattedValue": "58",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/04c5p&date=now+7-d&geo=PH"
+        }
+      },
+      {
+        "query": "Lời bài hát",
+        "value": 39,
+        "formattedValue": "39",
+        "raw": {
+          "topic": {
+            "mid": "/m/09lgd",
+            "title": "Lời bài hát",
+            "type": "Chủ đề"
+          },
+          "value": 39,
+          "formattedValue": "39",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/09lgd&date=now+7-d&geo=PH"
+        }
+      },
+      {
+        "query": "Tiếng Tagalog",
+        "value": 35,
+        "formattedValue": "35",
+        "raw": {
+          "topic": {
+            "mid": "/m/07qv_",
+            "title": "Tiếng Tagalog",
+            "type": "Ngôn ngữ"
+          },
+          "value": 35,
+          "formattedValue": "35",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/07qv_&date=now+7-d&geo=PH"
+        }
+      },
+      {
+        "query": "2026",
+        "value": 31,
+        "formattedValue": "31",
+        "raw": {
+          "topic": {
+            "mid": "/g/11b77d6b6g",
+            "title": "2026",
+            "type": "Chủ đề"
+          },
+          "value": 31,
+          "formattedValue": "31",
+          "hasData": true,
+          "link": "/trends/explore?q=/g/11b77d6b6g&date=now+7-d&geo=PH"
+        }
+      },
+      {
+        "query": "Tập phim",
+        "value": 28,
+        "formattedValue": "28",
+        "raw": {
+          "topic": {
+            "mid": "/m/02cphr",
+            "title": "Tập phim",
+            "type": "Chủ đề"
+          },
+          "value": 28,
+          "formattedValue": "28",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/02cphr&date=now+7-d&geo=PH"
+        }
+      },
+      {
+        "query": "Vlog",
+        "value": 18,
+        "formattedValue": "18",
+        "raw": {
+          "topic": {
+            "mid": "/m/04rh6b",
+            "title": "Vlog",
+            "type": "Thể loại truyền hình"
+          },
+          "value": 18,
+          "formattedValue": "18",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/04rh6b&date=now+7-d&geo=PH"
+        }
+      },
+      {
+        "query": "TikTok",
+        "value": 14,
+        "formattedValue": "14",
+        "raw": {
+          "topic": {
+            "mid": "/g/11f555cn8l",
+            "title": "TikTok",
+            "type": "Trang mạng"
+          },
+          "value": 14,
+          "formattedValue": "14",
+          "hasData": true,
+          "link": "/trends/explore?q=/g/11f555cn8l&date=now+7-d&geo=PH"
+        }
+      },
+      {
+        "query": "Âm nhạc",
+        "value": 13,
+        "formattedValue": "13",
+        "raw": {
+          "topic": {
+            "mid": "/m/04rlf",
+            "title": "Âm nhạc",
+            "type": "Định dạng âm thanh"
+          },
+          "value": 13,
+          "formattedValue": "13",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/04rlf&date=now+7-d&geo=PH"
+        }
+      },
+      {
+        "query": "Nhảy múa",
+        "value": 13,
+        "formattedValue": "13",
+        "raw": {
+          "topic": {
+            "mid": "/m/026bk",
+            "title": "Nhảy múa",
+            "type": "Lĩnh vực nghề nghiệp"
+          },
+          "value": 13,
+          "formattedValue": "13",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/026bk&date=now+7-d&geo=PH"
+        }
+      },
+      {
+        "query": "Philippines",
+        "value": 12,
+        "formattedValue": "12",
+        "raw": {
+          "topic": {
+            "mid": "/m/05v8c",
+            "title": "Philippines",
+            "type": "Quốc gia ở Châu Á"
+          },
+          "value": 12,
+          "formattedValue": "12",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/05v8c&date=now+7-d&geo=PH"
+        }
+      },
+      {
+        "query": "Cocomelon",
+        "value": 12,
+        "formattedValue": "12",
+        "raw": {
+          "topic": {
+            "mid": "/g/11h3mw_yvs",
+            "title": "Cocomelon",
+            "type": "Nghệ sĩ âm nhạc"
+          },
+          "value": 12,
+          "formattedValue": "12",
+          "hasData": true,
+          "link": "/trends/explore?q=/g/11h3mw_yvs&date=now+7-d&geo=PH"
+        }
+      },
+      {
+        "query": "Trò chơi",
+        "value": 11,
+        "formattedValue": "11",
+        "raw": {
+          "topic": {
+            "mid": "/m/03bt1gh",
+            "title": "Trò chơi",
+            "type": "Chủ đề"
+          },
+          "value": 11,
+          "formattedValue": "11",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/03bt1gh&date=now+7-d&geo=PH"
+        }
+      },
+      {
+        "query": "Tình yêu",
+        "value": 11,
+        "formattedValue": "11",
+        "raw": {
+          "topic": {
+            "mid": "/m/048knlz",
+            "title": "Tình yêu",
+            "type": "Chủ đề"
+          },
+          "value": 11,
+          "formattedValue": "11",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/048knlz&date=now+7-d&geo=PH"
+        }
+      },
+      {
+        "query": "Video",
+        "value": 11,
+        "formattedValue": "11",
+        "raw": {
+          "topic": {
+            "mid": "/m/07z4p",
+            "title": "Video",
+            "type": "Định dạng phim"
+          },
+          "value": 11,
+          "formattedValue": "11",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/07z4p&date=now+7-d&geo=PH"
+        }
+      },
+      {
+        "query": "Kết quả",
+        "value": 11,
+        "formattedValue": "11",
+        "raw": {
+          "topic": {
+            "mid": "/m/0687b1",
+            "title": "Kết quả",
+            "type": "Chủ đề"
+          },
+          "value": 11,
+          "formattedValue": "11",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/0687b1&date=now+7-d&geo=PH"
+        }
+      },
+      {
+        "query": "2025",
+        "value": 10,
+        "formattedValue": "10",
+        "raw": {
+          "topic": {
+            "mid": "/g/11b77d3kyg",
+            "title": "2025",
+            "type": "Chủ đề"
+          },
+          "value": 10,
+          "formattedValue": "10",
+          "hasData": true,
+          "link": "/trends/explore?q=/g/11b77d3kyg&date=now+7-d&geo=PH"
+        }
+      },
+      {
+        "query": "Tiếng Anh",
+        "value": 10,
+        "formattedValue": "10",
+        "raw": {
+          "topic": {
+            "mid": "/m/02h40lc",
+            "title": "Tiếng Anh",
+            "type": "Ngôn ngữ"
+          },
+          "value": 10,
+          "formattedValue": "10",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/02h40lc&date=now+7-d&geo=PH"
+        }
+      },
+      {
+        "query": "Mashup",
+        "value": 9,
+        "formattedValue": "9",
+        "raw": {
+          "topic": {
+            "mid": "/m/02lbsj",
+            "title": "Mashup",
+            "type": "Âm nhạc"
+          },
+          "value": 9,
+          "formattedValue": "9",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/02lbsj&date=now+7-d&geo=PH"
+        }
+      },
+      {
+        "query": "phối lại",
+        "value": 8,
+        "formattedValue": "8",
+        "raw": {
+          "topic": {
+            "mid": "/g/11bwd8x8nv",
+            "title": "phối lại",
+            "type": "Chủ đề"
+          },
+          "value": 8,
+          "formattedValue": "8",
+          "hasData": true,
+          "link": "/trends/explore?q=/g/11bwd8x8nv&date=now+7-d&geo=PH"
+        }
+      },
+      {
+        "query": "Roblox",
+        "value": 8,
+        "formattedValue": "8",
+        "raw": {
+          "topic": {
+            "mid": "/m/026bs1g",
+            "title": "Roblox",
+            "type": "Nền tảng điện toán"
+          },
+          "value": 8,
+          "formattedValue": "8",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/026bs1g&date=now+7-d&geo=PH"
+        }
+      },
+      {
+        "query": "Trẻ sơ sinh",
+        "value": 8,
+        "formattedValue": "8",
+        "raw": {
+          "topic": {
+            "mid": "/m/0jnvp",
+            "title": "Trẻ sơ sinh",
+            "type": "Chủ đề"
+          },
+          "value": 8,
+          "formattedValue": "8",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/0jnvp&date=now+7-d&geo=PH"
+        }
+      },
+      {
+        "query": "Tình ca",
+        "value": 8,
+        "formattedValue": "8",
+        "raw": {
+          "topic": {
+            "mid": "/m/0665cp",
+            "title": "Tình ca",
+            "type": "Chủ đề"
+          },
+          "value": 8,
+          "formattedValue": "8",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/0665cp&date=now+7-d&geo=PH"
+        }
+      },
+      {
+        "query": "Hành động",
+        "value": 7,
+        "formattedValue": "7",
+        "raw": {
+          "topic": {
+            "mid": "/m/02kdv5l",
+            "title": "Hành động",
+            "type": "Thể loại điện ảnh"
+          },
+          "value": 7,
+          "formattedValue": "7",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/02kdv5l&date=now+7-d&geo=PH"
+        }
+      }
+    ],
+    "rising": [
+      {
+        "query": "Rene Clert Baterbonia",
+        "value": 6200,
+        "formattedValue": "Đột phá",
+        "raw": {
+          "topic": {
+            "mid": "/g/11yzyb4ry4",
+            "title": "Rene Clert Baterbonia",
+            "type": "Chủ đề"
+          },
+          "value": 6200,
+          "formattedValue": "Đột phá",
+          "link": "/trends/explore?q=/g/11yzyb4ry4&date=now+7-d&geo=PH"
+        }
+      },
+      {
+        "query": "5 tháng 6",
+        "value": 4850,
+        "formattedValue": "+4.850%",
+        "raw": {
+          "topic": {
+            "mid": "/m/040yt",
+            "title": "5 tháng 6",
+            "type": "Ngày"
+          },
+          "value": 4850,
+          "formattedValue": "+4.850%",
+          "link": "/trends/explore?q=/m/040yt&date=now+7-d&geo=PH"
+        }
+      },
+      {
+        "query": "6 tháng 6",
+        "value": 4450,
+        "formattedValue": "+4.450%",
+        "raw": {
+          "topic": {
+            "mid": "/m/040kv",
+            "title": "6 tháng 6",
+            "type": "Ngày"
+          },
+          "value": 4450,
+          "formattedValue": "+4.450%",
+          "link": "/trends/explore?q=/m/040kv&date=now+7-d&geo=PH"
+        }
+      },
+      {
+        "query": "8 tháng 6",
+        "value": 3950,
+        "formattedValue": "+3.950%",
+        "raw": {
+          "topic": {
+            "mid": "/m/041f3",
+            "title": "8 tháng 6",
+            "type": "Ngày"
+          },
+          "value": 3950,
+          "formattedValue": "+3.950%",
+          "link": "/trends/explore?q=/m/041f3&date=now+7-d&geo=PH"
+        }
+      },
+      {
+        "query": "10 tháng 6",
+        "value": 3900,
+        "formattedValue": "+3.900%",
+        "raw": {
+          "topic": {
+            "mid": "/m/040rb",
+            "title": "10 tháng 6",
+            "type": "Ngày"
+          },
+          "value": 3900,
+          "formattedValue": "+3.900%",
+          "link": "/trends/explore?q=/m/040rb&date=now+7-d&geo=PH"
+        }
+      },
+      {
+        "query": "Luis Nery",
+        "value": 2800,
+        "formattedValue": "+2.800%",
+        "raw": {
+          "topic": {
+            "mid": "/g/11c4bhk1mw",
+            "title": "Luis Nery",
+            "type": "Võ sĩ quyền anh chuyên nghiệp"
+          },
+          "value": 2800,
+          "formattedValue": "+2.800%",
+          "link": "/trends/explore?q=/g/11c4bhk1mw&date=now+7-d&geo=PH"
+        }
+      },
+      {
+        "query": "Động đất",
+        "value": 2200,
+        "formattedValue": "+2.200%",
+        "raw": {
+          "topic": {
+            "mid": "/m/02r97",
+            "title": "Động đất",
+            "type": "Chủ đề"
+          },
+          "value": 2200,
+          "formattedValue": "+2.200%",
+          "link": "/trends/explore?q=/m/02r97&date=now+7-d&geo=PH"
+        }
+      },
+      {
+        "query": "John Riel Casimero",
+        "value": 2000,
+        "formattedValue": "+2.000%",
+        "raw": {
+          "topic": {
+            "mid": "/m/09rv2__",
+            "title": "John Riel Casimero",
+            "type": "Võ sĩ quyền anh chuyên nghiệp"
+          },
+          "value": 2000,
+          "formattedValue": "+2.000%",
+          "link": "/trends/explore?q=/m/09rv2__&date=now+7-d&geo=PH"
+        }
+      },
+      {
+        "query": "What if i miss you for the rest of my life",
+        "value": 950,
+        "formattedValue": "+950%",
+        "raw": {
+          "topic": {
+            "mid": "/g/11npqlg279",
+            "title": "What if i miss you for the rest of my life",
+            "type": "Chủ đề"
+          },
+          "value": 950,
+          "formattedValue": "+950%",
+          "link": "/trends/explore?q=/g/11npqlg279&date=now+7-d&geo=PH"
+        }
+      },
+      {
+        "query": "What if i miss you for the rest of my life",
+        "value": 750,
+        "formattedValue": "+750%",
+        "raw": {
+          "topic": {
+            "mid": "/g/11zcg3wnvk",
+            "title": "What if i miss you for the rest of my life",
+            "type": "Chủ đề"
+          },
+          "value": 750,
+          "formattedValue": "+750%",
+          "link": "/trends/explore?q=/g/11zcg3wnvk&date=now+7-d&geo=PH"
+        }
+      },
+      {
+        "query": "Tik Tok",
+        "value": 700,
+        "formattedValue": "+700%",
+        "raw": {
+          "topic": {
+            "mid": "/g/11fy265933",
+            "title": "Tik Tok",
+            "type": "Công ty"
+          },
+          "value": 700,
+          "formattedValue": "+700%",
+          "link": "/trends/explore?q=/g/11fy265933&date=now+7-d&geo=PH"
+        }
+      },
+      {
+        "query": "Alexandra Eala",
+        "value": 500,
+        "formattedValue": "+500%",
+        "raw": {
+          "topic": {
+            "mid": "/g/11j1f8nz_l",
+            "title": "Alexandra Eala",
+            "type": "Vận động viên quần vợt"
+          },
+          "value": 500,
+          "formattedValue": "+500%",
+          "link": "/trends/explore?q=/g/11j1f8nz_l&date=now+7-d&geo=PH"
+        }
+      },
+      {
+        "query": "Bóng chuyền",
+        "value": 170,
+        "formattedValue": "+170%",
+        "raw": {
+          "topic": {
+            "mid": "/m/07_53",
+            "title": "Bóng chuyền",
+            "type": "Thể thao"
+          },
+          "value": 170,
+          "formattedValue": "+170%",
+          "link": "/trends/explore?q=/m/07_53&date=now+7-d&geo=PH"
+        }
+      },
+      {
+        "query": "Đội Bóng rổ New York Knicks",
+        "value": 100,
+        "formattedValue": "+100%",
+        "raw": {
+          "topic": {
+            "mid": "/m/0jm3v",
+            "title": "Đội Bóng rổ New York Knicks",
+            "type": "Đội bóng rổ"
+          },
+          "value": 100,
+          "formattedValue": "+100%",
+          "link": "/trends/explore?q=/m/0jm3v&date=now+7-d&geo=PH"
+        }
+      },
+      {
+        "query": "Tháng 6",
+        "value": 90,
+        "formattedValue": "+90%",
+        "raw": {
+          "topic": {
+            "mid": "/m/040fb",
+            "title": "Tháng 6",
+            "type": "Tháng"
+          },
+          "value": 90,
+          "formattedValue": "+90%",
+          "link": "/trends/explore?q=/m/040fb&date=now+7-d&geo=PH"
+        }
+      },
+      {
+        "query": "funny",
+        "value": 70,
+        "formattedValue": "+70%",
+        "raw": {
+          "topic": {
+            "mid": "/g/11rhnzhzb2",
+            "title": "funny",
+            "type": "Chủ đề"
+          },
+          "value": 70,
+          "formattedValue": "+70%",
+          "link": "/trends/explore?q=/g/11rhnzhzb2&date=now+7-d&geo=PH"
+        }
+      },
+      {
+        "query": "Toán học",
+        "value": 70,
+        "formattedValue": "+70%",
+        "raw": {
+          "topic": {
+            "mid": "/m/04rjg",
+            "title": "Toán học",
+            "type": "Lĩnh vực nghiên cứu"
+          },
+          "value": 70,
+          "formattedValue": "+70%",
+          "link": "/trends/explore?q=/m/04rjg&date=now+7-d&geo=PH"
+        }
+      },
+      {
+        "query": "Mannix",
+        "value": 70,
+        "formattedValue": "+70%",
+        "raw": {
+          "topic": {
+            "mid": "/g/11y04lmfbx",
+            "title": "Mannix",
+            "type": "Chủ đề"
+          },
+          "value": 70,
+          "formattedValue": "+70%",
+          "link": "/trends/explore?q=/g/11y04lmfbx&date=now+7-d&geo=PH"
+        }
+      },
+      {
+        "query": "Quyền Anh",
+        "value": 60,
+        "formattedValue": "+60%",
+        "raw": {
+          "topic": {
+            "mid": "/m/01cgz",
+            "title": "Quyền Anh",
+            "type": "Võ thuật"
+          },
+          "value": 60,
+          "formattedValue": "+60%",
+          "link": "/trends/explore?q=/m/01cgz&date=now+7-d&geo=PH"
+        }
+      },
+      {
+        "query": "Tahanan",
+        "value": 50,
+        "formattedValue": "+50%",
+        "raw": {
+          "topic": {
+            "mid": "/g/11ynl1bgcw",
+            "title": "Tahanan",
+            "type": "Bài hát"
+          },
+          "value": 50,
+          "formattedValue": "+50%",
+          "link": "/trends/explore?q=/g/11ynl1bgcw&date=now+7-d&geo=PH"
+        }
+      },
+      {
+        "query": "Thể thao",
+        "value": 50,
+        "formattedValue": "+50%",
+        "raw": {
+          "topic": {
+            "mid": "/m/06ntj",
+            "title": "Thể thao",
+            "type": "Định dạng âm thanh"
+          },
+          "value": 50,
+          "formattedValue": "+50%",
+          "link": "/trends/explore?q=/m/06ntj&date=now+7-d&geo=PH"
+        }
+      },
+      {
+        "query": "Tường lửa",
+        "value": 50,
+        "formattedValue": "+50%",
+        "raw": {
+          "topic": {
+            "mid": "/m/04wrr6",
+            "title": "Tường lửa",
+            "type": "Chủ đề"
+          },
+          "value": 50,
+          "formattedValue": "+50%",
+          "link": "/trends/explore?q=/m/04wrr6&date=now+7-d&geo=PH"
+        }
+      }
+    ]
+  },
+  "queries": {
+    "top": [
+      {
         "query": "karaoke",
         "value": 100,
         "formattedValue": "100",
-        "hasData": true,
-        "link": "/trends/explore?q=karaoke&date=now+7-d&geo=PH"
-      }
-    },
-    {
-      "query": "songs",
-      "value": 91,
-      "formattedValue": "91",
-      "raw": {
+        "raw": {
+          "query": "karaoke",
+          "value": 100,
+          "formattedValue": "100",
+          "hasData": true,
+          "link": "/trends/explore?q=karaoke&date=now+7-d&geo=PH"
+        }
+      },
+      {
         "query": "songs",
-        "value": 91,
-        "formattedValue": "91",
-        "hasData": true,
-        "link": "/trends/explore?q=songs&date=now+7-d&geo=PH"
-      }
-    },
-    {
-      "query": "song",
-      "value": 90,
-      "formattedValue": "90",
-      "raw": {
+        "value": 95,
+        "formattedValue": "95",
+        "raw": {
+          "query": "songs",
+          "value": 95,
+          "formattedValue": "95",
+          "hasData": true,
+          "link": "/trends/explore?q=songs&date=now+7-d&geo=PH"
+        }
+      },
+      {
         "query": "song",
-        "value": 90,
-        "formattedValue": "90",
-        "hasData": true,
-        "link": "/trends/explore?q=song&date=now+7-d&geo=PH"
-      }
-    },
-    {
-      "query": "movie",
-      "value": 87,
-      "formattedValue": "87",
-      "raw": {
+        "value": 89,
+        "formattedValue": "89",
+        "raw": {
+          "query": "song",
+          "value": 89,
+          "formattedValue": "89",
+          "hasData": true,
+          "link": "/trends/explore?q=song&date=now+7-d&geo=PH"
+        }
+      },
+      {
         "query": "movie",
-        "value": 87,
-        "formattedValue": "87",
-        "hasData": true,
-        "link": "/trends/explore?q=movie&date=now+7-d&geo=PH"
-      }
-    },
-    {
-      "query": "full movie",
-      "value": 66,
-      "formattedValue": "66",
-      "raw": {
+        "value": 88,
+        "formattedValue": "88",
+        "raw": {
+          "query": "movie",
+          "value": 88,
+          "formattedValue": "88",
+          "hasData": true,
+          "link": "/trends/explore?q=movie&date=now+7-d&geo=PH"
+        }
+      },
+      {
         "query": "full movie",
-        "value": 66,
-        "formattedValue": "66",
-        "hasData": true,
-        "link": "/trends/explore?q=full+movie&date=now+7-d&geo=PH"
-      }
-    },
-    {
-      "query": "lyrics",
-      "value": 65,
-      "formattedValue": "65",
-      "raw": {
+        "value": 71,
+        "formattedValue": "71",
+        "raw": {
+          "query": "full movie",
+          "value": 71,
+          "formattedValue": "71",
+          "hasData": true,
+          "link": "/trends/explore?q=full+movie&date=now+7-d&geo=PH"
+        }
+      },
+      {
         "query": "lyrics",
-        "value": 65,
-        "formattedValue": "65",
-        "hasData": true,
-        "link": "/trends/explore?q=lyrics&date=now+7-d&geo=PH"
-      }
-    },
-    {
-      "query": "movie tagalog",
-      "value": 28,
-      "formattedValue": "28",
-      "raw": {
-        "query": "movie tagalog",
-        "value": 28,
-        "formattedValue": "28",
-        "hasData": true,
-        "link": "/trends/explore?q=movie+tagalog&date=now+7-d&geo=PH"
-      }
-    },
-    {
-      "query": "vlog",
-      "value": 28,
-      "formattedValue": "28",
-      "raw": {
+        "value": 67,
+        "formattedValue": "67",
+        "raw": {
+          "query": "lyrics",
+          "value": 67,
+          "formattedValue": "67",
+          "hasData": true,
+          "link": "/trends/explore?q=lyrics&date=now+7-d&geo=PH"
+        }
+      },
+      {
+        "query": "tagalog movie",
+        "value": 30,
+        "formattedValue": "30",
+        "raw": {
+          "query": "tagalog movie",
+          "value": 30,
+          "formattedValue": "30",
+          "hasData": true,
+          "link": "/trends/explore?q=tagalog+movie&date=now+7-d&geo=PH"
+        }
+      },
+      {
         "query": "vlog",
-        "value": 28,
-        "formattedValue": "28",
-        "hasData": true,
-        "link": "/trends/explore?q=vlog&date=now+7-d&geo=PH"
-      }
-    },
-    {
-      "query": "tiktok",
-      "value": 26,
-      "formattedValue": "26",
-      "raw": {
-        "query": "tiktok",
+        "value": 29,
+        "formattedValue": "29",
+        "raw": {
+          "query": "vlog",
+          "value": 29,
+          "formattedValue": "29",
+          "hasData": true,
+          "link": "/trends/explore?q=vlog&date=now+7-d&geo=PH"
+        }
+      },
+      {
+        "query": "tagalog full movie",
         "value": 26,
         "formattedValue": "26",
-        "hasData": true,
-        "link": "/trends/explore?q=tiktok&date=now+7-d&geo=PH"
-      }
-    },
-    {
-      "query": "full movie tagalog",
-      "value": 24,
-      "formattedValue": "24",
-      "raw": {
-        "query": "full movie tagalog",
+        "raw": {
+          "query": "tagalog full movie",
+          "value": 26,
+          "formattedValue": "26",
+          "hasData": true,
+          "link": "/trends/explore?q=tagalog+full+movie&date=now+7-d&geo=PH"
+        }
+      },
+      {
+        "query": "songs with lyrics",
         "value": 24,
         "formattedValue": "24",
-        "hasData": true,
-        "link": "/trends/explore?q=full+movie+tagalog&date=now+7-d&geo=PH"
-      }
-    },
-    {
-      "query": "songs with lyrics",
-      "value": 23,
-      "formattedValue": "23",
-      "raw": {
-        "query": "songs with lyrics",
-        "value": 23,
-        "formattedValue": "23",
-        "hasData": true,
-        "link": "/trends/explore?q=songs+with+lyrics&date=now+7-d&geo=PH"
-      }
-    },
-    {
-      "query": "karaoke songs",
-      "value": 23,
-      "formattedValue": "23",
-      "raw": {
-        "query": "karaoke songs",
-        "value": 23,
-        "formattedValue": "23",
-        "hasData": true,
-        "link": "/trends/explore?q=karaoke+songs&date=now+7-d&geo=PH"
-      }
-    },
-    {
-      "query": "movie tagalog full movie",
-      "value": 23,
-      "formattedValue": "23",
-      "raw": {
+        "raw": {
+          "query": "songs with lyrics",
+          "value": 24,
+          "formattedValue": "24",
+          "hasData": true,
+          "link": "/trends/explore?q=songs+with+lyrics&date=now+7-d&geo=PH"
+        }
+      },
+      {
+        "query": "tiktok",
+        "value": 24,
+        "formattedValue": "24",
+        "raw": {
+          "query": "tiktok",
+          "value": 24,
+          "formattedValue": "24",
+          "hasData": true,
+          "link": "/trends/explore?q=tiktok&date=now+7-d&geo=PH"
+        }
+      },
+      {
+        "query": "music",
+        "value": 24,
+        "formattedValue": "24",
+        "raw": {
+          "query": "music",
+          "value": 24,
+          "formattedValue": "24",
+          "hasData": true,
+          "link": "/trends/explore?q=music&date=now+7-d&geo=PH"
+        }
+      },
+      {
         "query": "movie tagalog full movie",
         "value": 23,
         "formattedValue": "23",
-        "hasData": true,
-        "link": "/trends/explore?q=movie+tagalog+full+movie&date=now+7-d&geo=PH"
-      }
-    },
-    {
-      "query": "baby",
-      "value": 23,
-      "formattedValue": "23",
-      "raw": {
+        "raw": {
+          "query": "movie tagalog full movie",
+          "value": 23,
+          "formattedValue": "23",
+          "hasData": true,
+          "link": "/trends/explore?q=movie+tagalog+full+movie&date=now+7-d&geo=PH"
+        }
+      },
+      {
         "query": "baby",
         "value": 23,
         "formattedValue": "23",
-        "hasData": true,
-        "link": "/trends/explore?q=baby&date=now+7-d&geo=PH"
-      }
-    },
-    {
-      "query": "music",
-      "value": 23,
-      "formattedValue": "23",
-      "raw": {
-        "query": "music",
+        "raw": {
+          "query": "baby",
+          "value": 23,
+          "formattedValue": "23",
+          "hasData": true,
+          "link": "/trends/explore?q=baby&date=now+7-d&geo=PH"
+        }
+      },
+      {
+        "query": "karaoke songs",
         "value": 23,
         "formattedValue": "23",
-        "hasData": true,
-        "link": "/trends/explore?q=music&date=now+7-d&geo=PH"
-      }
-    },
-    {
-      "query": "cocomelon",
-      "value": 21,
-      "formattedValue": "21",
-      "raw": {
+        "raw": {
+          "query": "karaoke songs",
+          "value": 23,
+          "formattedValue": "23",
+          "hasData": true,
+          "link": "/trends/explore?q=karaoke+songs&date=now+7-d&geo=PH"
+        }
+      },
+      {
+        "query": "dance",
+        "value": 22,
+        "formattedValue": "22",
+        "raw": {
+          "query": "dance",
+          "value": 22,
+          "formattedValue": "22",
+          "hasData": true,
+          "link": "/trends/explore?q=dance&date=now+7-d&geo=PH"
+        }
+      },
+      {
         "query": "cocomelon",
         "value": 21,
         "formattedValue": "21",
-        "hasData": true,
-        "link": "/trends/explore?q=cocomelon&date=now+7-d&geo=PH"
-      }
-    },
-    {
-      "query": "dance",
-      "value": 20,
-      "formattedValue": "20",
-      "raw": {
-        "query": "dance",
-        "value": 20,
-        "formattedValue": "20",
-        "hasData": true,
-        "link": "/trends/explore?q=dance&date=now+7-d&geo=PH"
-      }
-    },
-    {
-      "query": "roblox",
-      "value": 15,
-      "formattedValue": "15",
-      "raw": {
+        "raw": {
+          "query": "cocomelon",
+          "value": 21,
+          "formattedValue": "21",
+          "hasData": true,
+          "link": "/trends/explore?q=cocomelon&date=now+7-d&geo=PH"
+        }
+      },
+      {
         "query": "roblox",
         "value": 15,
         "formattedValue": "15",
-        "hasData": true,
-        "link": "/trends/explore?q=roblox&date=now+7-d&geo=PH"
-      }
-    },
-    {
-      "query": "horror",
-      "value": 15,
-      "formattedValue": "15",
-      "raw": {
-        "query": "horror",
-        "value": 15,
-        "formattedValue": "15",
-        "hasData": true,
-        "link": "/trends/explore?q=horror&date=now+7-d&geo=PH"
-      }
-    },
-    {
-      "query": "tiktok mashup",
-      "value": 15,
-      "formattedValue": "15",
-      "raw": {
+        "raw": {
+          "query": "roblox",
+          "value": 15,
+          "formattedValue": "15",
+          "hasData": true,
+          "link": "/trends/explore?q=roblox&date=now+7-d&geo=PH"
+        }
+      },
+      {
         "query": "tiktok mashup",
         "value": 15,
         "formattedValue": "15",
-        "hasData": true,
-        "link": "/trends/explore?q=tiktok+mashup&date=now+7-d&geo=PH"
-      }
-    },
-    {
-      "query": "karaoke songs with lyrics",
-      "value": 14,
-      "formattedValue": "14",
-      "raw": {
+        "raw": {
+          "query": "tiktok mashup",
+          "value": 15,
+          "formattedValue": "15",
+          "hasData": true,
+          "link": "/trends/explore?q=tiktok+mashup&date=now+7-d&geo=PH"
+        }
+      },
+      {
+        "query": "horror",
+        "value": 15,
+        "formattedValue": "15",
+        "raw": {
+          "query": "horror",
+          "value": 15,
+          "formattedValue": "15",
+          "hasData": true,
+          "link": "/trends/explore?q=horror&date=now+7-d&geo=PH"
+        }
+      },
+      {
         "query": "karaoke songs with lyrics",
         "value": 14,
         "formattedValue": "14",
-        "hasData": true,
-        "link": "/trends/explore?q=karaoke+songs+with+lyrics&date=now+7-d&geo=PH"
-      }
-    },
-    {
-      "query": "nba",
-      "value": 13,
-      "formattedValue": "13",
-      "raw": {
+        "raw": {
+          "query": "karaoke songs with lyrics",
+          "value": 14,
+          "formattedValue": "14",
+          "hasData": true,
+          "link": "/trends/explore?q=karaoke+songs+with+lyrics&date=now+7-d&geo=PH"
+        }
+      },
+      {
         "query": "nba",
         "value": 13,
         "formattedValue": "13",
-        "hasData": true,
-        "link": "/trends/explore?q=nba&date=now+7-d&geo=PH"
-      }
-    },
-    {
-      "query": "minecraft",
-      "value": 12,
-      "formattedValue": "12",
-      "raw": {
+        "raw": {
+          "query": "nba",
+          "value": 13,
+          "formattedValue": "13",
+          "hasData": true,
+          "link": "/trends/explore?q=nba&date=now+7-d&geo=PH"
+        }
+      },
+      {
         "query": "minecraft",
         "value": 12,
         "formattedValue": "12",
-        "hasData": true,
-        "link": "/trends/explore?q=minecraft&date=now+7-d&geo=PH"
-      }
-    },
-    {
-      "query": "love songs",
-      "value": 11,
-      "formattedValue": "11",
-      "raw": {
-        "query": "love songs",
-        "value": 11,
-        "formattedValue": "11",
-        "hasData": true,
-        "link": "/trends/explore?q=love+songs&date=now+7-d&geo=PH"
-      }
-    },
-    {
-      "query": "karaoke song",
-      "value": 11,
-      "formattedValue": "11",
-      "raw": {
+        "raw": {
+          "query": "minecraft",
+          "value": 12,
+          "formattedValue": "12",
+          "hasData": true,
+          "link": "/trends/explore?q=minecraft&date=now+7-d&geo=PH"
+        }
+      },
+      {
         "query": "karaoke song",
         "value": 11,
         "formattedValue": "11",
-        "hasData": true,
-        "link": "/trends/explore?q=karaoke+song&date=now+7-d&geo=PH"
+        "raw": {
+          "query": "karaoke song",
+          "value": 11,
+          "formattedValue": "11",
+          "hasData": true,
+          "link": "/trends/explore?q=karaoke+song&date=now+7-d&geo=PH"
+        }
+      },
+      {
+        "query": "love songs",
+        "value": 11,
+        "formattedValue": "11",
+        "raw": {
+          "query": "love songs",
+          "value": 11,
+          "formattedValue": "11",
+          "hasData": true,
+          "link": "/trends/explore?q=love+songs&date=now+7-d&geo=PH"
+        }
       }
-    }
-  ],
-  "risingQueries": [
-    {
-      "query": "casimero vs nery live today",
-      "value": 3900,
-      "formattedValue": "+3.900%",
-      "raw": {
+    ],
+    "rising": [
+      {
         "query": "casimero vs nery live today",
-        "value": 3900,
-        "formattedValue": "+3.900%",
-        "link": "/trends/explore?q=casimero+vs+nery+live+today&date=now+7-d&geo=PH"
-      }
-    },
-    {
-      "query": "iconic by mistake",
-      "value": 3450,
-      "formattedValue": "+3.450%",
-      "raw": {
+        "value": 3700,
+        "formattedValue": "+3.700%",
+        "raw": {
+          "query": "casimero vs nery live today",
+          "value": 3700,
+          "formattedValue": "+3.700%",
+          "link": "/trends/explore?q=casimero+vs+nery+live+today&date=now+7-d&geo=PH"
+        }
+      },
+      {
         "query": "iconic by mistake",
         "value": 3450,
         "formattedValue": "+3.450%",
-        "link": "/trends/explore?q=iconic+by+mistake&date=now+7-d&geo=PH"
-      }
-    },
-    {
-      "query": "earthquake philippines today",
-      "value": 2950,
-      "formattedValue": "+2.950%",
-      "raw": {
-        "query": "earthquake philippines today",
-        "value": 2950,
-        "formattedValue": "+2.950%",
-        "link": "/trends/explore?q=earthquake+philippines+today&date=now+7-d&geo=PH"
-      }
-    },
-    {
-      "query": "casimero vs nery",
-      "value": 2900,
-      "formattedValue": "+2.900%",
-      "raw": {
+        "raw": {
+          "query": "iconic by mistake",
+          "value": 3450,
+          "formattedValue": "+3.450%",
+          "link": "/trends/explore?q=iconic+by+mistake&date=now+7-d&geo=PH"
+        }
+      },
+      {
         "query": "casimero vs nery",
-        "value": 2900,
-        "formattedValue": "+2.900%",
-        "link": "/trends/explore?q=casimero+vs+nery&date=now+7-d&geo=PH"
-      }
-    },
-    {
-      "query": "spurs vs knicks game 4",
-      "value": 1450,
-      "formattedValue": "+1.450%",
-      "raw": {
+        "value": 2850,
+        "formattedValue": "+2.850%",
+        "raw": {
+          "query": "casimero vs nery",
+          "value": 2850,
+          "formattedValue": "+2.850%",
+          "link": "/trends/explore?q=casimero+vs+nery&date=now+7-d&geo=PH"
+        }
+      },
+      {
+        "query": "earthquake philippines today",
+        "value": 2650,
+        "formattedValue": "+2.650%",
+        "raw": {
+          "query": "earthquake philippines today",
+          "value": 2650,
+          "formattedValue": "+2.650%",
+          "link": "/trends/explore?q=earthquake+philippines+today&date=now+7-d&geo=PH"
+        }
+      },
+      {
         "query": "spurs vs knicks game 4",
-        "value": 1450,
-        "formattedValue": "+1.450%",
-        "link": "/trends/explore?q=spurs+vs+knicks+game+4&date=now+7-d&geo=PH"
-      }
-    },
-    {
-      "query": "fifa world cup 2026",
-      "value": 850,
-      "formattedValue": "+850%",
-      "raw": {
+        "value": 1550,
+        "formattedValue": "+1.550%",
+        "raw": {
+          "query": "spurs vs knicks game 4",
+          "value": 1550,
+          "formattedValue": "+1.550%",
+          "link": "/trends/explore?q=spurs+vs+knicks+game+4&date=now+7-d&geo=PH"
+        }
+      },
+      {
         "query": "fifa world cup 2026",
-        "value": 850,
-        "formattedValue": "+850%",
-        "link": "/trends/explore?q=fifa+world+cup+2026&date=now+7-d&geo=PH"
-      }
-    },
-    {
-      "query": "teka lang tj monterde",
-      "value": 200,
-      "formattedValue": "+200%",
-      "raw": {
+        "value": 800,
+        "formattedValue": "+800%",
+        "raw": {
+          "query": "fifa world cup 2026",
+          "value": 800,
+          "formattedValue": "+800%",
+          "link": "/trends/explore?q=fifa+world+cup+2026&date=now+7-d&geo=PH"
+        }
+      },
+      {
         "query": "teka lang tj monterde",
         "value": 200,
         "formattedValue": "+200%",
-        "link": "/trends/explore?q=teka+lang+tj+monterde&date=now+7-d&geo=PH"
-      }
-    },
-    {
-      "query": "spurs vs knicks",
-      "value": 170,
-      "formattedValue": "+170%",
-      "raw": {
+        "raw": {
+          "query": "teka lang tj monterde",
+          "value": 200,
+          "formattedValue": "+200%",
+          "link": "/trends/explore?q=teka+lang+tj+monterde&date=now+7-d&geo=PH"
+        }
+      },
+      {
         "query": "spurs vs knicks",
-        "value": 170,
-        "formattedValue": "+170%",
-        "link": "/trends/explore?q=spurs+vs+knicks&date=now+7-d&geo=PH"
-      }
-    },
-    {
-      "query": "toni talks",
-      "value": 140,
-      "formattedValue": "+140%",
-      "raw": {
+        "value": 150,
+        "formattedValue": "+150%",
+        "raw": {
+          "query": "spurs vs knicks",
+          "value": 150,
+          "formattedValue": "+150%",
+          "link": "/trends/explore?q=spurs+vs+knicks&date=now+7-d&geo=PH"
+        }
+      },
+      {
         "query": "toni talks",
         "value": 140,
         "formattedValue": "+140%",
-        "link": "/trends/explore?q=toni+talks&date=now+7-d&geo=PH"
-      }
-    },
-    {
-      "query": "family feud",
-      "value": 70,
-      "formattedValue": "+70%",
-      "raw": {
+        "raw": {
+          "query": "toni talks",
+          "value": 140,
+          "formattedValue": "+140%",
+          "link": "/trends/explore?q=toni+talks&date=now+7-d&geo=PH"
+        }
+      },
+      {
         "query": "family feud",
+        "value": 80,
+        "formattedValue": "+80%",
+        "raw": {
+          "query": "family feud",
+          "value": 80,
+          "formattedValue": "+80%",
+          "link": "/trends/explore?q=family+feud&date=now+7-d&geo=PH"
+        }
+      },
+      {
+        "query": "kamao",
         "value": 70,
         "formattedValue": "+70%",
-        "link": "/trends/explore?q=family+feud&date=now+7-d&geo=PH"
-      }
-    },
-    {
-      "query": "kamao",
-      "value": 60,
-      "formattedValue": "+60%",
-      "raw": {
-        "query": "kamao",
+        "raw": {
+          "query": "kamao",
+          "value": 70,
+          "formattedValue": "+70%",
+          "link": "/trends/explore?q=kamao&date=now+7-d&geo=PH"
+        }
+      },
+      {
+        "query": "showtime",
         "value": 60,
         "formattedValue": "+60%",
-        "link": "/trends/explore?q=kamao&date=now+7-d&geo=PH"
-      }
-    },
-    {
-      "query": "showtime",
-      "value": 50,
-      "formattedValue": "+50%",
-      "raw": {
-        "query": "showtime",
-        "value": 50,
-        "formattedValue": "+50%",
-        "link": "/trends/explore?q=showtime&date=now+7-d&geo=PH"
-      }
-    },
-    {
-      "query": "showtime live today",
-      "value": 40,
-      "formattedValue": "+40%",
-      "raw": {
+        "raw": {
+          "query": "showtime",
+          "value": 60,
+          "formattedValue": "+60%",
+          "link": "/trends/explore?q=showtime&date=now+7-d&geo=PH"
+        }
+      },
+      {
         "query": "showtime live today",
         "value": 40,
         "formattedValue": "+40%",
-        "link": "/trends/explore?q=showtime+live+today&date=now+7-d&geo=PH"
+        "raw": {
+          "query": "showtime live today",
+          "value": 40,
+          "formattedValue": "+40%",
+          "link": "/trends/explore?q=showtime+live+today&date=now+7-d&geo=PH"
+        }
+      },
+      {
+        "query": "viy cortez",
+        "value": 40,
+        "formattedValue": "+40%",
+        "raw": {
+          "query": "viy cortez",
+          "value": 40,
+          "formattedValue": "+40%",
+          "link": "/trends/explore?q=viy+cortez&date=now+7-d&geo=PH"
+        }
       }
-    }
-  ]
+    ]
+  }
 }
