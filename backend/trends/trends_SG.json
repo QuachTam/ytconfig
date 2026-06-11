@@ -1,582 +1,1274 @@
 {
   "status": "success",
-  "topQueries": [
-    {
-      "query": "song",
-      "value": 100,
-      "formattedValue": "100",
-      "raw": {
+  "topics": {
+    "top": [
+      {
+        "query": "Bài hát",
+        "value": 100,
+        "formattedValue": "100",
+        "raw": {
+          "topic": {
+            "mid": "/m/074ft",
+            "title": "Bài hát",
+            "type": "Loại sáng tác"
+          },
+          "value": 100,
+          "formattedValue": "100",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/074ft&date=now+7-d&geo=SG"
+        }
+      },
+      {
+        "query": "Điện ảnh",
+        "value": 43,
+        "formattedValue": "43",
+        "raw": {
+          "topic": {
+            "mid": "/m/02vxn",
+            "title": "Điện ảnh",
+            "type": "Loại truyền hình"
+          },
+          "value": 43,
+          "formattedValue": "43",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/02vxn&date=now+7-d&geo=SG"
+        }
+      },
+      {
+        "query": "Âm nhạc",
+        "value": 28,
+        "formattedValue": "28",
+        "raw": {
+          "topic": {
+            "mid": "/m/04rlf",
+            "title": "Âm nhạc",
+            "type": "Định dạng âm thanh"
+          },
+          "value": 28,
+          "formattedValue": "28",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/04rlf&date=now+7-d&geo=SG"
+        }
+      },
+      {
+        "query": "Tiếng Tamil",
+        "value": 27,
+        "formattedValue": "27",
+        "raw": {
+          "topic": {
+            "mid": "/m/07c9s",
+            "title": "Tiếng Tamil",
+            "type": "Ngôn ngữ"
+          },
+          "value": 27,
+          "formattedValue": "27",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/07c9s&date=now+7-d&geo=SG"
+        }
+      },
+      {
+        "query": "Karaoke",
+        "value": 27,
+        "formattedValue": "27",
+        "raw": {
+          "topic": {
+            "mid": "/m/04c5p",
+            "title": "Karaoke",
+            "type": "Chủ đề"
+          },
+          "value": 27,
+          "formattedValue": "27",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/04c5p&date=now+7-d&geo=SG"
+        }
+      },
+      {
+        "query": "2026",
+        "value": 24,
+        "formattedValue": "24",
+        "raw": {
+          "topic": {
+            "mid": "/g/11b77d6b6g",
+            "title": "2026",
+            "type": "Chủ đề"
+          },
+          "value": 24,
+          "formattedValue": "24",
+          "hasData": true,
+          "link": "/trends/explore?q=/g/11b77d6b6g&date=now+7-d&geo=SG"
+        }
+      },
+      {
+        "query": "YouTube",
+        "value": 22,
+        "formattedValue": "22",
+        "raw": {
+          "topic": {
+            "mid": "/m/09jcvs",
+            "title": "YouTube",
+            "type": "Nền tảng chia sẻ video"
+          },
+          "value": 22,
+          "formattedValue": "22",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/09jcvs&date=now+7-d&geo=SG"
+        }
+      },
+      {
+        "query": "Singapore",
+        "value": 21,
+        "formattedValue": "21",
+        "raw": {
+          "topic": {
+            "mid": "/m/06t2t",
+            "title": "Singapore",
+            "type": "Quốc gia ở Châu Á"
+          },
+          "value": 21,
+          "formattedValue": "21",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/06t2t&date=now+7-d&geo=SG"
+        }
+      },
+      {
+        "query": "Video",
+        "value": 20,
+        "formattedValue": "20",
+        "raw": {
+          "topic": {
+            "mid": "/m/07z4p",
+            "title": "Video",
+            "type": "Định dạng phim"
+          },
+          "value": 20,
+          "formattedValue": "20",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/07z4p&date=now+7-d&geo=SG"
+        }
+      },
+      {
+        "query": "YouTube",
+        "value": 18,
+        "formattedValue": "18",
+        "raw": {
+          "topic": {
+            "mid": "/m/0kfgvxd",
+            "title": "YouTube",
+            "type": "Kênh YouTube"
+          },
+          "value": 18,
+          "formattedValue": "18",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/0kfgvxd&date=now+7-d&geo=SG"
+        }
+      },
+      {
+        "query": "Lời bài hát",
+        "value": 16,
+        "formattedValue": "16",
+        "raw": {
+          "topic": {
+            "mid": "/m/09lgd",
+            "title": "Lời bài hát",
+            "type": "Chủ đề"
+          },
+          "value": 16,
+          "formattedValue": "16",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/09lgd&date=now+7-d&geo=SG"
+        }
+      },
+      {
+        "query": "Tập phim",
+        "value": 15,
+        "formattedValue": "15",
+        "raw": {
+          "topic": {
+            "mid": "/m/02cphr",
+            "title": "Tập phim",
+            "type": "Chủ đề"
+          },
+          "value": 15,
+          "formattedValue": "15",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/02cphr&date=now+7-d&geo=SG"
+        }
+      },
+      {
+        "query": "DJ",
+        "value": 13,
+        "formattedValue": "13",
+        "raw": {
+          "topic": {
+            "mid": "/m/02dsz",
+            "title": "DJ",
+            "type": "Nghề nghiệp"
+          },
+          "value": 13,
+          "formattedValue": "13",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/02dsz&date=now+7-d&geo=SG"
+        }
+      },
+      {
+        "query": "Công thức nấu ăn",
+        "value": 12,
+        "formattedValue": "12",
+        "raw": {
+          "topic": {
+            "mid": "/m/0p57p",
+            "title": "Công thức nấu ăn",
+            "type": "Thể loại văn học"
+          },
+          "value": 12,
+          "formattedValue": "12",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/0p57p&date=now+7-d&geo=SG"
+        }
+      },
+      {
+        "query": "Tiếng Anh",
+        "value": 10,
+        "formattedValue": "10",
+        "raw": {
+          "topic": {
+            "mid": "/m/02h40lc",
+            "title": "Tiếng Anh",
+            "type": "Ngôn ngữ"
+          },
+          "value": 10,
+          "formattedValue": "10",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/02h40lc&date=now+7-d&geo=SG"
+        }
+      },
+      {
+        "query": "Nhảy múa",
+        "value": 10,
+        "formattedValue": "10",
+        "raw": {
+          "topic": {
+            "mid": "/m/026bk",
+            "title": "Nhảy múa",
+            "type": "Lĩnh vực nghề nghiệp"
+          },
+          "value": 10,
+          "formattedValue": "10",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/026bk&date=now+7-d&geo=SG"
+        }
+      },
+      {
+        "query": "Album",
+        "value": 10,
+        "formattedValue": "10",
+        "raw": {
+          "topic": {
+            "mid": "/m/02lx2r",
+            "title": "Album",
+            "type": "Loại anbom nhạc"
+          },
+          "value": 10,
+          "formattedValue": "10",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/02lx2r&date=now+7-d&geo=SG"
+        }
+      },
+      {
+        "query": "Kịch",
+        "value": 9,
+        "formattedValue": "9",
+        "raw": {
+          "topic": {
+            "mid": "/m/02822",
+            "title": "Kịch",
+            "type": "Thể loại văn học"
+          },
+          "value": 9,
+          "formattedValue": "9",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/02822&date=now+7-d&geo=SG"
+        }
+      },
+      {
+        "query": "Trò chơi",
+        "value": 8,
+        "formattedValue": "8",
+        "raw": {
+          "topic": {
+            "mid": "/m/03bt1gh",
+            "title": "Trò chơi",
+            "type": "Chủ đề"
+          },
+          "value": 8,
+          "formattedValue": "8",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/03bt1gh&date=now+7-d&geo=SG"
+        }
+      },
+      {
+        "query": "Tin tức",
+        "value": 8,
+        "formattedValue": "8",
+        "raw": {
+          "topic": {
+            "mid": "/m/05jhg",
+            "title": "Tin tức",
+            "type": "Định dạng phát thanh"
+          },
+          "value": 8,
+          "formattedValue": "8",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/05jhg&date=now+7-d&geo=SG"
+        }
+      },
+      {
+        "query": "Thế giới",
+        "value": 8,
+        "formattedValue": "8",
+        "raw": {
+          "topic": {
+            "mid": "/m/09nm_",
+            "title": "Thế giới",
+            "type": "Chủ đề"
+          },
+          "value": 8,
+          "formattedValue": "8",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/09nm_&date=now+7-d&geo=SG"
+        }
+      },
+      {
+        "query": "phối lại",
+        "value": 8,
+        "formattedValue": "8",
+        "raw": {
+          "topic": {
+            "mid": "/g/11bwd8x8nv",
+            "title": "phối lại",
+            "type": "Chủ đề"
+          },
+          "value": 8,
+          "formattedValue": "8",
+          "hasData": true,
+          "link": "/trends/explore?q=/g/11bwd8x8nv&date=now+7-d&geo=SG"
+        }
+      },
+      {
+        "query": "Trẻ em",
+        "value": 7,
+        "formattedValue": "7",
+        "raw": {
+          "topic": {
+            "mid": "/m/0ytgt",
+            "title": "Trẻ em",
+            "type": "Chủ đề"
+          },
+          "value": 7,
+          "formattedValue": "7",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/0ytgt&date=now+7-d&geo=SG"
+        }
+      },
+      {
+        "query": "Trailer",
+        "value": 7,
+        "formattedValue": "7",
+        "raw": {
+          "topic": {
+            "mid": "/m/03hdbf",
+            "title": "Trailer",
+            "type": "Chủ đề"
+          },
+          "value": 7,
+          "formattedValue": "7",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/03hdbf&date=now+7-d&geo=SG"
+        }
+      }
+    ],
+    "rising": [
+      {
+        "query": "Teach You a Lesson",
+        "value": 3700,
+        "formattedValue": "+3.700%",
+        "raw": {
+          "topic": {
+            "mid": "/g/11lyp2nqvl",
+            "title": "Teach You a Lesson",
+            "type": "Chương trình truyền hình"
+          },
+          "value": 3700,
+          "formattedValue": "+3.700%",
+          "link": "/trends/explore?q=/g/11lyp2nqvl&date=now+7-d&geo=SG"
+        }
+      },
+      {
+        "query": "Bharathiraja",
+        "value": 3000,
+        "formattedValue": "+3.000%",
+        "raw": {
+          "topic": {
+            "mid": "/m/09lfcr",
+            "title": "Bharathiraja",
+            "type": "Đạo diễn phim điện ảnh"
+          },
+          "value": 3000,
+          "formattedValue": "+3.000%",
+          "link": "/trends/explore?q=/m/09lfcr&date=now+7-d&geo=SG"
+        }
+      },
+      {
+        "query": "Amapiano",
+        "value": 500,
+        "formattedValue": "+500%",
+        "raw": {
+          "topic": {
+            "mid": "/g/11j0jg007_",
+            "title": "Amapiano",
+            "type": "Thể loại nhạc"
+          },
+          "value": 500,
+          "formattedValue": "+500%",
+          "link": "/trends/explore?q=/g/11j0jg007_&date=now+7-d&geo=SG"
+        }
+      },
+      {
+        "query": "Tik Tok",
+        "value": 350,
+        "formattedValue": "+350%",
+        "raw": {
+          "topic": {
+            "mid": "/g/11fy265933",
+            "title": "Tik Tok",
+            "type": "Công ty"
+          },
+          "value": 350,
+          "formattedValue": "+350%",
+          "link": "/trends/explore?q=/g/11fy265933&date=now+7-d&geo=SG"
+        }
+      },
+      {
+        "query": "FIFA",
+        "value": 300,
+        "formattedValue": "+300%",
+        "raw": {
+          "topic": {
+            "mid": "/m/02zm3",
+            "title": "FIFA",
+            "type": "Tổ chức bóng đá"
+          },
+          "value": 300,
+          "formattedValue": "+300%",
+          "link": "/trends/explore?q=/m/02zm3&date=now+7-d&geo=SG"
+        }
+      },
+      {
+        "query": "Liên đoàn Bóng đá Quốc tế",
+        "value": 250,
+        "formattedValue": "+250%",
+        "raw": {
+          "topic": {
+            "mid": "/g/11c59pck70",
+            "title": "Liên đoàn Bóng đá Quốc tế",
+            "type": "Chủ đề"
+          },
+          "value": 250,
+          "formattedValue": "+250%",
+          "link": "/trends/explore?q=/g/11c59pck70&date=now+7-d&geo=SG"
+        }
+      },
+      {
+        "query": "Công thức 1",
+        "value": 190,
+        "formattedValue": "+190%",
+        "raw": {
+          "topic": {
+            "mid": "/m/02xz2",
+            "title": "Công thức 1",
+            "type": "Liên đoàn thể thao"
+          },
+          "value": 190,
+          "formattedValue": "+190%",
+          "link": "/trends/explore?q=/m/02xz2&date=now+7-d&geo=SG"
+        }
+      },
+      {
+        "query": "Giải Bóng đá Thế giới 2026",
+        "value": 180,
+        "formattedValue": "+180%",
+        "raw": {
+          "topic": {
+            "mid": "/m/0r4xs1m",
+            "title": "Giải Bóng đá Thế giới 2026",
+            "type": "Mùa giải thể thao"
+          },
+          "value": 180,
+          "formattedValue": "+180%",
+          "link": "/trends/explore?q=/m/0r4xs1m&date=now+7-d&geo=SG"
+        }
+      },
+      {
+        "query": "Rạp xiếc kỹ thuật số diệu kỳ",
+        "value": 170,
+        "formattedValue": "+170%",
+        "raw": {
+          "topic": {
+            "mid": "/g/11krktg_mq",
+            "title": "Rạp xiếc kỹ thuật số diệu kỳ",
+            "type": "Phim truyền hình"
+          },
+          "value": 170,
+          "formattedValue": "+170%",
+          "link": "/trends/explore?q=/g/11krktg_mq&date=now+7-d&geo=SG"
+        }
+      },
+      {
+        "query": "Giải Bóng đá Vô địch Thế giới",
+        "value": 140,
+        "formattedValue": "+140%",
+        "raw": {
+          "topic": {
+            "mid": "/m/030q7",
+            "title": "Giải Bóng đá Vô địch Thế giới",
+            "type": "Giải bóng đá"
+          },
+          "value": 140,
+          "formattedValue": "+140%",
+          "link": "/trends/explore?q=/m/030q7&date=now+7-d&geo=SG"
+        }
+      },
+      {
+        "query": "funny",
+        "value": 90,
+        "formattedValue": "+90%",
+        "raw": {
+          "topic": {
+            "mid": "/g/11rhnzhzb2",
+            "title": "funny",
+            "type": "Chủ đề"
+          },
+          "value": 90,
+          "formattedValue": "+90%",
+          "link": "/trends/explore?q=/g/11rhnzhzb2&date=now+7-d&geo=SG"
+        }
+      },
+      {
+        "query": "Thế giới",
+        "value": 80,
+        "formattedValue": "+80%",
+        "raw": {
+          "topic": {
+            "mid": "/m/09nm_",
+            "title": "Thế giới",
+            "type": "Chủ đề"
+          },
+          "value": 80,
+          "formattedValue": "+80%",
+          "link": "/trends/explore?q=/m/09nm_&date=now+7-d&geo=SG"
+        }
+      },
+      {
+        "query": "Apple",
+        "value": 60,
+        "formattedValue": "+60%",
+        "raw": {
+          "topic": {
+            "mid": "/g/11bc6hq8w2",
+            "title": "Apple",
+            "type": "Chủ đề"
+          },
+          "value": 60,
+          "formattedValue": "+60%",
+          "link": "/trends/explore?q=/g/11bc6hq8w2&date=now+7-d&geo=SG"
+        }
+      },
+      {
+        "query": "Phim truyền hình Hàn Quốc",
+        "value": 60,
+        "formattedValue": "+60%",
+        "raw": {
+          "topic": {
+            "mid": "/m/0740gt",
+            "title": "Phim truyền hình Hàn Quốc",
+            "type": "Thể loại phim"
+          },
+          "value": 60,
+          "formattedValue": "+60%",
+          "link": "/trends/explore?q=/m/0740gt&date=now+7-d&geo=SG"
+        }
+      },
+      {
+        "query": "Apple",
+        "value": 60,
+        "formattedValue": "+60%",
+        "raw": {
+          "topic": {
+            "mid": "/m/0k8z",
+            "title": "Apple",
+            "type": "Tập đoàn"
+          },
+          "value": 60,
+          "formattedValue": "+60%",
+          "link": "/trends/explore?q=/m/0k8z&date=now+7-d&geo=SG"
+        }
+      },
+      {
+        "query": "Apple",
+        "value": 50,
+        "formattedValue": "+50%",
+        "raw": {
+          "topic": {
+            "mid": "/m/04st9hr",
+            "title": "Apple",
+            "type": "Chủ đề"
+          },
+          "value": 50,
+          "formattedValue": "+50%",
+          "link": "/trends/explore?q=/m/04st9hr&date=now+7-d&geo=SG"
+        }
+      },
+      {
+        "query": "IShowSpeed",
+        "value": 50,
+        "formattedValue": "+50%",
+        "raw": {
+          "topic": {
+            "mid": "/g/11q30y4rz0",
+            "title": "IShowSpeed",
+            "type": "Người phát sóng trực tiếp"
+          },
+          "value": 50,
+          "formattedValue": "+50%",
+          "link": "/trends/explore?q=/g/11q30y4rz0&date=now+7-d&geo=SG"
+        }
+      },
+      {
+        "query": "Babymonster",
+        "value": 50,
+        "formattedValue": "+50%",
+        "raw": {
+          "topic": {
+            "mid": "/g/11sdr2mt4h",
+            "title": "Babymonster",
+            "type": "Nhóm nhạc"
+          },
+          "value": 50,
+          "formattedValue": "+50%",
+          "link": "/trends/explore?q=/g/11sdr2mt4h&date=now+7-d&geo=SG"
+        }
+      },
+      {
+        "query": "Trà",
+        "value": 50,
+        "formattedValue": "+50%",
+        "raw": {
+          "topic": {
+            "mid": "/m/07clx",
+            "title": "Trà",
+            "type": "Đồ uống"
+          },
+          "value": 50,
+          "formattedValue": "+50%",
+          "link": "/trends/explore?q=/m/07clx&date=now+7-d&geo=SG"
+        }
+      },
+      {
+        "query": "Wuthering Waves",
+        "value": 50,
+        "formattedValue": "+50%",
+        "raw": {
+          "topic": {
+            "mid": "/g/11kh_kz88w",
+            "title": "Wuthering Waves",
+            "type": "Trò chơi điện tử"
+          },
+          "value": 50,
+          "formattedValue": "+50%",
+          "link": "/trends/explore?q=/g/11kh_kz88w&date=now+7-d&geo=SG"
+        }
+      }
+    ]
+  },
+  "queries": {
+    "top": [
+      {
         "query": "song",
         "value": 100,
         "formattedValue": "100",
-        "hasData": true,
-        "link": "/trends/explore?q=song&date=now+7-d&geo=SG"
-      }
-    },
-    {
-      "query": "movie",
-      "value": 62,
-      "formattedValue": "62",
-      "raw": {
+        "raw": {
+          "query": "song",
+          "value": 100,
+          "formattedValue": "100",
+          "hasData": true,
+          "link": "/trends/explore?q=song&date=now+7-d&geo=SG"
+        }
+      },
+      {
         "query": "movie",
-        "value": 62,
-        "formattedValue": "62",
-        "hasData": true,
-        "link": "/trends/explore?q=movie&date=now+7-d&geo=SG"
-      }
-    },
-    {
-      "query": "songs",
-      "value": 60,
-      "formattedValue": "60",
-      "raw": {
+        "value": 61,
+        "formattedValue": "61",
+        "raw": {
+          "query": "movie",
+          "value": 61,
+          "formattedValue": "61",
+          "hasData": true,
+          "link": "/trends/explore?q=movie&date=now+7-d&geo=SG"
+        }
+      },
+      {
         "query": "songs",
-        "value": 60,
-        "formattedValue": "60",
-        "hasData": true,
-        "link": "/trends/explore?q=songs&date=now+7-d&geo=SG"
-      }
-    },
-    {
-      "query": "singapore",
-      "value": 39,
-      "formattedValue": "39",
-      "raw": {
+        "value": 59,
+        "formattedValue": "59",
+        "raw": {
+          "query": "songs",
+          "value": 59,
+          "formattedValue": "59",
+          "hasData": true,
+          "link": "/trends/explore?q=songs&date=now+7-d&geo=SG"
+        }
+      },
+      {
         "query": "singapore",
         "value": 39,
         "formattedValue": "39",
-        "hasData": true,
-        "link": "/trends/explore?q=singapore&date=now+7-d&geo=SG"
-      }
-    },
-    {
-      "query": "music",
-      "value": 31,
-      "formattedValue": "31",
-      "raw": {
+        "raw": {
+          "query": "singapore",
+          "value": 39,
+          "formattedValue": "39",
+          "hasData": true,
+          "link": "/trends/explore?q=singapore&date=now+7-d&geo=SG"
+        }
+      },
+      {
         "query": "music",
         "value": 31,
         "formattedValue": "31",
-        "hasData": true,
-        "link": "/trends/explore?q=music&date=now+7-d&geo=SG"
-      }
-    },
-    {
-      "query": "karaoke",
-      "value": 26,
-      "formattedValue": "26",
-      "raw": {
+        "raw": {
+          "query": "music",
+          "value": 31,
+          "formattedValue": "31",
+          "hasData": true,
+          "link": "/trends/explore?q=music&date=now+7-d&geo=SG"
+        }
+      },
+      {
         "query": "karaoke",
-        "value": 26,
-        "formattedValue": "26",
-        "hasData": true,
-        "link": "/trends/explore?q=karaoke&date=now+7-d&geo=SG"
-      }
-    },
-    {
-      "query": "news",
-      "value": 21,
-      "formattedValue": "21",
-      "raw": {
+        "value": 25,
+        "formattedValue": "25",
+        "raw": {
+          "query": "karaoke",
+          "value": 25,
+          "formattedValue": "25",
+          "hasData": true,
+          "link": "/trends/explore?q=karaoke&date=now+7-d&geo=SG"
+        }
+      },
+      {
         "query": "news",
-        "value": 21,
-        "formattedValue": "21",
-        "hasData": true,
-        "link": "/trends/explore?q=news&date=now+7-d&geo=SG"
-      }
-    },
-    {
-      "query": "trailer",
-      "value": 17,
-      "formattedValue": "17",
-      "raw": {
-        "query": "trailer",
-        "value": 17,
-        "formattedValue": "17",
-        "hasData": true,
-        "link": "/trends/explore?q=trailer&date=now+7-d&geo=SG"
-      }
-    },
-    {
-      "query": "roblox",
-      "value": 15,
-      "formattedValue": "15",
-      "raw": {
-        "query": "roblox",
+        "value": 22,
+        "formattedValue": "22",
+        "raw": {
+          "query": "news",
+          "value": 22,
+          "formattedValue": "22",
+          "hasData": true,
+          "link": "/trends/explore?q=news&date=now+7-d&geo=SG"
+        }
+      },
+      {
+        "query": "ai",
         "value": 15,
         "formattedValue": "15",
-        "hasData": true,
-        "link": "/trends/explore?q=roblox&date=now+7-d&geo=SG"
-      }
-    },
-    {
-      "query": "world cup",
-      "value": 14,
-      "formattedValue": "14",
-      "raw": {
+        "raw": {
+          "query": "ai",
+          "value": 15,
+          "formattedValue": "15",
+          "hasData": true,
+          "link": "/trends/explore?q=ai&date=now+7-d&geo=SG"
+        }
+      },
+      {
         "query": "world cup",
         "value": 14,
         "formattedValue": "14",
-        "hasData": true,
-        "link": "/trends/explore?q=world+cup&date=now+7-d&geo=SG"
-      }
-    },
-    {
-      "query": "tamil songs",
-      "value": 13,
-      "formattedValue": "13",
-      "raw": {
+        "raw": {
+          "query": "world cup",
+          "value": 14,
+          "formattedValue": "14",
+          "hasData": true,
+          "link": "/trends/explore?q=world+cup&date=now+7-d&geo=SG"
+        }
+      },
+      {
+        "query": "roblox",
+        "value": 14,
+        "formattedValue": "14",
+        "raw": {
+          "query": "roblox",
+          "value": 14,
+          "formattedValue": "14",
+          "hasData": true,
+          "link": "/trends/explore?q=roblox&date=now+7-d&geo=SG"
+        }
+      },
+      {
         "query": "tamil songs",
         "value": 13,
         "formattedValue": "13",
-        "hasData": true,
-        "link": "/trends/explore?q=tamil+songs&date=now+7-d&geo=SG"
-      }
-    },
-    {
-      "query": "asmr",
-      "value": 13,
-      "formattedValue": "13",
-      "raw": {
+        "raw": {
+          "query": "tamil songs",
+          "value": 13,
+          "formattedValue": "13",
+          "hasData": true,
+          "link": "/trends/explore?q=tamil+songs&date=now+7-d&geo=SG"
+        }
+      },
+      {
         "query": "asmr",
         "value": 13,
         "formattedValue": "13",
-        "hasData": true,
-        "link": "/trends/explore?q=asmr&date=now+7-d&geo=SG"
-      }
-    },
-    {
-      "query": "minecraft",
-      "value": 12,
-      "formattedValue": "12",
-      "raw": {
+        "raw": {
+          "query": "asmr",
+          "value": 13,
+          "formattedValue": "13",
+          "hasData": true,
+          "link": "/trends/explore?q=asmr&date=now+7-d&geo=SG"
+        }
+      },
+      {
         "query": "minecraft",
         "value": 12,
         "formattedValue": "12",
-        "hasData": true,
-        "link": "/trends/explore?q=minecraft&date=now+7-d&geo=SG"
-      }
-    },
-    {
-      "query": "dj",
-      "value": 12,
-      "formattedValue": "12",
-      "raw": {
+        "raw": {
+          "query": "minecraft",
+          "value": 12,
+          "formattedValue": "12",
+          "hasData": true,
+          "link": "/trends/explore?q=minecraft&date=now+7-d&geo=SG"
+        }
+      },
+      {
         "query": "dj",
         "value": 12,
         "formattedValue": "12",
-        "hasData": true,
-        "link": "/trends/explore?q=dj&date=now+7-d&geo=SG"
-      }
-    },
-    {
-      "query": "food",
-      "value": 10,
-      "formattedValue": "10",
-      "raw": {
+        "raw": {
+          "query": "dj",
+          "value": 12,
+          "formattedValue": "12",
+          "hasData": true,
+          "link": "/trends/explore?q=dj&date=now+7-d&geo=SG"
+        }
+      },
+      {
         "query": "food",
         "value": 10,
         "formattedValue": "10",
-        "hasData": true,
-        "link": "/trends/explore?q=food&date=now+7-d&geo=SG"
-      }
-    },
-    {
-      "query": "bts",
-      "value": 10,
-      "formattedValue": "10",
-      "raw": {
+        "raw": {
+          "query": "food",
+          "value": 10,
+          "formattedValue": "10",
+          "hasData": true,
+          "link": "/trends/explore?q=food&date=now+7-d&geo=SG"
+        }
+      },
+      {
         "query": "bts",
         "value": 10,
         "formattedValue": "10",
-        "hasData": true,
-        "link": "/trends/explore?q=bts&date=now+7-d&geo=SG"
-      }
-    },
-    {
-      "query": "chinese drama",
-      "value": 8,
-      "formattedValue": "8",
-      "raw": {
+        "raw": {
+          "query": "bts",
+          "value": 10,
+          "formattedValue": "10",
+          "hasData": true,
+          "link": "/trends/explore?q=bts&date=now+7-d&geo=SG"
+        }
+      },
+      {
         "query": "chinese drama",
         "value": 8,
         "formattedValue": "8",
-        "hasData": true,
-        "link": "/trends/explore?q=chinese+drama&date=now+7-d&geo=SG"
-      }
-    },
-    {
-      "query": "cat",
-      "value": 8,
-      "formattedValue": "8",
-      "raw": {
-        "query": "cat",
-        "value": 8,
-        "formattedValue": "8",
-        "hasData": true,
-        "link": "/trends/explore?q=cat&date=now+7-d&geo=SG"
-      }
-    },
-    {
-      "query": "tamil full movie",
-      "value": 8,
-      "formattedValue": "8",
-      "raw": {
+        "raw": {
+          "query": "chinese drama",
+          "value": 8,
+          "formattedValue": "8",
+          "hasData": true,
+          "link": "/trends/explore?q=chinese+drama&date=now+7-d&geo=SG"
+        }
+      },
+      {
         "query": "tamil full movie",
         "value": 8,
         "formattedValue": "8",
-        "hasData": true,
-        "link": "/trends/explore?q=tamil+full+movie&date=now+7-d&geo=SG"
-      }
-    },
-    {
-      "query": "funny",
-      "value": 8,
-      "formattedValue": "8",
-      "raw": {
+        "raw": {
+          "query": "tamil full movie",
+          "value": 8,
+          "formattedValue": "8",
+          "hasData": true,
+          "link": "/trends/explore?q=tamil+full+movie&date=now+7-d&geo=SG"
+        }
+      },
+      {
+        "query": "cat",
+        "value": 7,
+        "formattedValue": "7",
+        "raw": {
+          "query": "cat",
+          "value": 7,
+          "formattedValue": "7",
+          "hasData": true,
+          "link": "/trends/explore?q=cat&date=now+7-d&geo=SG"
+        }
+      },
+      {
         "query": "funny",
-        "value": 8,
-        "formattedValue": "8",
-        "hasData": true,
-        "link": "/trends/explore?q=funny&date=now+7-d&geo=SG"
-      }
-    },
-    {
-      "query": "podcast",
-      "value": 7,
-      "formattedValue": "7",
-      "raw": {
+        "value": 7,
+        "formattedValue": "7",
+        "raw": {
+          "query": "funny",
+          "value": 7,
+          "formattedValue": "7",
+          "hasData": true,
+          "link": "/trends/explore?q=funny&date=now+7-d&geo=SG"
+        }
+      },
+      {
         "query": "podcast",
         "value": 7,
         "formattedValue": "7",
-        "hasData": true,
-        "link": "/trends/explore?q=podcast&date=now+7-d&geo=SG"
-      }
-    },
-    {
-      "query": "world cup 2026",
-      "value": 7,
-      "formattedValue": "7",
-      "raw": {
+        "raw": {
+          "query": "podcast",
+          "value": 7,
+          "formattedValue": "7",
+          "hasData": true,
+          "link": "/trends/explore?q=podcast&date=now+7-d&geo=SG"
+        }
+      },
+      {
         "query": "world cup 2026",
         "value": 7,
         "formattedValue": "7",
-        "hasData": true,
-        "link": "/trends/explore?q=world+cup+2026&date=now+7-d&geo=SG"
-      }
-    },
-    {
-      "query": "pokemon",
-      "value": 7,
-      "formattedValue": "7",
-      "raw": {
-        "query": "pokemon",
-        "value": 7,
-        "formattedValue": "7",
-        "hasData": true,
-        "link": "/trends/explore?q=pokemon&date=now+7-d&geo=SG"
-      }
-    },
-    {
-      "query": "michael jackson",
-      "value": 6,
-      "formattedValue": "6",
-      "raw": {
+        "raw": {
+          "query": "world cup 2026",
+          "value": 7,
+          "formattedValue": "7",
+          "hasData": true,
+          "link": "/trends/explore?q=world+cup+2026&date=now+7-d&geo=SG"
+        }
+      },
+      {
         "query": "michael jackson",
         "value": 6,
         "formattedValue": "6",
-        "hasData": true,
-        "link": "/trends/explore?q=michael+jackson&date=now+7-d&geo=SG"
-      }
-    },
-    {
-      "query": "youtube",
-      "value": 6,
-      "formattedValue": "6",
-      "raw": {
-        "query": "youtube",
+        "raw": {
+          "query": "michael jackson",
+          "value": 6,
+          "formattedValue": "6",
+          "hasData": true,
+          "link": "/trends/explore?q=michael+jackson&date=now+7-d&geo=SG"
+        }
+      },
+      {
+        "query": "pokemon",
         "value": 6,
         "formattedValue": "6",
-        "hasData": true,
-        "link": "/trends/explore?q=youtube&date=now+7-d&geo=SG"
+        "raw": {
+          "query": "pokemon",
+          "value": 6,
+          "formattedValue": "6",
+          "hasData": true,
+          "link": "/trends/explore?q=pokemon&date=now+7-d&geo=SG"
+        }
+      },
+      {
+        "query": "blue",
+        "value": 6,
+        "formattedValue": "6",
+        "raw": {
+          "query": "blue",
+          "value": 6,
+          "formattedValue": "6",
+          "hasData": true,
+          "link": "/trends/explore?q=blue&date=now+7-d&geo=SG"
+        }
       }
-    }
-  ],
-  "risingQueries": [
-    {
-      "query": "bharathiraja",
-      "value": 2750,
-      "formattedValue": "+2.750%",
-      "raw": {
-        "query": "bharathiraja",
-        "value": 2750,
-        "formattedValue": "+2.750%",
-        "link": "/trends/explore?q=bharathiraja&date=now+7-d&geo=SG"
-      }
-    },
-    {
-      "query": "iconic by mistake",
-      "value": 2750,
-      "formattedValue": "+2.750%",
-      "raw": {
+    ],
+    "rising": [
+      {
         "query": "iconic by mistake",
-        "value": 2750,
-        "formattedValue": "+2.750%",
-        "link": "/trends/explore?q=iconic+by+mistake&date=now+7-d&geo=SG"
-      }
-    },
-    {
-      "query": "nintendo direct",
-      "value": 1700,
-      "formattedValue": "+1.700%",
-      "raw": {
+        "value": 3150,
+        "formattedValue": "+3.150%",
+        "raw": {
+          "query": "iconic by mistake",
+          "value": 3150,
+          "formattedValue": "+3.150%",
+          "link": "/trends/explore?q=iconic+by+mistake&date=now+7-d&geo=SG"
+        }
+      },
+      {
+        "query": "bharathiraja",
+        "value": 2900,
+        "formattedValue": "+2.900%",
+        "raw": {
+          "query": "bharathiraja",
+          "value": 2900,
+          "formattedValue": "+2.900%",
+          "link": "/trends/explore?q=bharathiraja&date=now+7-d&geo=SG"
+        }
+      },
+      {
         "query": "nintendo direct",
-        "value": 1700,
-        "formattedValue": "+1.700%",
-        "link": "/trends/explore?q=nintendo+direct&date=now+7-d&geo=SG"
-      }
-    },
-    {
-      "query": "wwdc",
-      "value": 1650,
-      "formattedValue": "+1.650%",
-      "raw": {
-        "query": "wwdc",
         "value": 1650,
         "formattedValue": "+1.650%",
-        "link": "/trends/explore?q=wwdc&date=now+7-d&geo=SG"
-      }
-    },
-    {
-      "query": "teach you a lesson kdrama",
-      "value": 1600,
-      "formattedValue": "+1.600%",
-      "raw": {
+        "raw": {
+          "query": "nintendo direct",
+          "value": 1650,
+          "formattedValue": "+1.650%",
+          "link": "/trends/explore?q=nintendo+direct&date=now+7-d&geo=SG"
+        }
+      },
+      {
         "query": "teach you a lesson kdrama",
         "value": 1600,
         "formattedValue": "+1.600%",
-        "link": "/trends/explore?q=teach+you+a+lesson+kdrama&date=now+7-d&geo=SG"
-      }
-    },
-    {
-      "query": "earthquake philippines today",
-      "value": 1500,
-      "formattedValue": "+1.500%",
-      "raw": {
+        "raw": {
+          "query": "teach you a lesson kdrama",
+          "value": 1600,
+          "formattedValue": "+1.600%",
+          "link": "/trends/explore?q=teach+you+a+lesson+kdrama&date=now+7-d&geo=SG"
+        }
+      },
+      {
         "query": "earthquake philippines today",
+        "value": 1550,
+        "formattedValue": "+1.550%",
+        "raw": {
+          "query": "earthquake philippines today",
+          "value": 1550,
+          "formattedValue": "+1.550%",
+          "link": "/trends/explore?q=earthquake+philippines+today&date=now+7-d&geo=SG"
+        }
+      },
+      {
+        "query": "wwdc",
         "value": 1500,
         "formattedValue": "+1.500%",
-        "link": "/trends/explore?q=earthquake+philippines+today&date=now+7-d&geo=SG"
-      }
-    },
-    {
-      "query": "singapore vs china",
-      "value": 1300,
-      "formattedValue": "+1.300%",
-      "raw": {
+        "raw": {
+          "query": "wwdc",
+          "value": 1500,
+          "formattedValue": "+1.500%",
+          "link": "/trends/explore?q=wwdc&date=now+7-d&geo=SG"
+        }
+      },
+      {
         "query": "singapore vs china",
         "value": 1300,
         "formattedValue": "+1.300%",
-        "link": "/trends/explore?q=singapore+vs+china&date=now+7-d&geo=SG"
-      }
-    },
-    {
-      "query": "wwdc 2026",
-      "value": 1100,
-      "formattedValue": "+1.100%",
-      "raw": {
+        "raw": {
+          "query": "singapore vs china",
+          "value": 1300,
+          "formattedValue": "+1.300%",
+          "link": "/trends/explore?q=singapore+vs+china&date=now+7-d&geo=SG"
+        }
+      },
+      {
         "query": "wwdc 2026",
-        "value": 1100,
-        "formattedValue": "+1.100%",
-        "link": "/trends/explore?q=wwdc+2026&date=now+7-d&geo=SG"
-      }
-    },
-    {
-      "query": "england vs new zealand",
-      "value": 950,
-      "formattedValue": "+950%",
-      "raw": {
+        "value": 1200,
+        "formattedValue": "+1.200%",
+        "raw": {
+          "query": "wwdc 2026",
+          "value": 1200,
+          "formattedValue": "+1.200%",
+          "link": "/trends/explore?q=wwdc+2026&date=now+7-d&geo=SG"
+        }
+      },
+      {
         "query": "england vs new zealand",
-        "value": 950,
-        "formattedValue": "+950%",
-        "link": "/trends/explore?q=england+vs+new+zealand&date=now+7-d&geo=SG"
-      }
-    },
-    {
-      "query": "sugar honey iced tea babymonster",
-      "value": 850,
-      "formattedValue": "+850%",
-      "raw": {
+        "value": 1050,
+        "formattedValue": "+1.050%",
+        "raw": {
+          "query": "england vs new zealand",
+          "value": 1050,
+          "formattedValue": "+1.050%",
+          "link": "/trends/explore?q=england+vs+new+zealand&date=now+7-d&geo=SG"
+        }
+      },
+      {
         "query": "sugar honey iced tea babymonster",
-        "value": 850,
-        "formattedValue": "+850%",
-        "link": "/trends/explore?q=sugar+honey+iced+tea+babymonster&date=now+7-d&geo=SG"
-      }
-    },
-    {
-      "query": "铁拳 教育",
-      "value": 750,
-      "formattedValue": "+750%",
-      "raw": {
+        "value": 800,
+        "formattedValue": "+800%",
+        "raw": {
+          "query": "sugar honey iced tea babymonster",
+          "value": 800,
+          "formattedValue": "+800%",
+          "link": "/trends/explore?q=sugar+honey+iced+tea+babymonster&date=now+7-d&geo=SG"
+        }
+      },
+      {
         "query": "铁拳 教育",
         "value": 750,
         "formattedValue": "+750%",
-        "link": "/trends/explore?q=%E9%93%81%E6%8B%B3+%E6%95%99%E8%82%B2&date=now+7-d&geo=SG"
-      }
-    },
-    {
-      "query": "mpl sg",
-      "value": 450,
-      "formattedValue": "+450%",
-      "raw": {
-        "query": "mpl sg",
-        "value": 450,
-        "formattedValue": "+450%",
-        "link": "/trends/explore?q=mpl+sg&date=now+7-d&geo=SG"
-      }
-    },
-    {
-      "query": "mamamoo",
-      "value": 450,
-      "formattedValue": "+450%",
-      "raw": {
+        "raw": {
+          "query": "铁拳 教育",
+          "value": 750,
+          "formattedValue": "+750%",
+          "link": "/trends/explore?q=%E9%93%81%E6%8B%B3+%E6%95%99%E8%82%B2&date=now+7-d&geo=SG"
+        }
+      },
+      {
         "query": "mamamoo",
         "value": 450,
         "formattedValue": "+450%",
-        "link": "/trends/explore?q=mamamoo&date=now+7-d&geo=SG"
-      }
-    },
-    {
-      "query": "england vs costa rica",
-      "value": 350,
-      "formattedValue": "+350%",
-      "raw": {
+        "raw": {
+          "query": "mamamoo",
+          "value": 450,
+          "formattedValue": "+450%",
+          "link": "/trends/explore?q=mamamoo&date=now+7-d&geo=SG"
+        }
+      },
+      {
+        "query": "mpl sg",
+        "value": 450,
+        "formattedValue": "+450%",
+        "raw": {
+          "query": "mpl sg",
+          "value": 450,
+          "formattedValue": "+450%",
+          "link": "/trends/explore?q=mpl+sg&date=now+7-d&geo=SG"
+        }
+      },
+      {
         "query": "england vs costa rica",
-        "value": 350,
-        "formattedValue": "+350%",
-        "link": "/trends/explore?q=england+vs+costa+rica&date=now+7-d&geo=SG"
-      }
-    },
-    {
-      "query": "fifa world cup 2026",
-      "value": 350,
-      "formattedValue": "+350%",
-      "raw": {
+        "value": 400,
+        "formattedValue": "+400%",
+        "raw": {
+          "query": "england vs costa rica",
+          "value": 400,
+          "formattedValue": "+400%",
+          "link": "/trends/explore?q=england+vs+costa+rica&date=now+7-d&geo=SG"
+        }
+      },
+      {
         "query": "fifa world cup 2026",
         "value": 350,
         "formattedValue": "+350%",
-        "link": "/trends/explore?q=fifa+world+cup+2026&date=now+7-d&geo=SG"
-      }
-    },
-    {
-      "query": "sigma song",
-      "value": 350,
-      "formattedValue": "+350%",
-      "raw": {
-        "query": "sigma song",
-        "value": 350,
-        "formattedValue": "+350%",
-        "link": "/trends/explore?q=sigma+song&date=now+7-d&geo=SG"
-      }
-    },
-    {
-      "query": "fns",
-      "value": 350,
-      "formattedValue": "+350%",
-      "raw": {
+        "raw": {
+          "query": "fifa world cup 2026",
+          "value": 350,
+          "formattedValue": "+350%",
+          "link": "/trends/explore?q=fifa+world+cup+2026&date=now+7-d&geo=SG"
+        }
+      },
+      {
         "query": "fns",
         "value": 350,
         "formattedValue": "+350%",
-        "link": "/trends/explore?q=fns&date=now+7-d&geo=SG"
-      }
-    },
-    {
-      "query": "fifa world cup",
-      "value": 300,
-      "formattedValue": "+300%",
-      "raw": {
+        "raw": {
+          "query": "fns",
+          "value": 350,
+          "formattedValue": "+350%",
+          "link": "/trends/explore?q=fns&date=now+7-d&geo=SG"
+        }
+      },
+      {
         "query": "fifa world cup",
         "value": 300,
         "formattedValue": "+300%",
-        "link": "/trends/explore?q=fifa+world+cup&date=now+7-d&geo=SG"
-      }
-    },
-    {
-      "query": "knicks vs spurs",
-      "value": 250,
-      "formattedValue": "+250%",
-      "raw": {
+        "raw": {
+          "query": "fifa world cup",
+          "value": 300,
+          "formattedValue": "+300%",
+          "link": "/trends/explore?q=fifa+world+cup&date=now+7-d&geo=SG"
+        }
+      },
+      {
+        "query": "sigma song",
+        "value": 300,
+        "formattedValue": "+300%",
+        "raw": {
+          "query": "sigma song",
+          "value": 300,
+          "formattedValue": "+300%",
+          "link": "/trends/explore?q=sigma+song&date=now+7-d&geo=SG"
+        }
+      },
+      {
         "query": "knicks vs spurs",
         "value": 250,
         "formattedValue": "+250%",
-        "link": "/trends/explore?q=knicks+vs+spurs&date=now+7-d&geo=SG"
-      }
-    },
-    {
-      "query": "vct",
-      "value": 250,
-      "formattedValue": "+250%",
-      "raw": {
+        "raw": {
+          "query": "knicks vs spurs",
+          "value": 250,
+          "formattedValue": "+250%",
+          "link": "/trends/explore?q=knicks+vs+spurs&date=now+7-d&geo=SG"
+        }
+      },
+      {
         "query": "vct",
         "value": 250,
         "formattedValue": "+250%",
-        "link": "/trends/explore?q=vct&date=now+7-d&geo=SG"
-      }
-    },
-    {
-      "query": "portugal",
-      "value": 200,
-      "formattedValue": "+200%",
-      "raw": {
-        "query": "portugal",
-        "value": 200,
-        "formattedValue": "+200%",
-        "link": "/trends/explore?q=portugal&date=now+7-d&geo=SG"
-      }
-    },
-    {
-      "query": "england",
-      "value": 200,
-      "formattedValue": "+200%",
-      "raw": {
+        "raw": {
+          "query": "vct",
+          "value": 250,
+          "formattedValue": "+250%",
+          "link": "/trends/explore?q=vct&date=now+7-d&geo=SG"
+        }
+      },
+      {
         "query": "england",
         "value": 200,
         "formattedValue": "+200%",
-        "link": "/trends/explore?q=england&date=now+7-d&geo=SG"
-      }
-    },
-    {
-      "query": "formula 1",
-      "value": 190,
-      "formattedValue": "+190%",
-      "raw": {
+        "raw": {
+          "query": "england",
+          "value": 200,
+          "formattedValue": "+200%",
+          "link": "/trends/explore?q=england&date=now+7-d&geo=SG"
+        }
+      },
+      {
         "query": "formula 1",
         "value": 190,
         "formattedValue": "+190%",
-        "link": "/trends/explore?q=formula+1&date=now+7-d&geo=SG"
-      }
-    },
-    {
-      "query": "mpl my",
-      "value": 170,
-      "formattedValue": "+170%",
-      "raw": {
+        "raw": {
+          "query": "formula 1",
+          "value": 190,
+          "formattedValue": "+190%",
+          "link": "/trends/explore?q=formula+1&date=now+7-d&geo=SG"
+        }
+      },
+      {
         "query": "mpl my",
         "value": 170,
         "formattedValue": "+170%",
-        "link": "/trends/explore?q=mpl+my&date=now+7-d&geo=SG"
+        "raw": {
+          "query": "mpl my",
+          "value": 170,
+          "formattedValue": "+170%",
+          "link": "/trends/explore?q=mpl+my&date=now+7-d&geo=SG"
+        }
+      },
+      {
+        "query": "nintendo",
+        "value": 160,
+        "formattedValue": "+160%",
+        "raw": {
+          "query": "nintendo",
+          "value": 160,
+          "formattedValue": "+160%",
+          "link": "/trends/explore?q=nintendo&date=now+7-d&geo=SG"
+        }
+      },
+      {
+        "query": "f1",
+        "value": 160,
+        "formattedValue": "+160%",
+        "raw": {
+          "query": "f1",
+          "value": 160,
+          "formattedValue": "+160%",
+          "link": "/trends/explore?q=f1&date=now+7-d&geo=SG"
+        }
       }
-    },
-    {
-      "query": "tadc",
-      "value": 170,
-      "formattedValue": "+170%",
-      "raw": {
-        "query": "tadc",
-        "value": 170,
-        "formattedValue": "+170%",
-        "link": "/trends/explore?q=tadc&date=now+7-d&geo=SG"
-      }
-    }
-  ]
+    ]
+  }
 }
