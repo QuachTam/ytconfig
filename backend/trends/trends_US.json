@@ -2,206 +2,781 @@
   "status": "success",
   "topQueries": [
     {
+      "query": "Bài hát",
       "value": 100,
-      "formattedValue": "100"
+      "formattedValue": "100",
+      "raw": {
+        "topic": {
+          "mid": "/m/074ft",
+          "title": "Bài hát",
+          "type": "Loại sáng tác"
+        },
+        "value": 100,
+        "formattedValue": "100",
+        "hasData": true,
+        "link": "/trends/explore?q=/m/074ft&date=now+7-d&geo=US"
+      }
     },
     {
+      "query": "Âm nhạc",
+      "value": 62,
+      "formattedValue": "62",
+      "raw": {
+        "topic": {
+          "mid": "/m/04rlf",
+          "title": "Âm nhạc",
+          "type": "Định dạng âm thanh"
+        },
+        "value": 62,
+        "formattedValue": "62",
+        "hasData": true,
+        "link": "/trends/explore?q=/m/04rlf&date=now+7-d&geo=US"
+      }
+    },
+    {
+      "query": "Điện ảnh",
       "value": 61,
-      "formattedValue": "61"
+      "formattedValue": "61",
+      "raw": {
+        "topic": {
+          "mid": "/m/02vxn",
+          "title": "Điện ảnh",
+          "type": "Loại truyền hình"
+        },
+        "value": 61,
+        "formattedValue": "61",
+        "hasData": true,
+        "link": "/trends/explore?q=/m/02vxn&date=now+7-d&geo=US"
+      }
     },
     {
-      "value": 54,
-      "formattedValue": "54"
+      "query": "Video",
+      "value": 47,
+      "formattedValue": "47",
+      "raw": {
+        "topic": {
+          "mid": "/m/07z4p",
+          "title": "Video",
+          "type": "Định dạng phim"
+        },
+        "value": 47,
+        "formattedValue": "47",
+        "hasData": true,
+        "link": "/trends/explore?q=/m/07z4p&date=now+7-d&geo=US"
+      }
     },
     {
-      "value": 48,
-      "formattedValue": "48"
+      "query": "2026",
+      "value": 46,
+      "formattedValue": "46",
+      "raw": {
+        "topic": {
+          "mid": "/g/11b77d6b6g",
+          "title": "2026",
+          "type": "Chủ đề"
+        },
+        "value": 46,
+        "formattedValue": "46",
+        "hasData": true,
+        "link": "/trends/explore?q=/g/11b77d6b6g&date=now+7-d&geo=US"
+      }
     },
     {
-      "value": 44,
-      "formattedValue": "44"
+      "query": "Tập phim",
+      "value": 32,
+      "formattedValue": "32",
+      "raw": {
+        "topic": {
+          "mid": "/m/02cphr",
+          "title": "Tập phim",
+          "type": "Chủ đề"
+        },
+        "value": 32,
+        "formattedValue": "32",
+        "hasData": true,
+        "link": "/trends/explore?q=/m/02cphr&date=now+7-d&geo=US"
+      }
     },
     {
+      "query": "Trò chơi",
       "value": 31,
-      "formattedValue": "31"
+      "formattedValue": "31",
+      "raw": {
+        "topic": {
+          "mid": "/m/03bt1gh",
+          "title": "Trò chơi",
+          "type": "Chủ đề"
+        },
+        "value": 31,
+        "formattedValue": "31",
+        "hasData": true,
+        "link": "/trends/explore?q=/m/03bt1gh&date=now+7-d&geo=US"
+      }
     },
     {
-      "value": 31,
-      "formattedValue": "31"
-    },
-    {
-      "value": 27,
-      "formattedValue": "27"
-    },
-    {
+      "query": "Lời bài hát",
       "value": 26,
-      "formattedValue": "26"
+      "formattedValue": "26",
+      "raw": {
+        "topic": {
+          "mid": "/m/09lgd",
+          "title": "Lời bài hát",
+          "type": "Chủ đề"
+        },
+        "value": 26,
+        "formattedValue": "26",
+        "hasData": true,
+        "link": "/trends/explore?q=/m/09lgd&date=now+7-d&geo=US"
+      }
     },
     {
+      "query": "Phản ứng kích thích cảm giác tự động",
       "value": 25,
-      "formattedValue": "25"
+      "formattedValue": "25",
+      "raw": {
+        "topic": {
+          "mid": "/m/0ngt1v6",
+          "title": "Phản ứng kích thích cảm giác tự động",
+          "type": "Chủ đề"
+        },
+        "value": 25,
+        "formattedValue": "25",
+        "hasData": true,
+        "link": "/trends/explore?q=/m/0ngt1v6&date=now+7-d&geo=US"
+      }
     },
     {
+      "query": "Trailer",
+      "value": 24,
+      "formattedValue": "24",
+      "raw": {
+        "topic": {
+          "mid": "/m/03hdbf",
+          "title": "Trailer",
+          "type": "Chủ đề"
+        },
+        "value": 24,
+        "formattedValue": "24",
+        "hasData": true,
+        "link": "/trends/explore?q=/m/03hdbf&date=now+7-d&geo=US"
+      }
+    },
+    {
+      "query": "Tin tức",
       "value": 23,
-      "formattedValue": "23"
+      "formattedValue": "23",
+      "raw": {
+        "topic": {
+          "mid": "/m/05jhg",
+          "title": "Tin tức",
+          "type": "Định dạng phát thanh"
+        },
+        "value": 23,
+        "formattedValue": "23",
+        "hasData": true,
+        "link": "/trends/explore?q=/m/05jhg&date=now+7-d&geo=US"
+      }
     },
     {
-      "value": 21,
-      "formattedValue": "21"
-    },
-    {
-      "value": 21,
-      "formattedValue": "21"
-    },
-    {
-      "value": 21,
-      "formattedValue": "21"
-    },
-    {
+      "query": "Trẻ em",
       "value": 20,
-      "formattedValue": "20"
+      "formattedValue": "20",
+      "raw": {
+        "topic": {
+          "mid": "/m/0ytgt",
+          "title": "Trẻ em",
+          "type": "Chủ đề"
+        },
+        "value": 20,
+        "formattedValue": "20",
+        "hasData": true,
+        "link": "/trends/explore?q=/m/0ytgt&date=now+7-d&geo=US"
+      }
     },
     {
+      "query": "Âm thanh",
       "value": 20,
-      "formattedValue": "20"
+      "formattedValue": "20",
+      "raw": {
+        "topic": {
+          "mid": "/m/06qc5",
+          "title": "Âm thanh",
+          "type": "Chủ đề"
+        },
+        "value": 20,
+        "formattedValue": "20",
+        "hasData": true,
+        "link": "/trends/explore?q=/m/06qc5&date=now+7-d&geo=US"
+      }
     },
     {
+      "query": "create",
+      "value": 20,
+      "formattedValue": "20",
+      "raw": {
+        "topic": {
+          "mid": "/g/11qg_c03j7",
+          "title": "create",
+          "type": "Chủ đề"
+        },
+        "value": 20,
+        "formattedValue": "20",
+        "hasData": true,
+        "link": "/trends/explore?q=/g/11qg_c03j7&date=now+7-d&geo=US"
+      }
+    },
+    {
+      "query": "Công thức nấu ăn",
+      "value": 20,
+      "formattedValue": "20",
+      "raw": {
+        "topic": {
+          "mid": "/m/0p57p",
+          "title": "Công thức nấu ăn",
+          "type": "Thể loại văn học"
+        },
+        "value": 20,
+        "formattedValue": "20",
+        "hasData": true,
+        "link": "/trends/explore?q=/m/0p57p&date=now+7-d&geo=US"
+      }
+    },
+    {
+      "query": "Nhảy múa",
       "value": 19,
-      "formattedValue": "19"
+      "formattedValue": "19",
+      "raw": {
+        "topic": {
+          "mid": "/m/026bk",
+          "title": "Nhảy múa",
+          "type": "Lĩnh vực nghề nghiệp"
+        },
+        "value": 19,
+        "formattedValue": "19",
+        "hasData": true,
+        "link": "/trends/explore?q=/m/026bk&date=now+7-d&geo=US"
+      }
     },
     {
+      "query": "Minecraft",
       "value": 19,
-      "formattedValue": "19"
+      "formattedValue": "19",
+      "raw": {
+        "topic": {
+          "mid": "/m/09v6kpg",
+          "title": "Minecraft",
+          "type": "Trò chơi điện tử"
+        },
+        "value": 19,
+        "formattedValue": "19",
+        "hasData": true,
+        "link": "/trends/explore?q=/m/09v6kpg&date=now+7-d&geo=US"
+      }
     },
     {
+      "query": "Roblox",
       "value": 19,
-      "formattedValue": "19"
+      "formattedValue": "19",
+      "raw": {
+        "topic": {
+          "mid": "/m/026bs1g",
+          "title": "Roblox",
+          "type": "Nền tảng điện toán"
+        },
+        "value": 19,
+        "formattedValue": "19",
+        "hasData": true,
+        "link": "/trends/explore?q=/m/026bs1g&date=now+7-d&geo=US"
+      }
     },
     {
+      "query": "2025",
+      "value": 19,
+      "formattedValue": "19",
+      "raw": {
+        "topic": {
+          "mid": "/g/11b77d3kyg",
+          "title": "2025",
+          "type": "Chủ đề"
+        },
+        "value": 19,
+        "formattedValue": "19",
+        "hasData": true,
+        "link": "/trends/explore?q=/g/11b77d3kyg&date=now+7-d&geo=US"
+      }
+    },
+    {
+      "query": "Dạy kèm",
       "value": 18,
-      "formattedValue": "18"
+      "formattedValue": "18",
+      "raw": {
+        "topic": {
+          "mid": "/m/0157xl",
+          "title": "Dạy kèm",
+          "type": "Chủ đề"
+        },
+        "value": 18,
+        "formattedValue": "18",
+        "hasData": true,
+        "link": "/trends/explore?q=/m/0157xl&date=now+7-d&geo=US"
+      }
     },
     {
+      "query": "Vlog",
       "value": 18,
-      "formattedValue": "18"
+      "formattedValue": "18",
+      "raw": {
+        "topic": {
+          "mid": "/m/04rh6b",
+          "title": "Vlog",
+          "type": "Thể loại truyền hình"
+        },
+        "value": 18,
+        "formattedValue": "18",
+        "hasData": true,
+        "link": "/trends/explore?q=/m/04rh6b&date=now+7-d&geo=US"
+      }
     },
     {
-      "value": 18,
-      "formattedValue": "18"
-    },
-    {
-      "value": 18,
-      "formattedValue": "18"
-    },
-    {
-      "value": 18,
-      "formattedValue": "18"
-    },
-    {
+      "query": "Ô tô",
       "value": 17,
-      "formattedValue": "17"
+      "formattedValue": "17",
+      "raw": {
+        "topic": {
+          "mid": "/m/0k4j",
+          "title": "Ô tô",
+          "type": "Chế độ phương tiện"
+        },
+        "value": 17,
+        "formattedValue": "17",
+        "hasData": true,
+        "link": "/trends/explore?q=/m/0k4j&date=now+7-d&geo=US"
+      }
+    },
+    {
+      "query": "Ngủ",
+      "value": 17,
+      "formattedValue": "17",
+      "raw": {
+        "topic": {
+          "mid": "/m/06xzh",
+          "title": "Ngủ",
+          "type": "Chủ đề"
+        },
+        "value": 17,
+        "formattedValue": "17",
+        "hasData": true,
+        "link": "/trends/explore?q=/m/06xzh&date=now+7-d&geo=US"
+      }
+    },
+    {
+      "query": "Trẻ sơ sinh",
+      "value": 16,
+      "formattedValue": "16",
+      "raw": {
+        "topic": {
+          "mid": "/m/0jnvp",
+          "title": "Trẻ sơ sinh",
+          "type": "Chủ đề"
+        },
+        "value": 16,
+        "formattedValue": "16",
+        "hasData": true,
+        "link": "/trends/explore?q=/m/0jnvp&date=now+7-d&geo=US"
+      }
+    },
+    {
+      "query": "Michael Jackson",
+      "value": 16,
+      "formattedValue": "16",
+      "raw": {
+        "topic": {
+          "mid": "/m/09889g",
+          "title": "Michael Jackson",
+          "type": "Ca sĩ"
+        },
+        "value": 16,
+        "formattedValue": "16",
+        "hasData": true,
+        "link": "/trends/explore?q=/m/09889g&date=now+7-d&geo=US"
+      }
     }
   ],
   "risingQueries": [
     {
-      "value": 6300,
-      "formattedValue": "Đột phá"
+      "query": "Tiếng Ba Lan",
+      "value": 6400,
+      "formattedValue": "Đột phá",
+      "raw": {
+        "topic": {
+          "mid": "/m/05qqm",
+          "title": "Tiếng Ba Lan",
+          "type": "Ngôn ngữ"
+        },
+        "value": 6400,
+        "formattedValue": "Đột phá",
+        "link": "/trends/explore?q=/m/05qqm&date=now+7-d&geo=US"
+      }
     },
     {
-      "value": 4650,
-      "formattedValue": "+4.650%"
+      "query": "Ba Lan",
+      "value": 4900,
+      "formattedValue": "+4.900%",
+      "raw": {
+        "topic": {
+          "mid": "/m/05qhw",
+          "title": "Ba Lan",
+          "type": "Quốc gia ở Châu Âu"
+        },
+        "value": 4900,
+        "formattedValue": "+4.900%",
+        "link": "/trends/explore?q=/m/05qhw&date=now+7-d&geo=US"
+      }
     },
     {
-      "value": 2100,
-      "formattedValue": "+2.100%"
+      "query": "Nintendo Direct",
+      "value": 2050,
+      "formattedValue": "+2.050%",
+      "raw": {
+        "topic": {
+          "mid": "/g/11bwdskm14",
+          "title": "Nintendo Direct",
+          "type": "Chủ đề"
+        },
+        "value": 2050,
+        "formattedValue": "+2.050%",
+        "link": "/trends/explore?q=/g/11bwdskm14&date=now+7-d&geo=US"
+      }
     },
     {
+      "query": "Summer Game Fest",
       "value": 2000,
-      "formattedValue": "+2.000%"
+      "formattedValue": "+2.000%",
+      "raw": {
+        "topic": {
+          "mid": "/g/11tbwhcxz0",
+          "title": "Summer Game Fest",
+          "type": "Chủ đề"
+        },
+        "value": 2000,
+        "formattedValue": "+2.000%",
+        "link": "/trends/explore?q=/g/11tbwhcxz0&date=now+7-d&geo=US"
+      }
     },
     {
+      "query": "Carmelo Anthony",
       "value": 1050,
-      "formattedValue": "+1.050%"
+      "formattedValue": "+1.050%",
+      "raw": {
+        "topic": {
+          "mid": "/m/03l26m",
+          "title": "Carmelo Anthony",
+          "type": "Cựu cầu thủ bóng rổ"
+        },
+        "value": 1050,
+        "formattedValue": "+1.050%",
+        "link": "/trends/explore?q=/m/03l26m&date=now+7-d&geo=US"
+      }
     },
     {
-      "value": 800,
-      "formattedValue": "+800%"
+      "query": "Tik Tok",
+      "value": 900,
+      "formattedValue": "+900%",
+      "raw": {
+        "topic": {
+          "mid": "/g/11fy265933",
+          "title": "Tik Tok",
+          "type": "Công ty"
+        },
+        "value": 900,
+        "formattedValue": "+900%",
+        "link": "/trends/explore?q=/g/11fy265933&date=now+7-d&geo=US"
+      }
     },
     {
+      "query": "Tháng",
       "value": 650,
-      "formattedValue": "+650%"
+      "formattedValue": "+650%",
+      "raw": {
+        "topic": {
+          "mid": "/m/053jb",
+          "title": "Tháng",
+          "type": "Đơn vị đo thời gian"
+        },
+        "value": 650,
+        "formattedValue": "+650%",
+        "link": "/trends/explore?q=/m/053jb&date=now+7-d&geo=US"
+      }
     },
     {
-      "value": 650,
-      "formattedValue": "+650%"
-    },
-    {
+      "query": "Năm",
       "value": 600,
-      "formattedValue": "+600%"
+      "formattedValue": "+600%",
+      "raw": {
+        "topic": {
+          "mid": "/g/1213vdr5",
+          "title": "Năm",
+          "type": "Thời gian"
+        },
+        "value": 600,
+        "formattedValue": "+600%",
+        "link": "/trends/explore?q=/g/1213vdr5&date=now+7-d&geo=US"
+      }
     },
     {
+      "query": "Mùa đông",
+      "value": 550,
+      "formattedValue": "+550%",
+      "raw": {
+        "topic": {
+          "mid": "/m/086mh",
+          "title": "Mùa đông",
+          "type": "Chủ đề"
+        },
+        "value": 550,
+        "formattedValue": "+550%",
+        "link": "/trends/explore?q=/m/086mh&date=now+7-d&geo=US"
+      }
+    },
+    {
+      "query": "Tuần",
       "value": 400,
-      "formattedValue": "+400%"
+      "formattedValue": "+400%",
+      "raw": {
+        "topic": {
+          "mid": "/m/083sl",
+          "title": "Tuần",
+          "type": "Thời gian"
+        },
+        "value": 400,
+        "formattedValue": "+400%",
+        "link": "/trends/explore?q=/m/083sl&date=now+7-d&geo=US"
+      }
     },
     {
-      "value": 400,
-      "formattedValue": "+400%"
+      "query": "Nintendo of America",
+      "value": 350,
+      "formattedValue": "+350%",
+      "raw": {
+        "topic": {
+          "mid": "/g/11c2k6l0w3",
+          "title": "Nintendo of America",
+          "type": "Chủ đề"
+        },
+        "value": 350,
+        "formattedValue": "+350%",
+        "link": "/trends/explore?q=/g/11c2k6l0w3&date=now+7-d&geo=US"
+      }
     },
     {
+      "query": "Khách sạn",
       "value": 300,
-      "formattedValue": "+300%"
+      "formattedValue": "+300%",
+      "raw": {
+        "topic": {
+          "mid": "/m/03pty",
+          "title": "Khách sạn",
+          "type": "Loại phòng ở"
+        },
+        "value": 300,
+        "formattedValue": "+300%",
+        "link": "/trends/explore?q=/m/03pty&date=now+7-d&geo=US"
+      }
     },
     {
+      "query": "Nintendo",
       "value": 250,
-      "formattedValue": "+250%"
+      "formattedValue": "+250%",
+      "raw": {
+        "topic": {
+          "mid": "/m/059wk",
+          "title": "Nintendo",
+          "type": "Công ty"
+        },
+        "value": 250,
+        "formattedValue": "+250%",
+        "link": "/trends/explore?q=/m/059wk&date=now+7-d&geo=US"
+      }
     },
     {
-      "value": 250,
-      "formattedValue": "+250%"
-    },
-    {
+      "query": "Mùa hè",
       "value": 200,
-      "formattedValue": "+200%"
+      "formattedValue": "+200%",
+      "raw": {
+        "topic": {
+          "mid": "/m/078qz",
+          "title": "Mùa hè",
+          "type": "Chủ đề"
+        },
+        "value": 200,
+        "formattedValue": "+200%",
+        "link": "/trends/explore?q=/m/078qz&date=now+7-d&geo=US"
+      }
     },
     {
+      "query": "Đội Bóng rổ New York Knicks",
+      "value": 200,
+      "formattedValue": "+200%",
+      "raw": {
+        "topic": {
+          "mid": "/m/0jm3v",
+          "title": "Đội Bóng rổ New York Knicks",
+          "type": "Đội bóng rổ"
+        },
+        "value": 200,
+        "formattedValue": "+200%",
+        "link": "/trends/explore?q=/m/0jm3v&date=now+7-d&geo=US"
+      }
+    },
+    {
+      "query": "Nintendo",
       "value": 170,
-      "formattedValue": "+170%"
+      "formattedValue": "+170%",
+      "raw": {
+        "topic": {
+          "mid": "/g/1ymzszlpz",
+          "title": "Nintendo",
+          "type": "Chủ đề"
+        },
+        "value": 170,
+        "formattedValue": "+170%",
+        "link": "/trends/explore?q=/g/1ymzszlpz&date=now+7-d&geo=US"
+      }
     },
     {
+      "query": "Giải Bóng đá Thế giới 2026",
+      "value": 160,
+      "formattedValue": "+160%",
+      "raw": {
+        "topic": {
+          "mid": "/m/0r4xs1m",
+          "title": "Giải Bóng đá Thế giới 2026",
+          "type": "Mùa giải thể thao"
+        },
+        "value": 160,
+        "formattedValue": "+160%",
+        "link": "/trends/explore?q=/m/0r4xs1m&date=now+7-d&geo=US"
+      }
+    },
+    {
+      "query": "Rạp xiếc kỹ thuật số diệu kỳ",
       "value": 150,
-      "formattedValue": "+150%"
+      "formattedValue": "+150%",
+      "raw": {
+        "topic": {
+          "mid": "/g/11krktg_mq",
+          "title": "Rạp xiếc kỹ thuật số diệu kỳ",
+          "type": "Phim truyền hình"
+        },
+        "value": 150,
+        "formattedValue": "+150%",
+        "link": "/trends/explore?q=/g/11krktg_mq&date=now+7-d&geo=US"
+      }
     },
     {
-      "value": 140,
-      "formattedValue": "+140%"
-    },
-    {
-      "value": 130,
-      "formattedValue": "+130%"
-    },
-    {
-      "value": 120,
-      "formattedValue": "+120%"
-    },
-    {
+      "query": "Giải Bóng đá Vô địch Thế giới",
       "value": 110,
-      "formattedValue": "+110%"
+      "formattedValue": "+110%",
+      "raw": {
+        "topic": {
+          "mid": "/m/030q7",
+          "title": "Giải Bóng đá Vô địch Thế giới",
+          "type": "Giải bóng đá"
+        },
+        "value": 110,
+        "formattedValue": "+110%",
+        "link": "/trends/explore?q=/m/030q7&date=now+7-d&geo=US"
+      }
     },
     {
-      "value": 70,
-      "formattedValue": "+70%"
+      "query": "Du lịch",
+      "value": 110,
+      "formattedValue": "+110%",
+      "raw": {
+        "topic": {
+          "mid": "/g/120yrv6h",
+          "title": "Du lịch",
+          "type": "Chủ đề"
+        },
+        "value": 110,
+        "formattedValue": "+110%",
+        "link": "/trends/explore?q=/g/120yrv6h&date=now+7-d&geo=US"
+      }
     },
     {
-      "value": 70,
-      "formattedValue": "+70%"
+      "query": "2025",
+      "value": 100,
+      "formattedValue": "+100%",
+      "raw": {
+        "topic": {
+          "mid": "/g/11b77d3kyg",
+          "title": "2025",
+          "type": "Chủ đề"
+        },
+        "value": 100,
+        "formattedValue": "+100%",
+        "link": "/trends/explore?q=/g/11b77d3kyg&date=now+7-d&geo=US"
+      }
     },
     {
+      "query": "Donald Trump",
       "value": 70,
-      "formattedValue": "+70%"
+      "formattedValue": "+70%",
+      "raw": {
+        "topic": {
+          "mid": "/m/0cqt90",
+          "title": "Donald Trump",
+          "type": "Tổng thống Hoa Kỳ"
+        },
+        "value": 70,
+        "formattedValue": "+70%",
+        "link": "/trends/explore?q=/m/0cqt90&date=now+7-d&geo=US"
+      }
     },
     {
+      "query": "Đêm",
       "value": 70,
-      "formattedValue": "+70%"
+      "formattedValue": "+70%",
+      "raw": {
+        "topic": {
+          "mid": "/m/01d74z",
+          "title": "Đêm",
+          "type": "Đơn vị đo"
+        },
+        "value": 70,
+        "formattedValue": "+70%",
+        "link": "/trends/explore?q=/m/01d74z&date=now+7-d&geo=US"
+      }
+    },
+    {
+      "query": "Xbox",
+      "value": 70,
+      "formattedValue": "+70%",
+      "raw": {
+        "topic": {
+          "mid": "/m/0t_fv9h",
+          "title": "Xbox",
+          "type": "Chủ đề"
+        },
+        "value": 70,
+        "formattedValue": "+70%",
+        "link": "/trends/explore?q=/m/0t_fv9h&date=now+7-d&geo=US"
+      }
+    },
+    {
+      "query": "2026",
+      "value": 70,
+      "formattedValue": "+70%",
+      "raw": {
+        "topic": {
+          "mid": "/g/11b77d6b6g",
+          "title": "2026",
+          "type": "Chủ đề"
+        },
+        "value": 70,
+        "formattedValue": "+70%",
+        "link": "/trends/explore?q=/g/11b77d6b6g&date=now+7-d&geo=US"
+      }
     }
   ]
 }
