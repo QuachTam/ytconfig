@@ -1,0 +1,582 @@
+{
+  "status": "success",
+  "topQueries": [
+    {
+      "query": "news",
+      "value": 100,
+      "formattedValue": "100",
+      "raw": {
+        "query": "news",
+        "value": 100,
+        "formattedValue": "100",
+        "hasData": true,
+        "link": "/trends/explore?q=news&date=now+7-d&geo=DE"
+      }
+    },
+    {
+      "query": "music",
+      "value": 77,
+      "formattedValue": "77",
+      "raw": {
+        "query": "music",
+        "value": 77,
+        "formattedValue": "77",
+        "hasData": true,
+        "link": "/trends/explore?q=music&date=now+7-d&geo=DE"
+      }
+    },
+    {
+      "query": "songs",
+      "value": 58,
+      "formattedValue": "58",
+      "raw": {
+        "query": "songs",
+        "value": 58,
+        "formattedValue": "58",
+        "hasData": true,
+        "link": "/trends/explore?q=songs&date=now+7-d&geo=DE"
+      }
+    },
+    {
+      "query": "minecraft",
+      "value": 52,
+      "formattedValue": "52",
+      "raw": {
+        "query": "minecraft",
+        "value": 52,
+        "formattedValue": "52",
+        "hasData": true,
+        "link": "/trends/explore?q=minecraft&date=now+7-d&geo=DE"
+      }
+    },
+    {
+      "query": "asmr",
+      "value": 48,
+      "formattedValue": "48",
+      "raw": {
+        "query": "asmr",
+        "value": 48,
+        "formattedValue": "48",
+        "hasData": true,
+        "link": "/trends/explore?q=asmr&date=now+7-d&geo=DE"
+      }
+    },
+    {
+      "query": "musik",
+      "value": 47,
+      "formattedValue": "47",
+      "raw": {
+        "query": "musik",
+        "value": 47,
+        "formattedValue": "47",
+        "hasData": true,
+        "link": "/trends/explore?q=musik&date=now+7-d&geo=DE"
+      }
+    },
+    {
+      "query": "shorts",
+      "value": 44,
+      "formattedValue": "44",
+      "raw": {
+        "query": "shorts",
+        "value": 44,
+        "formattedValue": "44",
+        "hasData": true,
+        "link": "/trends/explore?q=shorts&date=now+7-d&geo=DE"
+      }
+    },
+    {
+      "query": "kinder",
+      "value": 43,
+      "formattedValue": "43",
+      "raw": {
+        "query": "kinder",
+        "value": 43,
+        "formattedValue": "43",
+        "hasData": true,
+        "link": "/trends/explore?q=kinder&date=now+7-d&geo=DE"
+      }
+    },
+    {
+      "query": "doku",
+      "value": 39,
+      "formattedValue": "39",
+      "raw": {
+        "query": "doku",
+        "value": 39,
+        "formattedValue": "39",
+        "hasData": true,
+        "link": "/trends/explore?q=doku&date=now+7-d&geo=DE"
+      }
+    },
+    {
+      "query": "roblox",
+      "value": 31,
+      "formattedValue": "31",
+      "raw": {
+        "query": "roblox",
+        "value": 31,
+        "formattedValue": "31",
+        "hasData": true,
+        "link": "/trends/explore?q=roblox&date=now+7-d&geo=DE"
+      }
+    },
+    {
+      "query": "wm",
+      "value": 29,
+      "formattedValue": "29",
+      "raw": {
+        "query": "wm",
+        "value": 29,
+        "formattedValue": "29",
+        "hasData": true,
+        "link": "/trends/explore?q=wm&date=now+7-d&geo=DE"
+      }
+    },
+    {
+      "query": "karaoke",
+      "value": 25,
+      "formattedValue": "25",
+      "raw": {
+        "query": "karaoke",
+        "value": 25,
+        "formattedValue": "25",
+        "hasData": true,
+        "link": "/trends/explore?q=karaoke&date=now+7-d&geo=DE"
+      }
+    },
+    {
+      "query": "michael jackson",
+      "value": 22,
+      "formattedValue": "22",
+      "raw": {
+        "query": "michael jackson",
+        "value": 22,
+        "formattedValue": "22",
+        "hasData": true,
+        "link": "/trends/explore?q=michael+jackson&date=now+7-d&geo=DE"
+      }
+    },
+    {
+      "query": "welt",
+      "value": 22,
+      "formattedValue": "22",
+      "raw": {
+        "query": "welt",
+        "value": 22,
+        "formattedValue": "22",
+        "hasData": true,
+        "link": "/trends/explore?q=welt&date=now+7-d&geo=DE"
+      }
+    },
+    {
+      "query": "fortnite",
+      "value": 20,
+      "formattedValue": "20",
+      "raw": {
+        "query": "fortnite",
+        "value": 20,
+        "formattedValue": "20",
+        "hasData": true,
+        "link": "/trends/explore?q=fortnite&date=now+7-d&geo=DE"
+      }
+    },
+    {
+      "query": "icrimax",
+      "value": 19,
+      "formattedValue": "19",
+      "raw": {
+        "query": "icrimax",
+        "value": 19,
+        "formattedValue": "19",
+        "hasData": true,
+        "link": "/trends/explore?q=icrimax&date=now+7-d&geo=DE"
+      }
+    },
+    {
+      "query": "max",
+      "value": 18,
+      "formattedValue": "18",
+      "raw": {
+        "query": "max",
+        "value": 18,
+        "formattedValue": "18",
+        "hasData": true,
+        "link": "/trends/explore?q=max&date=now+7-d&geo=DE"
+      }
+    },
+    {
+      "query": "youtube",
+      "value": 17,
+      "formattedValue": "17",
+      "raw": {
+        "query": "youtube",
+        "value": 17,
+        "formattedValue": "17",
+        "hasData": true,
+        "link": "/trends/explore?q=youtube&date=now+7-d&geo=DE"
+      }
+    },
+    {
+      "query": "lego",
+      "value": 16,
+      "formattedValue": "16",
+      "raw": {
+        "query": "lego",
+        "value": 16,
+        "formattedValue": "16",
+        "hasData": true,
+        "link": "/trends/explore?q=lego&date=now+7-d&geo=DE"
+      }
+    },
+    {
+      "query": "world cup",
+      "value": 14,
+      "formattedValue": "14",
+      "raw": {
+        "query": "world cup",
+        "value": 14,
+        "formattedValue": "14",
+        "hasData": true,
+        "link": "/trends/explore?q=world+cup&date=now+7-d&geo=DE"
+      }
+    },
+    {
+      "query": "yoga",
+      "value": 14,
+      "formattedValue": "14",
+      "raw": {
+        "query": "yoga",
+        "value": 14,
+        "formattedValue": "14",
+        "hasData": true,
+        "link": "/trends/explore?q=yoga&date=now+7-d&geo=DE"
+      }
+    },
+    {
+      "query": "speed",
+      "value": 14,
+      "formattedValue": "14",
+      "raw": {
+        "query": "speed",
+        "value": 14,
+        "formattedValue": "14",
+        "hasData": true,
+        "link": "/trends/explore?q=speed&date=now+7-d&geo=DE"
+      }
+    },
+    {
+      "query": "fußball",
+      "value": 14,
+      "formattedValue": "14",
+      "raw": {
+        "query": "fußball",
+        "value": 14,
+        "formattedValue": "14",
+        "hasData": true,
+        "link": "/trends/explore?q=fu%C3%9Fball&date=now+7-d&geo=DE"
+      }
+    },
+    {
+      "query": "kinderlieder",
+      "value": 14,
+      "formattedValue": "14",
+      "raw": {
+        "query": "kinderlieder",
+        "value": 14,
+        "formattedValue": "14",
+        "hasData": true,
+        "link": "/trends/explore?q=kinderlieder&date=now+7-d&geo=DE"
+      }
+    },
+    {
+      "query": "laserluca",
+      "value": 13,
+      "formattedValue": "13",
+      "raw": {
+        "query": "laserluca",
+        "value": 13,
+        "formattedValue": "13",
+        "hasData": true,
+        "link": "/trends/explore?q=laserluca&date=now+7-d&geo=DE"
+      }
+    }
+  ],
+  "risingQueries": [
+    {
+      "query": "deutschland usa",
+      "value": 3450,
+      "formattedValue": "+3.450%",
+      "raw": {
+        "query": "deutschland usa",
+        "value": 3450,
+        "formattedValue": "+3.450%",
+        "link": "/trends/explore?q=deutschland+usa&date=now+7-d&geo=DE"
+      }
+    },
+    {
+      "query": "rock am ring 2026",
+      "value": 2750,
+      "formattedValue": "+2.750%",
+      "raw": {
+        "query": "rock am ring 2026",
+        "value": 2750,
+        "formattedValue": "+2.750%",
+        "link": "/trends/explore?q=rock+am+ring+2026&date=now+7-d&geo=DE"
+      }
+    },
+    {
+      "query": "rock am ring 2026 live",
+      "value": 2150,
+      "formattedValue": "+2.150%",
+      "raw": {
+        "query": "rock am ring 2026 live",
+        "value": 2150,
+        "formattedValue": "+2.150%",
+        "link": "/trends/explore?q=rock+am+ring+2026+live&date=now+7-d&geo=DE"
+      }
+    },
+    {
+      "query": "türkiye venezuela",
+      "value": 1600,
+      "formattedValue": "+1.600%",
+      "raw": {
+        "query": "türkiye venezuela",
+        "value": 1600,
+        "formattedValue": "+1.600%",
+        "link": "/trends/explore?q=t%C3%BCrkiye+venezuela&date=now+7-d&geo=DE"
+      }
+    },
+    {
+      "query": "nintendo direct",
+      "value": 1400,
+      "formattedValue": "+1.400%",
+      "raw": {
+        "query": "nintendo direct",
+        "value": 1400,
+        "formattedValue": "+1.400%",
+        "link": "/trends/explore?q=nintendo+direct&date=now+7-d&geo=DE"
+      }
+    },
+    {
+      "query": "belfast",
+      "value": 1350,
+      "formattedValue": "+1.350%",
+      "raw": {
+        "query": "belfast",
+        "value": 1350,
+        "formattedValue": "+1.350%",
+        "link": "/trends/explore?q=belfast&date=now+7-d&geo=DE"
+      }
+    },
+    {
+      "query": "summer games",
+      "value": 1250,
+      "formattedValue": "+1.250%",
+      "raw": {
+        "query": "summer games",
+        "value": 1250,
+        "formattedValue": "+1.250%",
+        "link": "/trends/explore?q=summer+games&date=now+7-d&geo=DE"
+      }
+    },
+    {
+      "query": "usa deutschland fussball",
+      "value": 1250,
+      "formattedValue": "+1.250%",
+      "raw": {
+        "query": "usa deutschland fussball",
+        "value": 1250,
+        "formattedValue": "+1.250%",
+        "link": "/trends/explore?q=usa+deutschland+fussball&date=now+7-d&geo=DE"
+      }
+    },
+    {
+      "query": "summer game fest",
+      "value": 1250,
+      "formattedValue": "+1.250%",
+      "raw": {
+        "query": "summer game fest",
+        "value": 1250,
+        "formattedValue": "+1.250%",
+        "link": "/trends/explore?q=summer+game+fest&date=now+7-d&geo=DE"
+      }
+    },
+    {
+      "query": "du bist gut genug",
+      "value": 1150,
+      "formattedValue": "+1.150%",
+      "raw": {
+        "query": "du bist gut genug",
+        "value": 1150,
+        "formattedValue": "+1.150%",
+        "link": "/trends/explore?q=du+bist+gut+genug&date=now+7-d&geo=DE"
+      }
+    },
+    {
+      "query": "iconic by mistake",
+      "value": 1050,
+      "formattedValue": "+1.050%",
+      "raw": {
+        "query": "iconic by mistake",
+        "value": 1050,
+        "formattedValue": "+1.050%",
+        "link": "/trends/explore?q=iconic+by+mistake&date=now+7-d&geo=DE"
+      }
+    },
+    {
+      "query": "zverev french open 2026",
+      "value": 800,
+      "formattedValue": "+800%",
+      "raw": {
+        "query": "zverev french open 2026",
+        "value": 800,
+        "formattedValue": "+800%",
+        "link": "/trends/explore?q=zverev+french+open+2026&date=now+7-d&geo=DE"
+      }
+    },
+    {
+      "query": "du bist gut genug shirin david",
+      "value": 650,
+      "formattedValue": "+650%",
+      "raw": {
+        "query": "du bist gut genug shirin david",
+        "value": 650,
+        "formattedValue": "+650%",
+        "link": "/trends/explore?q=du+bist+gut+genug+shirin+david&date=now+7-d&geo=DE"
+      }
+    },
+    {
+      "query": "summer game fest 2026",
+      "value": 650,
+      "formattedValue": "+650%",
+      "raw": {
+        "query": "summer game fest 2026",
+        "value": 650,
+        "formattedValue": "+650%",
+        "link": "/trends/explore?q=summer+game+fest+2026&date=now+7-d&geo=DE"
+      }
+    },
+    {
+      "query": "belfast stabbing",
+      "value": 500,
+      "formattedValue": "+500%",
+      "raw": {
+        "query": "belfast stabbing",
+        "value": 500,
+        "formattedValue": "+500%",
+        "link": "/trends/explore?q=belfast+stabbing&date=now+7-d&geo=DE"
+      }
+    },
+    {
+      "query": "gothic remake",
+      "value": 450,
+      "formattedValue": "+450%",
+      "raw": {
+        "query": "gothic remake",
+        "value": 450,
+        "formattedValue": "+450%",
+        "link": "/trends/explore?q=gothic+remake&date=now+7-d&geo=DE"
+      }
+    },
+    {
+      "query": "blok3",
+      "value": 300,
+      "formattedValue": "+300%",
+      "raw": {
+        "query": "blok3",
+        "value": 300,
+        "formattedValue": "+300%",
+        "link": "/trends/explore?q=blok3&date=now+7-d&geo=DE"
+      }
+    },
+    {
+      "query": "zverev",
+      "value": 250,
+      "formattedValue": "+250%",
+      "raw": {
+        "query": "zverev",
+        "value": 250,
+        "formattedValue": "+250%",
+        "link": "/trends/explore?q=zverev&date=now+7-d&geo=DE"
+      }
+    },
+    {
+      "query": "formel 1",
+      "value": 250,
+      "formattedValue": "+250%",
+      "raw": {
+        "query": "formel 1",
+        "value": 250,
+        "formattedValue": "+250%",
+        "link": "/trends/explore?q=formel+1&date=now+7-d&geo=DE"
+      }
+    },
+    {
+      "query": "alexander zverev",
+      "value": 200,
+      "formattedValue": "+200%",
+      "raw": {
+        "query": "alexander zverev",
+        "value": 200,
+        "formattedValue": "+200%",
+        "link": "/trends/explore?q=alexander+zverev&date=now+7-d&geo=DE"
+      }
+    },
+    {
+      "query": "nintendo",
+      "value": 200,
+      "formattedValue": "+200%",
+      "raw": {
+        "query": "nintendo",
+        "value": 200,
+        "formattedValue": "+200%",
+        "link": "/trends/explore?q=nintendo&date=now+7-d&geo=DE"
+      }
+    },
+    {
+      "query": "fifa world cup",
+      "value": 140,
+      "formattedValue": "+140%",
+      "raw": {
+        "query": "fifa world cup",
+        "value": 140,
+        "formattedValue": "+140%",
+        "link": "/trends/explore?q=fifa+world+cup&date=now+7-d&geo=DE"
+      }
+    },
+    {
+      "query": "fenerbahçe",
+      "value": 120,
+      "formattedValue": "+120%",
+      "raw": {
+        "query": "fenerbahçe",
+        "value": 120,
+        "formattedValue": "+120%",
+        "link": "/trends/explore?q=fenerbah%C3%A7e&date=now+7-d&geo=DE"
+      }
+    },
+    {
+      "query": "electric callboy",
+      "value": 120,
+      "formattedValue": "+120%",
+      "raw": {
+        "query": "electric callboy",
+        "value": 120,
+        "formattedValue": "+120%",
+        "link": "/trends/explore?q=electric+callboy&date=now+7-d&geo=DE"
+      }
+    },
+    {
+      "query": "f1",
+      "value": 120,
+      "formattedValue": "+120%",
+      "raw": {
+        "query": "f1",
+        "value": 120,
+        "formattedValue": "+120%",
+        "link": "/trends/explore?q=f1&date=now+7-d&geo=DE"
+      }
+    }
+  ]
+}
