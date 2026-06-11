@@ -1,549 +1,1257 @@
 {
   "status": "success",
-  "topQueries": [
-    {
-      "query": "songs",
-      "value": 100,
-      "formattedValue": "100",
-      "raw": {
+  "topics": {
+    "top": [
+      {
+        "query": "Bài hát",
+        "value": 100,
+        "formattedValue": "100",
+        "raw": {
+          "topic": {
+            "mid": "/m/074ft",
+            "title": "Bài hát",
+            "type": "Loại sáng tác"
+          },
+          "value": 100,
+          "formattedValue": "100",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/074ft&date=now+7-d&geo=ZA"
+        }
+      },
+      {
+        "query": "Điện ảnh",
+        "value": 61,
+        "formattedValue": "61",
+        "raw": {
+          "topic": {
+            "mid": "/m/02vxn",
+            "title": "Điện ảnh",
+            "type": "Loại truyền hình"
+          },
+          "value": 61,
+          "formattedValue": "61",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/02vxn&date=now+7-d&geo=ZA"
+        }
+      },
+      {
+        "query": "Tập phim",
+        "value": 45,
+        "formattedValue": "45",
+        "raw": {
+          "topic": {
+            "mid": "/m/02cphr",
+            "title": "Tập phim",
+            "type": "Chủ đề"
+          },
+          "value": 45,
+          "formattedValue": "45",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/02cphr&date=now+7-d&geo=ZA"
+        }
+      },
+      {
+        "query": "2026",
+        "value": 44,
+        "formattedValue": "44",
+        "raw": {
+          "topic": {
+            "mid": "/g/11b77d6b6g",
+            "title": "2026",
+            "type": "Chủ đề"
+          },
+          "value": 44,
+          "formattedValue": "44",
+          "hasData": true,
+          "link": "/trends/explore?q=/g/11b77d6b6g&date=now+7-d&geo=ZA"
+        }
+      },
+      {
+        "query": "Video",
+        "value": 18,
+        "formattedValue": "18",
+        "raw": {
+          "topic": {
+            "mid": "/m/07z4p",
+            "title": "Video",
+            "type": "Định dạng phim"
+          },
+          "value": 18,
+          "formattedValue": "18",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/07z4p&date=now+7-d&geo=ZA"
+        }
+      },
+      {
+        "query": "Âm nhạc",
+        "value": 17,
+        "formattedValue": "17",
+        "raw": {
+          "topic": {
+            "mid": "/m/04rlf",
+            "title": "Âm nhạc",
+            "type": "Định dạng âm thanh"
+          },
+          "value": 17,
+          "formattedValue": "17",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/04rlf&date=now+7-d&geo=ZA"
+        }
+      },
+      {
+        "query": "Tiếng Anh",
+        "value": 15,
+        "formattedValue": "15",
+        "raw": {
+          "topic": {
+            "mid": "/m/02h40lc",
+            "title": "Tiếng Anh",
+            "type": "Ngôn ngữ"
+          },
+          "value": 15,
+          "formattedValue": "15",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/02h40lc&date=now+7-d&geo=ZA"
+        }
+      },
+      {
+        "query": "Lời bài hát",
+        "value": 13,
+        "formattedValue": "13",
+        "raw": {
+          "topic": {
+            "mid": "/m/09lgd",
+            "title": "Lời bài hát",
+            "type": "Chủ đề"
+          },
+          "value": 13,
+          "formattedValue": "13",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/09lgd&date=now+7-d&geo=ZA"
+        }
+      },
+      {
+        "query": "2025",
+        "value": 13,
+        "formattedValue": "13",
+        "raw": {
+          "topic": {
+            "mid": "/g/11b77d3kyg",
+            "title": "2025",
+            "type": "Chủ đề"
+          },
+          "value": 13,
+          "formattedValue": "13",
+          "hasData": true,
+          "link": "/trends/explore?q=/g/11b77d3kyg&date=now+7-d&geo=ZA"
+        }
+      },
+      {
+        "query": "Cocomelon",
+        "value": 12,
+        "formattedValue": "12",
+        "raw": {
+          "topic": {
+            "mid": "/g/11h3mw_yvs",
+            "title": "Cocomelon",
+            "type": "Nghệ sĩ âm nhạc"
+          },
+          "value": 12,
+          "formattedValue": "12",
+          "hasData": true,
+          "link": "/trends/explore?q=/g/11h3mw_yvs&date=now+7-d&geo=ZA"
+        }
+      },
+      {
+        "query": "Album",
+        "value": 11,
+        "formattedValue": "11",
+        "raw": {
+          "topic": {
+            "mid": "/m/02lx2r",
+            "title": "Album",
+            "type": "Loại anbom nhạc"
+          },
+          "value": 11,
+          "formattedValue": "11",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/02lx2r&date=now+7-d&geo=ZA"
+        }
+      },
+      {
+        "query": "Nam Phi",
+        "value": 10,
+        "formattedValue": "10",
+        "raw": {
+          "topic": {
+            "mid": "/m/0hzlz",
+            "title": "Nam Phi",
+            "type": "Quốc gia ở Miền Nam Châu Phi"
+          },
+          "value": 10,
+          "formattedValue": "10",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/0hzlz&date=now+7-d&geo=ZA"
+        }
+      },
+      {
+        "query": "Giấy",
+        "value": 10,
+        "formattedValue": "10",
+        "raw": {
+          "topic": {
+            "mid": "/m/0641k",
+            "title": "Giấy",
+            "type": "Chủ đề"
+          },
+          "value": 10,
+          "formattedValue": "10",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/0641k&date=now+7-d&geo=ZA"
+        }
+      },
+      {
+        "query": "Lớp mười hai",
+        "value": 10,
+        "formattedValue": "10",
+        "raw": {
+          "topic": {
+            "mid": "/m/042_h5",
+            "title": "Lớp mười hai",
+            "type": "Trình độ học vấn"
+          },
+          "value": 10,
+          "formattedValue": "10",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/042_h5&date=now+7-d&geo=ZA"
+        }
+      },
+      {
+        "query": "Toán học",
+        "value": 9,
+        "formattedValue": "9",
+        "raw": {
+          "topic": {
+            "mid": "/m/04rjg",
+            "title": "Toán học",
+            "type": "Lĩnh vực nghiên cứu"
+          },
+          "value": 9,
+          "formattedValue": "9",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/04rjg&date=now+7-d&geo=ZA"
+        }
+      },
+      {
+        "query": "Nigeria",
+        "value": 9,
+        "formattedValue": "9",
+        "raw": {
+          "topic": {
+            "mid": "/m/05cgv",
+            "title": "Nigeria",
+            "type": "Quốc gia ở Tây Phi"
+          },
+          "value": 9,
+          "formattedValue": "9",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/05cgv&date=now+7-d&geo=ZA"
+        }
+      },
+      {
+        "query": "Eleventh Grade",
+        "value": 9,
+        "formattedValue": "9",
+        "raw": {
+          "topic": {
+            "mid": "/m/042_gh",
+            "title": "Eleventh Grade",
+            "type": "Trình độ học vấn"
+          },
+          "value": 9,
+          "formattedValue": "9",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/042_gh&date=now+7-d&geo=ZA"
+        }
+      },
+      {
+        "query": "Podcast",
+        "value": 8,
+        "formattedValue": "8",
+        "raw": {
+          "topic": {
+            "mid": "/m/04058p",
+            "title": "Podcast",
+            "type": "Chủ đề"
+          },
+          "value": 8,
+          "formattedValue": "8",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/04058p&date=now+7-d&geo=ZA"
+        }
+      },
+      {
+        "query": "Amapiano",
+        "value": 8,
+        "formattedValue": "8",
+        "raw": {
+          "topic": {
+            "mid": "/g/11j0jg007_",
+            "title": "Amapiano",
+            "type": "Thể loại nhạc"
+          },
+          "value": 8,
+          "formattedValue": "8",
+          "hasData": true,
+          "link": "/trends/explore?q=/g/11j0jg007_&date=now+7-d&geo=ZA"
+        }
+      },
+      {
+        "query": "Skeem Saam",
+        "value": 7,
+        "formattedValue": "7",
+        "raw": {
+          "topic": {
+            "mid": "/m/0z07m7l",
+            "title": "Skeem Saam",
+            "type": "Chương trình truyền hình"
+          },
+          "value": 7,
+          "formattedValue": "7",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/0z07m7l&date=now+7-d&geo=ZA"
+        }
+      },
+      {
+        "query": "Nhảy múa",
+        "value": 7,
+        "formattedValue": "7",
+        "raw": {
+          "topic": {
+            "mid": "/m/026bk",
+            "title": "Nhảy múa",
+            "type": "Lĩnh vực nghề nghiệp"
+          },
+          "value": 7,
+          "formattedValue": "7",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/026bk&date=now+7-d&geo=ZA"
+        }
+      },
+      {
+        "query": "Lớp mười",
+        "value": 7,
+        "formattedValue": "7",
+        "raw": {
+          "topic": {
+            "mid": "/m/042_g4",
+            "title": "Lớp mười",
+            "type": "Trình độ học vấn"
+          },
+          "value": 7,
+          "formattedValue": "7",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/042_g4&date=now+7-d&geo=ZA"
+        }
+      },
+      {
+        "query": "create",
+        "value": 7,
+        "formattedValue": "7",
+        "raw": {
+          "topic": {
+            "mid": "/g/11qg_c03j7",
+            "title": "create",
+            "type": "Chủ đề"
+          },
+          "value": 7,
+          "formattedValue": "7",
+          "hasData": true,
+          "link": "/trends/explore?q=/g/11qg_c03j7&date=now+7-d&geo=ZA"
+        }
+      },
+      {
+        "query": "Truyền hình",
+        "value": 7,
+        "formattedValue": "7",
+        "raw": {
+          "topic": {
+            "mid": "/m/07c52",
+            "title": "Truyền hình",
+            "type": "Loại truyền hình"
+          },
+          "value": 7,
+          "formattedValue": "7",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/07c52&date=now+7-d&geo=ZA"
+        }
+      },
+      {
+        "query": "phối lại",
+        "value": 6,
+        "formattedValue": "6",
+        "raw": {
+          "topic": {
+            "mid": "/g/11bwd8x8nv",
+            "title": "phối lại",
+            "type": "Chủ đề"
+          },
+          "value": 6,
+          "formattedValue": "6",
+          "hasData": true,
+          "link": "/trends/explore?q=/g/11bwd8x8nv&date=now+7-d&geo=ZA"
+        }
+      }
+    ],
+    "rising": [
+      {
+        "query": "Đội tuyển Bóng đá Quốc gia Jamaica",
+        "value": 3750,
+        "formattedValue": "+3.750%",
+        "raw": {
+          "topic": {
+            "mid": "/m/03zbg0",
+            "title": "Đội tuyển Bóng đá Quốc gia Jamaica",
+            "type": "Đội bóng đá"
+          },
+          "value": 3750,
+          "formattedValue": "+3.750%",
+          "link": "/trends/explore?q=/m/03zbg0&date=now+7-d&geo=ZA"
+        }
+      },
+      {
+        "query": "Cyril Ramaphosa",
+        "value": 750,
+        "formattedValue": "+750%",
+        "raw": {
+          "topic": {
+            "mid": "/m/04509v",
+            "title": "Cyril Ramaphosa",
+            "type": "Tổng thống Nam Phi"
+          },
+          "value": 750,
+          "formattedValue": "+750%",
+          "link": "/trends/explore?q=/m/04509v&date=now+7-d&geo=ZA"
+        }
+      },
+      {
+        "query": "Tik Tok",
+        "value": 700,
+        "formattedValue": "+700%",
+        "raw": {
+          "topic": {
+            "mid": "/g/11fy265933",
+            "title": "Tik Tok",
+            "type": "Công ty"
+          },
+          "value": 700,
+          "formattedValue": "+700%",
+          "link": "/trends/explore?q=/g/11fy265933&date=now+7-d&geo=ZA"
+        }
+      },
+      {
+        "query": "Love Island",
+        "value": 400,
+        "formattedValue": "+400%",
+        "raw": {
+          "topic": {
+            "mid": "/g/11f8fyyn_d",
+            "title": "Love Island",
+            "type": "Chương trình truyền hình"
+          },
+          "value": 400,
+          "formattedValue": "+400%",
+          "link": "/trends/explore?q=/g/11f8fyyn_d&date=now+7-d&geo=ZA"
+        }
+      },
+      {
+        "query": "Mnyovu",
+        "value": 250,
+        "formattedValue": "+250%",
+        "raw": {
+          "topic": {
+            "mid": "/g/11w4twzwhc",
+            "title": "Mnyovu",
+            "type": "Nghệ sĩ âm nhạc"
+          },
+          "value": 250,
+          "formattedValue": "+250%",
+          "link": "/trends/explore?q=/g/11w4twzwhc&date=now+7-d&geo=ZA"
+        }
+      },
+      {
+        "query": "Công thức 1",
+        "value": 170,
+        "formattedValue": "+170%",
+        "raw": {
+          "topic": {
+            "mid": "/m/02xz2",
+            "title": "Công thức 1",
+            "type": "Liên đoàn thể thao"
+          },
+          "value": 170,
+          "formattedValue": "+170%",
+          "link": "/trends/explore?q=/m/02xz2&date=now+7-d&geo=ZA"
+        }
+      },
+      {
+        "query": "Peabo Bryson",
+        "value": 150,
+        "formattedValue": "+150%",
+        "raw": {
+          "topic": {
+            "mid": "/m/01mhl8v",
+            "title": "Peabo Bryson",
+            "type": "Ca sĩ kiêm nhạc sĩ sáng tác bài hát"
+          },
+          "value": 150,
+          "formattedValue": "+150%",
+          "link": "/trends/explore?q=/m/01mhl8v&date=now+7-d&geo=ZA"
+        }
+      },
+      {
+        "query": "Hóa học",
+        "value": 100,
+        "formattedValue": "+100%",
+        "raw": {
+          "topic": {
+            "mid": "/m/01lj9",
+            "title": "Hóa học",
+            "type": "Lĩnh vực nghiên cứu"
+          },
+          "value": 100,
+          "formattedValue": "+100%",
+          "link": "/trends/explore?q=/m/01lj9&date=now+7-d&geo=ZA"
+        }
+      },
+      {
+        "query": "iKhekhe",
+        "value": 90,
+        "formattedValue": "+90%",
+        "raw": {
+          "topic": {
+            "mid": "/g/11z74s39w8",
+            "title": "iKhekhe",
+            "type": "Chủ đề"
+          },
+          "value": 90,
+          "formattedValue": "+90%",
+          "link": "/trends/explore?q=/g/11z74s39w8&date=now+7-d&geo=ZA"
+        }
+      },
+      {
+        "query": "Vật lí học",
+        "value": 90,
+        "formattedValue": "+90%",
+        "raw": {
+          "topic": {
+            "mid": "/m/05qjt",
+            "title": "Vật lí học",
+            "type": "Lĩnh vực nghiên cứu"
+          },
+          "value": 90,
+          "formattedValue": "+90%",
+          "link": "/trends/explore?q=/m/05qjt&date=now+7-d&geo=ZA"
+        }
+      },
+      {
+        "query": "Biết chữ",
+        "value": 90,
+        "formattedValue": "+90%",
+        "raw": {
+          "topic": {
+            "mid": "/m/04p5n",
+            "title": "Biết chữ",
+            "type": "Chủ đề"
+          },
+          "value": 90,
+          "formattedValue": "+90%",
+          "link": "/trends/explore?q=/m/04p5n&date=now+7-d&geo=ZA"
+        }
+      },
+      {
+        "query": "Đội tuyển bóng đá quốc gia Nam Phi",
+        "value": 80,
+        "formattedValue": "+80%",
+        "raw": {
+          "topic": {
+            "mid": "/m/03zrc_",
+            "title": "Đội tuyển bóng đá quốc gia Nam Phi",
+            "type": "Đội bóng đá"
+          },
+          "value": 80,
+          "formattedValue": "+80%",
+          "link": "/trends/explore?q=/m/03zrc_&date=now+7-d&geo=ZA"
+        }
+      },
+      {
+        "query": "Giải Bóng đá Vô địch Thế giới",
+        "value": 70,
+        "formattedValue": "+70%",
+        "raw": {
+          "topic": {
+            "mid": "/m/030q7",
+            "title": "Giải Bóng đá Vô địch Thế giới",
+            "type": "Giải bóng đá"
+          },
+          "value": 70,
+          "formattedValue": "+70%",
+          "link": "/trends/explore?q=/m/030q7&date=now+7-d&geo=ZA"
+        }
+      },
+      {
+        "query": "Lượng giác",
+        "value": 70,
+        "formattedValue": "+70%",
+        "raw": {
+          "topic": {
+            "mid": "/m/07jj9",
+            "title": "Lượng giác",
+            "type": "Lĩnh vực nghiên cứu"
+          },
+          "value": 70,
+          "formattedValue": "+70%",
+          "link": "/trends/explore?q=/m/07jj9&date=now+7-d&geo=ZA"
+        }
+      },
+      {
+        "query": "Tháng 6",
+        "value": 60,
+        "formattedValue": "+60%",
+        "raw": {
+          "topic": {
+            "mid": "/m/040fb",
+            "title": "Tháng 6",
+            "type": "Tháng"
+          },
+          "value": 60,
+          "formattedValue": "+60%",
+          "link": "/trends/explore?q=/m/040fb&date=now+7-d&geo=ZA"
+        }
+      },
+      {
+        "query": "Hình học",
+        "value": 60,
+        "formattedValue": "+60%",
+        "raw": {
+          "topic": {
+            "mid": "/m/025x7g_",
+            "title": "Hình học",
+            "type": "Chủ đề"
+          },
+          "value": 60,
+          "formattedValue": "+60%",
+          "link": "/trends/explore?q=/m/025x7g_&date=now+7-d&geo=ZA"
+        }
+      },
+      {
+        "query": "Kevinmathscience",
+        "value": 50,
+        "formattedValue": "+50%",
+        "raw": {
+          "topic": {
+            "mid": "/g/11l1yn3pmp",
+            "title": "Kevinmathscience",
+            "type": "Phần mềm"
+          },
+          "value": 50,
+          "formattedValue": "+50%",
+          "link": "/trends/explore?q=/g/11l1yn3pmp&date=now+7-d&geo=ZA"
+        }
+      },
+      {
+        "query": "Madlanga Commission",
+        "value": 50,
+        "formattedValue": "+50%",
+        "raw": {
+          "topic": {
+            "mid": "/g/11njpblp2v",
+            "title": "Madlanga Commission",
+            "type": "Chủ đề"
+          },
+          "value": 50,
+          "formattedValue": "+50%",
+          "link": "/trends/explore?q=/g/11njpblp2v&date=now+7-d&geo=ZA"
+        }
+      },
+      {
+        "query": "Toán học",
+        "value": 50,
+        "formattedValue": "+50%",
+        "raw": {
+          "topic": {
+            "mid": "/m/04rjg",
+            "title": "Toán học",
+            "type": "Lĩnh vực nghiên cứu"
+          },
+          "value": 50,
+          "formattedValue": "+50%",
+          "link": "/trends/explore?q=/m/04rjg&date=now+7-d&geo=ZA"
+        }
+      },
+      {
+        "query": "Câu lạc bộ bóng đá Orlando Pirates",
+        "value": 50,
+        "formattedValue": "+50%",
+        "raw": {
+          "topic": {
+            "mid": "/m/01xbpn",
+            "title": "Câu lạc bộ bóng đá Orlando Pirates",
+            "type": "Đội bóng đá"
+          },
+          "value": 50,
+          "formattedValue": "+50%",
+          "link": "/trends/explore?q=/m/01xbpn&date=now+7-d&geo=ZA"
+        }
+      }
+    ]
+  },
+  "queries": {
+    "top": [
+      {
         "query": "songs",
         "value": 100,
         "formattedValue": "100",
-        "hasData": true,
-        "link": "/trends/explore?q=songs&date=now+7-d&geo=ZA"
-      }
-    },
-    {
-      "query": "movie",
-      "value": 52,
-      "formattedValue": "52",
-      "raw": {
+        "raw": {
+          "query": "songs",
+          "value": 100,
+          "formattedValue": "100",
+          "hasData": true,
+          "link": "/trends/explore?q=songs&date=now+7-d&geo=ZA"
+        }
+      },
+      {
         "query": "movie",
-        "value": 52,
-        "formattedValue": "52",
-        "hasData": true,
-        "link": "/trends/explore?q=movie&date=now+7-d&geo=ZA"
-      }
-    },
-    {
-      "query": "song",
-      "value": 47,
-      "formattedValue": "47",
-      "raw": {
+        "value": 53,
+        "formattedValue": "53",
+        "raw": {
+          "query": "movie",
+          "value": 53,
+          "formattedValue": "53",
+          "hasData": true,
+          "link": "/trends/explore?q=movie&date=now+7-d&geo=ZA"
+        }
+      },
+      {
         "query": "song",
-        "value": 47,
-        "formattedValue": "47",
-        "hasData": true,
-        "link": "/trends/explore?q=song&date=now+7-d&geo=ZA"
-      }
-    },
-    {
-      "query": "movies",
-      "value": 43,
-      "formattedValue": "43",
-      "raw": {
+        "value": 49,
+        "formattedValue": "49",
+        "raw": {
+          "query": "song",
+          "value": 49,
+          "formattedValue": "49",
+          "hasData": true,
+          "link": "/trends/explore?q=song&date=now+7-d&geo=ZA"
+        }
+      },
+      {
         "query": "movies",
-        "value": 43,
-        "formattedValue": "43",
-        "hasData": true,
-        "link": "/trends/explore?q=movies&date=now+7-d&geo=ZA"
-      }
-    },
-    {
-      "query": "music",
-      "value": 26,
-      "formattedValue": "26",
-      "raw": {
+        "value": 45,
+        "formattedValue": "45",
+        "raw": {
+          "query": "movies",
+          "value": 45,
+          "formattedValue": "45",
+          "hasData": true,
+          "link": "/trends/explore?q=movies&date=now+7-d&geo=ZA"
+        }
+      },
+      {
         "query": "music",
-        "value": 26,
-        "formattedValue": "26",
-        "hasData": true,
-        "link": "/trends/explore?q=music&date=now+7-d&geo=ZA"
-      }
-    },
-    {
-      "query": "cocomelon",
-      "value": 17,
-      "formattedValue": "17",
-      "raw": {
+        "value": 27,
+        "formattedValue": "27",
+        "raw": {
+          "query": "music",
+          "value": 27,
+          "formattedValue": "27",
+          "hasData": true,
+          "link": "/trends/explore?q=music&date=now+7-d&geo=ZA"
+        }
+      },
+      {
         "query": "cocomelon",
         "value": 17,
         "formattedValue": "17",
-        "hasData": true,
-        "link": "/trends/explore?q=cocomelon&date=now+7-d&geo=ZA"
-      }
-    },
-    {
-      "query": "podcast",
-      "value": 11,
-      "formattedValue": "11",
-      "raw": {
+        "raw": {
+          "query": "cocomelon",
+          "value": 17,
+          "formattedValue": "17",
+          "hasData": true,
+          "link": "/trends/explore?q=cocomelon&date=now+7-d&geo=ZA"
+        }
+      },
+      {
         "query": "podcast",
-        "value": 11,
-        "formattedValue": "11",
-        "hasData": true,
-        "link": "/trends/explore?q=podcast&date=now+7-d&geo=ZA"
-      }
-    },
-    {
-      "query": "amapiano",
-      "value": 11,
-      "formattedValue": "11",
-      "raw": {
+        "value": 14,
+        "formattedValue": "14",
+        "raw": {
+          "query": "podcast",
+          "value": 14,
+          "formattedValue": "14",
+          "hasData": true,
+          "link": "/trends/explore?q=podcast&date=now+7-d&geo=ZA"
+        }
+      },
+      {
         "query": "amapiano",
+        "value": 12,
+        "formattedValue": "12",
+        "raw": {
+          "query": "amapiano",
+          "value": 12,
+          "formattedValue": "12",
+          "hasData": true,
+          "link": "/trends/explore?q=amapiano&date=now+7-d&geo=ZA"
+        }
+      },
+      {
+        "query": "kwa baba",
         "value": 11,
         "formattedValue": "11",
-        "hasData": true,
-        "link": "/trends/explore?q=amapiano&date=now+7-d&geo=ZA"
-      }
-    },
-    {
-      "query": "kwa baba",
-      "value": 10,
-      "formattedValue": "10",
-      "raw": {
-        "query": "kwa baba",
-        "value": 10,
-        "formattedValue": "10",
-        "hasData": true,
-        "link": "/trends/explore?q=kwa+baba&date=now+7-d&geo=ZA"
-      }
-    },
-    {
-      "query": "skeem saam",
-      "value": 10,
-      "formattedValue": "10",
-      "raw": {
+        "raw": {
+          "query": "kwa baba",
+          "value": 11,
+          "formattedValue": "11",
+          "hasData": true,
+          "link": "/trends/explore?q=kwa+baba&date=now+7-d&geo=ZA"
+        }
+      },
+      {
         "query": "skeem saam",
         "value": 10,
         "formattedValue": "10",
-        "hasData": true,
-        "link": "/trends/explore?q=skeem+saam&date=now+7-d&geo=ZA"
-      }
-    },
-    {
-      "query": "news",
-      "value": 9,
-      "formattedValue": "9",
-      "raw": {
+        "raw": {
+          "query": "skeem saam",
+          "value": 10,
+          "formattedValue": "10",
+          "hasData": true,
+          "link": "/trends/explore?q=skeem+saam&date=now+7-d&geo=ZA"
+        }
+      },
+      {
         "query": "news",
         "value": 9,
         "formattedValue": "9",
-        "hasData": true,
-        "link": "/trends/explore?q=news&date=now+7-d&geo=ZA"
-      }
-    },
-    {
-      "query": "drake",
-      "value": 8,
-      "formattedValue": "8",
-      "raw": {
+        "raw": {
+          "query": "news",
+          "value": 9,
+          "formattedValue": "9",
+          "hasData": true,
+          "link": "/trends/explore?q=news&date=now+7-d&geo=ZA"
+        }
+      },
+      {
         "query": "drake",
-        "value": 8,
-        "formattedValue": "8",
-        "hasData": true,
-        "link": "/trends/explore?q=drake&date=now+7-d&geo=ZA"
-      }
-    },
-    {
-      "query": "cartoon",
-      "value": 7,
-      "formattedValue": "7",
-      "raw": {
+        "value": 7,
+        "formattedValue": "7",
+        "raw": {
+          "query": "drake",
+          "value": 7,
+          "formattedValue": "7",
+          "hasData": true,
+          "link": "/trends/explore?q=drake&date=now+7-d&geo=ZA"
+        }
+      },
+      {
         "query": "cartoon",
         "value": 7,
         "formattedValue": "7",
-        "hasData": true,
-        "link": "/trends/explore?q=cartoon&date=now+7-d&geo=ZA"
-      }
-    },
-    {
-      "query": "nigerian movies",
-      "value": 6,
-      "formattedValue": "6",
-      "raw": {
+        "raw": {
+          "query": "cartoon",
+          "value": 7,
+          "formattedValue": "7",
+          "hasData": true,
+          "link": "/trends/explore?q=cartoon&date=now+7-d&geo=ZA"
+        }
+      },
+      {
         "query": "nigerian movies",
-        "value": 6,
-        "formattedValue": "6",
-        "hasData": true,
-        "link": "/trends/explore?q=nigerian+movies&date=now+7-d&geo=ZA"
-      }
-    },
-    {
-      "query": "michael jackson",
-      "value": 6,
-      "formattedValue": "6",
-      "raw": {
+        "value": 7,
+        "formattedValue": "7",
+        "raw": {
+          "query": "nigerian movies",
+          "value": 7,
+          "formattedValue": "7",
+          "hasData": true,
+          "link": "/trends/explore?q=nigerian+movies&date=now+7-d&geo=ZA"
+        }
+      },
+      {
         "query": "michael jackson",
         "value": 6,
         "formattedValue": "6",
-        "hasData": true,
-        "link": "/trends/explore?q=michael+jackson&date=now+7-d&geo=ZA"
-      }
-    },
-    {
-      "query": "funny",
-      "value": 6,
-      "formattedValue": "6",
-      "raw": {
+        "raw": {
+          "query": "michael jackson",
+          "value": 6,
+          "formattedValue": "6",
+          "hasData": true,
+          "link": "/trends/explore?q=michael+jackson&date=now+7-d&geo=ZA"
+        }
+      },
+      {
         "query": "funny",
         "value": 6,
         "formattedValue": "6",
-        "hasData": true,
-        "link": "/trends/explore?q=funny&date=now+7-d&geo=ZA"
-      }
-    },
-    {
-      "query": "skeem saam today",
-      "value": 6,
-      "formattedValue": "6",
-      "raw": {
+        "raw": {
+          "query": "funny",
+          "value": 6,
+          "formattedValue": "6",
+          "hasData": true,
+          "link": "/trends/explore?q=funny&date=now+7-d&geo=ZA"
+        }
+      },
+      {
         "query": "skeem saam today",
         "value": 6,
         "formattedValue": "6",
-        "hasData": true,
-        "link": "/trends/explore?q=skeem+saam+today&date=now+7-d&geo=ZA"
-      }
-    },
-    {
-      "query": "roblox",
-      "value": 5,
-      "formattedValue": "5",
-      "raw": {
-        "query": "roblox",
-        "value": 5,
-        "formattedValue": "5",
-        "hasData": true,
-        "link": "/trends/explore?q=roblox&date=now+7-d&geo=ZA"
-      }
-    },
-    {
-      "query": "feza",
-      "value": 5,
-      "formattedValue": "5",
-      "raw": {
+        "raw": {
+          "query": "skeem saam today",
+          "value": 6,
+          "formattedValue": "6",
+          "hasData": true,
+          "link": "/trends/explore?q=skeem+saam+today&date=now+7-d&geo=ZA"
+        }
+      },
+      {
         "query": "feza",
         "value": 5,
         "formattedValue": "5",
-        "hasData": true,
-        "link": "/trends/explore?q=feza&date=now+7-d&geo=ZA"
-      }
-    },
-    {
-      "query": "skeem saam today full episode",
-      "value": 5,
-      "formattedValue": "5",
-      "raw": {
+        "raw": {
+          "query": "feza",
+          "value": 5,
+          "formattedValue": "5",
+          "hasData": true,
+          "link": "/trends/explore?q=feza&date=now+7-d&geo=ZA"
+        }
+      },
+      {
         "query": "skeem saam today full episode",
         "value": 5,
         "formattedValue": "5",
-        "hasData": true,
-        "link": "/trends/explore?q=skeem+saam+today+full+episode&date=now+7-d&geo=ZA"
-      }
-    },
-    {
-      "query": "asmr",
-      "value": 5,
-      "formattedValue": "5",
-      "raw": {
+        "raw": {
+          "query": "skeem saam today full episode",
+          "value": 5,
+          "formattedValue": "5",
+          "hasData": true,
+          "link": "/trends/explore?q=skeem+saam+today+full+episode&date=now+7-d&geo=ZA"
+        }
+      },
+      {
         "query": "asmr",
         "value": 5,
         "formattedValue": "5",
-        "hasData": true,
-        "link": "/trends/explore?q=asmr&date=now+7-d&geo=ZA"
-      }
-    },
-    {
-      "query": "chris brown",
-      "value": 4,
-      "formattedValue": "4",
-      "raw": {
-        "query": "chris brown",
-        "value": 4,
-        "formattedValue": "4",
-        "hasData": true,
-        "link": "/trends/explore?q=chris+brown&date=now+7-d&geo=ZA"
-      }
-    },
-    {
-      "query": "youtube",
-      "value": 4,
-      "formattedValue": "4",
-      "raw": {
-        "query": "youtube",
-        "value": 4,
-        "formattedValue": "4",
-        "hasData": true,
-        "link": "/trends/explore?q=youtube&date=now+7-d&geo=ZA"
-      }
-    },
-    {
-      "query": "minecraft",
-      "value": 4,
-      "formattedValue": "4",
-      "raw": {
-        "query": "minecraft",
-        "value": 4,
-        "formattedValue": "4",
-        "hasData": true,
-        "link": "/trends/explore?q=minecraft&date=now+7-d&geo=ZA"
-      }
-    },
-    {
-      "query": "tiktok",
-      "value": 4,
-      "formattedValue": "4",
-      "raw": {
+        "raw": {
+          "query": "asmr",
+          "value": 5,
+          "formattedValue": "5",
+          "hasData": true,
+          "link": "/trends/explore?q=asmr&date=now+7-d&geo=ZA"
+        }
+      },
+      {
+        "query": "roblox",
+        "value": 5,
+        "formattedValue": "5",
+        "raw": {
+          "query": "roblox",
+          "value": 5,
+          "formattedValue": "5",
+          "hasData": true,
+          "link": "/trends/explore?q=roblox&date=now+7-d&geo=ZA"
+        }
+      },
+      {
         "query": "tiktok",
-        "value": 4,
-        "formattedValue": "4",
-        "hasData": true,
-        "link": "/trends/explore?q=tiktok&date=now+7-d&geo=ZA"
+        "value": 5,
+        "formattedValue": "5",
+        "raw": {
+          "query": "tiktok",
+          "value": 5,
+          "formattedValue": "5",
+          "hasData": true,
+          "link": "/trends/explore?q=tiktok&date=now+7-d&geo=ZA"
+        }
+      },
+      {
+        "query": "chris brown",
+        "value": 5,
+        "formattedValue": "5",
+        "raw": {
+          "query": "chris brown",
+          "value": 5,
+          "formattedValue": "5",
+          "hasData": true,
+          "link": "/trends/explore?q=chris+brown&date=now+7-d&geo=ZA"
+        }
+      },
+      {
+        "query": "minecraft",
+        "value": 5,
+        "formattedValue": "5",
+        "raw": {
+          "query": "minecraft",
+          "value": 5,
+          "formattedValue": "5",
+          "hasData": true,
+          "link": "/trends/explore?q=minecraft&date=now+7-d&geo=ZA"
+        }
+      },
+      {
+        "query": "peanuts",
+        "value": 5,
+        "formattedValue": "5",
+        "raw": {
+          "query": "peanuts",
+          "value": 5,
+          "formattedValue": "5",
+          "hasData": true,
+          "link": "/trends/explore?q=peanuts&date=now+7-d&geo=ZA"
+        }
       }
-    }
-  ],
-  "risingQueries": [
-    {
-      "query": "kwa baba episode 3",
-      "value": 8000,
-      "formattedValue": "Đột phá",
-      "raw": {
+    ],
+    "rising": [
+      {
         "query": "kwa baba episode 3",
-        "value": 8000,
+        "value": 7900,
         "formattedValue": "Đột phá",
-        "link": "/trends/explore?q=kwa+baba+episode+3&date=now+7-d&geo=ZA"
-      }
-    },
-    {
-      "query": "kwa baba episode 2",
-      "value": 7200,
-      "formattedValue": "Đột phá",
-      "raw": {
+        "raw": {
+          "query": "kwa baba episode 3",
+          "value": 7900,
+          "formattedValue": "Đột phá",
+          "link": "/trends/explore?q=kwa+baba+episode+3&date=now+7-d&geo=ZA"
+        }
+      },
+      {
         "query": "kwa baba episode 2",
-        "value": 7200,
+        "value": 6800,
         "formattedValue": "Đột phá",
-        "link": "/trends/explore?q=kwa+baba+episode+2&date=now+7-d&geo=ZA"
-      }
-    },
-    {
-      "query": "kwa baba episode 5",
-      "value": 5850,
-      "formattedValue": "Đột phá",
-      "raw": {
-        "query": "kwa baba episode 5",
+        "raw": {
+          "query": "kwa baba episode 2",
+          "value": 6800,
+          "formattedValue": "Đột phá",
+          "link": "/trends/explore?q=kwa+baba+episode+2&date=now+7-d&geo=ZA"
+        }
+      },
+      {
+        "query": "kwa baba",
         "value": 5850,
         "formattedValue": "Đột phá",
-        "link": "/trends/explore?q=kwa+baba+episode+5&date=now+7-d&geo=ZA"
-      }
-    },
-    {
-      "query": "kwa baba",
-      "value": 5650,
-      "formattedValue": "Đột phá",
-      "raw": {
-        "query": "kwa baba",
-        "value": 5650,
+        "raw": {
+          "query": "kwa baba",
+          "value": 5850,
+          "formattedValue": "Đột phá",
+          "link": "/trends/explore?q=kwa+baba&date=now+7-d&geo=ZA"
+        }
+      },
+      {
+        "query": "kwa baba episode 5",
+        "value": 5750,
         "formattedValue": "Đột phá",
-        "link": "/trends/explore?q=kwa+baba&date=now+7-d&geo=ZA"
-      }
-    },
-    {
-      "query": "kwa baba episode 6",
-      "value": 4450,
-      "formattedValue": "+4.450%",
-      "raw": {
-        "query": "kwa baba episode 6",
-        "value": 4450,
-        "formattedValue": "+4.450%",
-        "link": "/trends/explore?q=kwa+baba+episode+6&date=now+7-d&geo=ZA"
-      }
-    },
-    {
-      "query": "bafana bafana vs jamaica",
-      "value": 4400,
-      "formattedValue": "+4.400%",
-      "raw": {
+        "raw": {
+          "query": "kwa baba episode 5",
+          "value": 5750,
+          "formattedValue": "Đột phá",
+          "link": "/trends/explore?q=kwa+baba+episode+5&date=now+7-d&geo=ZA"
+        }
+      },
+      {
         "query": "bafana bafana vs jamaica",
-        "value": 4400,
-        "formattedValue": "+4.400%",
-        "link": "/trends/explore?q=bafana+bafana+vs+jamaica&date=now+7-d&geo=ZA"
-      }
-    },
-    {
-      "query": "kwababa episode 4",
-      "value": 3050,
-      "formattedValue": "+3.050%",
-      "raw": {
+        "value": 4600,
+        "formattedValue": "+4.600%",
+        "raw": {
+          "query": "bafana bafana vs jamaica",
+          "value": 4600,
+          "formattedValue": "+4.600%",
+          "link": "/trends/explore?q=bafana+bafana+vs+jamaica&date=now+7-d&geo=ZA"
+        }
+      },
+      {
+        "query": "kwa baba episode 6",
+        "value": 4350,
+        "formattedValue": "+4.350%",
+        "raw": {
+          "query": "kwa baba episode 6",
+          "value": 4350,
+          "formattedValue": "+4.350%",
+          "link": "/trends/explore?q=kwa+baba+episode+6&date=now+7-d&geo=ZA"
+        }
+      },
+      {
         "query": "kwababa episode 4",
+        "value": 3100,
+        "formattedValue": "+3.100%",
+        "raw": {
+          "query": "kwababa episode 4",
+          "value": 3100,
+          "formattedValue": "+3.100%",
+          "link": "/trends/explore?q=kwababa+episode+4&date=now+7-d&geo=ZA"
+        }
+      },
+      {
+        "query": "kwababa episode 3",
         "value": 3050,
         "formattedValue": "+3.050%",
-        "link": "/trends/explore?q=kwababa+episode+4&date=now+7-d&geo=ZA"
-      }
-    },
-    {
-      "query": "kwababa episode 3",
-      "value": 2950,
-      "formattedValue": "+2.950%",
-      "raw": {
-        "query": "kwababa episode 3",
-        "value": 2950,
-        "formattedValue": "+2.950%",
-        "link": "/trends/explore?q=kwababa+episode+3&date=now+7-d&geo=ZA"
-      }
-    },
-    {
-      "query": "kwababa episode 2",
-      "value": 2900,
-      "formattedValue": "+2.900%",
-      "raw": {
+        "raw": {
+          "query": "kwababa episode 3",
+          "value": 3050,
+          "formattedValue": "+3.050%",
+          "link": "/trends/explore?q=kwababa+episode+3&date=now+7-d&geo=ZA"
+        }
+      },
+      {
         "query": "kwababa episode 2",
-        "value": 2900,
-        "formattedValue": "+2.900%",
-        "link": "/trends/explore?q=kwababa+episode+2&date=now+7-d&geo=ZA"
-      }
-    },
-    {
-      "query": "kwababa",
-      "value": 2500,
-      "formattedValue": "+2.500%",
-      "raw": {
+        "value": 3000,
+        "formattedValue": "+3.000%",
+        "raw": {
+          "query": "kwababa episode 2",
+          "value": 3000,
+          "formattedValue": "+3.000%",
+          "link": "/trends/explore?q=kwababa+episode+2&date=now+7-d&geo=ZA"
+        }
+      },
+      {
         "query": "kwababa",
-        "value": 2500,
-        "formattedValue": "+2.500%",
-        "link": "/trends/explore?q=kwababa&date=now+7-d&geo=ZA"
-      }
-    },
-    {
-      "query": "kwa baba episode 8",
-      "value": 1650,
-      "formattedValue": "+1.650%",
-      "raw": {
+        "value": 2400,
+        "formattedValue": "+2.400%",
+        "raw": {
+          "query": "kwababa",
+          "value": 2400,
+          "formattedValue": "+2.400%",
+          "link": "/trends/explore?q=kwababa&date=now+7-d&geo=ZA"
+        }
+      },
+      {
         "query": "kwa baba episode 8",
+        "value": 1700,
+        "formattedValue": "+1.700%",
+        "raw": {
+          "query": "kwa baba episode 8",
+          "value": 1700,
+          "formattedValue": "+1.700%",
+          "link": "/trends/explore?q=kwa+baba+episode+8&date=now+7-d&geo=ZA"
+        }
+      },
+      {
+        "query": "ramaphosa addressing today live",
         "value": 1650,
         "formattedValue": "+1.650%",
-        "link": "/trends/explore?q=kwa+baba+episode+8&date=now+7-d&geo=ZA"
-      }
-    },
-    {
-      "query": "ramaphosa addressing today live",
-      "value": 1600,
-      "formattedValue": "+1.600%",
-      "raw": {
-        "query": "ramaphosa addressing today live",
-        "value": 1600,
-        "formattedValue": "+1.600%",
-        "link": "/trends/explore?q=ramaphosa+addressing+today+live&date=now+7-d&geo=ZA"
-      }
-    },
-    {
-      "query": "kwa baba episode 1",
-      "value": 1200,
-      "formattedValue": "+1.200%",
-      "raw": {
+        "raw": {
+          "query": "ramaphosa addressing today live",
+          "value": 1650,
+          "formattedValue": "+1.650%",
+          "link": "/trends/explore?q=ramaphosa+addressing+today+live&date=now+7-d&geo=ZA"
+        }
+      },
+      {
+        "query": "iconic by mistake",
+        "value": 1250,
+        "formattedValue": "+1.250%",
+        "raw": {
+          "query": "iconic by mistake",
+          "value": 1250,
+          "formattedValue": "+1.250%",
+          "link": "/trends/explore?q=iconic+by+mistake&date=now+7-d&geo=ZA"
+        }
+      },
+      {
         "query": "kwa baba episode 1",
         "value": 1200,
         "formattedValue": "+1.200%",
-        "link": "/trends/explore?q=kwa+baba+episode+1&date=now+7-d&geo=ZA"
-      }
-    },
-    {
-      "query": "iconic by mistake",
-      "value": 1200,
-      "formattedValue": "+1.200%",
-      "raw": {
-        "query": "iconic by mistake",
+        "raw": {
+          "query": "kwa baba episode 1",
+          "value": 1200,
+          "formattedValue": "+1.200%",
+          "link": "/trends/explore?q=kwa+baba+episode+1&date=now+7-d&geo=ZA"
+        }
+      },
+      {
+        "query": "portugal vs nigeria",
         "value": 1200,
         "formattedValue": "+1.200%",
-        "link": "/trends/explore?q=iconic+by+mistake&date=now+7-d&geo=ZA"
-      }
-    },
-    {
-      "query": "portugal vs nigeria",
-      "value": 1100,
-      "formattedValue": "+1.100%",
-      "raw": {
-        "query": "portugal vs nigeria",
-        "value": 1100,
-        "formattedValue": "+1.100%",
-        "link": "/trends/explore?q=portugal+vs+nigeria&date=now+7-d&geo=ZA"
-      }
-    },
-    {
-      "query": "misha domnikov",
-      "value": 650,
-      "formattedValue": "+650%",
-      "raw": {
+        "raw": {
+          "query": "portugal vs nigeria",
+          "value": 1200,
+          "formattedValue": "+1.200%",
+          "link": "/trends/explore?q=portugal+vs+nigeria&date=now+7-d&geo=ZA"
+        }
+      },
+      {
         "query": "misha domnikov",
-        "value": 650,
-        "formattedValue": "+650%",
-        "link": "/trends/explore?q=misha+domnikov&date=now+7-d&geo=ZA"
-      }
-    },
-    {
-      "query": "love island usa season 8",
-      "value": 550,
-      "formattedValue": "+550%",
-      "raw": {
+        "value": 700,
+        "formattedValue": "+700%",
+        "raw": {
+          "query": "misha domnikov",
+          "value": 700,
+          "formattedValue": "+700%",
+          "link": "/trends/explore?q=misha+domnikov&date=now+7-d&geo=ZA"
+        }
+      },
+      {
         "query": "love island usa season 8",
         "value": 550,
         "formattedValue": "+550%",
-        "link": "/trends/explore?q=love+island+usa+season+8&date=now+7-d&geo=ZA"
-      }
-    },
-    {
-      "query": "formula 1",
-      "value": 200,
-      "formattedValue": "+200%",
-      "raw": {
+        "raw": {
+          "query": "love island usa season 8",
+          "value": 550,
+          "formattedValue": "+550%",
+          "link": "/trends/explore?q=love+island+usa+season+8&date=now+7-d&geo=ZA"
+        }
+      },
+      {
         "query": "formula 1",
         "value": 200,
         "formattedValue": "+200%",
-        "link": "/trends/explore?q=formula+1&date=now+7-d&geo=ZA"
-      }
-    },
-    {
-      "query": "bafana bafana highlights",
-      "value": 180,
-      "formattedValue": "+180%",
-      "raw": {
+        "raw": {
+          "query": "formula 1",
+          "value": 200,
+          "formattedValue": "+200%",
+          "link": "/trends/explore?q=formula+1&date=now+7-d&geo=ZA"
+        }
+      },
+      {
         "query": "bafana bafana highlights",
-        "value": 180,
-        "formattedValue": "+180%",
-        "link": "/trends/explore?q=bafana+bafana+highlights&date=now+7-d&geo=ZA"
-      }
-    },
-    {
-      "query": "peabo bryson songs",
-      "value": 150,
-      "formattedValue": "+150%",
-      "raw": {
+        "value": 170,
+        "formattedValue": "+170%",
+        "raw": {
+          "query": "bafana bafana highlights",
+          "value": 170,
+          "formattedValue": "+170%",
+          "link": "/trends/explore?q=bafana+bafana+highlights&date=now+7-d&geo=ZA"
+        }
+      },
+      {
         "query": "peabo bryson songs",
         "value": 150,
         "formattedValue": "+150%",
-        "link": "/trends/explore?q=peabo+bryson+songs&date=now+7-d&geo=ZA"
-      }
-    },
-    {
-      "query": "kure kure",
-      "value": 60,
-      "formattedValue": "+60%",
-      "raw": {
-        "query": "kure kure",
-        "value": 60,
-        "formattedValue": "+60%",
-        "link": "/trends/explore?q=kure+kure&date=now+7-d&geo=ZA"
-      }
-    },
-    {
-      "query": "kevinmathscience",
-      "value": 40,
-      "formattedValue": "+40%",
-      "raw": {
+        "raw": {
+          "query": "peabo bryson songs",
+          "value": 150,
+          "formattedValue": "+150%",
+          "link": "/trends/explore?q=peabo+bryson+songs&date=now+7-d&geo=ZA"
+        }
+      },
+      {
         "query": "kevinmathscience",
+        "value": 50,
+        "formattedValue": "+50%",
+        "raw": {
+          "query": "kevinmathscience",
+          "value": 50,
+          "formattedValue": "+50%",
+          "link": "/trends/explore?q=kevinmathscience&date=now+7-d&geo=ZA"
+        }
+      },
+      {
+        "query": "kure kure",
         "value": 40,
         "formattedValue": "+40%",
-        "link": "/trends/explore?q=kevinmathscience&date=now+7-d&geo=ZA"
+        "raw": {
+          "query": "kure kure",
+          "value": 40,
+          "formattedValue": "+40%",
+          "link": "/trends/explore?q=kure+kure&date=now+7-d&geo=ZA"
+        }
       }
-    }
-  ]
+    ]
+  }
 }
