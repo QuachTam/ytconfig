@@ -20,48 +20,96 @@
       },
       {
         "query": "Điện ảnh",
-        "value": 64,
-        "formattedValue": "64",
+        "value": 67,
+        "formattedValue": "67",
         "raw": {
           "topic": {
             "mid": "/m/02vxn",
             "title": "Điện ảnh",
             "type": "Loại truyền hình"
           },
-          "value": 64,
-          "formattedValue": "64",
+          "value": 67,
+          "formattedValue": "67",
           "hasData": true,
           "link": "/trends/explore?q=/m/02vxn&date=now+7-d&geo=AE"
         }
       },
       {
         "query": "Tiếng Malayalam",
-        "value": 33,
-        "formattedValue": "33",
+        "value": 32,
+        "formattedValue": "32",
         "raw": {
           "topic": {
             "mid": "/m/0999q",
             "title": "Tiếng Malayalam",
             "type": "Ngôn ngữ"
           },
-          "value": 33,
-          "formattedValue": "33",
+          "value": 32,
+          "formattedValue": "32",
           "hasData": true,
           "link": "/trends/explore?q=/m/0999q&date=now+7-d&geo=AE"
         }
       },
       {
+        "query": "2026",
+        "value": 26,
+        "formattedValue": "26",
+        "raw": {
+          "topic": {
+            "mid": "/g/11b77d6b6g",
+            "title": "2026",
+            "type": "Chủ đề"
+          },
+          "value": 26,
+          "formattedValue": "26",
+          "hasData": true,
+          "link": "/trends/explore?q=/g/11b77d6b6g&date=now+7-d&geo=AE"
+        }
+      },
+      {
+        "query": "Giải Bóng đá Vô địch Thế giới",
+        "value": 22,
+        "formattedValue": "22",
+        "raw": {
+          "topic": {
+            "mid": "/m/030q7",
+            "title": "Giải Bóng đá Vô địch Thế giới",
+            "type": "Giải bóng đá"
+          },
+          "value": 22,
+          "formattedValue": "22",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/030q7&date=now+7-d&geo=AE"
+        }
+      },
+      {
+        "query": "Thế giới",
+        "value": 20,
+        "formattedValue": "20",
+        "raw": {
+          "topic": {
+            "mid": "/m/09nm_",
+            "title": "Thế giới",
+            "type": "Chủ đề"
+          },
+          "value": 20,
+          "formattedValue": "20",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/09nm_&date=now+7-d&geo=AE"
+        }
+      },
+      {
         "query": "Tập phim",
-        "value": 21,
-        "formattedValue": "21",
+        "value": 19,
+        "formattedValue": "19",
         "raw": {
           "topic": {
             "mid": "/m/02cphr",
             "title": "Tập phim",
             "type": "Chủ đề"
           },
-          "value": 21,
-          "formattedValue": "21",
+          "value": 19,
+          "formattedValue": "19",
           "hasData": true,
           "link": "/trends/explore?q=/m/02cphr&date=now+7-d&geo=AE"
         }
@@ -99,19 +147,19 @@
         }
       },
       {
-        "query": "2026",
+        "query": "Công thức nấu ăn",
         "value": 15,
         "formattedValue": "15",
         "raw": {
           "topic": {
-            "mid": "/g/11b77d6b6g",
-            "title": "2026",
-            "type": "Chủ đề"
+            "mid": "/m/0p57p",
+            "title": "Công thức nấu ăn",
+            "type": "Thể loại văn học"
           },
           "value": 15,
           "formattedValue": "15",
           "hasData": true,
-          "link": "/trends/explore?q=/g/11b77d6b6g&date=now+7-d&geo=AE"
+          "link": "/trends/explore?q=/m/0p57p&date=now+7-d&geo=AE"
         }
       },
       {
@@ -131,49 +179,17 @@
         }
       },
       {
-        "query": "Tin tức",
-        "value": 14,
-        "formattedValue": "14",
-        "raw": {
-          "topic": {
-            "mid": "/m/05jhg",
-            "title": "Tin tức",
-            "type": "Định dạng phát thanh"
-          },
-          "value": 14,
-          "formattedValue": "14",
-          "hasData": true,
-          "link": "/trends/explore?q=/m/05jhg&date=now+7-d&geo=AE"
-        }
-      },
-      {
-        "query": "Công thức nấu ăn",
-        "value": 14,
-        "formattedValue": "14",
-        "raw": {
-          "topic": {
-            "mid": "/m/0p57p",
-            "title": "Công thức nấu ăn",
-            "type": "Thể loại văn học"
-          },
-          "value": 14,
-          "formattedValue": "14",
-          "hasData": true,
-          "link": "/trends/explore?q=/m/0p57p&date=now+7-d&geo=AE"
-        }
-      },
-      {
         "query": "Kịch",
-        "value": 14,
-        "formattedValue": "14",
+        "value": 13,
+        "formattedValue": "13",
         "raw": {
           "topic": {
             "mid": "/m/02822",
             "title": "Kịch",
             "type": "Thể loại văn học"
           },
-          "value": 14,
-          "formattedValue": "14",
+          "value": 13,
+          "formattedValue": "13",
           "hasData": true,
           "link": "/trends/explore?q=/m/02822&date=now+7-d&geo=AE"
         }
@@ -195,19 +211,67 @@
         }
       },
       {
-        "query": "Trẻ em",
+        "query": "Tin tức",
+        "value": 11,
+        "formattedValue": "11",
+        "raw": {
+          "topic": {
+            "mid": "/m/05jhg",
+            "title": "Tin tức",
+            "type": "Định dạng phát thanh"
+          },
+          "value": 11,
+          "formattedValue": "11",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/05jhg&date=now+7-d&geo=AE"
+        }
+      },
+      {
+        "query": "Giải Bóng đá Thế giới 2026",
+        "value": 11,
+        "formattedValue": "11",
+        "raw": {
+          "topic": {
+            "mid": "/m/0r4xs1m",
+            "title": "Giải Bóng đá Thế giới 2026",
+            "type": "Mùa giải thể thao"
+          },
+          "value": 11,
+          "formattedValue": "11",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/0r4xs1m&date=now+7-d&geo=AE"
+        }
+      },
+      {
+        "query": "Liên đoàn Bóng đá Quốc tế",
+        "value": 10,
+        "formattedValue": "10",
+        "raw": {
+          "topic": {
+            "mid": "/g/11c59pck70",
+            "title": "Liên đoàn Bóng đá Quốc tế",
+            "type": "Chủ đề"
+          },
+          "value": 10,
+          "formattedValue": "10",
+          "hasData": true,
+          "link": "/trends/explore?q=/g/11c59pck70&date=now+7-d&geo=AE"
+        }
+      },
+      {
+        "query": "FIFA",
         "value": 9,
         "formattedValue": "9",
         "raw": {
           "topic": {
-            "mid": "/m/0ytgt",
-            "title": "Trẻ em",
-            "type": "Chủ đề"
+            "mid": "/m/02zm3",
+            "title": "FIFA",
+            "type": "Tổ chức bóng đá"
           },
           "value": 9,
           "formattedValue": "9",
           "hasData": true,
-          "link": "/trends/explore?q=/m/0ytgt&date=now+7-d&geo=AE"
+          "link": "/trends/explore?q=/m/02zm3&date=now+7-d&geo=AE"
         }
       },
       {
@@ -227,6 +291,22 @@
         }
       },
       {
+        "query": "Trẻ em",
+        "value": 9,
+        "formattedValue": "9",
+        "raw": {
+          "topic": {
+            "mid": "/m/0ytgt",
+            "title": "Trẻ em",
+            "type": "Chủ đề"
+          },
+          "value": 9,
+          "formattedValue": "9",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/0ytgt&date=now+7-d&geo=AE"
+        }
+      },
+      {
         "query": "Trailer",
         "value": 8,
         "formattedValue": "8",
@@ -243,51 +323,67 @@
         }
       },
       {
-        "query": "Dubai",
+        "query": "Lời bài hát",
         "value": 8,
         "formattedValue": "8",
-        "raw": {
-          "topic": {
-            "mid": "/m/01f08r",
-            "title": "Dubai",
-            "type": "Làng ở Các tiểu Vương quốc Ả rập Thống nhất"
-          },
-          "value": 8,
-          "formattedValue": "8",
-          "hasData": true,
-          "link": "/trends/explore?q=/m/01f08r&date=now+7-d&geo=AE"
-        }
-      },
-      {
-        "query": "Lời bài hát",
-        "value": 7,
-        "formattedValue": "7",
         "raw": {
           "topic": {
             "mid": "/m/09lgd",
             "title": "Lời bài hát",
             "type": "Chủ đề"
           },
-          "value": 7,
-          "formattedValue": "7",
+          "value": 8,
+          "formattedValue": "8",
           "hasData": true,
           "link": "/trends/explore?q=/m/09lgd&date=now+7-d&geo=AE"
         }
       },
       {
         "query": "Truyền hình trực tiếp",
-        "value": 7,
-        "formattedValue": "7",
+        "value": 8,
+        "formattedValue": "8",
         "raw": {
           "topic": {
             "mid": "/m/02mzct",
             "title": "Truyền hình trực tiếp",
             "type": "Chủ đề"
           },
+          "value": 8,
+          "formattedValue": "8",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/02mzct&date=now+7-d&geo=AE"
+        }
+      },
+      {
+        "query": "Dubai",
+        "value": 7,
+        "formattedValue": "7",
+        "raw": {
+          "topic": {
+            "mid": "/m/01f08r",
+            "title": "Dubai",
+            "type": "Làng ở Các tiểu Vương quốc Ả rập Thống nhất"
+          },
           "value": 7,
           "formattedValue": "7",
           "hasData": true,
-          "link": "/trends/explore?q=/m/02mzct&date=now+7-d&geo=AE"
+          "link": "/trends/explore?q=/m/01f08r&date=now+7-d&geo=AE"
+        }
+      },
+      {
+        "query": "Bóng đá",
+        "value": 7,
+        "formattedValue": "7",
+        "raw": {
+          "topic": {
+            "mid": "/m/02vx4",
+            "title": "Bóng đá",
+            "type": "Thể thao"
+          },
+          "value": 7,
+          "formattedValue": "7",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/02vx4&date=now+7-d&geo=AE"
         }
       },
       {
@@ -305,388 +401,382 @@
           "hasData": true,
           "link": "/trends/explore?q=/g/11qg_c03j7&date=now+7-d&geo=AE"
         }
-      },
-      {
-        "query": "Các tiểu Vương quốc Ả rập Thống nhất",
-        "value": 7,
-        "formattedValue": "7",
-        "raw": {
-          "topic": {
-            "mid": "/m/0j1z8",
-            "title": "Các tiểu Vương quốc Ả rập Thống nhất",
-            "type": "Quốc gia ở Trung Đông"
-          },
-          "value": 7,
-          "formattedValue": "7",
-          "hasData": true,
-          "link": "/trends/explore?q=/m/0j1z8&date=now+7-d&geo=AE"
-        }
-      },
-      {
-        "query": "Nhảy múa",
-        "value": 6,
-        "formattedValue": "6",
-        "raw": {
-          "topic": {
-            "mid": "/m/026bk",
-            "title": "Nhảy múa",
-            "type": "Lĩnh vực nghề nghiệp"
-          },
-          "value": 6,
-          "formattedValue": "6",
-          "hasData": true,
-          "link": "/trends/explore?q=/m/026bk&date=now+7-d&geo=AE"
-        }
-      },
-      {
-        "query": "Vlog",
-        "value": 6,
-        "formattedValue": "6",
-        "raw": {
-          "topic": {
-            "mid": "/m/04rh6b",
-            "title": "Vlog",
-            "type": "Thể loại truyền hình"
-          },
-          "value": 6,
-          "formattedValue": "6",
-          "hasData": true,
-          "link": "/trends/explore?q=/m/04rh6b&date=now+7-d&geo=AE"
-        }
-      },
-      {
-        "query": "Karaoke",
-        "value": 5,
-        "formattedValue": "5",
-        "raw": {
-          "topic": {
-            "mid": "/m/04c5p",
-            "title": "Karaoke",
-            "type": "Chủ đề"
-          },
-          "value": 5,
-          "formattedValue": "5",
-          "hasData": true,
-          "link": "/trends/explore?q=/m/04c5p&date=now+7-d&geo=AE"
-        }
-      },
-      {
-        "query": "Pakistan",
-        "value": 5,
-        "formattedValue": "5",
-        "raw": {
-          "topic": {
-            "mid": "/m/05sb1",
-            "title": "Pakistan",
-            "type": "Quốc gia ở Nam Á"
-          },
-          "value": 5,
-          "formattedValue": "5",
-          "hasData": true,
-          "link": "/trends/explore?q=/m/05sb1&date=now+7-d&geo=AE"
-        }
-      },
-      {
-        "query": "Thế giới",
-        "value": 5,
-        "formattedValue": "5",
-        "raw": {
-          "topic": {
-            "mid": "/m/09nm_",
-            "title": "Thế giới",
-            "type": "Chủ đề"
-          },
-          "value": 5,
-          "formattedValue": "5",
-          "hasData": true,
-          "link": "/trends/explore?q=/m/09nm_&date=now+7-d&geo=AE"
-        }
       }
     ],
     "rising": [
       {
+        "query": "Đội tuyển Bóng đá Quốc gia Mexico",
+        "value": 4650,
+        "formattedValue": "+4.650%",
+        "raw": {
+          "topic": {
+            "mid": "/m/03dj48",
+            "title": "Đội tuyển Bóng đá Quốc gia Mexico",
+            "type": "Đội bóng đá"
+          },
+          "value": 4650,
+          "formattedValue": "+4.650%",
+          "link": "/trends/explore?q=/m/03dj48&date=now+7-d&geo=AE"
+        }
+      },
+      {
+        "query": "lễ khai mạc",
+        "value": 4350,
+        "formattedValue": "+4.350%",
+        "raw": {
+          "topic": {
+            "mid": "/m/025t1y5",
+            "title": "lễ khai mạc",
+            "type": "Chủ đề"
+          },
+          "value": 4350,
+          "formattedValue": "+4.350%",
+          "link": "/trends/explore?q=/m/025t1y5&date=now+7-d&geo=AE"
+        }
+      },
+      {
         "query": "Mrz Thoppi",
-        "value": 4600,
-        "formattedValue": "+4.600%",
+        "value": 2500,
+        "formattedValue": "+2.500%",
         "raw": {
           "topic": {
             "mid": "/g/11l2_l09zb",
             "title": "Mrz Thoppi",
             "type": "Người nổi tiếng trên mạng"
           },
-          "value": 4600,
-          "formattedValue": "+4.600%",
+          "value": 2500,
+          "formattedValue": "+2.500%",
           "link": "/trends/explore?q=/g/11l2_l09zb&date=now+7-d&geo=AE"
         }
       },
       {
-        "query": "Salim Kumar",
-        "value": 4400,
-        "formattedValue": "+4.400%",
+        "query": "beIN Sports",
+        "value": 1800,
+        "formattedValue": "+1.800%",
         "raw": {
           "topic": {
-            "mid": "/m/0288crq",
-            "title": "Salim Kumar",
-            "type": "Diễn viên"
+            "mid": "/m/0jkvk2z",
+            "title": "beIN Sports",
+            "type": "Mạng truyền hình"
           },
-          "value": 4400,
-          "formattedValue": "+4.400%",
-          "link": "/trends/explore?q=/m/0288crq&date=now+7-d&geo=AE"
+          "value": 1800,
+          "formattedValue": "+1.800%",
+          "link": "/trends/explore?q=/m/0jkvk2z&date=now+7-d&geo=AE"
+        }
+      },
+      {
+        "query": "Justin Gaethje",
+        "value": 1300,
+        "formattedValue": "+1.300%",
+        "raw": {
+          "topic": {
+            "mid": "/m/0vxcsnv",
+            "title": "Justin Gaethje",
+            "type": "Võ sĩ võ đạo"
+          },
+          "value": 1300,
+          "formattedValue": "+1.300%",
+          "link": "/trends/explore?q=/m/0vxcsnv&date=now+7-d&geo=AE"
+        }
+      },
+      {
+        "query": "nghi lễ",
+        "value": 1000,
+        "formattedValue": "+1.000%",
+        "raw": {
+          "topic": {
+            "mid": "/m/016c4t",
+            "title": "nghi lễ",
+            "type": "Chủ đề"
+          },
+          "value": 1000,
+          "formattedValue": "+1.000%",
+          "link": "/trends/explore?q=/m/016c4t&date=now+7-d&geo=AE"
+        }
+      },
+      {
+        "query": "Ilia Topuria",
+        "value": 950,
+        "formattedValue": "+950%",
+        "raw": {
+          "topic": {
+            "mid": "/g/11fq7kcv3g",
+            "title": "Ilia Topuria",
+            "type": "Võ thuật tổng hợp"
+          },
+          "value": 950,
+          "formattedValue": "+950%",
+          "link": "/trends/explore?q=/g/11fq7kcv3g&date=now+7-d&geo=AE"
+        }
+      },
+      {
+        "query": "Đội tuyển bóng đá quốc gia Maroc",
+        "value": 750,
+        "formattedValue": "+750%",
+        "raw": {
+          "topic": {
+            "mid": "/m/03_9hm",
+            "title": "Đội tuyển bóng đá quốc gia Maroc",
+            "type": "Đội bóng đá"
+          },
+          "value": 750,
+          "formattedValue": "+750%",
+          "link": "/trends/explore?q=/m/03_9hm&date=now+7-d&geo=AE"
+        }
+      },
+      {
+        "query": "Nam Phi",
+        "value": 750,
+        "formattedValue": "+750%",
+        "raw": {
+          "topic": {
+            "mid": "/m/0hzlz",
+            "title": "Nam Phi",
+            "type": "Quốc gia ở Miền Nam Châu Phi"
+          },
+          "value": 750,
+          "formattedValue": "+750%",
+          "link": "/trends/explore?q=/m/0hzlz&date=now+7-d&geo=AE"
+        }
+      },
+      {
+        "query": "Đội tuyển Bóng đá Quốc gia Đức",
+        "value": 700,
+        "formattedValue": "+700%",
+        "raw": {
+          "topic": {
+            "mid": "/m/01l3wr",
+            "title": "Đội tuyển Bóng đá Quốc gia Đức",
+            "type": "Đội bóng đá"
+          },
+          "value": 700,
+          "formattedValue": "+700%",
+          "link": "/trends/explore?q=/m/01l3wr&date=now+7-d&geo=AE"
         }
       },
       {
         "query": "Liên đoàn Bóng đá Quốc tế",
-        "value": 400,
-        "formattedValue": "+400%",
+        "value": 600,
+        "formattedValue": "+600%",
         "raw": {
           "topic": {
             "mid": "/g/11c59pck70",
             "title": "Liên đoàn Bóng đá Quốc tế",
             "type": "Chủ đề"
           },
-          "value": 400,
-          "formattedValue": "+400%",
+          "value": 600,
+          "formattedValue": "+600%",
           "link": "/trends/explore?q=/g/11c59pck70&date=now+7-d&geo=AE"
         }
       },
       {
         "query": "FIFA",
-        "value": 400,
-        "formattedValue": "+400%",
+        "value": 600,
+        "formattedValue": "+600%",
         "raw": {
           "topic": {
             "mid": "/m/02zm3",
             "title": "FIFA",
             "type": "Tổ chức bóng đá"
           },
-          "value": 400,
-          "formattedValue": "+400%",
+          "value": 600,
+          "formattedValue": "+600%",
           "link": "/trends/explore?q=/m/02zm3&date=now+7-d&geo=AE"
         }
       },
       {
         "query": "Giải Bóng đá Thế giới 2026",
-        "value": 250,
-        "formattedValue": "+250%",
+        "value": 600,
+        "formattedValue": "+600%",
         "raw": {
           "topic": {
             "mid": "/m/0r4xs1m",
             "title": "Giải Bóng đá Thế giới 2026",
             "type": "Mùa giải thể thao"
           },
-          "value": 250,
-          "formattedValue": "+250%",
+          "value": 600,
+          "formattedValue": "+600%",
           "link": "/trends/explore?q=/m/0r4xs1m&date=now+7-d&geo=AE"
         }
       },
       {
+        "query": "Mexico",
+        "value": 550,
+        "formattedValue": "+550%",
+        "raw": {
+          "topic": {
+            "mid": "/m/0b90_r",
+            "title": "Mexico",
+            "type": "Quốc gia ở Bắc Mỹ"
+          },
+          "value": 550,
+          "formattedValue": "+550%",
+          "link": "/trends/explore?q=/m/0b90_r&date=now+7-d&geo=AE"
+        }
+      },
+      {
+        "query": "Đội tuyển Bóng đá Quốc gia Bỉ",
+        "value": 450,
+        "formattedValue": "+450%",
+        "raw": {
+          "topic": {
+            "mid": "/m/0329gm",
+            "title": "Đội tuyển Bóng đá Quốc gia Bỉ",
+            "type": "Đội bóng đá"
+          },
+          "value": 450,
+          "formattedValue": "+450%",
+          "link": "/trends/explore?q=/m/0329gm&date=now+7-d&geo=AE"
+        }
+      },
+      {
         "query": "Giải Bóng đá Vô địch Thế giới",
-        "value": 200,
-        "formattedValue": "+200%",
+        "value": 450,
+        "formattedValue": "+450%",
         "raw": {
           "topic": {
             "mid": "/m/030q7",
             "title": "Giải Bóng đá Vô địch Thế giới",
             "type": "Giải bóng đá"
           },
-          "value": 200,
-          "formattedValue": "+200%",
+          "value": 450,
+          "formattedValue": "+450%",
           "link": "/trends/explore?q=/m/030q7&date=now+7-d&geo=AE"
         }
       },
       {
-        "query": "Đội tuyển Bóng gậy Quốc gia Ấn Độ",
-        "value": 130,
-        "formattedValue": "+130%",
+        "query": "Qatar",
+        "value": 400,
+        "formattedValue": "+400%",
         "raw": {
           "topic": {
-            "mid": "/m/024nj1",
-            "title": "Đội tuyển Bóng gậy Quốc gia Ấn Độ",
-            "type": "Đội crickê"
+            "mid": "/m/0697s",
+            "title": "Qatar",
+            "type": "Quốc gia ở Trung Đông"
           },
-          "value": 130,
-          "formattedValue": "+130%",
-          "link": "/trends/explore?q=/m/024nj1&date=now+7-d&geo=AE"
+          "value": 400,
+          "formattedValue": "+400%",
+          "link": "/trends/explore?q=/m/0697s&date=now+7-d&geo=AE"
         }
       },
       {
-        "query": "Peddi",
-        "value": 110,
-        "formattedValue": "+110%",
+        "query": "Bỉ",
+        "value": 400,
+        "formattedValue": "+400%",
         "raw": {
           "topic": {
-            "mid": "/g/11t2xwl7vf",
-            "title": "Peddi",
-            "type": "Phim 2026"
+            "mid": "/m/0154j",
+            "title": "Bỉ",
+            "type": "Quốc gia ở Châu Âu"
           },
-          "value": 110,
-          "formattedValue": "+110%",
-          "link": "/trends/explore?q=/g/11t2xwl7vf&date=now+7-d&geo=AE"
+          "value": 400,
+          "formattedValue": "+400%",
+          "link": "/trends/explore?q=/m/0154j&date=now+7-d&geo=AE"
+        }
+      },
+      {
+        "query": "CazéTV",
+        "value": 300,
+        "formattedValue": "+300%",
+        "raw": {
+          "topic": {
+            "mid": "/g/11tsjv4xlj",
+            "title": "CazéTV",
+            "type": "Kênh truyền hình"
+          },
+          "value": 300,
+          "formattedValue": "+300%",
+          "link": "/trends/explore?q=/g/11tsjv4xlj&date=now+7-d&geo=AE"
         }
       },
       {
         "query": "Thế giới",
-        "value": 100,
-        "formattedValue": "+100%",
+        "value": 300,
+        "formattedValue": "+300%",
         "raw": {
           "topic": {
             "mid": "/m/09nm_",
             "title": "Thế giới",
             "type": "Chủ đề"
           },
-          "value": 100,
-          "formattedValue": "+100%",
+          "value": 300,
+          "formattedValue": "+300%",
           "link": "/trends/explore?q=/m/09nm_&date=now+7-d&geo=AE"
         }
       },
       {
-        "query": "Zanjeerain",
-        "value": 100,
-        "formattedValue": "+100%",
+        "query": "Ultimate Fighting Championship",
+        "value": 250,
+        "formattedValue": "+250%",
         "raw": {
           "topic": {
-            "mid": "/g/11z9v9rb4p",
-            "title": "Zanjeerain",
-            "type": "Chương trình truyền hình"
+            "mid": "/m/016r3g",
+            "title": "Ultimate Fighting Championship",
+            "type": "Công ty"
           },
-          "value": 100,
-          "formattedValue": "+100%",
-          "link": "/trends/explore?q=/g/11z9v9rb4p&date=now+7-d&geo=AE"
+          "value": 250,
+          "formattedValue": "+250%",
+          "link": "/trends/explore?q=/m/016r3g&date=now+7-d&geo=AE"
         }
       },
       {
-        "query": "Cấu trúc",
-        "value": 80,
-        "formattedValue": "+80%",
+        "query": "Thể thao",
+        "value": 250,
+        "formattedValue": "+250%",
         "raw": {
           "topic": {
-            "mid": "/m/0n68_",
-            "title": "Cấu trúc",
-            "type": "Chủ đề"
+            "mid": "/m/06ntj",
+            "title": "Thể thao",
+            "type": "Định dạng âm thanh"
           },
-          "value": 80,
-          "formattedValue": "+80%",
-          "link": "/trends/explore?q=/m/0n68_&date=now+7-d&geo=AE"
+          "value": 250,
+          "formattedValue": "+250%",
+          "link": "/trends/explore?q=/m/06ntj&date=now+7-d&geo=AE"
         }
       },
       {
-        "query": "Al Jazeera Mubasher",
-        "value": 80,
-        "formattedValue": "+80%",
+        "query": "Bóng đá",
+        "value": 200,
+        "formattedValue": "+200%",
         "raw": {
           "topic": {
-            "mid": "/m/04kbhq7",
-            "title": "Al Jazeera Mubasher",
-            "type": "Mạng truyền hình"
+            "mid": "/m/02vx4",
+            "title": "Bóng đá",
+            "type": "Thể thao"
           },
-          "value": 80,
-          "formattedValue": "+80%",
-          "link": "/trends/explore?q=/m/04kbhq7&date=now+7-d&geo=AE"
-        }
-      },
-      {
-        "query": "Lễ tốt nghiệp",
-        "value": 80,
-        "formattedValue": "+80%",
-        "raw": {
-          "topic": {
-            "mid": "/m/016c3c",
-            "title": "Lễ tốt nghiệp",
-            "type": "Bằng cấp"
-          },
-          "value": 80,
-          "formattedValue": "+80%",
-          "link": "/trends/explore?q=/m/016c3c&date=now+7-d&geo=AE"
+          "value": 200,
+          "formattedValue": "+200%",
+          "link": "/trends/explore?q=/m/02vx4&date=now+7-d&geo=AE"
         }
       },
       {
         "query": "Đội tuyển Bóng đá Quốc gia Brasil",
-        "value": 80,
-        "formattedValue": "+80%",
+        "value": 190,
+        "formattedValue": "+190%",
         "raw": {
           "topic": {
             "mid": "/m/01352_",
             "title": "Đội tuyển Bóng đá Quốc gia Brasil",
             "type": "Đội bóng đá"
           },
-          "value": 80,
-          "formattedValue": "+80%",
+          "value": 190,
+          "formattedValue": "+190%",
           "link": "/trends/explore?q=/m/01352_&date=now+7-d&geo=AE"
         }
       },
       {
-        "query": "funny",
-        "value": 50,
-        "formattedValue": "+50%",
+        "query": "Brazil",
+        "value": 160,
+        "formattedValue": "+160%",
         "raw": {
           "topic": {
-            "mid": "/g/11rhnzhzb2",
-            "title": "funny",
-            "type": "Chủ đề"
+            "mid": "/m/015fr",
+            "title": "Brazil",
+            "type": "Quốc gia ở Nam Mỹ"
           },
-          "value": 50,
-          "formattedValue": "+50%",
-          "link": "/trends/explore?q=/g/11rhnzhzb2&date=now+7-d&geo=AE"
-        }
-      },
-      {
-        "query": "Toán học",
-        "value": 50,
-        "formattedValue": "+50%",
-        "raw": {
-          "topic": {
-            "mid": "/m/04rjg",
-            "title": "Toán học",
-            "type": "Lĩnh vực nghiên cứu"
-          },
-          "value": 50,
-          "formattedValue": "+50%",
-          "link": "/trends/explore?q=/m/04rjg&date=now+7-d&geo=AE"
-        }
-      },
-      {
-        "query": "Al Jazeera",
-        "value": 40,
-        "formattedValue": "+40%",
-        "raw": {
-          "topic": {
-            "mid": "/m/027glbp",
-            "title": "Al Jazeera",
-            "type": "Công ty"
-          },
-          "value": 40,
-          "formattedValue": "+40%",
-          "link": "/trends/explore?q=/m/027glbp&date=now+7-d&geo=AE"
-        }
-      },
-      {
-        "query": "IShowSpeed",
-        "value": 40,
-        "formattedValue": "+40%",
-        "raw": {
-          "topic": {
-            "mid": "/g/11q30y4rz0",
-            "title": "IShowSpeed",
-            "type": "Người phát sóng trực tiếp"
-          },
-          "value": 40,
-          "formattedValue": "+40%",
-          "link": "/trends/explore?q=/g/11q30y4rz0&date=now+7-d&geo=AE"
-        }
-      },
-      {
-        "query": "ARY News",
-        "value": 40,
-        "formattedValue": "+40%",
-        "raw": {
-          "topic": {
-            "mid": "/m/0bnn5s",
-            "title": "ARY News",
-            "type": "Mạng truyền hình"
-          },
-          "value": 40,
-          "formattedValue": "+40%",
-          "link": "/trends/explore?q=/m/0bnn5s&date=now+7-d&geo=AE"
+          "value": 160,
+          "formattedValue": "+160%",
+          "link": "/trends/explore?q=/m/015fr&date=now+7-d&geo=AE"
         }
       }
     ]
@@ -707,74 +797,74 @@
       },
       {
         "query": "movie",
-        "value": 84,
-        "formattedValue": "84",
+        "value": 83,
+        "formattedValue": "83",
         "raw": {
           "query": "movie",
-          "value": 84,
-          "formattedValue": "84",
+          "value": 83,
+          "formattedValue": "83",
           "hasData": true,
           "link": "/trends/explore?q=movie&date=now+7-d&geo=AE"
         }
       },
       {
+        "query": "live",
+        "value": 57,
+        "formattedValue": "57",
+        "raw": {
+          "query": "live",
+          "value": 57,
+          "formattedValue": "57",
+          "hasData": true,
+          "link": "/trends/explore?q=live&date=now+7-d&geo=AE"
+        }
+      },
+      {
         "query": "songs",
-        "value": 52,
-        "formattedValue": "52",
+        "value": 50,
+        "formattedValue": "50",
         "raw": {
           "query": "songs",
-          "value": 52,
-          "formattedValue": "52",
+          "value": 50,
+          "formattedValue": "50",
           "hasData": true,
           "link": "/trends/explore?q=songs&date=now+7-d&geo=AE"
         }
       },
       {
+        "query": "world cup",
+        "value": 28,
+        "formattedValue": "28",
+        "raw": {
+          "query": "world cup",
+          "value": 28,
+          "formattedValue": "28",
+          "hasData": true,
+          "link": "/trends/explore?q=world+cup&date=now+7-d&geo=AE"
+        }
+      },
+      {
         "query": "news",
-        "value": 33,
-        "formattedValue": "33",
+        "value": 25,
+        "formattedValue": "25",
         "raw": {
           "query": "news",
-          "value": 33,
-          "formattedValue": "33",
+          "value": 25,
+          "formattedValue": "25",
           "hasData": true,
           "link": "/trends/explore?q=news&date=now+7-d&geo=AE"
         }
       },
       {
         "query": "drama",
-        "value": 21,
-        "formattedValue": "21",
+        "value": 20,
+        "formattedValue": "20",
         "raw": {
           "query": "drama",
-          "value": 21,
-          "formattedValue": "21",
+          "value": 20,
+          "formattedValue": "20",
           "hasData": true,
           "link": "/trends/explore?q=drama&date=now+7-d&geo=AE"
-        }
-      },
-      {
-        "query": "live news",
-        "value": 21,
-        "formattedValue": "21",
-        "raw": {
-          "query": "live news",
-          "value": 21,
-          "formattedValue": "21",
-          "hasData": true,
-          "link": "/trends/explore?q=live+news&date=now+7-d&geo=AE"
-        }
-      },
-      {
-        "query": "malayalam movie",
-        "value": 18,
-        "formattedValue": "18",
-        "raw": {
-          "query": "malayalam movie",
-          "value": 18,
-          "formattedValue": "18",
-          "hasData": true,
-          "link": "/trends/explore?q=malayalam+movie&date=now+7-d&geo=AE"
         }
       },
       {
@@ -790,6 +880,42 @@
         }
       },
       {
+        "query": "malayalam movie",
+        "value": 18,
+        "formattedValue": "18",
+        "raw": {
+          "query": "malayalam movie",
+          "value": 18,
+          "formattedValue": "18",
+          "hasData": true,
+          "link": "/trends/explore?q=malayalam+movie&date=now+7-d&geo=AE"
+        }
+      },
+      {
+        "query": "world cup 2026",
+        "value": 17,
+        "formattedValue": "17",
+        "raw": {
+          "query": "world cup 2026",
+          "value": 17,
+          "formattedValue": "17",
+          "hasData": true,
+          "link": "/trends/explore?q=world+cup+2026&date=now+7-d&geo=AE"
+        }
+      },
+      {
+        "query": "fifa",
+        "value": 16,
+        "formattedValue": "16",
+        "raw": {
+          "query": "fifa",
+          "value": 16,
+          "formattedValue": "16",
+          "hasData": true,
+          "link": "/trends/explore?q=fifa&date=now+7-d&geo=AE"
+        }
+      },
+      {
         "query": "music",
         "value": 16,
         "formattedValue": "16",
@@ -802,15 +928,15 @@
         }
       },
       {
-        "query": "malayalam full movie",
-        "value": 12,
-        "formattedValue": "12",
+        "query": "fifa world cup",
+        "value": 13,
+        "formattedValue": "13",
         "raw": {
-          "query": "malayalam full movie",
-          "value": 12,
-          "formattedValue": "12",
+          "query": "fifa world cup",
+          "value": 13,
+          "formattedValue": "13",
           "hasData": true,
-          "link": "/trends/explore?q=malayalam+full+movie&date=now+7-d&geo=AE"
+          "link": "/trends/explore?q=fifa+world+cup&date=now+7-d&geo=AE"
         }
       },
       {
@@ -826,15 +952,15 @@
         }
       },
       {
-        "query": "dubai",
+        "query": "malayalam full movie",
         "value": 12,
         "formattedValue": "12",
         "raw": {
-          "query": "dubai",
+          "query": "malayalam full movie",
           "value": 12,
           "formattedValue": "12",
           "hasData": true,
-          "link": "/trends/explore?q=dubai&date=now+7-d&geo=AE"
+          "link": "/trends/explore?q=malayalam+full+movie&date=now+7-d&geo=AE"
         }
       },
       {
@@ -850,6 +976,30 @@
         }
       },
       {
+        "query": "world cup live",
+        "value": 11,
+        "formattedValue": "11",
+        "raw": {
+          "query": "world cup live",
+          "value": 11,
+          "formattedValue": "11",
+          "hasData": true,
+          "link": "/trends/explore?q=world+cup+live&date=now+7-d&geo=AE"
+        }
+      },
+      {
+        "query": "football",
+        "value": 11,
+        "formattedValue": "11",
+        "raw": {
+          "query": "football",
+          "value": 11,
+          "formattedValue": "11",
+          "hasData": true,
+          "link": "/trends/explore?q=football&date=now+7-d&geo=AE"
+        }
+      },
+      {
         "query": "baby",
         "value": 10,
         "formattedValue": "10",
@@ -859,6 +1009,18 @@
           "formattedValue": "10",
           "hasData": true,
           "link": "/trends/explore?q=baby&date=now+7-d&geo=AE"
+        }
+      },
+      {
+        "query": "dance",
+        "value": 10,
+        "formattedValue": "10",
+        "raw": {
+          "query": "dance",
+          "value": 10,
+          "formattedValue": "10",
+          "hasData": true,
+          "link": "/trends/explore?q=dance&date=now+7-d&geo=AE"
         }
       },
       {
@@ -886,6 +1048,30 @@
         }
       },
       {
+        "query": "fifa world cup 2026",
+        "value": 9,
+        "formattedValue": "9",
+        "raw": {
+          "query": "fifa world cup 2026",
+          "value": 9,
+          "formattedValue": "9",
+          "hasData": true,
+          "link": "/trends/explore?q=fifa+world+cup+2026&date=now+7-d&geo=AE"
+        }
+      },
+      {
+        "query": "world cup 2026 live",
+        "value": 8,
+        "formattedValue": "8",
+        "raw": {
+          "query": "world cup 2026 live",
+          "value": 8,
+          "formattedValue": "8",
+          "hasData": true,
+          "link": "/trends/explore?q=world+cup+2026+live&date=now+7-d&geo=AE"
+        }
+      },
+      {
         "query": "اغاني",
         "value": 8,
         "formattedValue": "8",
@@ -896,378 +1082,282 @@
           "hasData": true,
           "link": "/trends/explore?q=%D8%A7%D8%BA%D8%A7%D9%86%D9%8A&date=now+7-d&geo=AE"
         }
-      },
-      {
-        "query": "world cup",
-        "value": 8,
-        "formattedValue": "8",
-        "raw": {
-          "query": "world cup",
-          "value": 8,
-          "formattedValue": "8",
-          "hasData": true,
-          "link": "/trends/explore?q=world+cup&date=now+7-d&geo=AE"
-        }
-      },
-      {
-        "query": "news live malayalam",
-        "value": 7,
-        "formattedValue": "7",
-        "raw": {
-          "query": "news live malayalam",
-          "value": 7,
-          "formattedValue": "7",
-          "hasData": true,
-          "link": "/trends/explore?q=news+live+malayalam&date=now+7-d&geo=AE"
-        }
-      },
-      {
-        "query": "hindi song",
-        "value": 6,
-        "formattedValue": "6",
-        "raw": {
-          "query": "hindi song",
-          "value": 6,
-          "formattedValue": "6",
-          "hasData": true,
-          "link": "/trends/explore?q=hindi+song&date=now+7-d&geo=AE"
-        }
-      },
-      {
-        "query": "cartoon",
-        "value": 5,
-        "formattedValue": "5",
-        "raw": {
-          "query": "cartoon",
-          "value": 5,
-          "formattedValue": "5",
-          "hasData": true,
-          "link": "/trends/explore?q=cartoon&date=now+7-d&geo=AE"
-        }
-      },
-      {
-        "query": "اغنيه",
-        "value": 4,
-        "formattedValue": "4",
-        "raw": {
-          "query": "اغنيه",
-          "value": 4,
-          "formattedValue": "4",
-          "hasData": true,
-          "link": "/trends/explore?q=%D8%A7%D8%BA%D9%86%D9%8A%D9%87&date=now+7-d&geo=AE"
-        }
-      },
-      {
-        "query": "roblox",
-        "value": 4,
-        "formattedValue": "4",
-        "raw": {
-          "query": "roblox",
-          "value": 4,
-          "formattedValue": "4",
-          "hasData": true,
-          "link": "/trends/explore?q=roblox&date=now+7-d&geo=AE"
-        }
-      },
-      {
-        "query": "youtube",
-        "value": 4,
-        "formattedValue": "4",
-        "raw": {
-          "query": "youtube",
-          "value": 4,
-          "formattedValue": "4",
-          "hasData": true,
-          "link": "/trends/explore?q=youtube&date=now+7-d&geo=AE"
-        }
-      },
-      {
-        "query": "شفا",
-        "value": 4,
-        "formattedValue": "4",
-        "raw": {
-          "query": "شفا",
-          "value": 4,
-          "formattedValue": "4",
-          "hasData": true,
-          "link": "/trends/explore?q=%D8%B4%D9%81%D8%A7&date=now+7-d&geo=AE"
-        }
       }
     ],
     "rising": [
       {
-        "query": "thoppi issue",
-        "value": 5450,
+        "query": "mexico vs south africa",
+        "value": 9200,
         "formattedValue": "Đột phá",
         "raw": {
-          "query": "thoppi issue",
-          "value": 5450,
+          "query": "mexico vs south africa",
+          "value": 9200,
           "formattedValue": "Đột phá",
-          "link": "/trends/explore?q=thoppi+issue&date=now+7-d&geo=AE"
+          "link": "/trends/explore?q=mexico+vs+south+africa&date=now+7-d&geo=AE"
         }
       },
       {
-        "query": "thoppi",
-        "value": 5350,
+        "query": "morocco vs brazil",
+        "value": 9100,
         "formattedValue": "Đột phá",
         "raw": {
-          "query": "thoppi",
-          "value": 5350,
+          "query": "morocco vs brazil",
+          "value": 9100,
           "formattedValue": "Đột phá",
-          "link": "/trends/explore?q=thoppi&date=now+7-d&geo=AE"
+          "link": "/trends/explore?q=morocco+vs+brazil&date=now+7-d&geo=AE"
         }
       },
       {
-        "query": "salim kumar",
-        "value": 4600,
-        "formattedValue": "+4.600%",
+        "query": "brazil vs morocco 2026",
+        "value": 6250,
+        "formattedValue": "Đột phá",
         "raw": {
-          "query": "salim kumar",
-          "value": 4600,
-          "formattedValue": "+4.600%",
-          "link": "/trends/explore?q=salim+kumar&date=now+7-d&geo=AE"
+          "query": "brazil vs morocco 2026",
+          "value": 6250,
+          "formattedValue": "Đột phá",
+          "link": "/trends/explore?q=brazil+vs+morocco+2026&date=now+7-d&geo=AE"
         }
       },
       {
-        "query": "mrz thoppi",
+        "query": "world cup 2026 opening ceremony",
+        "value": 6200,
+        "formattedValue": "Đột phá",
+        "raw": {
+          "query": "world cup 2026 opening ceremony",
+          "value": 6200,
+          "formattedValue": "Đột phá",
+          "link": "/trends/explore?q=world+cup+2026+opening+ceremony&date=now+7-d&geo=AE"
+        }
+      },
+      {
+        "query": "bein sport live",
+        "value": 5600,
+        "formattedValue": "Đột phá",
+        "raw": {
+          "query": "bein sport live",
+          "value": 5600,
+          "formattedValue": "Đột phá",
+          "link": "/trends/explore?q=bein+sport+live&date=now+7-d&geo=AE"
+        }
+      },
+      {
+        "query": "world cup 2026 live",
+        "value": 5250,
+        "formattedValue": "Đột phá",
+        "raw": {
+          "query": "world cup 2026 live",
+          "value": 5250,
+          "formattedValue": "Đột phá",
+          "link": "/trends/explore?q=world+cup+2026+live&date=now+7-d&geo=AE"
+        }
+      },
+      {
+        "query": "qatar vs switzerland",
+        "value": 5100,
+        "formattedValue": "Đột phá",
+        "raw": {
+          "query": "qatar vs switzerland",
+          "value": 5100,
+          "formattedValue": "Đột phá",
+          "link": "/trends/explore?q=qatar+vs+switzerland&date=now+7-d&geo=AE"
+        }
+      },
+      {
+        "query": "fifa opening ceremony 2026",
+        "value": 5050,
+        "formattedValue": "Đột phá",
+        "raw": {
+          "query": "fifa opening ceremony 2026",
+          "value": 5050,
+          "formattedValue": "Đột phá",
+          "link": "/trends/explore?q=fifa+opening+ceremony+2026&date=now+7-d&geo=AE"
+        }
+      },
+      {
+        "query": "fifa world cup 2026 live",
+        "value": 4800,
+        "formattedValue": "+4.800%",
+        "raw": {
+          "query": "fifa world cup 2026 live",
+          "value": 4800,
+          "formattedValue": "+4.800%",
+          "link": "/trends/explore?q=fifa+world+cup+2026+live&date=now+7-d&geo=AE"
+        }
+      },
+      {
+        "query": "fifa world cup live",
+        "value": 4800,
+        "formattedValue": "+4.800%",
+        "raw": {
+          "query": "fifa world cup live",
+          "value": 4800,
+          "formattedValue": "+4.800%",
+          "link": "/trends/explore?q=fifa+world+cup+live&date=now+7-d&geo=AE"
+        }
+      },
+      {
+        "query": "world cup live",
+        "value": 4700,
+        "formattedValue": "+4.700%",
+        "raw": {
+          "query": "world cup live",
+          "value": 4700,
+          "formattedValue": "+4.700%",
+          "link": "/trends/explore?q=world+cup+live&date=now+7-d&geo=AE"
+        }
+      },
+      {
+        "query": "fifa live",
+        "value": 4350,
+        "formattedValue": "+4.350%",
+        "raw": {
+          "query": "fifa live",
+          "value": 4350,
+          "formattedValue": "+4.350%",
+          "link": "/trends/explore?q=fifa+live&date=now+7-d&geo=AE"
+        }
+      },
+      {
+        "query": "canada vs bosnia",
+        "value": 4200,
+        "formattedValue": "+4.200%",
+        "raw": {
+          "query": "canada vs bosnia",
+          "value": 4200,
+          "formattedValue": "+4.200%",
+          "link": "/trends/explore?q=canada+vs+bosnia&date=now+7-d&geo=AE"
+        }
+      },
+      {
+        "query": "mexico vs south africa live",
+        "value": 4050,
+        "formattedValue": "+4.050%",
+        "raw": {
+          "query": "mexico vs south africa live",
+          "value": 4050,
+          "formattedValue": "+4.050%",
+          "link": "/trends/explore?q=mexico+vs+south+africa+live&date=now+7-d&geo=AE"
+        }
+      },
+      {
+        "query": "افتتاح كاس العالم 2026",
         "value": 3600,
         "formattedValue": "+3.600%",
         "raw": {
-          "query": "mrz thoppi",
+          "query": "افتتاح كاس العالم 2026",
           "value": 3600,
           "formattedValue": "+3.600%",
-          "link": "/trends/explore?q=mrz+thoppi&date=now+7-d&geo=AE"
-        }
-      },
-      {
-        "query": "mrz shameer",
-        "value": 3400,
-        "formattedValue": "+3.400%",
-        "raw": {
-          "query": "mrz shameer",
-          "value": 3400,
-          "formattedValue": "+3.400%",
-          "link": "/trends/explore?q=mrz+shameer&date=now+7-d&geo=AE"
+          "link": "/trends/explore?q=%D8%A7%D9%81%D8%AA%D8%AA%D8%A7%D8%AD+%D9%83%D8%A7%D8%B3+%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85+2026&date=now+7-d&geo=AE"
         }
       },
       {
         "query": "thoppi live",
-        "value": 3200,
-        "formattedValue": "+3.200%",
+        "value": 3400,
+        "formattedValue": "+3.400%",
         "raw": {
           "query": "thoppi live",
-          "value": 3200,
-          "formattedValue": "+3.200%",
+          "value": 3400,
+          "formattedValue": "+3.400%",
           "link": "/trends/explore?q=thoppi+live&date=now+7-d&geo=AE"
         }
       },
       {
-        "query": "shameer",
+        "query": "mexico national football team vs south africa national soccer team",
+        "value": 3300,
+        "formattedValue": "+3.300%",
+        "raw": {
+          "query": "mexico national football team vs south africa national soccer team",
+          "value": 3300,
+          "formattedValue": "+3.300%",
+          "link": "/trends/explore?q=mexico+national+football+team+vs+south+africa+national+soccer+team&date=now+7-d&geo=AE"
+        }
+      },
+      {
+        "query": "germany vs curacao",
+        "value": 3300,
+        "formattedValue": "+3.300%",
+        "raw": {
+          "query": "germany vs curacao",
+          "value": 3300,
+          "formattedValue": "+3.300%",
+          "link": "/trends/explore?q=germany+vs+curacao&date=now+7-d&geo=AE"
+        }
+      },
+      {
+        "query": "fifa world cup 2026 highlights",
+        "value": 3100,
+        "formattedValue": "+3.100%",
+        "raw": {
+          "query": "fifa world cup 2026 highlights",
+          "value": 3100,
+          "formattedValue": "+3.100%",
+          "link": "/trends/explore?q=fifa+world+cup+2026+highlights&date=now+7-d&geo=AE"
+        }
+      },
+      {
+        "query": "fifa world cup 2026 opening ceremony",
+        "value": 2950,
+        "formattedValue": "+2.950%",
+        "raw": {
+          "query": "fifa world cup 2026 opening ceremony",
+          "value": 2950,
+          "formattedValue": "+2.950%",
+          "link": "/trends/explore?q=fifa+world+cup+2026+opening+ceremony&date=now+7-d&geo=AE"
+        }
+      },
+      {
+        "query": "مصر وبلجيكا",
+        "value": 2700,
+        "formattedValue": "+2.700%",
+        "raw": {
+          "query": "مصر وبلجيكا",
+          "value": 2700,
+          "formattedValue": "+2.700%",
+          "link": "/trends/explore?q=%D9%85%D8%B5%D8%B1+%D9%88%D8%A8%D9%84%D8%AC%D9%8A%D9%83%D8%A7&date=now+7-d&geo=AE"
+        }
+      },
+      {
+        "query": "bein sports live",
         "value": 2600,
         "formattedValue": "+2.600%",
         "raw": {
-          "query": "shameer",
+          "query": "bein sports live",
           "value": 2600,
           "formattedValue": "+2.600%",
-          "link": "/trends/explore?q=shameer&date=now+7-d&geo=AE"
+          "link": "/trends/explore?q=bein+sports+live&date=now+7-d&geo=AE"
         }
       },
       {
-        "query": "iconic by mistake",
-        "value": 1700,
-        "formattedValue": "+1.700%",
+        "query": "japan vs netherlands",
+        "value": 2600,
+        "formattedValue": "+2.600%",
         "raw": {
-          "query": "iconic by mistake",
-          "value": 1700,
-          "formattedValue": "+1.700%",
-          "link": "/trends/explore?q=iconic+by+mistake&date=now+7-d&geo=AE"
+          "query": "japan vs netherlands",
+          "value": 2600,
+          "formattedValue": "+2.600%",
+          "link": "/trends/explore?q=japan+vs+netherlands&date=now+7-d&geo=AE"
         }
       },
       {
-        "query": "mollywood times review",
-        "value": 1300,
-        "formattedValue": "+1.300%",
+        "query": "thoppi",
+        "value": 2500,
+        "formattedValue": "+2.500%",
         "raw": {
-          "query": "mollywood times review",
-          "value": 1300,
-          "formattedValue": "+1.300%",
-          "link": "/trends/explore?q=mollywood+times+review&date=now+7-d&geo=AE"
+          "query": "thoppi",
+          "value": 2500,
+          "formattedValue": "+2.500%",
+          "link": "/trends/explore?q=thoppi&date=now+7-d&geo=AE"
         }
       },
       {
-        "query": "29 movie trailer",
-        "value": 900,
-        "formattedValue": "+900%",
+        "query": "world cup highlights 2026",
+        "value": 2450,
+        "formattedValue": "+2.450%",
         "raw": {
-          "query": "29 movie trailer",
-          "value": 900,
-          "formattedValue": "+900%",
-          "link": "/trends/explore?q=29+movie+trailer&date=now+7-d&geo=AE"
-        }
-      },
-      {
-        "query": "india vs afghanistan",
-        "value": 850,
-        "formattedValue": "+850%",
-        "raw": {
-          "query": "india vs afghanistan",
-          "value": 850,
-          "formattedValue": "+850%",
-          "link": "/trends/explore?q=india+vs+afghanistan&date=now+7-d&geo=AE"
-        }
-      },
-      {
-        "query": "zabt",
-        "value": 600,
-        "formattedValue": "+600%",
-        "raw": {
-          "query": "zabt",
-          "value": 600,
-          "formattedValue": "+600%",
-          "link": "/trends/explore?q=zabt&date=now+7-d&geo=AE"
-        }
-      },
-      {
-        "query": "fifa world cup 2026",
-        "value": 550,
-        "formattedValue": "+550%",
-        "raw": {
-          "query": "fifa world cup 2026",
-          "value": 550,
-          "formattedValue": "+550%",
-          "link": "/trends/explore?q=fifa+world+cup+2026&date=now+7-d&geo=AE"
-        }
-      },
-      {
-        "query": "alpha teaser",
-        "value": 500,
-        "formattedValue": "+500%",
-        "raw": {
-          "query": "alpha teaser",
-          "value": 500,
-          "formattedValue": "+500%",
-          "link": "/trends/explore?q=alpha+teaser&date=now+7-d&geo=AE"
-        }
-      },
-      {
-        "query": "alpha trailer",
-        "value": 500,
-        "formattedValue": "+500%",
-        "raw": {
-          "query": "alpha trailer",
-          "value": 500,
-          "formattedValue": "+500%",
-          "link": "/trends/explore?q=alpha+trailer&date=now+7-d&geo=AE"
-        }
-      },
-      {
-        "query": "fifa world cup",
-        "value": 450,
-        "formattedValue": "+450%",
-        "raw": {
-          "query": "fifa world cup",
-          "value": 450,
-          "formattedValue": "+450%",
-          "link": "/trends/explore?q=fifa+world+cup&date=now+7-d&geo=AE"
-        }
-      },
-      {
-        "query": "patriot trailer",
-        "value": 400,
-        "formattedValue": "+400%",
-        "raw": {
-          "query": "patriot trailer",
-          "value": 400,
-          "formattedValue": "+400%",
-          "link": "/trends/explore?q=patriot+trailer&date=now+7-d&geo=AE"
-        }
-      },
-      {
-        "query": "caze tv live",
-        "value": 350,
-        "formattedValue": "+350%",
-        "raw": {
-          "query": "caze tv live",
-          "value": 350,
-          "formattedValue": "+350%",
-          "link": "/trends/explore?q=caze+tv+live&date=now+7-d&geo=AE"
-        }
-      },
-      {
-        "query": "khan sir",
-        "value": 200,
-        "formattedValue": "+200%",
-        "raw": {
-          "query": "khan sir",
-          "value": 200,
-          "formattedValue": "+200%",
-          "link": "/trends/explore?q=khan+sir&date=now+7-d&geo=AE"
-        }
-      },
-      {
-        "query": "world cup 2026",
-        "value": 200,
-        "formattedValue": "+200%",
-        "raw": {
-          "query": "world cup 2026",
-          "value": 200,
-          "formattedValue": "+200%",
-          "link": "/trends/explore?q=world+cup+2026&date=now+7-d&geo=AE"
-        }
-      },
-      {
-        "query": "sambhavna seth entertainment",
-        "value": 190,
-        "formattedValue": "+190%",
-        "raw": {
-          "query": "sambhavna seth entertainment",
-          "value": 190,
-          "formattedValue": "+190%",
-          "link": "/trends/explore?q=sambhavna+seth+entertainment&date=now+7-d&geo=AE"
-        }
-      },
-      {
-        "query": "baby doll malayalam",
-        "value": 190,
-        "formattedValue": "+190%",
-        "raw": {
-          "query": "baby doll malayalam",
-          "value": 190,
-          "formattedValue": "+190%",
-          "link": "/trends/explore?q=baby+doll+malayalam&date=now+7-d&geo=AE"
-        }
-      },
-      {
-        "query": "world cup",
-        "value": 160,
-        "formattedValue": "+160%",
-        "raw": {
-          "query": "world cup",
-          "value": 160,
-          "formattedValue": "+160%",
-          "link": "/trends/explore?q=world+cup&date=now+7-d&geo=AE"
-        }
-      },
-      {
-        "query": "peddi movie trailer",
-        "value": 160,
-        "formattedValue": "+160%",
-        "raw": {
-          "query": "peddi movie trailer",
-          "value": 160,
-          "formattedValue": "+160%",
-          "link": "/trends/explore?q=peddi+movie+trailer&date=now+7-d&geo=AE"
-        }
-      },
-      {
-        "query": "fifa world cup 2026 song",
-        "value": 130,
-        "formattedValue": "+130%",
-        "raw": {
-          "query": "fifa world cup 2026 song",
-          "value": 130,
-          "formattedValue": "+130%",
-          "link": "/trends/explore?q=fifa+world+cup+2026+song&date=now+7-d&geo=AE"
+          "query": "world cup highlights 2026",
+          "value": 2450,
+          "formattedValue": "+2.450%",
+          "link": "/trends/explore?q=world+cup+highlights+2026&date=now+7-d&geo=AE"
         }
       }
     ]
