@@ -20,80 +20,80 @@
       },
       {
         "query": "2026",
-        "value": 62,
-        "formattedValue": "62",
+        "value": 64,
+        "formattedValue": "64",
         "raw": {
           "topic": {
             "mid": "/g/11b77d6b6g",
             "title": "2026",
             "type": "Chủ đề"
           },
-          "value": 62,
-          "formattedValue": "62",
+          "value": 64,
+          "formattedValue": "64",
           "hasData": true,
           "link": "/trends/explore?q=/g/11b77d6b6g&date=now+7-d&geo=HK"
         }
       },
       {
-        "query": "Hồng Kông",
-        "value": 53,
-        "formattedValue": "53",
-        "raw": {
-          "topic": {
-            "mid": "/m/03h64",
-            "title": "Hồng Kông",
-            "type": "Đặc khu hành chính"
-          },
-          "value": 53,
-          "formattedValue": "53",
-          "hasData": true,
-          "link": "/trends/explore?q=/m/03h64&date=now+7-d&geo=HK"
-        }
-      },
-      {
         "query": "Giải Bóng đá Vô địch Thế giới",
-        "value": 52,
-        "formattedValue": "52",
+        "value": 58,
+        "formattedValue": "58",
         "raw": {
           "topic": {
             "mid": "/m/030q7",
             "title": "Giải Bóng đá Vô địch Thế giới",
             "type": "Giải bóng đá"
           },
-          "value": 52,
-          "formattedValue": "52",
+          "value": 58,
+          "formattedValue": "58",
           "hasData": true,
           "link": "/trends/explore?q=/m/030q7&date=now+7-d&geo=HK"
         }
       },
       {
+        "query": "Hồng Kông",
+        "value": 57,
+        "formattedValue": "57",
+        "raw": {
+          "topic": {
+            "mid": "/m/03h64",
+            "title": "Hồng Kông",
+            "type": "Đặc khu hành chính"
+          },
+          "value": 57,
+          "formattedValue": "57",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/03h64&date=now+7-d&geo=HK"
+        }
+      },
+      {
         "query": "Thế giới",
-        "value": 46,
-        "formattedValue": "46",
+        "value": 52,
+        "formattedValue": "52",
         "raw": {
           "topic": {
             "mid": "/m/09nm_",
             "title": "Thế giới",
             "type": "Chủ đề"
           },
-          "value": 46,
-          "formattedValue": "46",
+          "value": 52,
+          "formattedValue": "52",
           "hasData": true,
           "link": "/trends/explore?q=/m/09nm_&date=now+7-d&geo=HK"
         }
       },
       {
         "query": "Điện ảnh",
-        "value": 42,
-        "formattedValue": "42",
+        "value": 45,
+        "formattedValue": "45",
         "raw": {
           "topic": {
             "mid": "/m/02vxn",
             "title": "Điện ảnh",
             "type": "Loại truyền hình"
           },
-          "value": 42,
-          "formattedValue": "42",
+          "value": 45,
+          "formattedValue": "45",
           "hasData": true,
           "link": "/trends/explore?q=/m/02vxn&date=now+7-d&geo=HK"
         }
@@ -132,50 +132,66 @@
       },
       {
         "query": "Phát trực tiếp",
-        "value": 23,
-        "formattedValue": "23",
+        "value": 25,
+        "formattedValue": "25",
         "raw": {
           "topic": {
             "mid": "/g/12214wvs",
             "title": "Phát trực tiếp",
             "type": "Chủ đề"
           },
-          "value": 23,
-          "formattedValue": "23",
+          "value": 25,
+          "formattedValue": "25",
           "hasData": true,
           "link": "/trends/explore?q=/g/12214wvs&date=now+7-d&geo=HK"
         }
       },
       {
         "query": "Giải Bóng đá Thế giới 2026",
-        "value": 22,
-        "formattedValue": "22",
+        "value": 24,
+        "formattedValue": "24",
         "raw": {
           "topic": {
             "mid": "/m/0r4xs1m",
             "title": "Giải Bóng đá Thế giới 2026",
             "type": "Mùa giải thể thao"
           },
-          "value": 22,
-          "formattedValue": "22",
+          "value": 24,
+          "formattedValue": "24",
           "hasData": true,
           "link": "/trends/explore?q=/m/0r4xs1m&date=now+7-d&geo=HK"
         }
       },
       {
         "query": "Công thức nấu ăn",
-        "value": 20,
-        "formattedValue": "20",
+        "value": 21,
+        "formattedValue": "21",
         "raw": {
           "topic": {
             "mid": "/m/0p57p",
             "title": "Công thức nấu ăn",
             "type": "Thể loại văn học"
           },
-          "value": 20,
-          "formattedValue": "20",
+          "value": 21,
+          "formattedValue": "21",
           "hasData": true,
           "link": "/trends/explore?q=/m/0p57p&date=now+7-d&geo=HK"
+        }
+      },
+      {
+        "query": "Tin tức",
+        "value": 21,
+        "formattedValue": "21",
+        "raw": {
+          "topic": {
+            "mid": "/m/05jhg",
+            "title": "Tin tức",
+            "type": "Định dạng phát thanh"
+          },
+          "value": 21,
+          "formattedValue": "21",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/05jhg&date=now+7-d&geo=HK"
         }
       },
       {
@@ -211,51 +227,35 @@
         }
       },
       {
-        "query": "Tin tức",
-        "value": 19,
-        "formattedValue": "19",
-        "raw": {
-          "topic": {
-            "mid": "/m/05jhg",
-            "title": "Tin tức",
-            "type": "Định dạng phát thanh"
-          },
-          "value": 19,
-          "formattedValue": "19",
-          "hasData": true,
-          "link": "/trends/explore?q=/m/05jhg&date=now+7-d&geo=HK"
-        }
-      },
-      {
-        "query": "Trò chơi",
-        "value": 19,
-        "formattedValue": "19",
-        "raw": {
-          "topic": {
-            "mid": "/m/03bt1gh",
-            "title": "Trò chơi",
-            "type": "Chủ đề"
-          },
-          "value": 19,
-          "formattedValue": "19",
-          "hasData": true,
-          "link": "/trends/explore?q=/m/03bt1gh&date=now+7-d&geo=HK"
-        }
-      },
-      {
         "query": "Nhật Bản",
-        "value": 18,
-        "formattedValue": "18",
+        "value": 19,
+        "formattedValue": "19",
         "raw": {
           "topic": {
             "mid": "/m/03_3d",
             "title": "Nhật Bản",
             "type": "Quốc gia ở Đông Á"
           },
+          "value": 19,
+          "formattedValue": "19",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/03_3d&date=now+7-d&geo=HK"
+        }
+      },
+      {
+        "query": "Trò chơi",
+        "value": 18,
+        "formattedValue": "18",
+        "raw": {
+          "topic": {
+            "mid": "/m/03bt1gh",
+            "title": "Trò chơi",
+            "type": "Chủ đề"
+          },
           "value": 18,
           "formattedValue": "18",
           "hasData": true,
-          "link": "/trends/explore?q=/m/03_3d&date=now+7-d&geo=HK"
+          "link": "/trends/explore?q=/m/03bt1gh&date=now+7-d&geo=HK"
         }
       },
       {
@@ -292,34 +292,34 @@
       },
       {
         "query": "Tiếng Trung",
-        "value": 17,
-        "formattedValue": "17",
+        "value": 16,
+        "formattedValue": "16",
         "raw": {
           "topic": {
             "mid": "/m/01r2l",
             "title": "Tiếng Trung",
             "type": "Tiếng"
           },
-          "value": 17,
-          "formattedValue": "17",
+          "value": 16,
+          "formattedValue": "16",
           "hasData": true,
           "link": "/trends/explore?q=/m/01r2l&date=now+7-d&geo=HK"
         }
       },
       {
-        "query": "Karaoke",
-        "value": 15,
-        "formattedValue": "15",
+        "query": "Truyền hình trực tiếp",
+        "value": 16,
+        "formattedValue": "16",
         "raw": {
           "topic": {
-            "mid": "/m/04c5p",
-            "title": "Karaoke",
+            "mid": "/m/02mzct",
+            "title": "Truyền hình trực tiếp",
             "type": "Chủ đề"
           },
-          "value": 15,
-          "formattedValue": "15",
+          "value": 16,
+          "formattedValue": "16",
           "hasData": true,
-          "link": "/trends/explore?q=/m/04c5p&date=now+7-d&geo=HK"
+          "link": "/trends/explore?q=/m/02mzct&date=now+7-d&geo=HK"
         }
       },
       {
@@ -339,19 +339,35 @@
         }
       },
       {
-        "query": "Truyền hình trực tiếp",
+        "query": "Karaoke",
         "value": 15,
         "formattedValue": "15",
         "raw": {
           "topic": {
-            "mid": "/m/02mzct",
-            "title": "Truyền hình trực tiếp",
+            "mid": "/m/04c5p",
+            "title": "Karaoke",
             "type": "Chủ đề"
           },
           "value": 15,
           "formattedValue": "15",
           "hasData": true,
-          "link": "/trends/explore?q=/m/02mzct&date=now+7-d&geo=HK"
+          "link": "/trends/explore?q=/m/04c5p&date=now+7-d&geo=HK"
+        }
+      },
+      {
+        "query": "Roblox",
+        "value": 15,
+        "formattedValue": "15",
+        "raw": {
+          "topic": {
+            "mid": "/m/026bs1g",
+            "title": "Roblox",
+            "type": "Nền tảng điện toán"
+          },
+          "value": 15,
+          "formattedValue": "15",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/026bs1g&date=now+7-d&geo=HK"
         }
       },
       {
@@ -371,42 +387,26 @@
         }
       },
       {
-        "query": "Roblox",
-        "value": 14,
-        "formattedValue": "14",
-        "raw": {
-          "topic": {
-            "mid": "/m/026bs1g",
-            "title": "Roblox",
-            "type": "Nền tảng điện toán"
-          },
-          "value": 14,
-          "formattedValue": "14",
-          "hasData": true,
-          "link": "/trends/explore?q=/m/026bs1g&date=now+7-d&geo=HK"
-        }
-      },
-      {
-        "query": "Trẻ em",
+        "query": "Tập phim",
         "value": 13,
         "formattedValue": "13",
         "raw": {
           "topic": {
-            "mid": "/m/0ytgt",
-            "title": "Trẻ em",
+            "mid": "/m/02cphr",
+            "title": "Tập phim",
             "type": "Chủ đề"
           },
           "value": 13,
           "formattedValue": "13",
           "hasData": true,
-          "link": "/trends/explore?q=/m/0ytgt&date=now+7-d&geo=HK"
+          "link": "/trends/explore?q=/m/02cphr&date=now+7-d&geo=HK"
         }
       }
     ],
     "rising": [
       {
         "query": "Iconic by Mistake",
-        "value": 9800,
+        "value": 11800,
         "formattedValue": "Đột phá",
         "raw": {
           "topic": {
@@ -414,129 +414,114 @@
             "title": "Iconic by Mistake",
             "type": "Chủ đề"
           },
-          "value": 9800,
+          "value": 11800,
           "formattedValue": "Đột phá",
           "link": "/trends/explore?q=/g/11zfqkc5jx&date=now+7-d&geo=HK"
         }
       },
       {
         "query": "lễ khai mạc",
-        "value": 3200,
-        "formattedValue": "+3.200%",
+        "value": 3350,
+        "formattedValue": "+3.350%",
         "raw": {
           "topic": {
             "mid": "/m/025t1y5",
             "title": "lễ khai mạc",
             "type": "Chủ đề"
           },
-          "value": 3200,
-          "formattedValue": "+3.200%",
+          "value": 3350,
+          "formattedValue": "+3.350%",
           "link": "/trends/explore?q=/m/025t1y5&date=now+7-d&geo=HK"
         }
       },
       {
-        "query": "Oliver Tree",
-        "value": 2800,
-        "formattedValue": "+2.800%",
+        "query": "Đội tuyển bóng đá quốc gia Cabo Verde",
+        "value": 3100,
+        "formattedValue": "+3.100%",
         "raw": {
           "topic": {
-            "mid": "/g/11f7ly6bnk",
-            "title": "Oliver Tree",
-            "type": "Ca sĩ kiêm nhạc sĩ sáng tác bài hát"
+            "mid": "/m/04h5tx",
+            "title": "Đội tuyển bóng đá quốc gia Cabo Verde",
+            "type": "Đội bóng đá"
           },
-          "value": 2800,
-          "formattedValue": "+2.800%",
-          "link": "/trends/explore?q=/g/11f7ly6bnk&date=now+7-d&geo=HK"
+          "value": 3100,
+          "formattedValue": "+3.100%",
+          "link": "/trends/explore?q=/m/04h5tx&date=now+7-d&geo=HK"
+        }
+      },
+      {
+        "query": "Cape Verde",
+        "value": 2700,
+        "formattedValue": "+2.700%",
+        "raw": {
+          "topic": {
+            "mid": "/m/01nqj",
+            "title": "Cape Verde",
+            "type": "Quốc gia ở Châu Phi"
+          },
+          "value": 2700,
+          "formattedValue": "+2.700%",
+          "link": "/trends/explore?q=/m/01nqj&date=now+7-d&geo=HK"
         }
       },
       {
         "query": "Séc",
-        "value": 1750,
-        "formattedValue": "+1.750%",
+        "value": 1800,
+        "formattedValue": "+1.800%",
         "raw": {
           "topic": {
             "mid": "/m/01mjq",
             "title": "Séc",
             "type": "Quốc gia ở Châu Âu"
           },
-          "value": 1750,
-          "formattedValue": "+1.750%",
+          "value": 1800,
+          "formattedValue": "+1.800%",
           "link": "/trends/explore?q=/m/01mjq&date=now+7-d&geo=HK"
         }
       },
       {
-        "query": "Grey's Anatomy",
-        "value": 1350,
-        "formattedValue": "+1.350%",
-        "raw": {
-          "topic": {
-            "mid": "/m/05lfwd",
-            "title": "Grey's Anatomy",
-            "type": "Phim truyền hình"
-          },
-          "value": 1350,
-          "formattedValue": "+1.350%",
-          "link": "/trends/explore?q=/m/05lfwd&date=now+7-d&geo=HK"
-        }
-      },
-      {
-        "query": "Nam Phi",
-        "value": 1250,
-        "formattedValue": "+1.250%",
-        "raw": {
-          "topic": {
-            "mid": "/m/0hzlz",
-            "title": "Nam Phi",
-            "type": "Quốc gia ở Miền Nam Châu Phi"
-          },
-          "value": 1250,
-          "formattedValue": "+1.250%",
-          "link": "/trends/explore?q=/m/0hzlz&date=now+7-d&geo=HK"
-        }
-      },
-      {
         "query": "Giải Bóng đá Thế giới 2026",
-        "value": 1200,
-        "formattedValue": "+1.200%",
+        "value": 1300,
+        "formattedValue": "+1.300%",
         "raw": {
           "topic": {
             "mid": "/m/0r4xs1m",
             "title": "Giải Bóng đá Thế giới 2026",
             "type": "Mùa giải thể thao"
           },
-          "value": 1200,
-          "formattedValue": "+1.200%",
+          "value": 1300,
+          "formattedValue": "+1.300%",
           "link": "/trends/explore?q=/m/0r4xs1m&date=now+7-d&geo=HK"
         }
       },
       {
-        "query": "Erling Haaland",
+        "query": "Nam Phi",
         "value": 900,
         "formattedValue": "+900%",
         "raw": {
           "topic": {
-            "mid": "/g/11c6y_yl51",
-            "title": "Erling Haaland",
-            "type": "Cầu thủ"
+            "mid": "/m/0hzlz",
+            "title": "Nam Phi",
+            "type": "Quốc gia ở Miền Nam Châu Phi"
           },
           "value": 900,
           "formattedValue": "+900%",
-          "link": "/trends/explore?q=/g/11c6y_yl51&date=now+7-d&geo=HK"
+          "link": "/trends/explore?q=/m/0hzlz&date=now+7-d&geo=HK"
         }
       },
       {
-        "query": "Đội tuyển bóng đá quốc gia Hà Lan",
-        "value": 750,
-        "formattedValue": "+750%",
+        "query": "Grey's Anatomy",
+        "value": 850,
+        "formattedValue": "+850%",
         "raw": {
           "topic": {
-            "mid": "/m/02ltg3",
-            "title": "Đội tuyển bóng đá quốc gia Hà Lan",
-            "type": "Đội bóng đá"
+            "mid": "/m/05lfwd",
+            "title": "Grey's Anatomy",
+            "type": "Phim truyền hình"
           },
-          "value": 750,
-          "formattedValue": "+750%",
-          "link": "/trends/explore?q=/m/02ltg3&date=now+7-d&geo=HK"
+          "value": 850,
+          "formattedValue": "+850%",
+          "link": "/trends/explore?q=/m/05lfwd&date=now+7-d&geo=HK"
         }
       },
       {
@@ -555,153 +540,168 @@
         }
       },
       {
-        "query": "Mexico",
-        "value": 650,
-        "formattedValue": "+650%",
-        "raw": {
-          "topic": {
-            "mid": "/m/0b90_r",
-            "title": "Mexico",
-            "type": "Quốc gia ở Bắc Mỹ"
-          },
-          "value": 650,
-          "formattedValue": "+650%",
-          "link": "/trends/explore?q=/m/0b90_r&date=now+7-d&geo=HK"
-        }
-      },
-      {
-        "query": "Giải Bóng đá Vô địch Thế giới",
-        "value": 600,
-        "formattedValue": "+600%",
-        "raw": {
-          "topic": {
-            "mid": "/m/030q7",
-            "title": "Giải Bóng đá Vô địch Thế giới",
-            "type": "Giải bóng đá"
-          },
-          "value": 600,
-          "formattedValue": "+600%",
-          "link": "/trends/explore?q=/m/030q7&date=now+7-d&geo=HK"
-        }
-      },
-      {
-        "query": "FIFA",
-        "value": 600,
-        "formattedValue": "+600%",
-        "raw": {
-          "topic": {
-            "mid": "/m/02zm3",
-            "title": "FIFA",
-            "type": "Tổ chức bóng đá"
-          },
-          "value": 600,
-          "formattedValue": "+600%",
-          "link": "/trends/explore?q=/m/02zm3&date=now+7-d&geo=HK"
-        }
-      },
-      {
-        "query": "Liên đoàn Bóng đá Quốc tế",
-        "value": 550,
-        "formattedValue": "+550%",
-        "raw": {
-          "topic": {
-            "mid": "/g/11c59pck70",
-            "title": "Liên đoàn Bóng đá Quốc tế",
-            "type": "Chủ đề"
-          },
-          "value": 550,
-          "formattedValue": "+550%",
-          "link": "/trends/explore?q=/g/11c59pck70&date=now+7-d&geo=HK"
-        }
-      },
-      {
-        "query": "Gà thịt",
-        "value": 500,
-        "formattedValue": "+500%",
-        "raw": {
-          "topic": {
-            "mid": "/m/03jdkh",
-            "title": "Gà thịt",
-            "type": "Giống gà"
-          },
-          "value": 500,
-          "formattedValue": "+500%",
-          "link": "/trends/explore?q=/m/03jdkh&date=now+7-d&geo=HK"
-        }
-      },
-      {
-        "query": "Bác sĩ",
-        "value": 500,
-        "formattedValue": "+500%",
-        "raw": {
-          "topic": {
-            "mid": "/m/05t4q",
-            "title": "Bác sĩ",
-            "type": "Nghề nghiệp"
-          },
-          "value": 500,
-          "formattedValue": "+500%",
-          "link": "/trends/explore?q=/m/05t4q&date=now+7-d&geo=HK"
-        }
-      },
-      {
-        "query": "昨遲人",
-        "value": 450,
-        "formattedValue": "+450%",
-        "raw": {
-          "topic": {
-            "mid": "/g/11bv5zh1c1",
-            "title": "昨遲人",
-            "type": "Bài hát của Hứa Chí An"
-          },
-          "value": 450,
-          "formattedValue": "+450%",
-          "link": "/trends/explore?q=/g/11bv5zh1c1&date=now+7-d&geo=HK"
-        }
-      },
-      {
-        "query": "nghi lễ",
-        "value": 450,
-        "formattedValue": "+450%",
-        "raw": {
-          "topic": {
-            "mid": "/m/016c4t",
-            "title": "nghi lễ",
-            "type": "Chủ đề"
-          },
-          "value": 450,
-          "formattedValue": "+450%",
-          "link": "/trends/explore?q=/m/016c4t&date=now+7-d&geo=HK"
-        }
-      },
-      {
-        "query": "Thiên sứ",
-        "value": 450,
-        "formattedValue": "+450%",
-        "raw": {
-          "topic": {
-            "mid": "/m/0x6r",
-            "title": "Thiên sứ",
-            "type": "Chủ đề"
-          },
-          "value": 450,
-          "formattedValue": "+450%",
-          "link": "/trends/explore?q=/m/0x6r&date=now+7-d&geo=HK"
-        }
-      },
-      {
         "query": "Đội tuyển Bóng đá Quốc gia Tây Ban Nha",
-        "value": 300,
-        "formattedValue": "+300%",
+        "value": 700,
+        "formattedValue": "+700%",
         "raw": {
           "topic": {
             "mid": "/m/02w64f",
             "title": "Đội tuyển Bóng đá Quốc gia Tây Ban Nha",
             "type": "Đội bóng đá"
           },
-          "value": 300,
-          "formattedValue": "+300%",
+          "value": 700,
+          "formattedValue": "+700%",
           "link": "/trends/explore?q=/m/02w64f&date=now+7-d&geo=HK"
+        }
+      },
+      {
+        "query": "昨遲人",
+        "value": 650,
+        "formattedValue": "+650%",
+        "raw": {
+          "topic": {
+            "mid": "/g/11bv5zh1c1",
+            "title": "昨遲人",
+            "type": "Bài hát của Hứa Chí An"
+          },
+          "value": 650,
+          "formattedValue": "+650%",
+          "link": "/trends/explore?q=/g/11bv5zh1c1&date=now+7-d&geo=HK"
+        }
+      },
+      {
+        "query": "Liên đoàn Bóng đá Quốc tế",
+        "value": 650,
+        "formattedValue": "+650%",
+        "raw": {
+          "topic": {
+            "mid": "/g/11c59pck70",
+            "title": "Liên đoàn Bóng đá Quốc tế",
+            "type": "Chủ đề"
+          },
+          "value": 650,
+          "formattedValue": "+650%",
+          "link": "/trends/explore?q=/g/11c59pck70&date=now+7-d&geo=HK"
+        }
+      },
+      {
+        "query": "Giải Bóng đá Vô địch Thế giới",
+        "value": 650,
+        "formattedValue": "+650%",
+        "raw": {
+          "topic": {
+            "mid": "/m/030q7",
+            "title": "Giải Bóng đá Vô địch Thế giới",
+            "type": "Giải bóng đá"
+          },
+          "value": 650,
+          "formattedValue": "+650%",
+          "link": "/trends/explore?q=/m/030q7&date=now+7-d&geo=HK"
+        }
+      },
+      {
+        "query": "FIFA",
+        "value": 650,
+        "formattedValue": "+650%",
+        "raw": {
+          "topic": {
+            "mid": "/m/02zm3",
+            "title": "FIFA",
+            "type": "Tổ chức bóng đá"
+          },
+          "value": 650,
+          "formattedValue": "+650%",
+          "link": "/trends/explore?q=/m/02zm3&date=now+7-d&geo=HK"
+        }
+      },
+      {
+        "query": "Gà thịt",
+        "value": 600,
+        "formattedValue": "+600%",
+        "raw": {
+          "topic": {
+            "mid": "/m/03jdkh",
+            "title": "Gà thịt",
+            "type": "Giống gà"
+          },
+          "value": 600,
+          "formattedValue": "+600%",
+          "link": "/trends/explore?q=/m/03jdkh&date=now+7-d&geo=HK"
+        }
+      },
+      {
+        "query": "Mexico",
+        "value": 550,
+        "formattedValue": "+550%",
+        "raw": {
+          "topic": {
+            "mid": "/m/0b90_r",
+            "title": "Mexico",
+            "type": "Quốc gia ở Bắc Mỹ"
+          },
+          "value": 550,
+          "formattedValue": "+550%",
+          "link": "/trends/explore?q=/m/0b90_r&date=now+7-d&geo=HK"
+        }
+      },
+      {
+        "query": "nghi lễ",
+        "value": 500,
+        "formattedValue": "+500%",
+        "raw": {
+          "topic": {
+            "mid": "/m/016c4t",
+            "title": "nghi lễ",
+            "type": "Chủ đề"
+          },
+          "value": 500,
+          "formattedValue": "+500%",
+          "link": "/trends/explore?q=/m/016c4t&date=now+7-d&geo=HK"
+        }
+      },
+      {
+        "query": "Thiên sứ",
+        "value": 400,
+        "formattedValue": "+400%",
+        "raw": {
+          "topic": {
+            "mid": "/m/0x6r",
+            "title": "Thiên sứ",
+            "type": "Chủ đề"
+          },
+          "value": 400,
+          "formattedValue": "+400%",
+          "link": "/trends/explore?q=/m/0x6r&date=now+7-d&geo=HK"
+        }
+      },
+      {
+        "query": "Bác sĩ",
+        "value": 400,
+        "formattedValue": "+400%",
+        "raw": {
+          "topic": {
+            "mid": "/m/05t4q",
+            "title": "Bác sĩ",
+            "type": "Nghề nghiệp"
+          },
+          "value": 400,
+          "formattedValue": "+400%",
+          "link": "/trends/explore?q=/m/05t4q&date=now+7-d&geo=HK"
+        }
+      },
+      {
+        "query": "Giao diện lập trình ứng dụng",
+        "value": 350,
+        "formattedValue": "+350%",
+        "raw": {
+          "topic": {
+            "mid": "/m/0z5n",
+            "title": "Giao diện lập trình ứng dụng",
+            "type": "Chủ đề"
+          },
+          "value": 350,
+          "formattedValue": "+350%",
+          "link": "/trends/explore?q=/m/0z5n&date=now+7-d&geo=HK"
         }
       },
       {
@@ -720,21 +720,6 @@
         }
       },
       {
-        "query": "Thời khắc công bố",
-        "value": 300,
-        "formattedValue": "+300%",
-        "raw": {
-          "topic": {
-            "mid": "/g/11w1hq2b6s",
-            "title": "Thời khắc công bố",
-            "type": "Phim 2026"
-          },
-          "value": 300,
-          "formattedValue": "+300%",
-          "link": "/trends/explore?q=/g/11w1hq2b6s&date=now+7-d&geo=HK"
-        }
-      },
-      {
         "query": "Đội tuyển Bóng đá Quốc gia Brasil",
         "value": 300,
         "formattedValue": "+300%",
@@ -750,33 +735,48 @@
         }
       },
       {
-        "query": "Nintendo",
-        "value": 250,
-        "formattedValue": "+250%",
+        "query": "Thời khắc công bố",
+        "value": 300,
+        "formattedValue": "+300%",
         "raw": {
           "topic": {
-            "mid": "/m/059wk",
-            "title": "Nintendo",
-            "type": "Công ty"
+            "mid": "/g/11w1hq2b6s",
+            "title": "Thời khắc công bố",
+            "type": "Phim 2026"
           },
-          "value": 250,
-          "formattedValue": "+250%",
-          "link": "/trends/explore?q=/m/059wk&date=now+7-d&geo=HK"
+          "value": 300,
+          "formattedValue": "+300%",
+          "link": "/trends/explore?q=/g/11w1hq2b6s&date=now+7-d&geo=HK"
         }
       },
       {
-        "query": "World Table Tennis",
+        "query": "SpaceX",
         "value": 250,
         "formattedValue": "+250%",
         "raw": {
           "topic": {
-            "mid": "/g/11p5jlrj67",
-            "title": "World Table Tennis",
-            "type": "Công ty"
+            "mid": "/m/03fkyw",
+            "title": "SpaceX",
+            "type": "Tập đoàn"
           },
           "value": 250,
           "formattedValue": "+250%",
-          "link": "/trends/explore?q=/g/11p5jlrj67&date=now+7-d&geo=HK"
+          "link": "/trends/explore?q=/m/03fkyw&date=now+7-d&geo=HK"
+        }
+      },
+      {
+        "query": "SpaceX",
+        "value": 250,
+        "formattedValue": "+250%",
+        "raw": {
+          "topic": {
+            "mid": "/g/11c1wk8xs4",
+            "title": "SpaceX",
+            "type": "Chủ đề"
+          },
+          "value": 250,
+          "formattedValue": "+250%",
+          "link": "/trends/explore?q=/g/11c1wk8xs4&date=now+7-d&geo=HK"
         }
       }
     ]
@@ -797,38 +797,26 @@
       },
       {
         "query": "music",
-        "value": 90,
-        "formattedValue": "90",
+        "value": 80,
+        "formattedValue": "80",
         "raw": {
           "query": "music",
-          "value": 90,
-          "formattedValue": "90",
+          "value": 80,
+          "formattedValue": "80",
           "hasData": true,
           "link": "/trends/explore?q=music&date=now+7-d&geo=HK"
         }
       },
       {
         "query": "angel",
-        "value": 78,
-        "formattedValue": "78",
+        "value": 67,
+        "formattedValue": "67",
         "raw": {
           "query": "angel",
-          "value": 78,
-          "formattedValue": "78",
+          "value": 67,
+          "formattedValue": "67",
           "hasData": true,
           "link": "/trends/explore?q=angel&date=now+7-d&geo=HK"
-        }
-      },
-      {
-        "query": "songs",
-        "value": 61,
-        "formattedValue": "61",
-        "raw": {
-          "query": "songs",
-          "value": 61,
-          "formattedValue": "61",
-          "hasData": true,
-          "link": "/trends/explore?q=songs&date=now+7-d&geo=HK"
         }
       },
       {
@@ -845,98 +833,86 @@
       },
       {
         "query": "電影",
-        "value": 52,
-        "formattedValue": "52",
+        "value": 46,
+        "formattedValue": "46",
         "raw": {
           "query": "電影",
-          "value": 52,
-          "formattedValue": "52",
+          "value": 46,
+          "formattedValue": "46",
           "hasData": true,
           "link": "/trends/explore?q=%E9%9B%BB%E5%BD%B1&date=now+7-d&geo=HK"
         }
       },
       {
         "query": "roblox",
-        "value": 51,
-        "formattedValue": "51",
+        "value": 46,
+        "formattedValue": "46",
         "raw": {
           "query": "roblox",
-          "value": 51,
-          "formattedValue": "51",
+          "value": 46,
+          "formattedValue": "46",
           "hasData": true,
           "link": "/trends/explore?q=roblox&date=now+7-d&geo=HK"
         }
       },
       {
-        "query": "karaoke",
-        "value": 48,
-        "formattedValue": "48",
-        "raw": {
-          "query": "karaoke",
-          "value": 48,
-          "formattedValue": "48",
-          "hasData": true,
-          "link": "/trends/explore?q=karaoke&date=now+7-d&geo=HK"
-        }
-      },
-      {
         "query": "世界 盃",
-        "value": 47,
-        "formattedValue": "47",
+        "value": 45,
+        "formattedValue": "45",
         "raw": {
           "query": "世界 盃",
-          "value": 47,
-          "formattedValue": "47",
+          "value": 45,
+          "formattedValue": "45",
           "hasData": true,
           "link": "/trends/explore?q=%E4%B8%96%E7%95%8C+%E7%9B%83&date=now+7-d&geo=HK"
         }
       },
       {
+        "query": "karaoke",
+        "value": 42,
+        "formattedValue": "42",
+        "raw": {
+          "query": "karaoke",
+          "value": 42,
+          "formattedValue": "42",
+          "hasData": true,
+          "link": "/trends/explore?q=karaoke&date=now+7-d&geo=HK"
+        }
+      },
+      {
+        "query": "新聞",
+        "value": 38,
+        "formattedValue": "38",
+        "raw": {
+          "query": "新聞",
+          "value": 38,
+          "formattedValue": "38",
+          "hasData": true,
+          "link": "/trends/explore?q=%E6%96%B0%E8%81%9E&date=now+7-d&geo=HK"
+        }
+      },
+      {
         "query": "日本",
-        "value": 43,
-        "formattedValue": "43",
+        "value": 37,
+        "formattedValue": "37",
         "raw": {
           "query": "日本",
-          "value": 43,
-          "formattedValue": "43",
+          "value": 37,
+          "formattedValue": "37",
           "hasData": true,
           "link": "/trends/explore?q=%E6%97%A5%E6%9C%AC&date=now+7-d&geo=HK"
         }
       },
       {
         "query": "baby",
-        "value": 43,
-        "formattedValue": "43",
+        "value": 37,
+        "formattedValue": "37",
         "raw": {
           "query": "baby",
-          "value": 43,
-          "formattedValue": "43",
+          "value": 37,
+          "formattedValue": "37",
           "hasData": true,
           "link": "/trends/explore?q=baby&date=now+7-d&geo=HK"
-        }
-      },
-      {
-        "query": "news",
-        "value": 41,
-        "formattedValue": "41",
-        "raw": {
-          "query": "news",
-          "value": 41,
-          "formattedValue": "41",
-          "hasData": true,
-          "link": "/trends/explore?q=news&date=now+7-d&geo=HK"
-        }
-      },
-      {
-        "query": "nba",
-        "value": 40,
-        "formattedValue": "40",
-        "raw": {
-          "query": "nba",
-          "value": 40,
-          "formattedValue": "40",
-          "hasData": true,
-          "link": "/trends/explore?q=nba&date=now+7-d&geo=HK"
         }
       },
       {
@@ -952,75 +928,87 @@
         }
       },
       {
-        "query": "angel the medic",
-        "value": 37,
-        "formattedValue": "37",
+        "query": "音樂",
+        "value": 35,
+        "formattedValue": "35",
         "raw": {
-          "query": "angel the medic",
-          "value": 37,
-          "formattedValue": "37",
+          "query": "音樂",
+          "value": 35,
+          "formattedValue": "35",
           "hasData": true,
-          "link": "/trends/explore?q=angel+the+medic&date=now+7-d&geo=HK"
+          "link": "/trends/explore?q=%E9%9F%B3%E6%A8%82&date=now+7-d&geo=HK"
+        }
+      },
+      {
+        "query": "news",
+        "value": 35,
+        "formattedValue": "35",
+        "raw": {
+          "query": "news",
+          "value": 35,
+          "formattedValue": "35",
+          "hasData": true,
+          "link": "/trends/explore?q=news&date=now+7-d&geo=HK"
+        }
+      },
+      {
+        "query": "nba",
+        "value": 31,
+        "formattedValue": "31",
+        "raw": {
+          "query": "nba",
+          "value": 31,
+          "formattedValue": "31",
+          "hasData": true,
+          "link": "/trends/explore?q=nba&date=now+7-d&geo=HK"
         }
       },
       {
         "query": "asmr",
-        "value": 36,
-        "formattedValue": "36",
+        "value": 31,
+        "formattedValue": "31",
         "raw": {
           "query": "asmr",
-          "value": 36,
-          "formattedValue": "36",
+          "value": 31,
+          "formattedValue": "31",
           "hasData": true,
           "link": "/trends/explore?q=asmr&date=now+7-d&geo=HK"
         }
       },
       {
+        "query": "angel the medic",
+        "value": 31,
+        "formattedValue": "31",
+        "raw": {
+          "query": "angel the medic",
+          "value": 31,
+          "formattedValue": "31",
+          "hasData": true,
+          "link": "/trends/explore?q=angel+the+medic&date=now+7-d&geo=HK"
+        }
+      },
+      {
         "query": "minecraft",
-        "value": 33,
-        "formattedValue": "33",
+        "value": 30,
+        "formattedValue": "30",
         "raw": {
           "query": "minecraft",
-          "value": 33,
-          "formattedValue": "33",
+          "value": 30,
+          "formattedValue": "30",
           "hasData": true,
           "link": "/trends/explore?q=minecraft&date=now+7-d&geo=HK"
         }
       },
       {
         "query": "賽馬",
-        "value": 32,
-        "formattedValue": "32",
-        "raw": {
-          "query": "賽馬",
-          "value": 32,
-          "formattedValue": "32",
-          "hasData": true,
-          "link": "/trends/explore?q=%E8%B3%BD%E9%A6%AC&date=now+7-d&geo=HK"
-        }
-      },
-      {
-        "query": "angel 醫生",
         "value": 29,
         "formattedValue": "29",
         "raw": {
-          "query": "angel 醫生",
+          "query": "賽馬",
           "value": 29,
           "formattedValue": "29",
           "hasData": true,
-          "link": "/trends/explore?q=angel+%E9%86%AB%E7%94%9F&date=now+7-d&geo=HK"
-        }
-      },
-      {
-        "query": "中 年 好 聲音",
-        "value": 27,
-        "formattedValue": "27",
-        "raw": {
-          "query": "中 年 好 聲音",
-          "value": 27,
-          "formattedValue": "27",
-          "hasData": true,
-          "link": "/trends/explore?q=%E4%B8%AD+%E5%B9%B4+%E5%A5%BD+%E8%81%B2%E9%9F%B3&date=now+7-d&geo=HK"
+          "link": "/trends/explore?q=%E8%B3%BD%E9%A6%AC&date=now+7-d&geo=HK"
         }
       },
       {
@@ -1036,86 +1024,98 @@
         }
       },
       {
-        "query": "jfft",
-        "value": 26,
-        "formattedValue": "26",
+        "query": "angel 醫生",
+        "value": 25,
+        "formattedValue": "25",
         "raw": {
-          "query": "jfft",
-          "value": 26,
-          "formattedValue": "26",
+          "query": "angel 醫生",
+          "value": 25,
+          "formattedValue": "25",
           "hasData": true,
-          "link": "/trends/explore?q=jfft&date=now+7-d&geo=HK"
+          "link": "/trends/explore?q=angel+%E9%86%AB%E7%94%9F&date=now+7-d&geo=HK"
+        }
+      },
+      {
+        "query": "中 年 好 聲音",
+        "value": 25,
+        "formattedValue": "25",
+        "raw": {
+          "query": "中 年 好 聲音",
+          "value": 25,
+          "formattedValue": "25",
+          "hasData": true,
+          "link": "/trends/explore?q=%E4%B8%AD+%E5%B9%B4+%E5%A5%BD+%E8%81%B2%E9%9F%B3&date=now+7-d&geo=HK"
+        }
+      },
+      {
+        "query": "世界杯 2026",
+        "value": 24,
+        "formattedValue": "24",
+        "raw": {
+          "query": "世界杯 2026",
+          "value": 24,
+          "formattedValue": "24",
+          "hasData": true,
+          "link": "/trends/explore?q=%E4%B8%96%E7%95%8C%E6%9D%AF+2026&date=now+7-d&geo=HK"
+        }
+      },
+      {
+        "query": "東張西望",
+        "value": 23,
+        "formattedValue": "23",
+        "raw": {
+          "query": "東張西望",
+          "value": 23,
+          "formattedValue": "23",
+          "hasData": true,
+          "link": "/trends/explore?q=%E6%9D%B1%E5%BC%B5%E8%A5%BF%E6%9C%9B&date=now+7-d&geo=HK"
         }
       },
       {
         "query": "愛 回 家",
-        "value": 25,
-        "formattedValue": "25",
+        "value": 22,
+        "formattedValue": "22",
         "raw": {
           "query": "愛 回 家",
-          "value": 25,
-          "formattedValue": "25",
+          "value": 22,
+          "formattedValue": "22",
           "hasData": true,
           "link": "/trends/explore?q=%E6%84%9B+%E5%9B%9E+%E5%AE%B6&date=now+7-d&geo=HK"
-        }
-      },
-      {
-        "query": "城 寨",
-        "value": 24,
-        "formattedValue": "24",
-        "raw": {
-          "query": "城 寨",
-          "value": 24,
-          "formattedValue": "24",
-          "hasData": true,
-          "link": "/trends/explore?q=%E5%9F%8E+%E5%AF%A8&date=now+7-d&geo=HK"
-        }
-      },
-      {
-        "query": "短 劇",
-        "value": 24,
-        "formattedValue": "24",
-        "raw": {
-          "query": "短 劇",
-          "value": 24,
-          "formattedValue": "24",
-          "hasData": true,
-          "link": "/trends/explore?q=%E7%9F%AD+%E5%8A%87&date=now+7-d&geo=HK"
         }
       }
     ],
     "rising": [
       {
         "query": "世界杯 2026 直播",
-        "value": 8400,
+        "value": 9750,
         "formattedValue": "Đột phá",
         "raw": {
           "query": "世界杯 2026 直播",
-          "value": 8400,
+          "value": 9750,
           "formattedValue": "Đột phá",
           "link": "/trends/explore?q=%E4%B8%96%E7%95%8C%E6%9D%AF+2026+%E7%9B%B4%E6%92%AD&date=now+7-d&geo=HK"
         }
       },
       {
         "query": "世界杯 直播",
-        "value": 7350,
+        "value": 7600,
         "formattedValue": "Đột phá",
         "raw": {
           "query": "世界杯 直播",
-          "value": 7350,
+          "value": 7600,
           "formattedValue": "Đột phá",
           "link": "/trends/explore?q=%E4%B8%96%E7%95%8C%E6%9D%AF+%E7%9B%B4%E6%92%AD&date=now+7-d&geo=HK"
         }
       },
       {
-        "query": "world cup 2026 opening ceremony",
-        "value": 5450,
+        "query": "world cup live 2026",
+        "value": 5250,
         "formattedValue": "Đột phá",
         "raw": {
-          "query": "world cup 2026 opening ceremony",
-          "value": 5450,
+          "query": "world cup live 2026",
+          "value": 5250,
           "formattedValue": "Đột phá",
-          "link": "/trends/explore?q=world+cup+2026+opening+ceremony&date=now+7-d&geo=HK"
+          "link": "/trends/explore?q=world+cup+live+2026&date=now+7-d&geo=HK"
         }
       },
       {
@@ -1130,234 +1130,234 @@
         }
       },
       {
-        "query": "world cup live 2026",
-        "value": 4350,
-        "formattedValue": "+4.350%",
+        "query": "world cup 2026 opening ceremony",
+        "value": 4900,
+        "formattedValue": "+4.900%",
         "raw": {
-          "query": "world cup live 2026",
-          "value": 4350,
-          "formattedValue": "+4.350%",
-          "link": "/trends/explore?q=world+cup+live+2026&date=now+7-d&geo=HK"
-        }
-      },
-      {
-        "query": "iconic by mistake",
-        "value": 4050,
-        "formattedValue": "+4.050%",
-        "raw": {
-          "query": "iconic by mistake",
-          "value": 4050,
-          "formattedValue": "+4.050%",
-          "link": "/trends/explore?q=iconic+by+mistake&date=now+7-d&geo=HK"
+          "query": "world cup 2026 opening ceremony",
+          "value": 4900,
+          "formattedValue": "+4.900%",
+          "link": "/trends/explore?q=world+cup+2026+opening+ceremony&date=now+7-d&geo=HK"
         }
       },
       {
         "query": "japan vs netherlands",
-        "value": 3750,
-        "formattedValue": "+3.750%",
+        "value": 4350,
+        "formattedValue": "+4.350%",
         "raw": {
           "query": "japan vs netherlands",
-          "value": 3750,
-          "formattedValue": "+3.750%",
+          "value": 4350,
+          "formattedValue": "+4.350%",
           "link": "/trends/explore?q=japan+vs+netherlands&date=now+7-d&geo=HK"
         }
       },
       {
-        "query": "mexico vs south africa",
-        "value": 3500,
-        "formattedValue": "+3.500%",
+        "query": "world cup live",
+        "value": 4000,
+        "formattedValue": "+4.000%",
         "raw": {
-          "query": "mexico vs south africa",
-          "value": 3500,
-          "formattedValue": "+3.500%",
-          "link": "/trends/explore?q=mexico+vs+south+africa&date=now+7-d&geo=HK"
-        }
-      },
-      {
-        "query": "世界 盃 直播",
-        "value": 3150,
-        "formattedValue": "+3.150%",
-        "raw": {
-          "query": "世界 盃 直播",
-          "value": 3150,
-          "formattedValue": "+3.150%",
-          "link": "/trends/explore?q=%E4%B8%96%E7%95%8C+%E7%9B%83+%E7%9B%B4%E6%92%AD&date=now+7-d&geo=HK"
-        }
-      },
-      {
-        "query": "korea vs czech republic",
-        "value": 3150,
-        "formattedValue": "+3.150%",
-        "raw": {
-          "query": "korea vs czech republic",
-          "value": 3150,
-          "formattedValue": "+3.150%",
-          "link": "/trends/explore?q=korea+vs+czech+republic&date=now+7-d&geo=HK"
-        }
-      },
-      {
-        "query": "世界杯 2026",
-        "value": 3100,
-        "formattedValue": "+3.100%",
-        "raw": {
-          "query": "世界杯 2026",
-          "value": 3100,
-          "formattedValue": "+3.100%",
-          "link": "/trends/explore?q=%E4%B8%96%E7%95%8C%E6%9D%AF+2026&date=now+7-d&geo=HK"
+          "query": "world cup live",
+          "value": 4000,
+          "formattedValue": "+4.000%",
+          "link": "/trends/explore?q=world+cup+live&date=now+7-d&geo=HK"
         }
       },
       {
         "query": "oliver tree",
-        "value": 2600,
-        "formattedValue": "+2.600%",
+        "value": 4000,
+        "formattedValue": "+4.000%",
         "raw": {
           "query": "oliver tree",
-          "value": 2600,
-          "formattedValue": "+2.600%",
+          "value": 4000,
+          "formattedValue": "+4.000%",
           "link": "/trends/explore?q=oliver+tree&date=now+7-d&geo=HK"
         }
       },
       {
-        "query": "吳文忻",
-        "value": 2550,
-        "formattedValue": "+2.550%",
+        "query": "世界 盃 直播",
+        "value": 3600,
+        "formattedValue": "+3.600%",
         "raw": {
-          "query": "吳文忻",
-          "value": 2550,
-          "formattedValue": "+2.550%",
-          "link": "/trends/explore?q=%E5%90%B3%E6%96%87%E5%BF%BB&date=now+7-d&geo=HK"
+          "query": "世界 盃 直播",
+          "value": 3600,
+          "formattedValue": "+3.600%",
+          "link": "/trends/explore?q=%E4%B8%96%E7%95%8C+%E7%9B%83+%E7%9B%B4%E6%92%AD&date=now+7-d&geo=HK"
         }
       },
       {
-        "query": "太 古城 跳樓",
-        "value": 2400,
-        "formattedValue": "+2.400%",
+        "query": "mexico vs south africa",
+        "value": 3350,
+        "formattedValue": "+3.350%",
         "raw": {
-          "query": "太 古城 跳樓",
-          "value": 2400,
-          "formattedValue": "+2.400%",
-          "link": "/trends/explore?q=%E5%A4%AA+%E5%8F%A4%E5%9F%8E+%E8%B7%B3%E6%A8%93&date=now+7-d&geo=HK"
+          "query": "mexico vs south africa",
+          "value": 3350,
+          "formattedValue": "+3.350%",
+          "link": "/trends/explore?q=mexico+vs+south+africa&date=now+7-d&geo=HK"
+        }
+      },
+      {
+        "query": "世界杯 2026",
+        "value": 3300,
+        "formattedValue": "+3.300%",
+        "raw": {
+          "query": "世界杯 2026",
+          "value": 3300,
+          "formattedValue": "+3.300%",
+          "link": "/trends/explore?q=%E4%B8%96%E7%95%8C%E6%9D%AF+2026&date=now+7-d&geo=HK"
+        }
+      },
+      {
+        "query": "佛 得 角",
+        "value": 3000,
+        "formattedValue": "+3.000%",
+        "raw": {
+          "query": "佛 得 角",
+          "value": 3000,
+          "formattedValue": "+3.000%",
+          "link": "/trends/explore?q=%E4%BD%9B+%E5%BE%97+%E8%A7%92&date=now+7-d&geo=HK"
+        }
+      },
+      {
+        "query": "korea vs czech republic",
+        "value": 2950,
+        "formattedValue": "+2.950%",
+        "raw": {
+          "query": "korea vs czech republic",
+          "value": 2950,
+          "formattedValue": "+2.950%",
+          "link": "/trends/explore?q=korea+vs+czech+republic&date=now+7-d&geo=HK"
+        }
+      },
+      {
+        "query": "iconic by mistake",
+        "value": 2800,
+        "formattedValue": "+2.800%",
+        "raw": {
+          "query": "iconic by mistake",
+          "value": 2800,
+          "formattedValue": "+2.800%",
+          "link": "/trends/explore?q=iconic+by+mistake&date=now+7-d&geo=HK"
         }
       },
       {
         "query": "世界 盃 2026 直播",
-        "value": 2350,
-        "formattedValue": "+2.350%",
+        "value": 2750,
+        "formattedValue": "+2.750%",
         "raw": {
           "query": "世界 盃 2026 直播",
-          "value": 2350,
-          "formattedValue": "+2.350%",
+          "value": 2750,
+          "formattedValue": "+2.750%",
           "link": "/trends/explore?q=%E4%B8%96%E7%95%8C+%E7%9B%83+2026+%E7%9B%B4%E6%92%AD&date=now+7-d&geo=HK"
         }
       },
       {
-        "query": "日本 對 荷蘭",
-        "value": 2250,
-        "formattedValue": "+2.250%",
+        "query": "spain vs cape verde",
+        "value": 2700,
+        "formattedValue": "+2.700%",
         "raw": {
-          "query": "日本 對 荷蘭",
-          "value": 2250,
-          "formattedValue": "+2.250%",
-          "link": "/trends/explore?q=%E6%97%A5%E6%9C%AC+%E5%B0%8D+%E8%8D%B7%E8%98%AD&date=now+7-d&geo=HK"
+          "query": "spain vs cape verde",
+          "value": 2700,
+          "formattedValue": "+2.700%",
+          "link": "/trends/explore?q=spain+vs+cape+verde&date=now+7-d&geo=HK"
         }
       },
       {
-        "query": "王老吉 夏 蘭 特",
-        "value": 2100,
-        "formattedValue": "+2.100%",
+        "query": "太 古城 跳樓",
+        "value": 2450,
+        "formattedValue": "+2.450%",
         "raw": {
-          "query": "王老吉 夏 蘭 特",
-          "value": 2100,
-          "formattedValue": "+2.100%",
-          "link": "/trends/explore?q=%E7%8E%8B%E8%80%81%E5%90%89+%E5%A4%8F+%E8%98%AD+%E7%89%B9&date=now+7-d&geo=HK"
-        }
-      },
-      {
-        "query": "brazil vs morocco 2026",
-        "value": 2050,
-        "formattedValue": "+2.050%",
-        "raw": {
-          "query": "brazil vs morocco 2026",
-          "value": 2050,
-          "formattedValue": "+2.050%",
-          "link": "/trends/explore?q=brazil+vs+morocco+2026&date=now+7-d&geo=HK"
+          "query": "太 古城 跳樓",
+          "value": 2450,
+          "formattedValue": "+2.450%",
+          "link": "/trends/explore?q=%E5%A4%AA+%E5%8F%A4%E5%9F%8E+%E8%B7%B3%E6%A8%93&date=now+7-d&geo=HK"
         }
       },
       {
         "query": "米 雪 演唱 會",
-        "value": 2000,
-        "formattedValue": "+2.000%",
+        "value": 2300,
+        "formattedValue": "+2.300%",
         "raw": {
           "query": "米 雪 演唱 會",
-          "value": 2000,
-          "formattedValue": "+2.000%",
+          "value": 2300,
+          "formattedValue": "+2.300%",
           "link": "/trends/explore?q=%E7%B1%B3+%E9%9B%AA+%E6%BC%94%E5%94%B1+%E6%9C%83&date=now+7-d&geo=HK"
         }
       },
       {
-        "query": "angel 醫生",
-        "value": 1850,
-        "formattedValue": "+1.850%",
-        "raw": {
-          "query": "angel 醫生",
-          "value": 1850,
-          "formattedValue": "+1.850%",
-          "link": "/trends/explore?q=angel+%E9%86%AB%E7%94%9F&date=now+7-d&geo=HK"
-        }
-      },
-      {
-        "query": "angel 實習 醫生",
-        "value": 1800,
-        "formattedValue": "+1.800%",
-        "raw": {
-          "query": "angel 實習 醫生",
-          "value": 1800,
-          "formattedValue": "+1.800%",
-          "link": "/trends/explore?q=angel+%E5%AF%A6%E7%BF%92+%E9%86%AB%E7%94%9F&date=now+7-d&geo=HK"
-        }
-      },
-      {
-        "query": "世界 盃 開幕 禮",
-        "value": 1800,
-        "formattedValue": "+1.800%",
-        "raw": {
-          "query": "世界 盃 開幕 禮",
-          "value": 1800,
-          "formattedValue": "+1.800%",
-          "link": "/trends/explore?q=%E4%B8%96%E7%95%8C+%E7%9B%83+%E9%96%8B%E5%B9%95+%E7%A6%AE&date=now+7-d&geo=HK"
-        }
-      },
-      {
-        "query": "angel the medic backup",
-        "value": 1750,
-        "formattedValue": "+1.750%",
-        "raw": {
-          "query": "angel the medic backup",
-          "value": 1750,
-          "formattedValue": "+1.750%",
-          "link": "/trends/explore?q=angel+the+medic+backup&date=now+7-d&geo=HK"
-        }
-      },
-      {
         "query": "world cup highlights",
-        "value": 1600,
-        "formattedValue": "+1.600%",
+        "value": 2200,
+        "formattedValue": "+2.200%",
         "raw": {
           "query": "world cup highlights",
-          "value": 1600,
-          "formattedValue": "+1.600%",
+          "value": 2200,
+          "formattedValue": "+2.200%",
           "link": "/trends/explore?q=world+cup+highlights&date=now+7-d&geo=HK"
         }
       },
       {
-        "query": "世界杯",
-        "value": 1350,
-        "formattedValue": "+1.350%",
+        "query": "brazil vs morocco 2026",
+        "value": 2150,
+        "formattedValue": "+2.150%",
         "raw": {
-          "query": "世界杯",
-          "value": 1350,
-          "formattedValue": "+1.350%",
-          "link": "/trends/explore?q=%E4%B8%96%E7%95%8C%E6%9D%AF&date=now+7-d&geo=HK"
+          "query": "brazil vs morocco 2026",
+          "value": 2150,
+          "formattedValue": "+2.150%",
+          "link": "/trends/explore?q=brazil+vs+morocco+2026&date=now+7-d&geo=HK"
+        }
+      },
+      {
+        "query": "angel the medic backup",
+        "value": 2100,
+        "formattedValue": "+2.100%",
+        "raw": {
+          "query": "angel the medic backup",
+          "value": 2100,
+          "formattedValue": "+2.100%",
+          "link": "/trends/explore?q=angel+the+medic+backup&date=now+7-d&geo=HK"
+        }
+      },
+      {
+        "query": "西班牙 vs 佛 得 角",
+        "value": 1950,
+        "formattedValue": "+1.950%",
+        "raw": {
+          "query": "西班牙 vs 佛 得 角",
+          "value": 1950,
+          "formattedValue": "+1.950%",
+          "link": "/trends/explore?q=%E8%A5%BF%E7%8F%AD%E7%89%99+vs+%E4%BD%9B+%E5%BE%97+%E8%A7%92&date=now+7-d&geo=HK"
+        }
+      },
+      {
+        "query": "世界 盃 開幕 禮",
+        "value": 1950,
+        "formattedValue": "+1.950%",
+        "raw": {
+          "query": "世界 盃 開幕 禮",
+          "value": 1950,
+          "formattedValue": "+1.950%",
+          "link": "/trends/explore?q=%E4%B8%96%E7%95%8C+%E7%9B%83+%E9%96%8B%E5%B9%95+%E7%A6%AE&date=now+7-d&geo=HK"
+        }
+      },
+      {
+        "query": "world cup highlights 2026",
+        "value": 1900,
+        "formattedValue": "+1.900%",
+        "raw": {
+          "query": "world cup highlights 2026",
+          "value": 1900,
+          "formattedValue": "+1.900%",
+          "link": "/trends/explore?q=world+cup+highlights+2026&date=now+7-d&geo=HK"
+        }
+      },
+      {
+        "query": "世界 盃 精華",
+        "value": 1600,
+        "formattedValue": "+1.600%",
+        "raw": {
+          "query": "世界 盃 精華",
+          "value": 1600,
+          "formattedValue": "+1.600%",
+          "link": "/trends/explore?q=%E4%B8%96%E7%95%8C+%E7%9B%83+%E7%B2%BE%E8%8F%AF&date=now+7-d&geo=HK"
         }
       }
     ]
