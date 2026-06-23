@@ -1,664 +1,8 @@
 {
   "status": "success",
   "topics": {
-    "top": [
-      {
-        "query": "Bài hát",
-        "value": 100,
-        "formattedValue": "100",
-        "raw": {
-          "topic": {
-            "mid": "/m/074ft",
-            "title": "Bài hát",
-            "type": "Loại sáng tác"
-          },
-          "value": 100,
-          "formattedValue": "100",
-          "hasData": true,
-          "link": "/trends/explore?q=/m/074ft&date=now+7-d&geo=IL"
-        }
-      },
-      {
-        "query": "Điện ảnh",
-        "value": 27,
-        "formattedValue": "27",
-        "raw": {
-          "topic": {
-            "mid": "/m/02vxn",
-            "title": "Điện ảnh",
-            "type": "Loại truyền hình"
-          },
-          "value": 27,
-          "formattedValue": "27",
-          "hasData": true,
-          "link": "/trends/explore?q=/m/02vxn&date=now+7-d&geo=IL"
-        }
-      },
-      {
-        "query": "Trẻ em",
-        "value": 26,
-        "formattedValue": "26",
-        "raw": {
-          "topic": {
-            "mid": "/m/0ytgt",
-            "title": "Trẻ em",
-            "type": "Chủ đề"
-          },
-          "value": 26,
-          "formattedValue": "26",
-          "hasData": true,
-          "link": "/trends/explore?q=/m/0ytgt&date=now+7-d&geo=IL"
-        }
-      },
-      {
-        "query": "2026",
-        "value": 26,
-        "formattedValue": "26",
-        "raw": {
-          "topic": {
-            "mid": "/g/11b77d6b6g",
-            "title": "2026",
-            "type": "Chủ đề"
-          },
-          "value": 26,
-          "formattedValue": "26",
-          "hasData": true,
-          "link": "/trends/explore?q=/g/11b77d6b6g&date=now+7-d&geo=IL"
-        }
-      },
-      {
-        "query": "Tập phim",
-        "value": 23,
-        "formattedValue": "23",
-        "raw": {
-          "topic": {
-            "mid": "/m/02cphr",
-            "title": "Tập phim",
-            "type": "Chủ đề"
-          },
-          "value": 23,
-          "formattedValue": "23",
-          "hasData": true,
-          "link": "/trends/explore?q=/m/02cphr&date=now+7-d&geo=IL"
-        }
-      },
-      {
-        "query": "Âm nhạc",
-        "value": 18,
-        "formattedValue": "18",
-        "raw": {
-          "topic": {
-            "mid": "/m/04rlf",
-            "title": "Âm nhạc",
-            "type": "Định dạng âm thanh"
-          },
-          "value": 18,
-          "formattedValue": "18",
-          "hasData": true,
-          "link": "/trends/explore?q=/m/04rlf&date=now+7-d&geo=IL"
-        }
-      },
-      {
-        "query": "Giải Bóng đá Vô địch Thế giới",
-        "value": 16,
-        "formattedValue": "16",
-        "raw": {
-          "topic": {
-            "mid": "/m/030q7",
-            "title": "Giải Bóng đá Vô địch Thế giới",
-            "type": "Giải bóng đá"
-          },
-          "value": 16,
-          "formattedValue": "16",
-          "hasData": true,
-          "link": "/trends/explore?q=/m/030q7&date=now+7-d&geo=IL"
-        }
-      },
-      {
-        "query": "Chương trình truyền hình dài tập",
-        "value": 13,
-        "formattedValue": "13",
-        "raw": {
-          "topic": {
-            "mid": "/g/1219y26q",
-            "title": "Chương trình truyền hình dài tập",
-            "type": "Chủ đề"
-          },
-          "value": 13,
-          "formattedValue": "13",
-          "hasData": true,
-          "link": "/trends/explore?q=/g/1219y26q&date=now+7-d&geo=IL"
-        }
-      },
-      {
-        "query": "Tiếng Do Thái",
-        "value": 11,
-        "formattedValue": "11",
-        "raw": {
-          "topic": {
-            "mid": "/m/03hkp",
-            "title": "Tiếng Do Thái",
-            "type": "Tiếng"
-          },
-          "value": 11,
-          "formattedValue": "11",
-          "hasData": true,
-          "link": "/trends/explore?q=/m/03hkp&date=now+7-d&geo=IL"
-        }
-      },
-      {
-        "query": "Eyal Golan",
-        "value": 10,
-        "formattedValue": "10",
-        "raw": {
-          "topic": {
-            "mid": "/m/0l026y",
-            "title": "Eyal Golan",
-            "type": "Ca sĩ"
-          },
-          "value": 10,
-          "formattedValue": "10",
-          "hasData": true,
-          "link": "/trends/explore?q=/m/0l026y&date=now+7-d&geo=IL"
-        }
-      },
-      {
-        "query": "Israel",
-        "value": 10,
-        "formattedValue": "10",
-        "raw": {
-          "topic": {
-            "mid": "/m/03spz",
-            "title": "Israel",
-            "type": "Quốc gia ở Trung Đông"
-          },
-          "value": 10,
-          "formattedValue": "10",
-          "hasData": true,
-          "link": "/trends/explore?q=/m/03spz&date=now+7-d&geo=IL"
-        }
-      },
-      {
-        "query": "Checkout",
-        "value": 9,
-        "formattedValue": "9",
-        "raw": {
-          "topic": {
-            "mid": "/g/11hckrpymt",
-            "title": "Checkout",
-            "type": "Chương trình truyền hình"
-          },
-          "value": 9,
-          "formattedValue": "9",
-          "hasData": true,
-          "link": "/trends/explore?q=/g/11hckrpymt&date=now+7-d&geo=IL"
-        }
-      },
-      {
-        "query": "Thế giới",
-        "value": 9,
-        "formattedValue": "9",
-        "raw": {
-          "topic": {
-            "mid": "/m/09nm_",
-            "title": "Thế giới",
-            "type": "Chủ đề"
-          },
-          "value": 9,
-          "formattedValue": "9",
-          "hasData": true,
-          "link": "/trends/explore?q=/m/09nm_&date=now+7-d&geo=IL"
-        }
-      },
-      {
-        "query": "Trò chơi",
-        "value": 9,
-        "formattedValue": "9",
-        "raw": {
-          "topic": {
-            "mid": "/m/03bt1gh",
-            "title": "Trò chơi",
-            "type": "Chủ đề"
-          },
-          "value": 9,
-          "formattedValue": "9",
-          "hasData": true,
-          "link": "/trends/explore?q=/m/03bt1gh&date=now+7-d&geo=IL"
-        }
-      },
-      {
-        "query": "Video",
-        "value": 8,
-        "formattedValue": "8",
-        "raw": {
-          "topic": {
-            "mid": "/m/07z4p",
-            "title": "Video",
-            "type": "Định dạng phim"
-          },
-          "value": 8,
-          "formattedValue": "8",
-          "hasData": true,
-          "link": "/trends/explore?q=/m/07z4p&date=now+7-d&geo=IL"
-        }
-      },
-      {
-        "query": "Omer Adam",
-        "value": 8,
-        "formattedValue": "8",
-        "raw": {
-          "topic": {
-            "mid": "/m/0gmf12r",
-            "title": "Omer Adam",
-            "type": "Ca sĩ"
-          },
-          "value": 8,
-          "formattedValue": "8",
-          "hasData": true,
-          "link": "/trends/explore?q=/m/0gmf12r&date=now+7-d&geo=IL"
-        }
-      },
-      {
-        "query": "Nhảy múa",
-        "value": 8,
-        "formattedValue": "8",
-        "raw": {
-          "topic": {
-            "mid": "/m/026bk",
-            "title": "Nhảy múa",
-            "type": "Lĩnh vực nghề nghiệp"
-          },
-          "value": 8,
-          "formattedValue": "8",
-          "hasData": true,
-          "link": "/trends/explore?q=/m/026bk&date=now+7-d&geo=IL"
-        }
-      },
-      {
-        "query": "Âm thanh",
-        "value": 8,
-        "formattedValue": "8",
-        "raw": {
-          "topic": {
-            "mid": "/m/06qc5",
-            "title": "Âm thanh",
-            "type": "Chủ đề"
-          },
-          "value": 8,
-          "formattedValue": "8",
-          "hasData": true,
-          "link": "/trends/explore?q=/m/06qc5&date=now+7-d&geo=IL"
-        }
-      },
-      {
-        "query": "Karaoke",
-        "value": 8,
-        "formattedValue": "8",
-        "raw": {
-          "topic": {
-            "mid": "/m/04c5p",
-            "title": "Karaoke",
-            "type": "Chủ đề"
-          },
-          "value": 8,
-          "formattedValue": "8",
-          "hasData": true,
-          "link": "/trends/explore?q=/m/04c5p&date=now+7-d&geo=IL"
-        }
-      },
-      {
-        "query": "Giải Bóng đá Thế giới 2026",
-        "value": 8,
-        "formattedValue": "8",
-        "raw": {
-          "topic": {
-            "mid": "/m/0r4xs1m",
-            "title": "Giải Bóng đá Thế giới 2026",
-            "type": "Mùa giải thể thao"
-          },
-          "value": 8,
-          "formattedValue": "8",
-          "hasData": true,
-          "link": "/trends/explore?q=/m/0r4xs1m&date=now+7-d&geo=IL"
-        }
-      },
-      {
-        "query": "Thầy đạo",
-        "value": 8,
-        "formattedValue": "8",
-        "raw": {
-          "topic": {
-            "mid": "/m/0djbw",
-            "title": "Thầy đạo",
-            "type": "Vai trò của lãnh tụ tôn giáo"
-          },
-          "value": 8,
-          "formattedValue": "8",
-          "hasData": true,
-          "link": "/trends/explore?q=/m/0djbw&date=now+7-d&geo=IL"
-        }
-      },
-      {
-        "query": "Trẻ sơ sinh",
-        "value": 8,
-        "formattedValue": "8",
-        "raw": {
-          "topic": {
-            "mid": "/m/0jnvp",
-            "title": "Trẻ sơ sinh",
-            "type": "Chủ đề"
-          },
-          "value": 8,
-          "formattedValue": "8",
-          "hasData": true,
-          "link": "/trends/explore?q=/m/0jnvp&date=now+7-d&geo=IL"
-        }
-      },
-      {
-        "query": "Tiếng Ả Rập",
-        "value": 8,
-        "formattedValue": "8",
-        "raw": {
-          "topic": {
-            "mid": "/m/0jzc",
-            "title": "Tiếng Ả Rập",
-            "type": "Ngôn ngữ"
-          },
-          "value": 8,
-          "formattedValue": "8",
-          "hasData": true,
-          "link": "/trends/explore?q=/m/0jzc&date=now+7-d&geo=IL"
-        }
-      },
-      {
-        "query": "Mùa giải thể thao",
-        "value": 7,
-        "formattedValue": "7",
-        "raw": {
-          "topic": {
-            "mid": "/m/0331gn",
-            "title": "Mùa giải thể thao",
-            "type": "Chủ đề"
-          },
-          "value": 7,
-          "formattedValue": "7",
-          "hasData": true,
-          "link": "/trends/explore?q=/m/0331gn&date=now+7-d&geo=IL"
-        }
-      }
-    ],
-    "rising": [
-      {
-        "query": "Đội tuyển Bóng đá Quốc gia Algérie",
-        "value": 2850,
-        "formattedValue": "+2.850%",
-        "raw": {
-          "topic": {
-            "mid": "/m/03_qj1",
-            "title": "Đội tuyển Bóng đá Quốc gia Algérie",
-            "type": "Đội bóng đá"
-          },
-          "value": 2850,
-          "formattedValue": "+2.850%",
-          "link": "/trends/explore?q=/m/03_qj1&date=now+7-d&geo=IL"
-        }
-      },
-      {
-        "query": "Justin Gaethje",
-        "value": 800,
-        "formattedValue": "+800%",
-        "raw": {
-          "topic": {
-            "mid": "/m/0vxcsnv",
-            "title": "Justin Gaethje",
-            "type": "Võ sĩ võ đạo"
-          },
-          "value": 800,
-          "formattedValue": "+800%",
-          "link": "/trends/explore?q=/m/0vxcsnv&date=now+7-d&geo=IL"
-        }
-      },
-      {
-        "query": "Chukat",
-        "value": 550,
-        "formattedValue": "+550%",
-        "raw": {
-          "topic": {
-            "mid": "/m/0dq5b4",
-            "title": "Chukat",
-            "type": "Chủ đề"
-          },
-          "value": 550,
-          "formattedValue": "+550%",
-          "link": "/trends/explore?q=/m/0dq5b4&date=now+7-d&geo=IL"
-        }
-      },
-      {
-        "query": "Algeria",
-        "value": 500,
-        "formattedValue": "+500%",
-        "raw": {
-          "topic": {
-            "mid": "/m/0h3y",
-            "title": "Algeria",
-            "type": "Quốc gia ở Bắc Phi"
-          },
-          "value": 500,
-          "formattedValue": "+500%",
-          "link": "/trends/explore?q=/m/0h3y&date=now+7-d&geo=IL"
-        }
-      },
-      {
-        "query": "Ilia Topuria",
-        "value": 500,
-        "formattedValue": "+500%",
-        "raw": {
-          "topic": {
-            "mid": "/g/11fq7kcv3g",
-            "title": "Ilia Topuria",
-            "type": "Võ thuật tổng hợp"
-          },
-          "value": 500,
-          "formattedValue": "+500%",
-          "link": "/trends/explore?q=/g/11fq7kcv3g&date=now+7-d&geo=IL"
-        }
-      },
-      {
-        "query": "Đội tuyển Bóng đá Quốc gia Argentina",
-        "value": 450,
-        "formattedValue": "+450%",
-        "raw": {
-          "topic": {
-            "mid": "/m/02bh_v",
-            "title": "Đội tuyển Bóng đá Quốc gia Argentina",
-            "type": "Đội bóng đá"
-          },
-          "value": 450,
-          "formattedValue": "+450%",
-          "link": "/trends/explore?q=/m/02bh_v&date=now+7-d&geo=IL"
-        }
-      },
-      {
-        "query": "Oliver Tree",
-        "value": 350,
-        "formattedValue": "+350%",
-        "raw": {
-          "topic": {
-            "mid": "/g/11f7ly6bnk",
-            "title": "Oliver Tree",
-            "type": "Ca sĩ kiêm nhạc sĩ sáng tác bài hát"
-          },
-          "value": 350,
-          "formattedValue": "+350%",
-          "link": "/trends/explore?q=/g/11f7ly6bnk&date=now+7-d&geo=IL"
-        }
-      },
-      {
-        "query": "Đội tuyển Bóng đá Quốc gia Pháp",
-        "value": 250,
-        "formattedValue": "+250%",
-        "raw": {
-          "topic": {
-            "mid": "/m/01l3vx",
-            "title": "Đội tuyển Bóng đá Quốc gia Pháp",
-            "type": "Đội bóng đá"
-          },
-          "value": 250,
-          "formattedValue": "+250%",
-          "link": "/trends/explore?q=/m/01l3vx&date=now+7-d&geo=IL"
-        }
-      },
-      {
-        "query": "Rạp xiếc kỹ thuật số diệu kỳ",
-        "value": 200,
-        "formattedValue": "+200%",
-        "raw": {
-          "topic": {
-            "mid": "/g/11krktg_mq",
-            "title": "Rạp xiếc kỹ thuật số diệu kỳ",
-            "type": "Phim truyền hình"
-          },
-          "value": 200,
-          "formattedValue": "+200%",
-          "link": "/trends/explore?q=/g/11krktg_mq&date=now+7-d&geo=IL"
-        }
-      },
-      {
-        "query": "Lionel Messi",
-        "value": 180,
-        "formattedValue": "+180%",
-        "raw": {
-          "topic": {
-            "mid": "/m/06qjgc",
-            "title": "Lionel Messi",
-            "type": "Cầu thủ"
-          },
-          "value": 180,
-          "formattedValue": "+180%",
-          "link": "/trends/explore?q=/m/06qjgc&date=now+7-d&geo=IL"
-        }
-      },
-      {
-        "query": "Argentina",
-        "value": 140,
-        "formattedValue": "+140%",
-        "raw": {
-          "topic": {
-            "mid": "/m/0jgd",
-            "title": "Argentina",
-            "type": "Quốc gia ở Nam Mỹ"
-          },
-          "value": 140,
-          "formattedValue": "+140%",
-          "link": "/trends/explore?q=/m/0jgd&date=now+7-d&geo=IL"
-        }
-      },
-      {
-        "query": "Jordan",
-        "value": 120,
-        "formattedValue": "+120%",
-        "raw": {
-          "topic": {
-            "mid": "/m/03__y",
-            "title": "Jordan",
-            "type": "Quốc gia ở Trung Đông"
-          },
-          "value": 120,
-          "formattedValue": "+120%",
-          "link": "/trends/explore?q=/m/03__y&date=now+7-d&geo=IL"
-        }
-      },
-      {
-        "query": "Ultimate Fighting Championship",
-        "value": 100,
-        "formattedValue": "+100%",
-        "raw": {
-          "topic": {
-            "mid": "/m/016r3g",
-            "title": "Ultimate Fighting Championship",
-            "type": "Công ty"
-          },
-          "value": 100,
-          "formattedValue": "+100%",
-          "link": "/trends/explore?q=/m/016r3g&date=now+7-d&geo=IL"
-        }
-      },
-      {
-        "query": "Pháp",
-        "value": 60,
-        "formattedValue": "+60%",
-        "raw": {
-          "topic": {
-            "mid": "/m/0f8l9c",
-            "title": "Pháp",
-            "type": "Quốc gia ở Châu Âu"
-          },
-          "value": 60,
-          "formattedValue": "+60%",
-          "link": "/trends/explore?q=/m/0f8l9c&date=now+7-d&geo=IL"
-        }
-      },
-      {
-        "query": "Máy tính",
-        "value": 50,
-        "formattedValue": "+50%",
-        "raw": {
-          "topic": {
-            "mid": "/m/01m3v",
-            "title": "Máy tính",
-            "type": "Chủ đề"
-          },
-          "value": 50,
-          "formattedValue": "+50%",
-          "link": "/trends/explore?q=/m/01m3v&date=now+7-d&geo=IL"
-        }
-      },
-      {
-        "query": "Grand Theft Auto V",
-        "value": 50,
-        "formattedValue": "+50%",
-        "raw": {
-          "topic": {
-            "mid": "/m/0hgnzjh",
-            "title": "Grand Theft Auto V",
-            "type": "Trò chơi điện tử"
-          },
-          "value": 50,
-          "formattedValue": "+50%",
-          "link": "/trends/explore?q=/m/0hgnzjh&date=now+7-d&geo=IL"
-        }
-      },
-      {
-        "query": "Ai Cập",
-        "value": 50,
-        "formattedValue": "+50%",
-        "raw": {
-          "topic": {
-            "mid": "/m/02k54",
-            "title": "Ai Cập",
-            "type": "Quốc gia"
-          },
-          "value": 50,
-          "formattedValue": "+50%",
-          "link": "/trends/explore?q=/m/02k54&date=now+7-d&geo=IL"
-        }
-      },
-      {
-        "query": "Wael Kfoury",
-        "value": 40,
-        "formattedValue": "+40%",
-        "raw": {
-          "topic": {
-            "mid": "/m/05mt5gc",
-            "title": "Wael Kfoury",
-            "type": "Ca sĩ"
-          },
-          "value": 40,
-          "formattedValue": "+40%",
-          "link": "/trends/explore?q=/m/05mt5gc&date=now+7-d&geo=IL"
-        }
-      }
-    ]
+    "top": [],
+    "rising": []
   },
   "queries": {
     "top": [
@@ -676,122 +20,98 @@
       },
       {
         "query": "שירים",
-        "value": 83,
-        "formattedValue": "83",
+        "value": 86,
+        "formattedValue": "86",
         "raw": {
           "query": "שירים",
-          "value": 83,
-          "formattedValue": "83",
+          "value": 86,
+          "formattedValue": "86",
           "hasData": true,
           "link": "/trends/explore?q=%D7%A9%D7%99%D7%A8%D7%99%D7%9D&date=now+7-d&geo=IL"
         }
       },
       {
-        "query": "مسلسل",
-        "value": 49,
-        "formattedValue": "49",
-        "raw": {
-          "query": "مسلسل",
-          "value": 49,
-          "formattedValue": "49",
-          "hasData": true,
-          "link": "/trends/explore?q=%D9%85%D8%B3%D9%84%D8%B3%D9%84&date=now+7-d&geo=IL"
-        }
-      },
-      {
         "query": "אייל גולן",
-        "value": 41,
-        "formattedValue": "41",
+        "value": 43,
+        "formattedValue": "43",
         "raw": {
           "query": "אייל גולן",
-          "value": 41,
-          "formattedValue": "41",
+          "value": 43,
+          "formattedValue": "43",
           "hasData": true,
           "link": "/trends/explore?q=%D7%90%D7%99%D7%99%D7%9C+%D7%92%D7%95%D7%9C%D7%9F&date=now+7-d&geo=IL"
         }
       },
       {
-        "query": "קופה ראשית",
-        "value": 39,
-        "formattedValue": "39",
-        "raw": {
-          "query": "קופה ראשית",
-          "value": 39,
-          "formattedValue": "39",
-          "hasData": true,
-          "link": "/trends/explore?q=%D7%A7%D7%95%D7%A4%D7%94+%D7%A8%D7%90%D7%A9%D7%99%D7%AA&date=now+7-d&geo=IL"
-        }
-      },
-      {
         "query": "music",
-        "value": 37,
-        "formattedValue": "37",
+        "value": 38,
+        "formattedValue": "38",
         "raw": {
           "query": "music",
-          "value": 37,
-          "formattedValue": "37",
+          "value": 38,
+          "formattedValue": "38",
           "hasData": true,
           "link": "/trends/explore?q=music&date=now+7-d&geo=IL"
         }
       },
       {
+        "query": "קופה ראשית",
+        "value": 37,
+        "formattedValue": "37",
+        "raw": {
+          "query": "קופה ראשית",
+          "value": 37,
+          "formattedValue": "37",
+          "hasData": true,
+          "link": "/trends/explore?q=%D7%A7%D7%95%D7%A4%D7%94+%D7%A8%D7%90%D7%A9%D7%99%D7%AA&date=now+7-d&geo=IL"
+        }
+      },
+      {
         "query": "עומר אדם",
-        "value": 32,
-        "formattedValue": "32",
+        "value": 34,
+        "formattedValue": "34",
         "raw": {
           "query": "עומר אדם",
-          "value": 32,
-          "formattedValue": "32",
+          "value": 34,
+          "formattedValue": "34",
           "hasData": true,
           "link": "/trends/explore?q=%D7%A2%D7%95%D7%9E%D7%A8+%D7%90%D7%93%D7%9D&date=now+7-d&geo=IL"
         }
       },
       {
-        "query": "اغنيه",
+        "query": "מלון הוטל",
         "value": 30,
         "formattedValue": "30",
         "raw": {
-          "query": "اغنيه",
+          "query": "מלון הוטל",
           "value": 30,
           "formattedValue": "30",
-          "hasData": true,
-          "link": "/trends/explore?q=%D8%A7%D8%BA%D9%86%D9%8A%D9%87&date=now+7-d&geo=IL"
-        }
-      },
-      {
-        "query": "מלון הוטל",
-        "value": 29,
-        "formattedValue": "29",
-        "raw": {
-          "query": "מלון הוטל",
-          "value": 29,
-          "formattedValue": "29",
           "hasData": true,
           "link": "/trends/explore?q=%D7%9E%D7%9C%D7%95%D7%9F+%D7%94%D7%95%D7%98%D7%9C&date=now+7-d&geo=IL"
         }
       },
       {
-        "query": "songs",
-        "value": 24,
-        "formattedValue": "24",
+        "query": "اغنيه",
+        "value": 29,
+        "formattedValue": "29",
         "raw": {
-          "query": "songs",
-          "value": 24,
-          "formattedValue": "24",
+          "query": "اغنيه",
+          "value": 29,
+          "formattedValue": "29",
           "hasData": true,
-          "link": "/trends/explore?q=songs&date=now+7-d&geo=IL"
+          "link": "/trends/explore?q=%D8%A7%D8%BA%D9%86%D9%8A%D9%87&date=now+7-d&geo=IL"
         }
       },
       {
-        "query": "כאן",
-        "value": 23,
-        "formattedValue": "23",
+        "query": "songs",
+        "value": 25,
+        "formattedValue": "25",
         "raw": {
-          "query": "כאן",
-          "value": 23,
-          "formattedValue": "23",
+          "query": "songs",
+          "value": 25,
+          "formattedValue": "25",
           "hasData": true,
-          "link": "/trends/explore?q=%D7%9B%D7%90%D7%9F&date=now+7-d&geo=IL"
+          "link": "/trends/explore?q=songs&date=now+7-d&geo=IL"
         }
       },
       {
@@ -807,51 +127,39 @@
         }
       },
       {
-        "query": "14",
-        "value": 21,
-        "formattedValue": "21",
+        "query": "اطفال",
+        "value": 19,
+        "formattedValue": "19",
         "raw": {
-          "query": "14",
-          "value": 21,
-          "formattedValue": "21",
+          "query": "اطفال",
+          "value": 19,
+          "formattedValue": "19",
           "hasData": true,
-          "link": "/trends/explore?q=14&date=now+7-d&geo=IL"
+          "link": "/trends/explore?q=%D8%A7%D8%B7%D9%81%D8%A7%D9%84&date=now+7-d&geo=IL"
+        }
+      },
+      {
+        "query": "משפחת טרסוב",
+        "value": 19,
+        "formattedValue": "19",
+        "raw": {
+          "query": "משפחת טרסוב",
+          "value": 19,
+          "formattedValue": "19",
+          "hasData": true,
+          "link": "/trends/explore?q=%D7%9E%D7%A9%D7%A4%D7%97%D7%AA+%D7%98%D7%A8%D7%A1%D7%95%D7%91&date=now+7-d&geo=IL"
         }
       },
       {
         "query": "בן צור",
-        "value": 20,
-        "formattedValue": "20",
+        "value": 19,
+        "formattedValue": "19",
         "raw": {
           "query": "בן צור",
-          "value": 20,
-          "formattedValue": "20",
+          "value": 19,
+          "formattedValue": "19",
           "hasData": true,
           "link": "/trends/explore?q=%D7%91%D7%9F+%D7%A6%D7%95%D7%A8&date=now+7-d&geo=IL"
-        }
-      },
-      {
-        "query": "מונדיאל",
-        "value": 20,
-        "formattedValue": "20",
-        "raw": {
-          "query": "מונדיאל",
-          "value": 20,
-          "formattedValue": "20",
-          "hasData": true,
-          "link": "/trends/explore?q=%D7%9E%D7%95%D7%A0%D7%93%D7%99%D7%90%D7%9C&date=now+7-d&geo=IL"
-        }
-      },
-      {
-        "query": "اطفال",
-        "value": 20,
-        "formattedValue": "20",
-        "raw": {
-          "query": "اطفال",
-          "value": 20,
-          "formattedValue": "20",
-          "hasData": true,
-          "link": "/trends/explore?q=%D8%A7%D8%B7%D9%81%D8%A7%D9%84&date=now+7-d&geo=IL"
         }
       },
       {
@@ -864,42 +172,6 @@
           "formattedValue": "19",
           "hasData": true,
           "link": "/trends/explore?q=%D7%9E%D7%99%D7%A9%D7%9C&date=now+7-d&geo=IL"
-        }
-      },
-      {
-        "query": "משפחת טרסוב",
-        "value": 18,
-        "formattedValue": "18",
-        "raw": {
-          "query": "משפחת טרסוב",
-          "value": 18,
-          "formattedValue": "18",
-          "hasData": true,
-          "link": "/trends/explore?q=%D7%9E%D7%A9%D7%A4%D7%97%D7%AA+%D7%98%D7%A8%D7%A1%D7%95%D7%91&date=now+7-d&geo=IL"
-        }
-      },
-      {
-        "query": "יום הולדת",
-        "value": 18,
-        "formattedValue": "18",
-        "raw": {
-          "query": "יום הולדת",
-          "value": 18,
-          "formattedValue": "18",
-          "hasData": true,
-          "link": "/trends/explore?q=%D7%99%D7%95%D7%9D+%D7%94%D7%95%D7%9C%D7%93%D7%AA&date=now+7-d&geo=IL"
-        }
-      },
-      {
-        "query": "شفا شفا",
-        "value": 17,
-        "formattedValue": "17",
-        "raw": {
-          "query": "شفا شفا",
-          "value": 17,
-          "formattedValue": "17",
-          "hasData": true,
-          "link": "/trends/explore?q=%D8%B4%D9%81%D8%A7+%D8%B4%D9%81%D8%A7&date=now+7-d&geo=IL"
         }
       },
       {
@@ -916,26 +188,50 @@
       },
       {
         "query": "פאר טסי",
-        "value": 16,
-        "formattedValue": "16",
+        "value": 17,
+        "formattedValue": "17",
         "raw": {
           "query": "פאר טסי",
-          "value": 16,
-          "formattedValue": "16",
+          "value": 17,
+          "formattedValue": "17",
           "hasData": true,
           "link": "/trends/explore?q=%D7%A4%D7%90%D7%A8+%D7%98%D7%A1%D7%99&date=now+7-d&geo=IL"
         }
       },
       {
+        "query": "יום הולדת",
+        "value": 16,
+        "formattedValue": "16",
+        "raw": {
+          "query": "יום הולדת",
+          "value": 16,
+          "formattedValue": "16",
+          "hasData": true,
+          "link": "/trends/explore?q=%D7%99%D7%95%D7%9D+%D7%94%D7%95%D7%9C%D7%93%D7%AA&date=now+7-d&geo=IL"
+        }
+      },
+      {
         "query": "איתי לוי",
+        "value": 14,
+        "formattedValue": "14",
+        "raw": {
+          "query": "איתי לוי",
+          "value": 14,
+          "formattedValue": "14",
+          "hasData": true,
+          "link": "/trends/explore?q=%D7%90%D7%99%D7%AA%D7%99+%D7%9C%D7%95%D7%99&date=now+7-d&geo=IL"
+        }
+      },
+      {
+        "query": "לבד בבית",
         "value": 13,
         "formattedValue": "13",
         "raw": {
-          "query": "איתי לוי",
+          "query": "לבד בבית",
           "value": 13,
           "formattedValue": "13",
           "hasData": true,
-          "link": "/trends/explore?q=%D7%90%D7%99%D7%AA%D7%99+%D7%9C%D7%95%D7%99&date=now+7-d&geo=IL"
+          "link": "/trends/explore?q=%D7%9C%D7%91%D7%93+%D7%91%D7%91%D7%99%D7%AA&date=now+7-d&geo=IL"
         }
       },
       {
@@ -961,216 +257,154 @@
           "hasData": true,
           "link": "/trends/explore?q=%D7%9B%D7%90%D7%9F+11&date=now+7-d&geo=IL"
         }
+      },
+      {
+        "query": "שקשוקה",
+        "value": 13,
+        "formattedValue": "13",
+        "raw": {
+          "query": "שקשוקה",
+          "value": 13,
+          "formattedValue": "13",
+          "hasData": true,
+          "link": "/trends/explore?q=%D7%A9%D7%A7%D7%A9%D7%95%D7%A7%D7%94&date=now+7-d&geo=IL"
+        }
+      },
+      {
+        "query": "asmr",
+        "value": 13,
+        "formattedValue": "13",
+        "raw": {
+          "query": "asmr",
+          "value": 13,
+          "formattedValue": "13",
+          "hasData": true,
+          "link": "/trends/explore?q=asmr&date=now+7-d&geo=IL"
+        }
+      },
+      {
+        "query": "אודיה",
+        "value": 13,
+        "formattedValue": "13",
+        "raw": {
+          "query": "אודיה",
+          "value": 13,
+          "formattedValue": "13",
+          "hasData": true,
+          "link": "/trends/explore?q=%D7%90%D7%95%D7%93%D7%99%D7%94&date=now+7-d&geo=IL"
+        }
+      },
+      {
+        "query": "قران",
+        "value": 12,
+        "formattedValue": "12",
+        "raw": {
+          "query": "قران",
+          "value": 12,
+          "formattedValue": "12",
+          "hasData": true,
+          "link": "/trends/explore?q=%D9%82%D8%B1%D8%A7%D9%86&date=now+7-d&geo=IL"
+        }
       }
     ],
     "rising": [
       {
         "query": "ארגנטינה נגד אלג'יריה",
-        "value": 3550,
-        "formattedValue": "+3.550%",
+        "value": 3200,
+        "formattedValue": "+3.200%",
         "raw": {
           "query": "ארגנטינה נגד אלג'יריה",
-          "value": 3550,
-          "formattedValue": "+3.550%",
+          "value": 3200,
+          "formattedValue": "+3.200%",
           "link": "/trends/explore?q=%D7%90%D7%A8%D7%92%D7%A0%D7%98%D7%99%D7%A0%D7%94+%D7%A0%D7%92%D7%93+%D7%90%D7%9C%D7%92'%D7%99%D7%A8%D7%99%D7%94&date=now+7-d&geo=IL"
         }
       },
       {
         "query": "argentina vs algeria 2026",
-        "value": 2750,
-        "formattedValue": "+2.750%",
+        "value": 2400,
+        "formattedValue": "+2.400%",
         "raw": {
           "query": "argentina vs algeria 2026",
-          "value": 2750,
-          "formattedValue": "+2.750%",
+          "value": 2400,
+          "formattedValue": "+2.400%",
           "link": "/trends/explore?q=argentina+vs+algeria+2026&date=now+7-d&geo=IL"
         }
       },
       {
-        "query": "צרפת נגד סנגל",
-        "value": 2200,
-        "formattedValue": "+2.200%",
-        "raw": {
-          "query": "צרפת נגד סנגל",
-          "value": 2200,
-          "formattedValue": "+2.200%",
-          "link": "/trends/explore?q=%D7%A6%D7%A8%D7%A4%D7%AA+%D7%A0%D7%92%D7%93+%D7%A1%D7%A0%D7%92%D7%9C&date=now+7-d&geo=IL"
-        }
-      },
-      {
-        "query": "יונייטד היי עונה 2 פרק 2",
-        "value": 700,
-        "formattedValue": "+700%",
-        "raw": {
-          "query": "יונייטד היי עונה 2 פרק 2",
-          "value": 700,
-          "formattedValue": "+700%",
-          "link": "/trends/explore?q=%D7%99%D7%95%D7%A0%D7%99%D7%99%D7%98%D7%93+%D7%94%D7%99%D7%99+%D7%A2%D7%95%D7%A0%D7%94+2+%D7%A4%D7%A8%D7%A7+2&date=now+7-d&geo=IL"
-        }
-      },
-      {
-        "query": "פרשת חוקת",
-        "value": 550,
-        "formattedValue": "+550%",
-        "raw": {
-          "query": "פרשת חוקת",
-          "value": 550,
-          "formattedValue": "+550%",
-          "link": "/trends/explore?q=%D7%A4%D7%A8%D7%A9%D7%AA+%D7%97%D7%95%D7%A7%D7%AA&date=now+7-d&geo=IL"
-        }
-      },
-      {
-        "query": "oliver tree",
-        "value": 350,
-        "formattedValue": "+350%",
-        "raw": {
-          "query": "oliver tree",
-          "value": 350,
-          "formattedValue": "+350%",
-          "link": "/trends/explore?q=oliver+tree&date=now+7-d&geo=IL"
-        }
-      },
-      {
-        "query": "gta 6",
-        "value": 300,
-        "formattedValue": "+300%",
-        "raw": {
-          "query": "gta 6",
-          "value": 300,
-          "formattedValue": "+300%",
-          "link": "/trends/explore?q=gta+6&date=now+7-d&geo=IL"
-        }
-      },
-      {
-        "query": "יונייטד היי",
-        "value": 300,
-        "formattedValue": "+300%",
-        "raw": {
-          "query": "יונייטד היי",
-          "value": 300,
-          "formattedValue": "+300%",
-          "link": "/trends/explore?q=%D7%99%D7%95%D7%A0%D7%99%D7%99%D7%98%D7%93+%D7%94%D7%99%D7%99&date=now+7-d&geo=IL"
-        }
-      },
-      {
         "query": "the amazing digital circus",
-        "value": 200,
-        "formattedValue": "+200%",
+        "value": 180,
+        "formattedValue": "+180%",
         "raw": {
           "query": "the amazing digital circus",
-          "value": 200,
-          "formattedValue": "+200%",
+          "value": 180,
+          "formattedValue": "+180%",
           "link": "/trends/explore?q=the+amazing+digital+circus&date=now+7-d&geo=IL"
         }
       },
       {
-        "query": "אביב גפן",
-        "value": 150,
-        "formattedValue": "+150%",
-        "raw": {
-          "query": "אביב גפן",
-          "value": 150,
-          "formattedValue": "+150%",
-          "link": "/trends/explore?q=%D7%90%D7%91%D7%99%D7%91+%D7%92%D7%A4%D7%9F&date=now+7-d&geo=IL"
-        }
-      },
-      {
-        "query": "קופה ראשית הסרט",
+        "query": "יונייטד היי",
         "value": 110,
         "formattedValue": "+110%",
         "raw": {
-          "query": "קופה ראשית הסרט",
+          "query": "יונייטד היי",
           "value": 110,
           "formattedValue": "+110%",
-          "link": "/trends/explore?q=%D7%A7%D7%95%D7%A4%D7%94+%D7%A8%D7%90%D7%A9%D7%99%D7%AA+%D7%94%D7%A1%D7%A8%D7%98&date=now+7-d&geo=IL"
-        }
-      },
-      {
-        "query": "glitch",
-        "value": 110,
-        "formattedValue": "+110%",
-        "raw": {
-          "query": "glitch",
-          "value": 110,
-          "formattedValue": "+110%",
-          "link": "/trends/explore?q=glitch&date=now+7-d&geo=IL"
-        }
-      },
-      {
-        "query": "ufc",
-        "value": 100,
-        "formattedValue": "+100%",
-        "raw": {
-          "query": "ufc",
-          "value": 100,
-          "formattedValue": "+100%",
-          "link": "/trends/explore?q=ufc&date=now+7-d&geo=IL"
+          "link": "/trends/explore?q=%D7%99%D7%95%D7%A0%D7%99%D7%99%D7%98%D7%93+%D7%94%D7%99%D7%99&date=now+7-d&geo=IL"
         }
       },
       {
         "query": "تيكي تاكا",
-        "value": 100,
-        "formattedValue": "+100%",
+        "value": 70,
+        "formattedValue": "+70%",
         "raw": {
           "query": "تيكي تاكا",
-          "value": 100,
-          "formattedValue": "+100%",
+          "value": 70,
+          "formattedValue": "+70%",
           "link": "/trends/explore?q=%D8%AA%D9%8A%D9%83%D9%8A+%D8%AA%D8%A7%D9%83%D8%A7&date=now+7-d&geo=IL"
         }
       },
       {
+        "query": "oliver tree",
+        "value": 50,
+        "formattedValue": "+50%",
+        "raw": {
+          "query": "oliver tree",
+          "value": 50,
+          "formattedValue": "+50%",
+          "link": "/trends/explore?q=oliver+tree&date=now+7-d&geo=IL"
+        }
+      },
+      {
         "query": "يا حبيب قلبي يا نانو",
-        "value": 90,
-        "formattedValue": "+90%",
+        "value": 50,
+        "formattedValue": "+50%",
         "raw": {
           "query": "يا حبيب قلبي يا نانو",
-          "value": 90,
-          "formattedValue": "+90%",
+          "value": 50,
+          "formattedValue": "+50%",
           "link": "/trends/explore?q=%D9%8A%D8%A7+%D8%AD%D8%A8%D9%8A%D8%A8+%D9%82%D9%84%D8%A8%D9%8A+%D9%8A%D8%A7+%D9%86%D8%A7%D9%86%D9%88&date=now+7-d&geo=IL"
         }
       },
       {
         "query": "יוצאת מן הכלל",
-        "value": 60,
-        "formattedValue": "+60%",
+        "value": 50,
+        "formattedValue": "+50%",
         "raw": {
           "query": "יוצאת מן הכלל",
-          "value": 60,
-          "formattedValue": "+60%",
+          "value": 50,
+          "formattedValue": "+50%",
           "link": "/trends/explore?q=%D7%99%D7%95%D7%A6%D7%90%D7%AA+%D7%9E%D7%9F+%D7%94%D7%9B%D7%9C%D7%9C&date=now+7-d&geo=IL"
         }
       },
       {
-        "query": "وائل كفوري",
-        "value": 50,
-        "formattedValue": "+50%",
-        "raw": {
-          "query": "وائل كفوري",
-          "value": 50,
-          "formattedValue": "+50%",
-          "link": "/trends/explore?q=%D9%88%D8%A7%D8%A6%D9%84+%D9%83%D9%81%D9%88%D8%B1%D9%8A&date=now+7-d&geo=IL"
-        }
-      },
-      {
         "query": "نانو",
-        "value": 50,
-        "formattedValue": "+50%",
-        "raw": {
-          "query": "نانو",
-          "value": 50,
-          "formattedValue": "+50%",
-          "link": "/trends/explore?q=%D9%86%D8%A7%D9%86%D9%88&date=now+7-d&geo=IL"
-        }
-      },
-      {
-        "query": "מחזיק לך את היד",
         "value": 40,
         "formattedValue": "+40%",
         "raw": {
-          "query": "מחזיק לך את היד",
+          "query": "نانو",
           "value": 40,
           "formattedValue": "+40%",
-          "link": "/trends/explore?q=%D7%9E%D7%97%D7%96%D7%99%D7%A7+%D7%9C%D7%9A+%D7%90%D7%AA+%D7%94%D7%99%D7%93&date=now+7-d&geo=IL"
+          "link": "/trends/explore?q=%D9%86%D8%A7%D9%86%D9%88&date=now+7-d&geo=IL"
         }
       }
     ]
