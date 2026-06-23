@@ -1,500 +1,8 @@
 {
   "status": "success",
   "topics": {
-    "top": [
-      {
-        "query": "Bài hát",
-        "value": 100,
-        "formattedValue": "100",
-        "raw": {
-          "topic": {
-            "mid": "/m/074ft",
-            "title": "Bài hát",
-            "type": "Loại sáng tác"
-          },
-          "value": 100,
-          "formattedValue": "100",
-          "hasData": true,
-          "link": "/trends/explore?q=/m/074ft&date=now+7-d&geo=ID"
-        }
-      },
-      {
-        "query": "Karaoke",
-        "value": 44,
-        "formattedValue": "44",
-        "raw": {
-          "topic": {
-            "mid": "/m/04c5p",
-            "title": "Karaoke",
-            "type": "Chủ đề"
-          },
-          "value": 44,
-          "formattedValue": "44",
-          "hasData": true,
-          "link": "/trends/explore?q=/m/04c5p&date=now+7-d&geo=ID"
-        }
-      },
-      {
-        "query": "Điện ảnh",
-        "value": 39,
-        "formattedValue": "39",
-        "raw": {
-          "topic": {
-            "mid": "/m/02vxn",
-            "title": "Điện ảnh",
-            "type": "Loại truyền hình"
-          },
-          "value": 39,
-          "formattedValue": "39",
-          "hasData": true,
-          "link": "/trends/explore?q=/m/02vxn&date=now+7-d&geo=ID"
-        }
-      },
-      {
-        "query": "2026",
-        "value": 36,
-        "formattedValue": "36",
-        "raw": {
-          "topic": {
-            "mid": "/g/11b77d6b6g",
-            "title": "2026",
-            "type": "Chủ đề"
-          },
-          "value": 36,
-          "formattedValue": "36",
-          "hasData": true,
-          "link": "/trends/explore?q=/g/11b77d6b6g&date=now+7-d&geo=ID"
-        }
-      },
-      {
-        "query": "DJ",
-        "value": 33,
-        "formattedValue": "33",
-        "raw": {
-          "topic": {
-            "mid": "/m/02dsz",
-            "title": "DJ",
-            "type": "Nghề nghiệp"
-          },
-          "value": 33,
-          "formattedValue": "33",
-          "hasData": true,
-          "link": "/trends/explore?q=/m/02dsz&date=now+7-d&geo=ID"
-        }
-      },
-      {
-        "query": "Tiếng Indonesia",
-        "value": 32,
-        "formattedValue": "32",
-        "raw": {
-          "topic": {
-            "mid": "/m/097kp",
-            "title": "Tiếng Indonesia",
-            "type": "Ngôn ngữ"
-          },
-          "value": 32,
-          "formattedValue": "32",
-          "hasData": true,
-          "link": "/trends/explore?q=/m/097kp&date=now+7-d&geo=ID"
-        }
-      },
-      {
-        "query": "Indonesia",
-        "value": 28,
-        "formattedValue": "28",
-        "raw": {
-          "topic": {
-            "mid": "/m/03ryn",
-            "title": "Indonesia",
-            "type": "Quốc gia ở Châu Á"
-          },
-          "value": 28,
-          "formattedValue": "28",
-          "hasData": true,
-          "link": "/trends/explore?q=/m/03ryn&date=now+7-d&geo=ID"
-        }
-      },
-      {
-        "query": "Trẻ em",
-        "value": 26,
-        "formattedValue": "26",
-        "raw": {
-          "topic": {
-            "mid": "/m/0ytgt",
-            "title": "Trẻ em",
-            "type": "Chủ đề"
-          },
-          "value": 26,
-          "formattedValue": "26",
-          "hasData": true,
-          "link": "/trends/explore?q=/m/0ytgt&date=now+7-d&geo=ID"
-        }
-      },
-      {
-        "query": "Album",
-        "value": 17,
-        "formattedValue": "17",
-        "raw": {
-          "topic": {
-            "mid": "/m/02lx2r",
-            "title": "Album",
-            "type": "Loại anbom nhạc"
-          },
-          "value": 17,
-          "formattedValue": "17",
-          "hasData": true,
-          "link": "/trends/explore?q=/m/02lx2r&date=now+7-d&geo=ID"
-        }
-      },
-      {
-        "query": "Nhạc Dangdut",
-        "value": 16,
-        "formattedValue": "16",
-        "raw": {
-          "topic": {
-            "mid": "/m/0219tx",
-            "title": "Nhạc Dangdut",
-            "type": "Thể loại nhạc"
-          },
-          "value": 16,
-          "formattedValue": "16",
-          "hasData": true,
-          "link": "/trends/explore?q=/m/0219tx&date=now+7-d&geo=ID"
-        }
-      },
-      {
-        "query": "Thế giới",
-        "value": 16,
-        "formattedValue": "16",
-        "raw": {
-          "topic": {
-            "mid": "/m/09nm_",
-            "title": "Thế giới",
-            "type": "Chủ đề"
-          },
-          "value": 16,
-          "formattedValue": "16",
-          "hasData": true,
-          "link": "/trends/explore?q=/m/09nm_&date=now+7-d&geo=ID"
-        }
-      },
-      {
-        "query": "Ngôn ngữ",
-        "value": 16,
-        "formattedValue": "16",
-        "raw": {
-          "topic": {
-            "mid": "/m/04g7d",
-            "title": "Ngôn ngữ",
-            "type": "Chủ đề"
-          },
-          "value": 16,
-          "formattedValue": "16",
-          "hasData": true,
-          "link": "/trends/explore?q=/m/04g7d&date=now+7-d&geo=ID"
-        }
-      },
-      {
-        "query": "Ngày",
-        "value": 14,
-        "formattedValue": "14",
-        "raw": {
-          "topic": {
-            "mid": "/m/02bbq",
-            "title": "Ngày",
-            "type": "Thời gian"
-          },
-          "value": 14,
-          "formattedValue": "14",
-          "hasData": true,
-          "link": "/trends/explore?q=/m/02bbq&date=now+7-d&geo=ID"
-        }
-      },
-      {
-        "query": "Upin & Ipin",
-        "value": 14,
-        "formattedValue": "14",
-        "raw": {
-          "topic": {
-            "mid": "/m/04n34bl",
-            "title": "Upin & Ipin",
-            "type": "Phim"
-          },
-          "value": 14,
-          "formattedValue": "14",
-          "hasData": true,
-          "link": "/trends/explore?q=/m/04n34bl&date=now+7-d&geo=ID"
-        }
-      },
-      {
-        "query": "Lời bài hát",
-        "value": 13,
-        "formattedValue": "13",
-        "raw": {
-          "topic": {
-            "mid": "/m/09lgd",
-            "title": "Lời bài hát",
-            "type": "Chủ đề"
-          },
-          "value": 13,
-          "formattedValue": "13",
-          "hasData": true,
-          "link": "/trends/explore?q=/m/09lgd&date=now+7-d&geo=ID"
-        }
-      },
-      {
-        "query": "Âm thanh",
-        "value": 13,
-        "formattedValue": "13",
-        "raw": {
-          "topic": {
-            "mid": "/m/06qc5",
-            "title": "Âm thanh",
-            "type": "Chủ đề"
-          },
-          "value": 13,
-          "formattedValue": "13",
-          "hasData": true,
-          "link": "/trends/explore?q=/m/06qc5&date=now+7-d&geo=ID"
-        }
-      },
-      {
-        "query": "Giải Bóng đá Vô địch Thế giới",
-        "value": 12,
-        "formattedValue": "12",
-        "raw": {
-          "topic": {
-            "mid": "/m/030q7",
-            "title": "Giải Bóng đá Vô địch Thế giới",
-            "type": "Giải bóng đá"
-          },
-          "value": 12,
-          "formattedValue": "12",
-          "hasData": true,
-          "link": "/trends/explore?q=/m/030q7&date=now+7-d&geo=ID"
-        }
-      },
-      {
-        "query": "Người",
-        "value": 12,
-        "formattedValue": "12",
-        "raw": {
-          "topic": {
-            "mid": "/m/0dgw9r",
-            "title": "Người",
-            "type": "Bộ Linh trưởng"
-          },
-          "value": 12,
-          "formattedValue": "12",
-          "hasData": true,
-          "link": "/trends/explore?q=/m/0dgw9r&date=now+7-d&geo=ID"
-        }
-      },
-      {
-        "query": "Kịch",
-        "value": 12,
-        "formattedValue": "12",
-        "raw": {
-          "topic": {
-            "mid": "/m/02822",
-            "title": "Kịch",
-            "type": "Thể loại văn học"
-          },
-          "value": 12,
-          "formattedValue": "12",
-          "hasData": true,
-          "link": "/trends/explore?q=/m/02822&date=now+7-d&geo=ID"
-        }
-      },
-      {
-        "query": "Kinh dị",
-        "value": 11,
-        "formattedValue": "11",
-        "raw": {
-          "topic": {
-            "mid": "/m/03npn",
-            "title": "Kinh dị",
-            "type": "Thể loại phim"
-          },
-          "value": 11,
-          "formattedValue": "11",
-          "hasData": true,
-          "link": "/trends/explore?q=/m/03npn&date=now+7-d&geo=ID"
-        }
-      },
-      {
-        "query": "Tình yêu",
-        "value": 11,
-        "formattedValue": "11",
-        "raw": {
-          "topic": {
-            "mid": "/m/048knlz",
-            "title": "Tình yêu",
-            "type": "Chủ đề"
-          },
-          "value": 11,
-          "formattedValue": "11",
-          "hasData": true,
-          "link": "/trends/explore?q=/m/048knlz&date=now+7-d&geo=ID"
-        }
-      },
-      {
-        "query": "2025",
-        "value": 11,
-        "formattedValue": "11",
-        "raw": {
-          "topic": {
-            "mid": "/g/11b77d3kyg",
-            "title": "2025",
-            "type": "Chủ đề"
-          },
-          "value": 11,
-          "formattedValue": "11",
-          "hasData": true,
-          "link": "/trends/explore?q=/g/11b77d3kyg&date=now+7-d&geo=ID"
-        }
-      },
-      {
-        "query": "DHOT DESIGN",
-        "value": 11,
-        "formattedValue": "11",
-        "raw": {
-          "topic": {
-            "mid": "/g/11vwlzgh77",
-            "title": "DHOT DESIGN",
-            "type": "Nghệ sĩ âm nhạc"
-          },
-          "value": 11,
-          "formattedValue": "11",
-          "hasData": true,
-          "link": "/trends/explore?q=/g/11vwlzgh77&date=now+7-d&geo=ID"
-        }
-      },
-      {
-        "query": "Ma",
-        "value": 11,
-        "formattedValue": "11",
-        "raw": {
-          "topic": {
-            "mid": "/m/038_l",
-            "title": "Ma",
-            "type": "Chủ đề"
-          },
-          "value": 11,
-          "formattedValue": "11",
-          "hasData": true,
-          "link": "/trends/explore?q=/m/038_l&date=now+7-d&geo=ID"
-        }
-      },
-      {
-        "query": "TikTok",
-        "value": 11,
-        "formattedValue": "11",
-        "raw": {
-          "topic": {
-            "mid": "/g/11f555cn8l",
-            "title": "TikTok",
-            "type": "Trang mạng"
-          },
-          "value": 11,
-          "formattedValue": "11",
-          "hasData": true,
-          "link": "/trends/explore?q=/g/11f555cn8l&date=now+7-d&geo=ID"
-        }
-      }
-    ],
-    "rising": [
-      {
-        "query": "Đội tuyển Bóng đá Quốc gia Algérie",
-        "value": 3700,
-        "formattedValue": "+3.700%",
-        "raw": {
-          "topic": {
-            "mid": "/m/03_qj1",
-            "title": "Đội tuyển Bóng đá Quốc gia Algérie",
-            "type": "Đội bóng đá"
-          },
-          "value": 3700,
-          "formattedValue": "+3.700%",
-          "link": "/trends/explore?q=/m/03_qj1&date=now+7-d&geo=ID"
-        }
-      },
-      {
-        "query": "Đội tuyển Bóng đá Quốc gia Argentina",
-        "value": 350,
-        "formattedValue": "+350%",
-        "raw": {
-          "topic": {
-            "mid": "/m/02bh_v",
-            "title": "Đội tuyển Bóng đá Quốc gia Argentina",
-            "type": "Đội bóng đá"
-          },
-          "value": 350,
-          "formattedValue": "+350%",
-          "link": "/trends/explore?q=/m/02bh_v&date=now+7-d&geo=ID"
-        }
-      },
-      {
-        "query": "Đội tuyển Bóng đá Quốc gia Bồ Đào Nha",
-        "value": 250,
-        "formattedValue": "+250%",
-        "raw": {
-          "topic": {
-            "mid": "/m/02rqxc",
-            "title": "Đội tuyển Bóng đá Quốc gia Bồ Đào Nha",
-            "type": "Đội bóng đá"
-          },
-          "value": 250,
-          "formattedValue": "+250%",
-          "link": "/trends/explore?q=/m/02rqxc&date=now+7-d&geo=ID"
-        }
-      },
-      {
-        "query": "Đội tuyển bóng đá quốc gia Hà Lan",
-        "value": 100,
-        "formattedValue": "+100%",
-        "raw": {
-          "topic": {
-            "mid": "/m/02ltg3",
-            "title": "Đội tuyển bóng đá quốc gia Hà Lan",
-            "type": "Đội bóng đá"
-          },
-          "value": 100,
-          "formattedValue": "+100%",
-          "link": "/trends/explore?q=/m/02ltg3&date=now+7-d&geo=ID"
-        }
-      },
-      {
-        "query": "Cortis",
-        "value": 70,
-        "formattedValue": "+70%",
-        "raw": {
-          "topic": {
-            "mid": "/g/11yhhh4qwj",
-            "title": "Cortis",
-            "type": "Nhóm nhạc"
-          },
-          "value": 70,
-          "formattedValue": "+70%",
-          "link": "/trends/explore?q=/g/11yhhh4qwj&date=now+7-d&geo=ID"
-        }
-      },
-      {
-        "query": "Hôn nhân",
-        "value": 40,
-        "formattedValue": "+40%",
-        "raw": {
-          "topic": {
-            "mid": "/m/04ztj",
-            "title": "Hôn nhân",
-            "type": "Chủ đề"
-          },
-          "value": 40,
-          "formattedValue": "+40%",
-          "link": "/trends/explore?q=/m/04ztj&date=now+7-d&geo=ID"
-        }
-      }
-    ]
+    "top": [],
+    "rising": []
   },
   "queries": {
     "top": [
@@ -512,36 +20,36 @@
       },
       {
         "query": "karaoke",
-        "value": 46,
-        "formattedValue": "46",
+        "value": 45,
+        "formattedValue": "45",
         "raw": {
           "query": "karaoke",
-          "value": 46,
-          "formattedValue": "46",
+          "value": 45,
+          "formattedValue": "45",
           "hasData": true,
           "link": "/trends/explore?q=karaoke&date=now+7-d&geo=ID"
         }
       },
       {
         "query": "dj",
-        "value": 38,
-        "formattedValue": "38",
+        "value": 40,
+        "formattedValue": "40",
         "raw": {
           "query": "dj",
-          "value": 38,
-          "formattedValue": "38",
+          "value": 40,
+          "formattedValue": "40",
           "hasData": true,
           "link": "/trends/explore?q=dj&date=now+7-d&geo=ID"
         }
       },
       {
         "query": "film",
-        "value": 36,
-        "formattedValue": "36",
+        "value": 33,
+        "formattedValue": "33",
         "raw": {
           "query": "film",
-          "value": 36,
-          "formattedValue": "36",
+          "value": 33,
+          "formattedValue": "33",
           "hasData": true,
           "link": "/trends/explore?q=film&date=now+7-d&geo=ID"
         }
@@ -559,39 +67,15 @@
         }
       },
       {
-        "query": "upin",
-        "value": 16,
-        "formattedValue": "16",
-        "raw": {
-          "query": "upin",
-          "value": 16,
-          "formattedValue": "16",
-          "hasData": true,
-          "link": "/trends/explore?q=upin&date=now+7-d&geo=ID"
-        }
-      },
-      {
         "query": "upin ipin",
-        "value": 14,
-        "formattedValue": "14",
+        "value": 15,
+        "formattedValue": "15",
         "raw": {
           "query": "upin ipin",
-          "value": 14,
-          "formattedValue": "14",
+          "value": 15,
+          "formattedValue": "15",
           "hasData": true,
           "link": "/trends/explore?q=upin+ipin&date=now+7-d&geo=ID"
-        }
-      },
-      {
-        "query": "dhot",
-        "value": 12,
-        "formattedValue": "12",
-        "raw": {
-          "query": "dhot",
-          "value": 12,
-          "formattedValue": "12",
-          "hasData": true,
-          "link": "/trends/explore?q=dhot&date=now+7-d&geo=ID"
         }
       },
       {
@@ -631,30 +115,6 @@
         }
       },
       {
-        "query": "piala dunia",
-        "value": 10,
-        "formattedValue": "10",
-        "raw": {
-          "query": "piala dunia",
-          "value": 10,
-          "formattedValue": "10",
-          "hasData": true,
-          "link": "/trends/explore?q=piala+dunia&date=now+7-d&geo=ID"
-        }
-      },
-      {
-        "query": "lucu",
-        "value": 10,
-        "formattedValue": "10",
-        "raw": {
-          "query": "lucu",
-          "value": 10,
-          "formattedValue": "10",
-          "hasData": true,
-          "link": "/trends/explore?q=lucu&date=now+7-d&geo=ID"
-        }
-      },
-      {
         "query": "kicau mania",
         "value": 9,
         "formattedValue": "9",
@@ -664,18 +124,6 @@
           "formattedValue": "9",
           "hasData": true,
           "link": "/trends/explore?q=kicau+mania&date=now+7-d&geo=ID"
-        }
-      },
-      {
-        "query": "kicau kicau kicau mania",
-        "value": 9,
-        "formattedValue": "9",
-        "raw": {
-          "query": "kicau kicau kicau mania",
-          "value": 9,
-          "formattedValue": "9",
-          "hasData": true,
-          "link": "/trends/explore?q=kicau+kicau+kicau+mania&date=now+7-d&geo=ID"
         }
       },
       {
@@ -703,30 +151,6 @@
         }
       },
       {
-        "query": "anak-anak",
-        "value": 8,
-        "formattedValue": "8",
-        "raw": {
-          "query": "anak-anak",
-          "value": 8,
-          "formattedValue": "8",
-          "hasData": true,
-          "link": "/trends/explore?q=anak-anak&date=now+7-d&geo=ID"
-        }
-      },
-      {
-        "query": "sholawat",
-        "value": 8,
-        "formattedValue": "8",
-        "raw": {
-          "query": "sholawat",
-          "value": 8,
-          "formattedValue": "8",
-          "hasData": true,
-          "link": "/trends/explore?q=sholawat&date=now+7-d&geo=ID"
-        }
-      },
-      {
         "query": "sakura",
         "value": 8,
         "formattedValue": "8",
@@ -739,39 +163,15 @@
         }
       },
       {
-        "query": "piala dunia 2026",
-        "value": 7,
-        "formattedValue": "7",
-        "raw": {
-          "query": "piala dunia 2026",
-          "value": 7,
-          "formattedValue": "7",
-          "hasData": true,
-          "link": "/trends/explore?q=piala+dunia+2026&date=now+7-d&geo=ID"
-        }
-      },
-      {
         "query": "horor",
-        "value": 7,
-        "formattedValue": "7",
+        "value": 8,
+        "formattedValue": "8",
         "raw": {
           "query": "horor",
-          "value": 7,
-          "formattedValue": "7",
+          "value": 8,
+          "formattedValue": "8",
           "hasData": true,
           "link": "/trends/explore?q=horor&date=now+7-d&geo=ID"
-        }
-      },
-      {
-        "query": "musik",
-        "value": 7,
-        "formattedValue": "7",
-        "raw": {
-          "query": "musik",
-          "value": 7,
-          "formattedValue": "7",
-          "hasData": true,
-          "link": "/trends/explore?q=musik&date=now+7-d&geo=ID"
         }
       },
       {
@@ -787,181 +187,212 @@
         }
       },
       {
+        "query": "sholawat",
+        "value": 7,
+        "formattedValue": "7",
+        "raw": {
+          "query": "sholawat",
+          "value": 7,
+          "formattedValue": "7",
+          "hasData": true,
+          "link": "/trends/explore?q=sholawat&date=now+7-d&geo=ID"
+        }
+      },
+      {
+        "query": "piala dunia 2026",
+        "value": 7,
+        "formattedValue": "7",
+        "raw": {
+          "query": "piala dunia 2026",
+          "value": 7,
+          "formattedValue": "7",
+          "hasData": true,
+          "link": "/trends/explore?q=piala+dunia+2026&date=now+7-d&geo=ID"
+        }
+      },
+      {
+        "query": "ikan",
+        "value": 7,
+        "formattedValue": "7",
+        "raw": {
+          "query": "ikan",
+          "value": 7,
+          "formattedValue": "7",
+          "hasData": true,
+          "link": "/trends/explore?q=ikan&date=now+7-d&geo=ID"
+        }
+      },
+      {
         "query": "minecraft",
+        "value": 7,
+        "formattedValue": "7",
+        "raw": {
+          "query": "minecraft",
+          "value": 7,
+          "formattedValue": "7",
+          "hasData": true,
+          "link": "/trends/explore?q=minecraft&date=now+7-d&geo=ID"
+        }
+      },
+      {
+        "query": "sapi",
         "value": 6,
         "formattedValue": "6",
         "raw": {
-          "query": "minecraft",
+          "query": "sapi",
           "value": 6,
           "formattedValue": "6",
           "hasData": true,
-          "link": "/trends/explore?q=minecraft&date=now+7-d&geo=ID"
+          "link": "/trends/explore?q=sapi&date=now+7-d&geo=ID"
+        }
+      },
+      {
+        "query": "karaoke dangdut",
+        "value": 6,
+        "formattedValue": "6",
+        "raw": {
+          "query": "karaoke dangdut",
+          "value": 6,
+          "formattedValue": "6",
+          "hasData": true,
+          "link": "/trends/explore?q=karaoke+dangdut&date=now+7-d&geo=ID"
+        }
+      },
+      {
+        "query": "nadia omara",
+        "value": 6,
+        "formattedValue": "6",
+        "raw": {
+          "query": "nadia omara",
+          "value": 6,
+          "formattedValue": "6",
+          "hasData": true,
+          "link": "/trends/explore?q=nadia+omara&date=now+7-d&geo=ID"
+        }
+      },
+      {
+        "query": "karoke",
+        "value": 6,
+        "formattedValue": "6",
+        "raw": {
+          "query": "karoke",
+          "value": 6,
+          "formattedValue": "6",
+          "hasData": true,
+          "link": "/trends/explore?q=karoke&date=now+7-d&geo=ID"
+        }
+      },
+      {
+        "query": "lagu anak anak",
+        "value": 6,
+        "formattedValue": "6",
+        "raw": {
+          "query": "lagu anak anak",
+          "value": 6,
+          "formattedValue": "6",
+          "hasData": true,
+          "link": "/trends/explore?q=lagu+anak+anak&date=now+7-d&geo=ID"
+        }
+      },
+      {
+        "query": "boboiboy",
+        "value": 6,
+        "formattedValue": "6",
+        "raw": {
+          "query": "boboiboy",
+          "value": 6,
+          "formattedValue": "6",
+          "hasData": true,
+          "link": "/trends/explore?q=boboiboy&date=now+7-d&geo=ID"
         }
       }
     ],
     "rising": [
       {
         "query": "argentina vs aljazair 2026",
-        "value": 4650,
-        "formattedValue": "+4.650%",
+        "value": 3700,
+        "formattedValue": "+3.700%",
         "raw": {
           "query": "argentina vs aljazair 2026",
-          "value": 4650,
-          "formattedValue": "+4.650%",
+          "value": 3700,
+          "formattedValue": "+3.700%",
           "link": "/trends/explore?q=argentina+vs+aljazair+2026&date=now+7-d&geo=ID"
         }
       },
       {
-        "query": "portugal vs rd kongo",
-        "value": 3850,
-        "formattedValue": "+3.850%",
-        "raw": {
-          "query": "portugal vs rd kongo",
-          "value": 3850,
-          "formattedValue": "+3.850%",
-          "link": "/trends/explore?q=portugal+vs+rd+kongo&date=now+7-d&geo=ID"
-        }
-      },
-      {
-        "query": "belanda vs swedia",
-        "value": 2800,
-        "formattedValue": "+2.800%",
-        "raw": {
-          "query": "belanda vs swedia",
-          "value": 2800,
-          "formattedValue": "+2.800%",
-          "link": "/trends/explore?q=belanda+vs+swedia&date=now+7-d&geo=ID"
-        }
-      },
-      {
-        "query": "spanyol vs tanjung verde",
-        "value": 2650,
-        "formattedValue": "+2.650%",
-        "raw": {
-          "query": "spanyol vs tanjung verde",
-          "value": 2650,
-          "formattedValue": "+2.650%",
-          "link": "/trends/explore?q=spanyol+vs+tanjung+verde&date=now+7-d&geo=ID"
-        }
-      },
-      {
-        "query": "oliver tree",
+        "query": "argentina vs austria 2026 live",
         "value": 2000,
         "formattedValue": "+2.000%",
         "raw": {
-          "query": "oliver tree",
+          "query": "argentina vs austria 2026 live",
           "value": 2000,
           "formattedValue": "+2.000%",
-          "link": "/trends/explore?q=oliver+tree&date=now+7-d&geo=ID"
+          "link": "/trends/explore?q=argentina+vs+austria+2026+live&date=now+7-d&geo=ID"
         }
       },
       {
-        "query": "jepang vs tunisia",
-        "value": 1800,
-        "formattedValue": "+1.800%",
+        "query": "lemon tang hearts2hearts",
+        "value": 800,
+        "formattedValue": "+800%",
         "raw": {
-          "query": "jepang vs tunisia",
-          "value": 1800,
-          "formattedValue": "+1.800%",
-          "link": "/trends/explore?q=jepang+vs+tunisia&date=now+7-d&geo=ID"
-        }
-      },
-      {
-        "query": "spanyol vs arab saudi",
-        "value": 1550,
-        "formattedValue": "+1.550%",
-        "raw": {
-          "query": "spanyol vs arab saudi",
-          "value": 1550,
-          "formattedValue": "+1.550%",
-          "link": "/trends/explore?q=spanyol+vs+arab+saudi&date=now+7-d&geo=ID"
-        }
-      },
-      {
-        "query": "pratiwi noviyanthi",
-        "value": 350,
-        "formattedValue": "+350%",
-        "raw": {
-          "query": "pratiwi noviyanthi",
-          "value": 350,
-          "formattedValue": "+350%",
-          "link": "/trends/explore?q=pratiwi+noviyanthi&date=now+7-d&geo=ID"
+          "query": "lemon tang hearts2hearts",
+          "value": 800,
+          "formattedValue": "+800%",
+          "link": "/trends/explore?q=lemon+tang+hearts2hearts&date=now+7-d&geo=ID"
         }
       },
       {
         "query": "obh combi sachet",
-        "value": 350,
-        "formattedValue": "+350%",
+        "value": 250,
+        "formattedValue": "+250%",
         "raw": {
           "query": "obh combi sachet",
-          "value": 350,
-          "formattedValue": "+350%",
+          "value": 250,
+          "formattedValue": "+250%",
           "link": "/trends/explore?q=obh+combi+sachet&date=now+7-d&geo=ID"
         }
       },
       {
-        "query": "cazetv",
-        "value": 130,
-        "formattedValue": "+130%",
+        "query": "hearts 2 hearts",
+        "value": 90,
+        "formattedValue": "+90%",
         "raw": {
-          "query": "cazetv",
-          "value": 130,
-          "formattedValue": "+130%",
-          "link": "/trends/explore?q=cazetv&date=now+7-d&geo=ID"
+          "query": "hearts 2 hearts",
+          "value": 90,
+          "formattedValue": "+90%",
+          "link": "/trends/explore?q=hearts+2+hearts&date=now+7-d&geo=ID"
+        }
+      },
+      {
+        "query": "denny sumargo",
+        "value": 90,
+        "formattedValue": "+90%",
+        "raw": {
+          "query": "denny sumargo",
+          "value": 90,
+          "formattedValue": "+90%",
+          "link": "/trends/explore?q=denny+sumargo&date=now+7-d&geo=ID"
         }
       },
       {
         "query": "andra st",
-        "value": 110,
-        "formattedValue": "+110%",
+        "value": 90,
+        "formattedValue": "+90%",
         "raw": {
           "query": "andra st",
-          "value": 110,
-          "formattedValue": "+110%",
+          "value": 90,
+          "formattedValue": "+90%",
           "link": "/trends/explore?q=andra+st&date=now+7-d&geo=ID"
         }
       },
       {
-        "query": "hasil piala dunia 2026",
-        "value": 60,
-        "formattedValue": "+60%",
-        "raw": {
-          "query": "hasil piala dunia 2026",
-          "value": 60,
-          "formattedValue": "+60%",
-          "link": "/trends/explore?q=hasil+piala+dunia+2026&date=now+7-d&geo=ID"
-        }
-      },
-      {
-        "query": "tvri sport",
-        "value": 50,
-        "formattedValue": "+50%",
-        "raw": {
-          "query": "tvri sport",
-          "value": 50,
-          "formattedValue": "+50%",
-          "link": "/trends/explore?q=tvri+sport&date=now+7-d&geo=ID"
-        }
-      },
-      {
-        "query": "tvri",
-        "value": 50,
-        "formattedValue": "+50%",
-        "raw": {
-          "query": "tvri",
-          "value": 50,
-          "formattedValue": "+50%",
-          "link": "/trends/explore?q=tvri&date=now+7-d&geo=ID"
-        }
-      },
-      {
         "query": "cortis",
-        "value": 50,
-        "formattedValue": "+50%",
+        "value": 80,
+        "formattedValue": "+80%",
         "raw": {
           "query": "cortis",
-          "value": 50,
-          "formattedValue": "+50%",
+          "value": 80,
+          "formattedValue": "+80%",
           "link": "/trends/explore?q=cortis&date=now+7-d&geo=ID"
         }
       }
