@@ -1,739 +1,8 @@
 {
   "status": "success",
   "topics": {
-    "top": [
-      {
-        "query": "Bài hát",
-        "value": 100,
-        "formattedValue": "100",
-        "raw": {
-          "topic": {
-            "mid": "/m/074ft",
-            "title": "Bài hát",
-            "type": "Loại sáng tác"
-          },
-          "value": 100,
-          "formattedValue": "100",
-          "hasData": true,
-          "link": "/trends/explore?q=/m/074ft&date=now+7-d&geo=TR"
-        }
-      },
-      {
-        "query": "Điện ảnh",
-        "value": 60,
-        "formattedValue": "60",
-        "raw": {
-          "topic": {
-            "mid": "/m/02vxn",
-            "title": "Điện ảnh",
-            "type": "Loại truyền hình"
-          },
-          "value": 60,
-          "formattedValue": "60",
-          "hasData": true,
-          "link": "/trends/explore?q=/m/02vxn&date=now+7-d&geo=TR"
-        }
-      },
-      {
-        "query": "Tiếng Thổ Nhĩ Kỳ",
-        "value": 54,
-        "formattedValue": "54",
-        "raw": {
-          "topic": {
-            "mid": "/m/02hwyss",
-            "title": "Tiếng Thổ Nhĩ Kỳ",
-            "type": "Tiếng"
-          },
-          "value": 54,
-          "formattedValue": "54",
-          "hasData": true,
-          "link": "/trends/explore?q=/m/02hwyss&date=now+7-d&geo=TR"
-        }
-      },
-      {
-        "query": "Video",
-        "value": 45,
-        "formattedValue": "45",
-        "raw": {
-          "topic": {
-            "mid": "/m/07z4p",
-            "title": "Video",
-            "type": "Định dạng phim"
-          },
-          "value": 45,
-          "formattedValue": "45",
-          "hasData": true,
-          "link": "/trends/explore?q=/m/07z4p&date=now+7-d&geo=TR"
-        }
-      },
-      {
-        "query": "2026",
-        "value": 37,
-        "formattedValue": "37",
-        "raw": {
-          "topic": {
-            "mid": "/g/11b77d6b6g",
-            "title": "2026",
-            "type": "Chủ đề"
-          },
-          "value": 37,
-          "formattedValue": "37",
-          "hasData": true,
-          "link": "/trends/explore?q=/g/11b77d6b6g&date=now+7-d&geo=TR"
-        }
-      },
-      {
-        "query": "Manifest",
-        "value": 35,
-        "formattedValue": "35",
-        "raw": {
-          "topic": {
-            "mid": "/g/11w_xpz82x",
-            "title": "Manifest",
-            "type": "Nhóm nhạc"
-          },
-          "value": 35,
-          "formattedValue": "35",
-          "hasData": true,
-          "link": "/trends/explore?q=/g/11w_xpz82x&date=now+7-d&geo=TR"
-        }
-      },
-      {
-        "query": "Công thức nấu ăn",
-        "value": 33,
-        "formattedValue": "33",
-        "raw": {
-          "topic": {
-            "mid": "/m/0p57p",
-            "title": "Công thức nấu ăn",
-            "type": "Thể loại văn học"
-          },
-          "value": 33,
-          "formattedValue": "33",
-          "hasData": true,
-          "link": "/trends/explore?q=/m/0p57p&date=now+7-d&geo=TR"
-        }
-      },
-      {
-        "query": "Thổ Nhĩ Kỳ",
-        "value": 28,
-        "formattedValue": "28",
-        "raw": {
-          "topic": {
-            "mid": "/m/01znc_",
-            "title": "Thổ Nhĩ Kỳ",
-            "type": "Quốc gia ở Trung Đông"
-          },
-          "value": 28,
-          "formattedValue": "28",
-          "hasData": true,
-          "link": "/trends/explore?q=/m/01znc_&date=now+7-d&geo=TR"
-        }
-      },
-      {
-        "query": "Âm nhạc",
-        "value": 28,
-        "formattedValue": "28",
-        "raw": {
-          "topic": {
-            "mid": "/m/04rlf",
-            "title": "Âm nhạc",
-            "type": "Định dạng âm thanh"
-          },
-          "value": 28,
-          "formattedValue": "28",
-          "hasData": true,
-          "link": "/trends/explore?q=/m/04rlf&date=now+7-d&geo=TR"
-        }
-      },
-      {
-        "query": "Trò chơi",
-        "value": 27,
-        "formattedValue": "27",
-        "raw": {
-          "topic": {
-            "mid": "/m/03bt1gh",
-            "title": "Trò chơi",
-            "type": "Chủ đề"
-          },
-          "value": 27,
-          "formattedValue": "27",
-          "hasData": true,
-          "link": "/trends/explore?q=/m/03bt1gh&date=now+7-d&geo=TR"
-        }
-      },
-      {
-        "query": "Âm thanh",
-        "value": 26,
-        "formattedValue": "26",
-        "raw": {
-          "topic": {
-            "mid": "/m/06qc5",
-            "title": "Âm thanh",
-            "type": "Chủ đề"
-          },
-          "value": 26,
-          "formattedValue": "26",
-          "hasData": true,
-          "link": "/trends/explore?q=/m/06qc5&date=now+7-d&geo=TR"
-        }
-      },
-      {
-        "query": "Istanbul",
-        "value": 24,
-        "formattedValue": "24",
-        "raw": {
-          "topic": {
-            "mid": "/m/09949m",
-            "title": "Istanbul",
-            "type": "Thành phố ở Thổ Nhĩ Kỳ"
-          },
-          "value": 24,
-          "formattedValue": "24",
-          "hasData": true,
-          "link": "/trends/explore?q=/m/09949m&date=now+7-d&geo=TR"
-        }
-      },
-      {
-        "query": "Trẻ em",
-        "value": 23,
-        "formattedValue": "23",
-        "raw": {
-          "topic": {
-            "mid": "/m/0ytgt",
-            "title": "Trẻ em",
-            "type": "Chủ đề"
-          },
-          "value": 23,
-          "formattedValue": "23",
-          "hasData": true,
-          "link": "/trends/explore?q=/m/0ytgt&date=now+7-d&geo=TR"
-        }
-      },
-      {
-        "query": "Chương trình truyền hình dài tập",
-        "value": 23,
-        "formattedValue": "23",
-        "raw": {
-          "topic": {
-            "mid": "/g/1219y26q",
-            "title": "Chương trình truyền hình dài tập",
-            "type": "Chủ đề"
-          },
-          "value": 23,
-          "formattedValue": "23",
-          "hasData": true,
-          "link": "/trends/explore?q=/g/1219y26q&date=now+7-d&geo=TR"
-        }
-      },
-      {
-        "query": "Trailer",
-        "value": 20,
-        "formattedValue": "20",
-        "raw": {
-          "topic": {
-            "mid": "/m/03hdbf",
-            "title": "Trailer",
-            "type": "Chủ đề"
-          },
-          "value": 20,
-          "formattedValue": "20",
-          "hasData": true,
-          "link": "/trends/explore?q=/m/03hdbf&date=now+7-d&geo=TR"
-        }
-      },
-      {
-        "query": "Ô tô",
-        "value": 20,
-        "formattedValue": "20",
-        "raw": {
-          "topic": {
-            "mid": "/m/0k4j",
-            "title": "Ô tô",
-            "type": "Chế độ phương tiện"
-          },
-          "value": 20,
-          "formattedValue": "20",
-          "hasData": true,
-          "link": "/trends/explore?q=/m/0k4j&date=now+7-d&geo=TR"
-        }
-      },
-      {
-        "query": "Toán học",
-        "value": 19,
-        "formattedValue": "19",
-        "raw": {
-          "topic": {
-            "mid": "/m/04rjg",
-            "title": "Toán học",
-            "type": "Lĩnh vực nghiên cứu"
-          },
-          "value": 19,
-          "formattedValue": "19",
-          "hasData": true,
-          "link": "/trends/explore?q=/m/04rjg&date=now+7-d&geo=TR"
-        }
-      },
-      {
-        "query": "Trẻ sơ sinh",
-        "value": 18,
-        "formattedValue": "18",
-        "raw": {
-          "topic": {
-            "mid": "/m/0jnvp",
-            "title": "Trẻ sơ sinh",
-            "type": "Chủ đề"
-          },
-          "value": 18,
-          "formattedValue": "18",
-          "hasData": true,
-          "link": "/trends/explore?q=/m/0jnvp&date=now+7-d&geo=TR"
-        }
-      },
-      {
-        "query": "Con gái",
-        "value": 18,
-        "formattedValue": "18",
-        "raw": {
-          "topic": {
-            "mid": "/m/05r655",
-            "title": "Con gái",
-            "type": "Chủ đề"
-          },
-          "value": 18,
-          "formattedValue": "18",
-          "hasData": true,
-          "link": "/trends/explore?q=/m/05r655&date=now+7-d&geo=TR"
-        }
-      },
-      {
-        "query": "Minecraft",
-        "value": 17,
-        "formattedValue": "17",
-        "raw": {
-          "topic": {
-            "mid": "/m/09v6kpg",
-            "title": "Minecraft",
-            "type": "Trò chơi điện tử"
-          },
-          "value": 17,
-          "formattedValue": "17",
-          "hasData": true,
-          "link": "/trends/explore?q=/m/09v6kpg&date=now+7-d&geo=TR"
-        }
-      },
-      {
-        "query": "phim hoạt hình",
-        "value": 15,
-        "formattedValue": "15",
-        "raw": {
-          "topic": {
-            "mid": "/g/120pnns2",
-            "title": "phim hoạt hình",
-            "type": "Thể loại phim"
-          },
-          "value": 15,
-          "formattedValue": "15",
-          "hasData": true,
-          "link": "/trends/explore?q=/g/120pnns2&date=now+7-d&geo=TR"
-        }
-      },
-      {
-        "query": "Remix",
-        "value": 14,
-        "formattedValue": "14",
-        "raw": {
-          "topic": {
-            "mid": "/m/014k25",
-            "title": "Remix",
-            "type": "Chủ đề"
-          },
-          "value": 14,
-          "formattedValue": "14",
-          "hasData": true,
-          "link": "/trends/explore?q=/m/014k25&date=now+7-d&geo=TR"
-        }
-      },
-      {
-        "query": "Lồng tiếng",
-        "value": 14,
-        "formattedValue": "14",
-        "raw": {
-          "topic": {
-            "mid": "/m/02g52",
-            "title": "Lồng tiếng",
-            "type": "Chủ đề"
-          },
-          "value": 14,
-          "formattedValue": "14",
-          "hasData": true,
-          "link": "/trends/explore?q=/m/02g52&date=now+7-d&geo=TR"
-        }
-      },
-      {
-        "query": "Hài",
-        "value": 14,
-        "formattedValue": "14",
-        "raw": {
-          "topic": {
-            "mid": "/m/03ykjs9",
-            "title": "Hài",
-            "type": "Thể loại truyền hình"
-          },
-          "value": 14,
-          "formattedValue": "14",
-          "hasData": true,
-          "link": "/trends/explore?q=/m/03ykjs9&date=now+7-d&geo=TR"
-        }
-      }
-    ],
-    "rising": [
-      {
-        "query": "Ece Irtem",
-        "value": 11200,
-        "formattedValue": "Đột phá",
-        "raw": {
-          "topic": {
-            "mid": "/g/11jg4cvpwf",
-            "title": "Ece Irtem",
-            "type": "Diễn viên"
-          },
-          "value": 11200,
-          "formattedValue": "Đột phá",
-          "link": "/trends/explore?q=/g/11jg4cvpwf&date=now+7-d&geo=TR"
-        }
-      },
-      {
-        "query": "Muhtemel Aşk",
-        "value": 2400,
-        "formattedValue": "+2.400%",
-        "raw": {
-          "topic": {
-            "mid": "/g/11f26qhqzx",
-            "title": "Muhtemel Aşk",
-            "type": "Bài hát"
-          },
-          "value": 2400,
-          "formattedValue": "+2.400%",
-          "link": "/trends/explore?q=/g/11f26qhqzx&date=now+7-d&geo=TR"
-        }
-      },
-      {
-        "query": "Đội tuyển Bóng đá Quốc gia Paraguay",
-        "value": 1650,
-        "formattedValue": "+1.650%",
-        "raw": {
-          "topic": {
-            "mid": "/m/03d8m4",
-            "title": "Đội tuyển Bóng đá Quốc gia Paraguay",
-            "type": "Đội bóng đá"
-          },
-          "value": 1650,
-          "formattedValue": "+1.650%",
-          "link": "/trends/explore?q=/m/03d8m4&date=now+7-d&geo=TR"
-        }
-      },
-      {
-        "query": "Justin Gaethje",
-        "value": 1300,
-        "formattedValue": "+1.300%",
-        "raw": {
-          "topic": {
-            "mid": "/m/0vxcsnv",
-            "title": "Justin Gaethje",
-            "type": "Võ sĩ võ đạo"
-          },
-          "value": 1300,
-          "formattedValue": "+1.300%",
-          "link": "/trends/explore?q=/m/0vxcsnv&date=now+7-d&geo=TR"
-        }
-      },
-      {
-        "query": "Ilia Topuria",
-        "value": 700,
-        "formattedValue": "+700%",
-        "raw": {
-          "topic": {
-            "mid": "/g/11fq7kcv3g",
-            "title": "Ilia Topuria",
-            "type": "Võ thuật tổng hợp"
-          },
-          "value": 700,
-          "formattedValue": "+700%",
-          "link": "/trends/explore?q=/g/11fq7kcv3g&date=now+7-d&geo=TR"
-        }
-      },
-      {
-        "query": "Ngày của Cha",
-        "value": 600,
-        "formattedValue": "+600%",
-        "raw": {
-          "topic": {
-            "mid": "/m/0cjkt",
-            "title": "Ngày của Cha",
-            "type": "Ngày lễ"
-          },
-          "value": 600,
-          "formattedValue": "+600%",
-          "link": "/trends/explore?q=/m/0cjkt&date=now+7-d&geo=TR"
-        }
-      },
-      {
-        "query": "Istanbul",
-        "value": 550,
-        "formattedValue": "+550%",
-        "raw": {
-          "topic": {
-            "mid": "/m/09949m",
-            "title": "Istanbul",
-            "type": "Thành phố ở Thổ Nhĩ Kỳ"
-          },
-          "value": 550,
-          "formattedValue": "+550%",
-          "link": "/trends/explore?q=/m/09949m&date=now+7-d&geo=TR"
-        }
-      },
-      {
-        "query": "Argentina",
-        "value": 450,
-        "formattedValue": "+450%",
-        "raw": {
-          "topic": {
-            "mid": "/m/0jgd",
-            "title": "Argentina",
-            "type": "Quốc gia ở Nam Mỹ"
-          },
-          "value": 450,
-          "formattedValue": "+450%",
-          "link": "/trends/explore?q=/m/0jgd&date=now+7-d&geo=TR"
-        }
-      },
-      {
-        "query": "Nature Of Love",
-        "value": 400,
-        "formattedValue": "+400%",
-        "raw": {
-          "topic": {
-            "mid": "/g/11z7vxncqm",
-            "title": "Nature Of Love",
-            "type": "Chủ đề"
-          },
-          "value": 400,
-          "formattedValue": "+400%",
-          "link": "/trends/explore?q=/g/11z7vxncqm&date=now+7-d&geo=TR"
-        }
-      },
-      {
-        "query": "Paraguay",
-        "value": 200,
-        "formattedValue": "+200%",
-        "raw": {
-          "topic": {
-            "mid": "/m/05v10",
-            "title": "Paraguay",
-            "type": "Quốc gia ở Nam Mỹ"
-          },
-          "value": 200,
-          "formattedValue": "+200%",
-          "link": "/trends/explore?q=/m/05v10&date=now+7-d&geo=TR"
-        }
-      },
-      {
-        "query": "Tây Ban Nha",
-        "value": 180,
-        "formattedValue": "+180%",
-        "raw": {
-          "topic": {
-            "mid": "/m/06mkj",
-            "title": "Tây Ban Nha",
-            "type": "Quốc gia"
-          },
-          "value": 180,
-          "formattedValue": "+180%",
-          "link": "/trends/explore?q=/m/06mkj&date=now+7-d&geo=TR"
-        }
-      },
-      {
-        "query": "Higher Education Institutions Examination",
-        "value": 160,
-        "formattedValue": "+160%",
-        "raw": {
-          "topic": {
-            "mid": "/g/11fzf79jx0",
-            "title": "Higher Education Institutions Examination",
-            "type": "Chủ đề"
-          },
-          "value": 160,
-          "formattedValue": "+160%",
-          "link": "/trends/explore?q=/g/11fzf79jx0&date=now+7-d&geo=TR"
-        }
-      },
-      {
-        "query": "Rạp xiếc kỹ thuật số diệu kỳ",
-        "value": 140,
-        "formattedValue": "+140%",
-        "raw": {
-          "topic": {
-            "mid": "/g/11krktg_mq",
-            "title": "Rạp xiếc kỹ thuật số diệu kỳ",
-            "type": "Phim truyền hình"
-          },
-          "value": 140,
-          "formattedValue": "+140%",
-          "link": "/trends/explore?q=/g/11krktg_mq&date=now+7-d&geo=TR"
-        }
-      },
-      {
-        "query": "Bóng chuyền",
-        "value": 120,
-        "formattedValue": "+120%",
-        "raw": {
-          "topic": {
-            "mid": "/m/07_53",
-            "title": "Bóng chuyền",
-            "type": "Thể thao"
-          },
-          "value": 120,
-          "formattedValue": "+120%",
-          "link": "/trends/explore?q=/m/07_53&date=now+7-d&geo=TR"
-        }
-      },
-      {
-        "query": "TRT Spor",
-        "value": 110,
-        "formattedValue": "+110%",
-        "raw": {
-          "topic": {
-            "mid": "/g/15dpx8yd",
-            "title": "TRT Spor",
-            "type": "Mạng truyền hình"
-          },
-          "value": 110,
-          "formattedValue": "+110%",
-          "link": "/trends/explore?q=/g/15dpx8yd&date=now+7-d&geo=TR"
-        }
-      },
-      {
-        "query": "Đức",
-        "value": 110,
-        "formattedValue": "+110%",
-        "raw": {
-          "topic": {
-            "mid": "/m/0345h",
-            "title": "Đức",
-            "type": "Quốc gia ở Châu Âu"
-          },
-          "value": 110,
-          "formattedValue": "+110%",
-          "link": "/trends/explore?q=/m/0345h&date=now+7-d&geo=TR"
-        }
-      },
-      {
-        "query": "BoraLo",
-        "value": 110,
-        "formattedValue": "+110%",
-        "raw": {
-          "topic": {
-            "mid": "/g/11vxmd7wgh",
-            "title": "BoraLo",
-            "type": "Chủ đề"
-          },
-          "value": 110,
-          "formattedValue": "+110%",
-          "link": "/trends/explore?q=/g/11vxmd7wgh&date=now+7-d&geo=TR"
-        }
-      },
-      {
-        "query": "Hồng",
-        "value": 100,
-        "formattedValue": "+100%",
-        "raw": {
-          "topic": {
-            "mid": "/m/01fklc",
-            "title": "Hồng",
-            "type": "Màu"
-          },
-          "value": 100,
-          "formattedValue": "+100%",
-          "link": "/trends/explore?q=/m/01fklc&date=now+7-d&geo=TR"
-        }
-      },
-      {
-        "query": "Pháp",
-        "value": 90,
-        "formattedValue": "+90%",
-        "raw": {
-          "topic": {
-            "mid": "/m/0f8l9c",
-            "title": "Pháp",
-            "type": "Quốc gia ở Châu Âu"
-          },
-          "value": 90,
-          "formattedValue": "+90%",
-          "link": "/trends/explore?q=/m/0f8l9c&date=now+7-d&geo=TR"
-        }
-      },
-      {
-        "query": "Yeni Gelin",
-        "value": 60,
-        "formattedValue": "+60%",
-        "raw": {
-          "topic": {
-            "mid": "/g/11c6zx3kkz",
-            "title": "Yeni Gelin",
-            "type": "Chương trình truyền hình"
-          },
-          "value": 60,
-          "formattedValue": "+60%",
-          "link": "/trends/explore?q=/g/11c6zx3kkz&date=now+7-d&geo=TR"
-        }
-      },
-      {
-        "query": "Quà tặng",
-        "value": 60,
-        "formattedValue": "+60%",
-        "raw": {
-          "topic": {
-            "mid": "/m/0d84n",
-            "title": "Quà tặng",
-            "type": "Chủ đề"
-          },
-          "value": 60,
-          "formattedValue": "+60%",
-          "link": "/trends/explore?q=/m/0d84n&date=now+7-d&geo=TR"
-        }
-      },
-      {
-        "query": "Hướng bắc",
-        "value": 50,
-        "formattedValue": "+50%",
-        "raw": {
-          "topic": {
-            "mid": "/m/0fm3w",
-            "title": "Hướng bắc",
-            "type": "Chủ đề"
-          },
-          "value": 50,
-          "formattedValue": "+50%",
-          "link": "/trends/explore?q=/m/0fm3w&date=now+7-d&geo=TR"
-        }
-      },
-      {
-        "query": "Roblox",
-        "value": 50,
-        "formattedValue": "+50%",
-        "raw": {
-          "topic": {
-            "mid": "/m/026bs1g",
-            "title": "Roblox",
-            "type": "Nền tảng điện toán"
-          },
-          "value": 50,
-          "formattedValue": "+50%",
-          "link": "/trends/explore?q=/m/026bs1g&date=now+7-d&geo=TR"
-        }
-      }
-    ]
+    "top": [],
+    "rising": []
   },
   "queries": {
     "top": [
@@ -751,567 +20,479 @@
       },
       {
         "query": "manifest",
-        "value": 65,
-        "formattedValue": "65",
+        "value": 63,
+        "formattedValue": "63",
         "raw": {
           "query": "manifest",
-          "value": 65,
-          "formattedValue": "65",
+          "value": 63,
+          "formattedValue": "63",
           "hasData": true,
           "link": "/trends/explore?q=manifest&date=now+7-d&geo=TR"
         }
       },
       {
-        "query": "ayt",
-        "value": 53,
-        "formattedValue": "53",
-        "raw": {
-          "query": "ayt",
-          "value": 53,
-          "formattedValue": "53",
-          "hasData": true,
-          "link": "/trends/explore?q=ayt&date=now+7-d&geo=TR"
-        }
-      },
-      {
         "query": "şarkılar",
-        "value": 51,
-        "formattedValue": "51",
+        "value": 48,
+        "formattedValue": "48",
         "raw": {
           "query": "şarkılar",
-          "value": 51,
-          "formattedValue": "51",
+          "value": 48,
+          "formattedValue": "48",
           "hasData": true,
           "link": "/trends/explore?q=%C5%9Fark%C4%B1lar&date=now+7-d&geo=TR"
         }
       },
       {
-        "query": "istanbul",
-        "value": 43,
-        "formattedValue": "43",
-        "raw": {
-          "query": "istanbul",
-          "value": 43,
-          "formattedValue": "43",
-          "hasData": true,
-          "link": "/trends/explore?q=istanbul&date=now+7-d&geo=TR"
-        }
-      },
-      {
-        "query": "türkiye",
-        "value": 43,
-        "formattedValue": "43",
-        "raw": {
-          "query": "türkiye",
-          "value": 43,
-          "formattedValue": "43",
-          "hasData": true,
-          "link": "/trends/explore?q=t%C3%BCrkiye&date=now+7-d&geo=TR"
-        }
-      },
-      {
-        "query": "film",
-        "value": 42,
-        "formattedValue": "42",
-        "raw": {
-          "query": "film",
-          "value": 42,
-          "formattedValue": "42",
-          "hasData": true,
-          "link": "/trends/explore?q=film&date=now+7-d&geo=TR"
-        }
-      },
-      {
-        "query": "minecraft",
+        "query": "altı üstü istanbul",
         "value": 28,
         "formattedValue": "28",
         "raw": {
-          "query": "minecraft",
+          "query": "altı üstü istanbul",
           "value": 28,
           "formattedValue": "28",
-          "hasData": true,
-          "link": "/trends/explore?q=minecraft&date=now+7-d&geo=TR"
-        }
-      },
-      {
-        "query": "altı üstü istanbul",
-        "value": 25,
-        "formattedValue": "25",
-        "raw": {
-          "query": "altı üstü istanbul",
-          "value": 25,
-          "formattedValue": "25",
           "hasData": true,
           "link": "/trends/explore?q=alt%C4%B1+%C3%BCst%C3%BC+istanbul&date=now+7-d&geo=TR"
         }
       },
       {
-        "query": "kedi",
-        "value": 24,
-        "formattedValue": "24",
+        "query": "minecraft",
+        "value": 26,
+        "formattedValue": "26",
         "raw": {
-          "query": "kedi",
-          "value": 24,
-          "formattedValue": "24",
+          "query": "minecraft",
+          "value": 26,
+          "formattedValue": "26",
           "hasData": true,
-          "link": "/trends/explore?q=kedi&date=now+7-d&geo=TR"
+          "link": "/trends/explore?q=minecraft&date=now+7-d&geo=TR"
         }
       },
       {
         "query": "şarkı",
-        "value": 23,
-        "formattedValue": "23",
+        "value": 21,
+        "formattedValue": "21",
         "raw": {
           "query": "şarkı",
-          "value": 23,
-          "formattedValue": "23",
+          "value": 21,
+          "formattedValue": "21",
           "hasData": true,
           "link": "/trends/explore?q=%C5%9Fark%C4%B1&date=now+7-d&geo=TR"
         }
       },
       {
         "query": "müge anlı",
-        "value": 22,
-        "formattedValue": "22",
+        "value": 18,
+        "formattedValue": "18",
         "raw": {
           "query": "müge anlı",
-          "value": 22,
-          "formattedValue": "22",
+          "value": 18,
+          "formattedValue": "18",
           "hasData": true,
           "link": "/trends/explore?q=m%C3%BCge+anl%C4%B1&date=now+7-d&geo=TR"
         }
       },
       {
         "query": "taşacak bu deniz",
-        "value": 19,
-        "formattedValue": "19",
+        "value": 18,
+        "formattedValue": "18",
         "raw": {
           "query": "taşacak bu deniz",
-          "value": 19,
-          "formattedValue": "19",
+          "value": 18,
+          "formattedValue": "18",
           "hasData": true,
           "link": "/trends/explore?q=ta%C5%9Facak+bu+deniz&date=now+7-d&geo=TR"
         }
       },
       {
         "query": "survivor",
-        "value": 19,
-        "formattedValue": "19",
+        "value": 16,
+        "formattedValue": "16",
         "raw": {
           "query": "survivor",
-          "value": 19,
-          "formattedValue": "19",
+          "value": 16,
+          "formattedValue": "16",
           "hasData": true,
           "link": "/trends/explore?q=survivor&date=now+7-d&geo=TR"
         }
       },
       {
-        "query": "araba",
-        "value": 19,
-        "formattedValue": "19",
-        "raw": {
-          "query": "araba",
-          "value": 19,
-          "formattedValue": "19",
-          "hasData": true,
-          "link": "/trends/explore?q=araba&date=now+7-d&geo=TR"
-        }
-      },
-      {
         "query": "asmr",
-        "value": 17,
-        "formattedValue": "17",
+        "value": 16,
+        "formattedValue": "16",
         "raw": {
           "query": "asmr",
-          "value": 17,
-          "formattedValue": "17",
+          "value": 16,
+          "formattedValue": "16",
           "hasData": true,
           "link": "/trends/explore?q=asmr&date=now+7-d&geo=TR"
         }
       },
       {
-        "query": "eşref rüya",
-        "value": 17,
-        "formattedValue": "17",
+        "query": "muhtemel aşk",
+        "value": 15,
+        "formattedValue": "15",
         "raw": {
-          "query": "eşref rüya",
-          "value": 17,
-          "formattedValue": "17",
+          "query": "muhtemel aşk",
+          "value": 15,
+          "formattedValue": "15",
           "hasData": true,
-          "link": "/trends/explore?q=e%C5%9Fref+r%C3%BCya&date=now+7-d&geo=TR"
-        }
-      },
-      {
-        "query": "roblox",
-        "value": 16,
-        "formattedValue": "16",
-        "raw": {
-          "query": "roblox",
-          "value": 16,
-          "formattedValue": "16",
-          "hasData": true,
-          "link": "/trends/explore?q=roblox&date=now+7-d&geo=TR"
+          "link": "/trends/explore?q=muhtemel+a%C5%9Fk&date=now+7-d&geo=TR"
         }
       },
       {
         "query": "güldür güldür",
-        "value": 16,
-        "formattedValue": "16",
+        "value": 15,
+        "formattedValue": "15",
         "raw": {
           "query": "güldür güldür",
-          "value": 16,
-          "formattedValue": "16",
+          "value": 15,
+          "formattedValue": "15",
           "hasData": true,
           "link": "/trends/explore?q=g%C3%BCld%C3%BCr+g%C3%BCld%C3%BCr&date=now+7-d&geo=TR"
         }
       },
       {
         "query": "müzik",
-        "value": 16,
-        "formattedValue": "16",
+        "value": 14,
+        "formattedValue": "14",
         "raw": {
           "query": "müzik",
-          "value": 16,
-          "formattedValue": "16",
+          "value": 14,
+          "formattedValue": "14",
           "hasData": true,
           "link": "/trends/explore?q=m%C3%BCzik&date=now+7-d&geo=TR"
         }
       },
       {
         "query": "elif sinem",
-        "value": 16,
-        "formattedValue": "16",
+        "value": 14,
+        "formattedValue": "14",
         "raw": {
           "query": "elif sinem",
-          "value": 16,
-          "formattedValue": "16",
+          "value": 14,
+          "formattedValue": "14",
           "hasData": true,
           "link": "/trends/explore?q=elif+sinem&date=now+7-d&geo=TR"
         }
       },
       {
-        "query": "karaoke",
-        "value": 15,
-        "formattedValue": "15",
+        "query": "eşref rüya",
+        "value": 14,
+        "formattedValue": "14",
         "raw": {
-          "query": "karaoke",
-          "value": 15,
-          "formattedValue": "15",
+          "query": "eşref rüya",
+          "value": 14,
+          "formattedValue": "14",
           "hasData": true,
-          "link": "/trends/explore?q=karaoke&date=now+7-d&geo=TR"
-        }
-      },
-      {
-        "query": "çizgi film",
-        "value": 15,
-        "formattedValue": "15",
-        "raw": {
-          "query": "çizgi film",
-          "value": 15,
-          "formattedValue": "15",
-          "hasData": true,
-          "link": "/trends/explore?q=%C3%A7izgi+film&date=now+7-d&geo=TR"
+          "link": "/trends/explore?q=e%C5%9Fref+r%C3%BCya&date=now+7-d&geo=TR"
         }
       },
       {
         "query": "kurtlar vadisi",
-        "value": 15,
-        "formattedValue": "15",
+        "value": 14,
+        "formattedValue": "14",
         "raw": {
           "query": "kurtlar vadisi",
-          "value": 15,
-          "formattedValue": "15",
+          "value": 14,
+          "formattedValue": "14",
           "hasData": true,
           "link": "/trends/explore?q=kurtlar+vadisi&date=now+7-d&geo=TR"
         }
       },
       {
-        "query": "elif kuzey",
+        "query": "çizgi film",
         "value": 14,
         "formattedValue": "14",
         "raw": {
-          "query": "elif kuzey",
+          "query": "çizgi film",
           "value": 14,
           "formattedValue": "14",
           "hasData": true,
-          "link": "/trends/explore?q=elif+kuzey&date=now+7-d&geo=TR"
+          "link": "/trends/explore?q=%C3%A7izgi+film&date=now+7-d&geo=TR"
+        }
+      },
+      {
+        "query": "doğanın kanunu",
+        "value": 13,
+        "formattedValue": "13",
+        "raw": {
+          "query": "doğanın kanunu",
+          "value": 13,
+          "formattedValue": "13",
+          "hasData": true,
+          "link": "/trends/explore?q=do%C4%9Fan%C4%B1n+kanunu&date=now+7-d&geo=TR"
+        }
+      },
+      {
+        "query": "kuzey elif",
+        "value": 13,
+        "formattedValue": "13",
+        "raw": {
+          "query": "kuzey elif",
+          "value": 13,
+          "formattedValue": "13",
+          "hasData": true,
+          "link": "/trends/explore?q=kuzey+elif&date=now+7-d&geo=TR"
+        }
+      },
+      {
+        "query": "ahmet kaya",
+        "value": 12,
+        "formattedValue": "12",
+        "raw": {
+          "query": "ahmet kaya",
+          "value": 12,
+          "formattedValue": "12",
+          "hasData": true,
+          "link": "/trends/explore?q=ahmet+kaya&date=now+7-d&geo=TR"
+        }
+      },
+      {
+        "query": "blok3",
+        "value": 12,
+        "formattedValue": "12",
+        "raw": {
+          "query": "blok3",
+          "value": 12,
+          "formattedValue": "12",
+          "hasData": true,
+          "link": "/trends/explore?q=blok3&date=now+7-d&geo=TR"
+        }
+      },
+      {
+        "query": "halay",
+        "value": 12,
+        "formattedValue": "12",
+        "raw": {
+          "query": "halay",
+          "value": 12,
+          "formattedValue": "12",
+          "hasData": true,
+          "link": "/trends/explore?q=halay&date=now+7-d&geo=TR"
+        }
+      },
+      {
+        "query": "ferited",
+        "value": 12,
+        "formattedValue": "12",
+        "raw": {
+          "query": "ferited",
+          "value": 12,
+          "formattedValue": "12",
+          "hasData": true,
+          "link": "/trends/explore?q=ferited&date=now+7-d&geo=TR"
+        }
+      },
+      {
+        "query": "piş piş",
+        "value": 11,
+        "formattedValue": "11",
+        "raw": {
+          "query": "piş piş",
+          "value": 11,
+          "formattedValue": "11",
+          "hasData": true,
+          "link": "/trends/explore?q=pi%C5%9F+pi%C5%9F&date=now+7-d&geo=TR"
+        }
+      },
+      {
+        "query": "rraenee",
+        "value": 11,
+        "formattedValue": "11",
+        "raw": {
+          "query": "rraenee",
+          "value": 11,
+          "formattedValue": "11",
+          "hasData": true,
+          "link": "/trends/explore?q=rraenee&date=now+7-d&geo=TR"
         }
       }
     ],
     "rising": [
       {
-        "query": "ece irtem",
-        "value": 11550,
-        "formattedValue": "Đột phá",
-        "raw": {
-          "query": "ece irtem",
-          "value": 11550,
-          "formattedValue": "Đột phá",
-          "link": "/trends/explore?q=ece+irtem&date=now+7-d&geo=TR"
-        }
-      },
-      {
         "query": "arjantin cezayir",
-        "value": 6300,
+        "value": 6200,
         "formattedValue": "Đột phá",
         "raw": {
           "query": "arjantin cezayir",
-          "value": 6300,
+          "value": 6200,
           "formattedValue": "Đột phá",
           "link": "/trends/explore?q=arjantin+cezayir&date=now+7-d&geo=TR"
         }
       },
       {
-        "query": "altı üstü istanbul",
-        "value": 4950,
-        "formattedValue": "+4.950%",
-        "raw": {
-          "query": "altı üstü istanbul",
-          "value": 4950,
-          "formattedValue": "+4.950%",
-          "link": "/trends/explore?q=alt%C4%B1+%C3%BCst%C3%BC+istanbul&date=now+7-d&geo=TR"
-        }
-      },
-      {
         "query": "türkiye paraguay",
-        "value": 4300,
-        "formattedValue": "+4.300%",
+        "value": 3450,
+        "formattedValue": "+3.450%",
         "raw": {
           "query": "türkiye paraguay",
-          "value": 4300,
-          "formattedValue": "+4.300%",
+          "value": 3450,
+          "formattedValue": "+3.450%",
           "link": "/trends/explore?q=t%C3%BCrkiye+paraguay&date=now+7-d&geo=TR"
         }
       },
       {
-        "query": "alti ustu istanbul 1 bolum",
-        "value": 4100,
-        "formattedValue": "+4.100%",
-        "raw": {
-          "query": "alti ustu istanbul 1 bolum",
-          "value": 4100,
-          "formattedValue": "+4.100%",
-          "link": "/trends/explore?q=alti+ustu+istanbul+1+bolum&date=now+7-d&geo=TR"
-        }
-      },
-      {
-        "query": "alti ustu istanbul",
-        "value": 3450,
-        "formattedValue": "+3.450%",
-        "raw": {
-          "query": "alti ustu istanbul",
-          "value": 3450,
-          "formattedValue": "+3.450%",
-          "link": "/trends/explore?q=alti+ustu+istanbul&date=now+7-d&geo=TR"
-        }
-      },
-      {
-        "query": "altı üstü istanbul 2 bölüm",
-        "value": 3350,
-        "formattedValue": "+3.350%",
-        "raw": {
-          "query": "altı üstü istanbul 2 bölüm",
-          "value": 3350,
-          "formattedValue": "+3.350%",
-          "link": "/trends/explore?q=alt%C4%B1+%C3%BCst%C3%BC+istanbul+2+b%C3%B6l%C3%BCm&date=now+7-d&geo=TR"
-        }
-      },
-      {
-        "query": "türkiye paraguay maçı",
-        "value": 3300,
-        "formattedValue": "+3.300%",
-        "raw": {
-          "query": "türkiye paraguay maçı",
-          "value": 3300,
-          "formattedValue": "+3.300%",
-          "link": "/trends/explore?q=t%C3%BCrkiye+paraguay+ma%C3%A7%C4%B1&date=now+7-d&geo=TR"
-        }
-      },
-      {
-        "query": "fransa senegal",
+        "query": "muhtemel aşk",
         "value": 2900,
         "formattedValue": "+2.900%",
         "raw": {
-          "query": "fransa senegal",
+          "query": "muhtemel aşk",
           "value": 2900,
           "formattedValue": "+2.900%",
-          "link": "/trends/explore?q=fransa+senegal&date=now+7-d&geo=TR"
-        }
-      },
-      {
-        "query": "ispanya yeşil burun adaları",
-        "value": 2800,
-        "formattedValue": "+2.800%",
-        "raw": {
-          "query": "ispanya yeşil burun adaları",
-          "value": 2800,
-          "formattedValue": "+2.800%",
-          "link": "/trends/explore?q=ispanya+ye%C5%9Fil+burun+adalar%C4%B1&date=now+7-d&geo=TR"
-        }
-      },
-      {
-        "query": "turkiye paraguay",
-        "value": 2750,
-        "formattedValue": "+2.750%",
-        "raw": {
-          "query": "turkiye paraguay",
-          "value": 2750,
-          "formattedValue": "+2.750%",
-          "link": "/trends/explore?q=turkiye+paraguay&date=now+7-d&geo=TR"
-        }
-      },
-      {
-        "query": "altı üstü istanbul fragman",
-        "value": 2650,
-        "formattedValue": "+2.650%",
-        "raw": {
-          "query": "altı üstü istanbul fragman",
-          "value": 2650,
-          "formattedValue": "+2.650%",
-          "link": "/trends/explore?q=alt%C4%B1+%C3%BCst%C3%BC+istanbul+fragman&date=now+7-d&geo=TR"
-        }
-      },
-      {
-        "query": "muhtemel aşk",
-        "value": 2450,
-        "formattedValue": "+2.450%",
-        "raw": {
-          "query": "muhtemel aşk",
-          "value": 2450,
-          "formattedValue": "+2.450%",
           "link": "/trends/explore?q=muhtemel+a%C5%9Fk&date=now+7-d&geo=TR"
         }
       },
       {
-        "query": "altı üstü istanbul 1",
-        "value": 2350,
-        "formattedValue": "+2.350%",
+        "query": "türkiye paraguay maçı",
+        "value": 2700,
+        "formattedValue": "+2.700%",
         "raw": {
-          "query": "altı üstü istanbul 1",
-          "value": 2350,
-          "formattedValue": "+2.350%",
-          "link": "/trends/explore?q=alt%C4%B1+%C3%BCst%C3%BC+istanbul+1&date=now+7-d&geo=TR"
+          "query": "türkiye paraguay maçı",
+          "value": 2700,
+          "formattedValue": "+2.700%",
+          "link": "/trends/explore?q=t%C3%BCrkiye+paraguay+ma%C3%A7%C4%B1&date=now+7-d&geo=TR"
         }
       },
       {
-        "query": "altı üstü istanbul 1 bölüm",
-        "value": 1250,
-        "formattedValue": "+1.250%",
+        "query": "altı üstü istanbul fragman",
+        "value": 2300,
+        "formattedValue": "+2.300%",
         "raw": {
-          "query": "altı üstü istanbul 1 bölüm",
-          "value": 1250,
-          "formattedValue": "+1.250%",
-          "link": "/trends/explore?q=alt%C4%B1+%C3%BCst%C3%BC+istanbul+1+b%C3%B6l%C3%BCm&date=now+7-d&geo=TR"
+          "query": "altı üstü istanbul fragman",
+          "value": 2300,
+          "formattedValue": "+2.300%",
+          "link": "/trends/explore?q=alt%C4%B1+%C3%BCst%C3%BC+istanbul+fragman&date=now+7-d&geo=TR"
         }
       },
       {
-        "query": "ilia topuria justin gaethje",
-        "value": 1250,
-        "formattedValue": "+1.250%",
+        "query": "alti ustu istanbul 1 bolum",
+        "value": 1800,
+        "formattedValue": "+1.800%",
         "raw": {
-          "query": "ilia topuria justin gaethje",
-          "value": 1250,
-          "formattedValue": "+1.250%",
-          "link": "/trends/explore?q=ilia+topuria+justin+gaethje&date=now+7-d&geo=TR"
+          "query": "alti ustu istanbul 1 bolum",
+          "value": 1800,
+          "formattedValue": "+1.800%",
+          "link": "/trends/explore?q=alti+ustu+istanbul+1+bolum&date=now+7-d&geo=TR"
         }
       },
       {
-        "query": "daha 17 4. bölüm fragmanı",
-        "value": 1150,
-        "formattedValue": "+1.150%",
+        "query": "altı üstü istanbul",
+        "value": 1550,
+        "formattedValue": "+1.550%",
         "raw": {
-          "query": "daha 17 4. bölüm fragmanı",
-          "value": 1150,
-          "formattedValue": "+1.150%",
-          "link": "/trends/explore?q=daha+17+4.+b%C3%B6l%C3%BCm+fragman%C4%B1&date=now+7-d&geo=TR"
+          "query": "altı üstü istanbul",
+          "value": 1550,
+          "formattedValue": "+1.550%",
+          "link": "/trends/explore?q=alt%C4%B1+%C3%BCst%C3%BC+istanbul&date=now+7-d&geo=TR"
         }
       },
       {
         "query": "daha 17 4 bölüm",
-        "value": 1050,
-        "formattedValue": "+1.050%",
+        "value": 550,
+        "formattedValue": "+550%",
         "raw": {
           "query": "daha 17 4 bölüm",
-          "value": 1050,
-          "formattedValue": "+1.050%",
+          "value": 550,
+          "formattedValue": "+550%",
           "link": "/trends/explore?q=daha+17+4+b%C3%B6l%C3%BCm&date=now+7-d&geo=TR"
         }
       },
       {
-        "query": "yks 2026",
-        "value": 800,
-        "formattedValue": "+800%",
+        "query": "daha 17 4. bölüm fragmanı",
+        "value": 400,
+        "formattedValue": "+400%",
         "raw": {
-          "query": "yks 2026",
-          "value": 800,
-          "formattedValue": "+800%",
-          "link": "/trends/explore?q=yks+2026&date=now+7-d&geo=TR"
-        }
-      },
-      {
-        "query": "oliver tree",
-        "value": 800,
-        "formattedValue": "+800%",
-        "raw": {
-          "query": "oliver tree",
-          "value": 800,
-          "formattedValue": "+800%",
-          "link": "/trends/explore?q=oliver+tree&date=now+7-d&geo=TR"
-        }
-      },
-      {
-        "query": "babalar günü hediyesi",
-        "value": 650,
-        "formattedValue": "+650%",
-        "raw": {
-          "query": "babalar günü hediyesi",
-          "value": 650,
-          "formattedValue": "+650%",
-          "link": "/trends/explore?q=babalar+g%C3%BCn%C3%BC+hediyesi&date=now+7-d&geo=TR"
-        }
-      },
-      {
-        "query": "babalar günü şarkısı",
-        "value": 650,
-        "formattedValue": "+650%",
-        "raw": {
-          "query": "babalar günü şarkısı",
-          "value": 650,
-          "formattedValue": "+650%",
-          "link": "/trends/explore?q=babalar+g%C3%BCn%C3%BC+%C5%9Fark%C4%B1s%C4%B1&date=now+7-d&geo=TR"
-        }
-      },
-      {
-        "query": "istanbul",
-        "value": 550,
-        "formattedValue": "+550%",
-        "raw": {
-          "query": "istanbul",
-          "value": 550,
-          "formattedValue": "+550%",
-          "link": "/trends/explore?q=istanbul&date=now+7-d&geo=TR"
+          "query": "daha 17 4. bölüm fragmanı",
+          "value": 400,
+          "formattedValue": "+400%",
+          "link": "/trends/explore?q=daha+17+4.+b%C3%B6l%C3%BCm+fragman%C4%B1&date=now+7-d&geo=TR"
         }
       },
       {
         "query": "osman tuş",
-        "value": 400,
-        "formattedValue": "+400%",
+        "value": 350,
+        "formattedValue": "+350%",
         "raw": {
           "query": "osman tuş",
-          "value": 400,
-          "formattedValue": "+400%",
+          "value": 350,
+          "formattedValue": "+350%",
           "link": "/trends/explore?q=osman+tu%C5%9F&date=now+7-d&geo=TR"
         }
       },
       {
-        "query": "dünya kupası maç özetleri",
-        "value": 350,
-        "formattedValue": "+350%",
+        "query": "toz pembe manifest",
+        "value": 250,
+        "formattedValue": "+250%",
         "raw": {
-          "query": "dünya kupası maç özetleri",
-          "value": 350,
-          "formattedValue": "+350%",
-          "link": "/trends/explore?q=d%C3%BCnya+kupas%C4%B1+ma%C3%A7+%C3%B6zetleri&date=now+7-d&geo=TR"
+          "query": "toz pembe manifest",
+          "value": 250,
+          "formattedValue": "+250%",
+          "link": "/trends/explore?q=toz+pembe+manifest&date=now+7-d&geo=TR"
+        }
+      },
+      {
+        "query": "doğanın kanunu 2 bölüm",
+        "value": 160,
+        "formattedValue": "+160%",
+        "raw": {
+          "query": "doğanın kanunu 2 bölüm",
+          "value": 160,
+          "formattedValue": "+160%",
+          "link": "/trends/explore?q=do%C4%9Fan%C4%B1n+kanunu+2+b%C3%B6l%C3%BCm&date=now+7-d&geo=TR"
+        }
+      },
+      {
+        "query": "fatih terim",
+        "value": 130,
+        "formattedValue": "+130%",
+        "raw": {
+          "query": "fatih terim",
+          "value": 130,
+          "formattedValue": "+130%",
+          "link": "/trends/explore?q=fatih+terim&date=now+7-d&geo=TR"
+        }
+      },
+      {
+        "query": "trt spor",
+        "value": 80,
+        "formattedValue": "+80%",
+        "raw": {
+          "query": "trt spor",
+          "value": 80,
+          "formattedValue": "+80%",
+          "link": "/trends/explore?q=trt+spor&date=now+7-d&geo=TR"
+        }
+      },
+      {
+        "query": "yeni diziler",
+        "value": 70,
+        "formattedValue": "+70%",
+        "raw": {
+          "query": "yeni diziler",
+          "value": 70,
+          "formattedValue": "+70%",
+          "link": "/trends/explore?q=yeni+diziler&date=now+7-d&geo=TR"
+        }
+      },
+      {
+        "query": "ecrin su çoban",
+        "value": 40,
+        "formattedValue": "+40%",
+        "raw": {
+          "query": "ecrin su çoban",
+          "value": 40,
+          "formattedValue": "+40%",
+          "link": "/trends/explore?q=ecrin+su+%C3%A7oban&date=now+7-d&geo=TR"
+        }
+      },
+      {
+        "query": "ayt biyoloji full tekrar",
+        "value": 40,
+        "formattedValue": "+40%",
+        "raw": {
+          "query": "ayt biyoloji full tekrar",
+          "value": 40,
+          "formattedValue": "+40%",
+          "link": "/trends/explore?q=ayt+biyoloji+full+tekrar&date=now+7-d&geo=TR"
         }
       }
     ]
