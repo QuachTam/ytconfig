@@ -1,665 +1,8 @@
 {
   "status": "success",
   "topics": {
-    "top": [
-      {
-        "query": "Truyền hình trực tiếp",
-        "value": 100,
-        "formattedValue": "100",
-        "raw": {
-          "topic": {
-            "mid": "/m/02mzct",
-            "title": "Truyền hình trực tiếp",
-            "type": "Chủ đề"
-          },
-          "value": 100,
-          "formattedValue": "100",
-          "hasData": true,
-          "link": "/trends/explore?q=/m/02mzct&date=now+7-d&geo=BR"
-        }
-      },
-      {
-        "query": "Âm nhạc",
-        "value": 86,
-        "formattedValue": "86",
-        "raw": {
-          "topic": {
-            "mid": "/m/04rlf",
-            "title": "Âm nhạc",
-            "type": "Định dạng âm thanh"
-          },
-          "value": 86,
-          "formattedValue": "86",
-          "hasData": true,
-          "link": "/trends/explore?q=/m/04rlf&date=now+7-d&geo=BR"
-        }
-      },
-      {
-        "query": "CazéTV",
-        "value": 85,
-        "formattedValue": "85",
-        "raw": {
-          "topic": {
-            "mid": "/g/11tsjv4xlj",
-            "title": "CazéTV",
-            "type": "Kênh truyền hình"
-          },
-          "value": 85,
-          "formattedValue": "85",
-          "hasData": true,
-          "link": "/trends/explore?q=/g/11tsjv4xlj&date=now+7-d&geo=BR"
-        }
-      },
-      {
-        "query": "Casimiro",
-        "value": 66,
-        "formattedValue": "66",
-        "raw": {
-          "topic": {
-            "mid": "/g/11n8c57k_r",
-            "title": "Casimiro",
-            "type": "Nhà báo"
-          },
-          "value": 66,
-          "formattedValue": "66",
-          "hasData": true,
-          "link": "/trends/explore?q=/g/11n8c57k_r&date=now+7-d&geo=BR"
-        }
-      },
-      {
-        "query": "Điện ảnh",
-        "value": 43,
-        "formattedValue": "43",
-        "raw": {
-          "topic": {
-            "mid": "/m/02vxn",
-            "title": "Điện ảnh",
-            "type": "Loại truyền hình"
-          },
-          "value": 43,
-          "formattedValue": "43",
-          "hasData": true,
-          "link": "/trends/explore?q=/m/02vxn&date=now+7-d&geo=BR"
-        }
-      },
-      {
-        "query": "2026",
-        "value": 40,
-        "formattedValue": "40",
-        "raw": {
-          "topic": {
-            "mid": "/g/11b77d6b6g",
-            "title": "2026",
-            "type": "Chủ đề"
-          },
-          "value": 40,
-          "formattedValue": "40",
-          "hasData": true,
-          "link": "/trends/explore?q=/g/11b77d6b6g&date=now+7-d&geo=BR"
-        }
-      },
-      {
-        "query": "Trò chơi",
-        "value": 39,
-        "formattedValue": "39",
-        "raw": {
-          "topic": {
-            "mid": "/m/03bt1gh",
-            "title": "Trò chơi",
-            "type": "Chủ đề"
-          },
-          "value": 39,
-          "formattedValue": "39",
-          "hasData": true,
-          "link": "/trends/explore?q=/m/03bt1gh&date=now+7-d&geo=BR"
-        }
-      },
-      {
-        "query": "Hội Họa",
-        "value": 36,
-        "formattedValue": "36",
-        "raw": {
-          "topic": {
-            "mid": "/m/02csf",
-            "title": "Hội Họa",
-            "type": "Hình thức nghệ thuật thị giác"
-          },
-          "value": 36,
-          "formattedValue": "36",
-          "hasData": true,
-          "link": "/trends/explore?q=/m/02csf&date=now+7-d&geo=BR"
-        }
-      },
-      {
-        "query": "Brazil",
-        "value": 28,
-        "formattedValue": "28",
-        "raw": {
-          "topic": {
-            "mid": "/m/015fr",
-            "title": "Brazil",
-            "type": "Quốc gia ở Nam Mỹ"
-          },
-          "value": 28,
-          "formattedValue": "28",
-          "hasData": true,
-          "link": "/trends/explore?q=/m/015fr&date=now+7-d&geo=BR"
-        }
-      },
-      {
-        "query": "Video",
-        "value": 28,
-        "formattedValue": "28",
-        "raw": {
-          "topic": {
-            "mid": "/m/07z4p",
-            "title": "Video",
-            "type": "Định dạng phim"
-          },
-          "value": 28,
-          "formattedValue": "28",
-          "hasData": true,
-          "link": "/trends/explore?q=/m/07z4p&date=now+7-d&geo=BR"
-        }
-      },
-      {
-        "query": "Giải Bóng đá Vô địch Thế giới",
-        "value": 23,
-        "formattedValue": "23",
-        "raw": {
-          "topic": {
-            "mid": "/m/030q7",
-            "title": "Giải Bóng đá Vô địch Thế giới",
-            "type": "Giải bóng đá"
-          },
-          "value": 23,
-          "formattedValue": "23",
-          "hasData": true,
-          "link": "/trends/explore?q=/m/030q7&date=now+7-d&geo=BR"
-        }
-      },
-      {
-        "query": "Lồng tiếng",
-        "value": 18,
-        "formattedValue": "18",
-        "raw": {
-          "topic": {
-            "mid": "/m/02g52",
-            "title": "Lồng tiếng",
-            "type": "Chủ đề"
-          },
-          "value": 18,
-          "formattedValue": "18",
-          "hasData": true,
-          "link": "/trends/explore?q=/m/02g52&date=now+7-d&geo=BR"
-        }
-      },
-      {
-        "query": "Tiếng Bồ Đào Nha",
-        "value": 18,
-        "formattedValue": "18",
-        "raw": {
-          "topic": {
-            "mid": "/m/05zjd",
-            "title": "Tiếng Bồ Đào Nha",
-            "type": "Ngôn ngữ"
-          },
-          "value": 18,
-          "formattedValue": "18",
-          "hasData": true,
-          "link": "/trends/explore?q=/m/05zjd&date=now+7-d&geo=BR"
-        }
-      },
-      {
-        "query": "Thế giới",
-        "value": 17,
-        "formattedValue": "17",
-        "raw": {
-          "topic": {
-            "mid": "/m/09nm_",
-            "title": "Thế giới",
-            "type": "Chủ đề"
-          },
-          "value": 17,
-          "formattedValue": "17",
-          "hasData": true,
-          "link": "/trends/explore?q=/m/09nm_&date=now+7-d&geo=BR"
-        }
-      },
-      {
-        "query": "Lời bài hát",
-        "value": 14,
-        "formattedValue": "14",
-        "raw": {
-          "topic": {
-            "mid": "/m/09lgd",
-            "title": "Lời bài hát",
-            "type": "Chủ đề"
-          },
-          "value": 14,
-          "formattedValue": "14",
-          "hasData": true,
-          "link": "/trends/explore?q=/m/09lgd&date=now+7-d&geo=BR"
-        }
-      },
-      {
-        "query": "Nhạc Funk",
-        "value": 13,
-        "formattedValue": "13",
-        "raw": {
-          "topic": {
-            "mid": "/m/02x8m",
-            "title": "Nhạc Funk",
-            "type": "Thể loại nhạc"
-          },
-          "value": 13,
-          "formattedValue": "13",
-          "hasData": true,
-          "link": "/trends/explore?q=/m/02x8m&date=now+7-d&geo=BR"
-        }
-      },
-      {
-        "query": "Đội tuyển Bóng đá Quốc gia Brasil",
-        "value": 12,
-        "formattedValue": "12",
-        "raw": {
-          "topic": {
-            "mid": "/m/01352_",
-            "title": "Đội tuyển Bóng đá Quốc gia Brasil",
-            "type": "Đội bóng đá"
-          },
-          "value": 12,
-          "formattedValue": "12",
-          "hasData": true,
-          "link": "/trends/explore?q=/m/01352_&date=now+7-d&geo=BR"
-        }
-      },
-      {
-        "query": "Phụ nữ",
-        "value": 11,
-        "formattedValue": "11",
-        "raw": {
-          "topic": {
-            "mid": "/m/03bt1vf",
-            "title": "Phụ nữ",
-            "type": "Chủ đề"
-          },
-          "value": 11,
-          "formattedValue": "11",
-          "hasData": true,
-          "link": "/trends/explore?q=/m/03bt1vf&date=now+7-d&geo=BR"
-        }
-      },
-      {
-        "query": "Tình yêu",
-        "value": 11,
-        "formattedValue": "11",
-        "raw": {
-          "topic": {
-            "mid": "/m/048knlz",
-            "title": "Tình yêu",
-            "type": "Chủ đề"
-          },
-          "value": 11,
-          "formattedValue": "11",
-          "hasData": true,
-          "link": "/trends/explore?q=/m/048knlz&date=now+7-d&geo=BR"
-        }
-      },
-      {
-        "query": "2025",
-        "value": 11,
-        "formattedValue": "11",
-        "raw": {
-          "topic": {
-            "mid": "/g/11b77d3kyg",
-            "title": "2025",
-            "type": "Chủ đề"
-          },
-          "value": 11,
-          "formattedValue": "11",
-          "hasData": true,
-          "link": "/trends/explore?q=/g/11b77d3kyg&date=now+7-d&geo=BR"
-        }
-      },
-      {
-        "query": "Trẻ em",
-        "value": 10,
-        "formattedValue": "10",
-        "raw": {
-          "topic": {
-            "mid": "/m/0ytgt",
-            "title": "Trẻ em",
-            "type": "Chủ đề"
-          },
-          "value": 10,
-          "formattedValue": "10",
-          "hasData": true,
-          "link": "/trends/explore?q=/m/0ytgt&date=now+7-d&geo=BR"
-        }
-      },
-      {
-        "query": "Nhảy múa",
-        "value": 10,
-        "formattedValue": "10",
-        "raw": {
-          "topic": {
-            "mid": "/m/026bk",
-            "title": "Nhảy múa",
-            "type": "Lĩnh vực nghề nghiệp"
-          },
-          "value": 10,
-          "formattedValue": "10",
-          "hasData": true,
-          "link": "/trends/explore?q=/m/026bk&date=now+7-d&geo=BR"
-        }
-      },
-      {
-        "query": "Nam giới",
-        "value": 10,
-        "formattedValue": "10",
-        "raw": {
-          "topic": {
-            "mid": "/m/04yx4",
-            "title": "Nam giới",
-            "type": "Chủ đề"
-          },
-          "value": 10,
-          "formattedValue": "10",
-          "hasData": true,
-          "link": "/trends/explore?q=/m/04yx4&date=now+7-d&geo=BR"
-        }
-      },
-      {
-        "query": "Điện thoại di động",
-        "value": 10,
-        "formattedValue": "10",
-        "raw": {
-          "topic": {
-            "mid": "/m/050k8",
-            "title": "Điện thoại di động",
-            "type": "Chủ đề"
-          },
-          "value": 10,
-          "formattedValue": "10",
-          "hasData": true,
-          "link": "/trends/explore?q=/m/050k8&date=now+7-d&geo=BR"
-        }
-      },
-      {
-        "query": "Nhà",
-        "value": 10,
-        "formattedValue": "10",
-        "raw": {
-          "topic": {
-            "mid": "/m/03jm5",
-            "title": "Nhà",
-            "type": "Loại phòng ở"
-          },
-          "value": 10,
-          "formattedValue": "10",
-          "hasData": true,
-          "link": "/trends/explore?q=/m/03jm5&date=now+7-d&geo=BR"
-        }
-      }
-    ],
-    "rising": [
-      {
-        "query": "Cape Verde",
-        "value": 2700,
-        "formattedValue": "+2.700%",
-        "raw": {
-          "topic": {
-            "mid": "/m/01nqj",
-            "title": "Cape Verde",
-            "type": "Quốc gia ở Châu Phi"
-          },
-          "value": 2700,
-          "formattedValue": "+2.700%",
-          "link": "/trends/explore?q=/m/01nqj&date=now+7-d&geo=BR"
-        }
-      },
-      {
-        "query": "Đội tuyển Bóng đá Quốc gia Tây Ban Nha",
-        "value": 350,
-        "formattedValue": "+350%",
-        "raw": {
-          "topic": {
-            "mid": "/m/02w64f",
-            "title": "Đội tuyển Bóng đá Quốc gia Tây Ban Nha",
-            "type": "Đội bóng đá"
-          },
-          "value": 350,
-          "formattedValue": "+350%",
-          "link": "/trends/explore?q=/m/02w64f&date=now+7-d&geo=BR"
-        }
-      },
-      {
-        "query": "Oliver Tree",
-        "value": 350,
-        "formattedValue": "+350%",
-        "raw": {
-          "topic": {
-            "mid": "/g/11f7ly6bnk",
-            "title": "Oliver Tree",
-            "type": "Ca sĩ kiêm nhạc sĩ sáng tác bài hát"
-          },
-          "value": 350,
-          "formattedValue": "+350%",
-          "link": "/trends/explore?q=/g/11f7ly6bnk&date=now+7-d&geo=BR"
-        }
-      },
-      {
-        "query": "Haiti",
-        "value": 300,
-        "formattedValue": "+300%",
-        "raw": {
-          "topic": {
-            "mid": "/m/03gyl",
-            "title": "Haiti",
-            "type": "Quốc gia ở Ca-ri-bê"
-          },
-          "value": 300,
-          "formattedValue": "+300%",
-          "link": "/trends/explore?q=/m/03gyl&date=now+7-d&geo=BR"
-        }
-      },
-      {
-        "query": "Tây Ban Nha",
-        "value": 200,
-        "formattedValue": "+200%",
-        "raw": {
-          "topic": {
-            "mid": "/m/06mkj",
-            "title": "Tây Ban Nha",
-            "type": "Quốc gia"
-          },
-          "value": 200,
-          "formattedValue": "+200%",
-          "link": "/trends/explore?q=/m/06mkj&date=now+7-d&geo=BR"
-        }
-      },
-      {
-        "query": "Lionel Messi",
-        "value": 180,
-        "formattedValue": "+180%",
-        "raw": {
-          "topic": {
-            "mid": "/m/06qjgc",
-            "title": "Lionel Messi",
-            "type": "Cầu thủ"
-          },
-          "value": 180,
-          "formattedValue": "+180%",
-          "link": "/trends/explore?q=/m/06qjgc&date=now+7-d&geo=BR"
-        }
-      },
-      {
-        "query": "Đội tuyển Bóng đá Quốc gia Argentina",
-        "value": 180,
-        "formattedValue": "+180%",
-        "raw": {
-          "topic": {
-            "mid": "/m/02bh_v",
-            "title": "Đội tuyển Bóng đá Quốc gia Argentina",
-            "type": "Đội bóng đá"
-          },
-          "value": 180,
-          "formattedValue": "+180%",
-          "link": "/trends/explore?q=/m/02bh_v&date=now+7-d&geo=BR"
-        }
-      },
-      {
-        "query": "Đội tuyển Bóng đá Quốc gia Pháp",
-        "value": 150,
-        "formattedValue": "+150%",
-        "raw": {
-          "topic": {
-            "mid": "/m/01l3vx",
-            "title": "Đội tuyển Bóng đá Quốc gia Pháp",
-            "type": "Đội bóng đá"
-          },
-          "value": 150,
-          "formattedValue": "+150%",
-          "link": "/trends/explore?q=/m/01l3vx&date=now+7-d&geo=BR"
-        }
-      },
-      {
-        "query": "Alex Pereira",
-        "value": 140,
-        "formattedValue": "+140%",
-        "raw": {
-          "topic": {
-            "mid": "/m/0_v5v_q",
-            "title": "Alex Pereira",
-            "type": "Võ thuật tổng hợp"
-          },
-          "value": 140,
-          "formattedValue": "+140%",
-          "link": "/trends/explore?q=/m/0_v5v_q&date=now+7-d&geo=BR"
-        }
-      },
-      {
-        "query": "Argentina",
-        "value": 130,
-        "formattedValue": "+130%",
-        "raw": {
-          "topic": {
-            "mid": "/m/0jgd",
-            "title": "Argentina",
-            "type": "Quốc gia ở Nam Mỹ"
-          },
-          "value": 130,
-          "formattedValue": "+130%",
-          "link": "/trends/explore?q=/m/0jgd&date=now+7-d&geo=BR"
-        }
-      },
-      {
-        "query": "Rạp xiếc kỹ thuật số diệu kỳ",
-        "value": 120,
-        "formattedValue": "+120%",
-        "raw": {
-          "topic": {
-            "mid": "/g/11krktg_mq",
-            "title": "Rạp xiếc kỹ thuật số diệu kỳ",
-            "type": "Phim truyền hình"
-          },
-          "value": 120,
-          "formattedValue": "+120%",
-          "link": "/trends/explore?q=/g/11krktg_mq&date=now+7-d&geo=BR"
-        }
-      },
-      {
-        "query": "Casimiro",
-        "value": 80,
-        "formattedValue": "+80%",
-        "raw": {
-          "topic": {
-            "mid": "/g/11n8c57k_r",
-            "title": "Casimiro",
-            "type": "Nhà báo"
-          },
-          "value": 80,
-          "formattedValue": "+80%",
-          "link": "/trends/explore?q=/g/11n8c57k_r&date=now+7-d&geo=BR"
-        }
-      },
-      {
-        "query": "CazéTV",
-        "value": 70,
-        "formattedValue": "+70%",
-        "raw": {
-          "topic": {
-            "mid": "/g/11tsjv4xlj",
-            "title": "CazéTV",
-            "type": "Kênh truyền hình"
-          },
-          "value": 70,
-          "formattedValue": "+70%",
-          "link": "/trends/explore?q=/g/11tsjv4xlj&date=now+7-d&geo=BR"
-        }
-      },
-      {
-        "query": "Chân",
-        "value": 60,
-        "formattedValue": "+60%",
-        "raw": {
-          "topic": {
-            "mid": "/m/035r7c",
-            "title": "Chân",
-            "type": "Chủ đề"
-          },
-          "value": 60,
-          "formattedValue": "+60%",
-          "link": "/trends/explore?q=/m/035r7c&date=now+7-d&geo=BR"
-        }
-      },
-      {
-        "query": "Grand Theft Auto V",
-        "value": 60,
-        "formattedValue": "+60%",
-        "raw": {
-          "topic": {
-            "mid": "/m/0hgnzjh",
-            "title": "Grand Theft Auto V",
-            "type": "Trò chơi điện tử"
-          },
-          "value": 60,
-          "formattedValue": "+60%",
-          "link": "/trends/explore?q=/m/0hgnzjh&date=now+7-d&geo=BR"
-        }
-      },
-      {
-        "query": "Bồ Đào Nha",
-        "value": 60,
-        "formattedValue": "+60%",
-        "raw": {
-          "topic": {
-            "mid": "/m/05r4w",
-            "title": "Bồ Đào Nha",
-            "type": "Quốc gia"
-          },
-          "value": 60,
-          "formattedValue": "+60%",
-          "link": "/trends/explore?q=/m/05r4w&date=now+7-d&geo=BR"
-        }
-      },
-      {
-        "query": "Cầu thủ",
-        "value": 50,
-        "formattedValue": "+50%",
-        "raw": {
-          "topic": {
-            "mid": "/m/0gl2ny2",
-            "title": "Cầu thủ",
-            "type": "Nghề nghiệp"
-          },
-          "value": 50,
-          "formattedValue": "+50%",
-          "link": "/trends/explore?q=/m/0gl2ny2&date=now+7-d&geo=BR"
-        }
-      }
-    ]
+    "top": [],
+    "rising": []
   },
   "queries": {
     "top": [
@@ -677,24 +20,24 @@
       },
       {
         "query": "caze",
-        "value": 58,
-        "formattedValue": "58",
+        "value": 59,
+        "formattedValue": "59",
         "raw": {
           "query": "caze",
-          "value": 58,
-          "formattedValue": "58",
+          "value": 59,
+          "formattedValue": "59",
           "hasData": true,
           "link": "/trends/explore?q=caze&date=now+7-d&geo=BR"
         }
       },
       {
         "query": "caze tv",
-        "value": 57,
-        "formattedValue": "57",
+        "value": 55,
+        "formattedValue": "55",
         "raw": {
           "query": "caze tv",
-          "value": 57,
-          "formattedValue": "57",
+          "value": 55,
+          "formattedValue": "55",
           "hasData": true,
           "link": "/trends/explore?q=caze+tv&date=now+7-d&geo=BR"
         }
@@ -736,25 +79,13 @@
         }
       },
       {
-        "query": "jogo",
-        "value": 28,
-        "formattedValue": "28",
-        "raw": {
-          "query": "jogo",
-          "value": 28,
-          "formattedValue": "28",
-          "hasData": true,
-          "link": "/trends/explore?q=jogo&date=now+7-d&geo=BR"
-        }
-      },
-      {
         "query": "filme",
-        "value": 28,
-        "formattedValue": "28",
+        "value": 30,
+        "formattedValue": "30",
         "raw": {
           "query": "filme",
-          "value": 28,
-          "formattedValue": "28",
+          "value": 30,
+          "formattedValue": "30",
           "hasData": true,
           "link": "/trends/explore?q=filme&date=now+7-d&geo=BR"
         }
@@ -784,97 +115,61 @@
         }
       },
       {
-        "query": "como fazer",
-        "value": 21,
-        "formattedValue": "21",
-        "raw": {
-          "query": "como fazer",
-          "value": 21,
-          "formattedValue": "21",
-          "hasData": true,
-          "link": "/trends/explore?q=como+fazer&date=now+7-d&geo=BR"
-        }
-      },
-      {
-        "query": "copa",
-        "value": 21,
-        "formattedValue": "21",
-        "raw": {
-          "query": "copa",
-          "value": 21,
-          "formattedValue": "21",
-          "hasData": true,
-          "link": "/trends/explore?q=copa&date=now+7-d&geo=BR"
-        }
-      },
-      {
         "query": "mc",
-        "value": 18,
-        "formattedValue": "18",
+        "value": 20,
+        "formattedValue": "20",
         "raw": {
           "query": "mc",
-          "value": 18,
-          "formattedValue": "18",
+          "value": 20,
+          "formattedValue": "20",
           "hasData": true,
           "link": "/trends/explore?q=mc&date=now+7-d&geo=BR"
         }
       },
       {
         "query": "cazetv",
-        "value": 15,
-        "formattedValue": "15",
+        "value": 16,
+        "formattedValue": "16",
         "raw": {
           "query": "cazetv",
-          "value": 15,
-          "formattedValue": "15",
+          "value": 16,
+          "formattedValue": "16",
           "hasData": true,
           "link": "/trends/explore?q=cazetv&date=now+7-d&geo=BR"
         }
       },
       {
         "query": "funk",
-        "value": 14,
-        "formattedValue": "14",
+        "value": 15,
+        "formattedValue": "15",
         "raw": {
           "query": "funk",
-          "value": 14,
-          "formattedValue": "14",
+          "value": 15,
+          "formattedValue": "15",
           "hasData": true,
           "link": "/trends/explore?q=funk&date=now+7-d&geo=BR"
         }
       },
       {
         "query": "filmes",
-        "value": 12,
-        "formattedValue": "12",
+        "value": 13,
+        "formattedValue": "13",
         "raw": {
           "query": "filmes",
-          "value": 12,
-          "formattedValue": "12",
+          "value": 13,
+          "formattedValue": "13",
           "hasData": true,
           "link": "/trends/explore?q=filmes&date=now+7-d&geo=BR"
         }
       },
       {
-        "query": "copa do mundo",
-        "value": 10,
-        "formattedValue": "10",
-        "raw": {
-          "query": "copa do mundo",
-          "value": 10,
-          "formattedValue": "10",
-          "hasData": true,
-          "link": "/trends/explore?q=copa+do+mundo&date=now+7-d&geo=BR"
-        }
-      },
-      {
         "query": "musicas",
-        "value": 10,
-        "formattedValue": "10",
+        "value": 11,
+        "formattedValue": "11",
         "raw": {
           "query": "musicas",
-          "value": 10,
-          "formattedValue": "10",
+          "value": 11,
+          "formattedValue": "11",
           "hasData": true,
           "link": "/trends/explore?q=musicas&date=now+7-d&geo=BR"
         }
@@ -892,27 +187,27 @@
         }
       },
       {
-        "query": "minecraft",
-        "value": 8,
-        "formattedValue": "8",
+        "query": "copa do mundo",
+        "value": 10,
+        "formattedValue": "10",
         "raw": {
-          "query": "minecraft",
-          "value": 8,
-          "formattedValue": "8",
+          "query": "copa do mundo",
+          "value": 10,
+          "formattedValue": "10",
           "hasData": true,
-          "link": "/trends/explore?q=minecraft&date=now+7-d&geo=BR"
+          "link": "/trends/explore?q=copa+do+mundo&date=now+7-d&geo=BR"
         }
       },
       {
-        "query": "sbt",
-        "value": 8,
-        "formattedValue": "8",
+        "query": "minecraft",
+        "value": 9,
+        "formattedValue": "9",
         "raw": {
-          "query": "sbt",
-          "value": 8,
-          "formattedValue": "8",
+          "query": "minecraft",
+          "value": 9,
+          "formattedValue": "9",
           "hasData": true,
-          "link": "/trends/explore?q=sbt&date=now+7-d&geo=BR"
+          "link": "/trends/explore?q=minecraft&date=now+7-d&geo=BR"
         }
       },
       {
@@ -928,315 +223,209 @@
         }
       },
       {
-        "query": "hino",
+        "query": "forro",
         "value": 7,
         "formattedValue": "7",
         "raw": {
-          "query": "hino",
+          "query": "forro",
           "value": 7,
           "formattedValue": "7",
           "hasData": true,
-          "link": "/trends/explore?q=hino&date=now+7-d&geo=BR"
+          "link": "/trends/explore?q=forro&date=now+7-d&geo=BR"
         }
       },
       {
-        "query": "oliver tree",
-        "value": 6,
-        "formattedValue": "6",
+        "query": "argentina",
+        "value": 7,
+        "formattedValue": "7",
         "raw": {
-          "query": "oliver tree",
-          "value": 6,
-          "formattedValue": "6",
+          "query": "argentina",
+          "value": 7,
+          "formattedValue": "7",
           "hasData": true,
-          "link": "/trends/explore?q=oliver+tree&date=now+7-d&geo=BR"
+          "link": "/trends/explore?q=argentina&date=now+7-d&geo=BR"
+        }
+      },
+      {
+        "query": "sbt ao vivo",
+        "value": 7,
+        "formattedValue": "7",
+        "raw": {
+          "query": "sbt ao vivo",
+          "value": 7,
+          "formattedValue": "7",
+          "hasData": true,
+          "link": "/trends/explore?q=sbt+ao+vivo&date=now+7-d&geo=BR"
         }
       },
       {
         "query": "emilly vick",
+        "value": 7,
+        "formattedValue": "7",
+        "raw": {
+          "query": "emilly vick",
+          "value": 7,
+          "formattedValue": "7",
+          "hasData": true,
+          "link": "/trends/explore?q=emilly+vick&date=now+7-d&geo=BR"
+        }
+      },
+      {
+        "query": "jazzghost",
         "value": 6,
         "formattedValue": "6",
         "raw": {
-          "query": "emilly vick",
+          "query": "jazzghost",
           "value": 6,
           "formattedValue": "6",
           "hasData": true,
-          "link": "/trends/explore?q=emilly+vick&date=now+7-d&geo=BR"
+          "link": "/trends/explore?q=jazzghost&date=now+7-d&geo=BR"
+        }
+      },
+      {
+        "query": "músicas",
+        "value": 6,
+        "formattedValue": "6",
+        "raw": {
+          "query": "músicas",
+          "value": 6,
+          "formattedValue": "6",
+          "hasData": true,
+          "link": "/trends/explore?q=m%C3%BAsicas&date=now+7-d&geo=BR"
+        }
+      },
+      {
+        "query": "galinha pintadinha",
+        "value": 6,
+        "formattedValue": "6",
+        "raw": {
+          "query": "galinha pintadinha",
+          "value": 6,
+          "formattedValue": "6",
+          "hasData": true,
+          "link": "/trends/explore?q=galinha+pintadinha&date=now+7-d&geo=BR"
         }
       }
     ],
     "rising": [
       {
-        "query": "espanha x cabo verde",
-        "value": 3750,
-        "formattedValue": "+3.750%",
-        "raw": {
-          "query": "espanha x cabo verde",
-          "value": 3750,
-          "formattedValue": "+3.750%",
-          "link": "/trends/explore?q=espanha+x+cabo+verde&date=now+7-d&geo=BR"
-        }
-      },
-      {
         "query": "brasil e haiti",
-        "value": 3200,
-        "formattedValue": "+3.200%",
+        "value": 3100,
+        "formattedValue": "+3.100%",
         "raw": {
           "query": "brasil e haiti",
-          "value": 3200,
-          "formattedValue": "+3.200%",
+          "value": 3100,
+          "formattedValue": "+3.100%",
           "link": "/trends/explore?q=brasil+e+haiti&date=now+7-d&geo=BR"
         }
       },
       {
-        "query": "brasil x haiti",
-        "value": 2100,
-        "formattedValue": "+2.100%",
+        "query": "frança",
+        "value": 250,
+        "formattedValue": "+250%",
         "raw": {
-          "query": "brasil x haiti",
-          "value": 2100,
-          "formattedValue": "+2.100%",
-          "link": "/trends/explore?q=brasil+x+haiti&date=now+7-d&geo=BR"
-        }
-      },
-      {
-        "query": "inglaterra x croácia",
-        "value": 1800,
-        "formattedValue": "+1.800%",
-        "raw": {
-          "query": "inglaterra x croácia",
-          "value": 1800,
-          "formattedValue": "+1.800%",
-          "link": "/trends/explore?q=inglaterra+x+cro%C3%A1cia&date=now+7-d&geo=BR"
-        }
-      },
-      {
-        "query": "bruna biancardi",
-        "value": 1050,
-        "formattedValue": "+1.050%",
-        "raw": {
-          "query": "bruna biancardi",
-          "value": 1050,
-          "formattedValue": "+1.050%",
-          "link": "/trends/explore?q=bruna+biancardi&date=now+7-d&geo=BR"
-        }
-      },
-      {
-        "query": "poatan vs ciryl gane ao vivo",
-        "value": 400,
-        "formattedValue": "+400%",
-        "raw": {
-          "query": "poatan vs ciryl gane ao vivo",
-          "value": 400,
-          "formattedValue": "+400%",
-          "link": "/trends/explore?q=poatan+vs+ciryl+gane+ao+vivo&date=now+7-d&geo=BR"
-        }
-      },
-      {
-        "query": "life goes on",
-        "value": 400,
-        "formattedValue": "+400%",
-        "raw": {
-          "query": "life goes on",
-          "value": 400,
-          "formattedValue": "+400%",
-          "link": "/trends/explore?q=life+goes+on&date=now+7-d&geo=BR"
-        }
-      },
-      {
-        "query": "oliver tree",
-        "value": 350,
-        "formattedValue": "+350%",
-        "raw": {
-          "query": "oliver tree",
-          "value": 350,
-          "formattedValue": "+350%",
-          "link": "/trends/explore?q=oliver+tree&date=now+7-d&geo=BR"
-        }
-      },
-      {
-        "query": "espanha",
-        "value": 350,
-        "formattedValue": "+350%",
-        "raw": {
-          "query": "espanha",
-          "value": 350,
-          "formattedValue": "+350%",
-          "link": "/trends/explore?q=espanha&date=now+7-d&geo=BR"
-        }
-      },
-      {
-        "query": "miss you",
-        "value": 200,
-        "formattedValue": "+200%",
-        "raw": {
-          "query": "miss you",
-          "value": 200,
-          "formattedValue": "+200%",
-          "link": "/trends/explore?q=miss+you&date=now+7-d&geo=BR"
-        }
-      },
-      {
-        "query": "gta 6",
-        "value": 200,
-        "formattedValue": "+200%",
-        "raw": {
-          "query": "gta 6",
-          "value": 200,
-          "formattedValue": "+200%",
-          "link": "/trends/explore?q=gta+6&date=now+7-d&geo=BR"
-        }
-      },
-      {
-        "query": "verity",
-        "value": 180,
-        "formattedValue": "+180%",
-        "raw": {
-          "query": "verity",
-          "value": 180,
-          "formattedValue": "+180%",
-          "link": "/trends/explore?q=verity&date=now+7-d&geo=BR"
-        }
-      },
-      {
-        "query": "poatan",
-        "value": 160,
-        "formattedValue": "+160%",
-        "raw": {
-          "query": "poatan",
-          "value": 160,
-          "formattedValue": "+160%",
-          "link": "/trends/explore?q=poatan&date=now+7-d&geo=BR"
-        }
-      },
-      {
-        "query": "glitch",
-        "value": 150,
-        "formattedValue": "+150%",
-        "raw": {
-          "query": "glitch",
-          "value": 150,
-          "formattedValue": "+150%",
-          "link": "/trends/explore?q=glitch&date=now+7-d&geo=BR"
+          "query": "frança",
+          "value": 250,
+          "formattedValue": "+250%",
+          "link": "/trends/explore?q=fran%C3%A7a&date=now+7-d&geo=BR"
         }
       },
       {
         "query": "argentina",
-        "value": 130,
-        "formattedValue": "+130%",
+        "value": 200,
+        "formattedValue": "+200%",
         "raw": {
           "query": "argentina",
-          "value": 130,
-          "formattedValue": "+130%",
+          "value": 200,
+          "formattedValue": "+200%",
           "link": "/trends/explore?q=argentina&date=now+7-d&geo=BR"
         }
       },
       {
+        "query": "glitch",
+        "value": 160,
+        "formattedValue": "+160%",
+        "raw": {
+          "query": "glitch",
+          "value": 160,
+          "formattedValue": "+160%",
+          "link": "/trends/explore?q=glitch&date=now+7-d&geo=BR"
+        }
+      },
+      {
         "query": "digital circus",
-        "value": 130,
-        "formattedValue": "+130%",
+        "value": 150,
+        "formattedValue": "+150%",
         "raw": {
           "query": "digital circus",
-          "value": 130,
-          "formattedValue": "+130%",
+          "value": 150,
+          "formattedValue": "+150%",
           "link": "/trends/explore?q=digital+circus&date=now+7-d&geo=BR"
         }
       },
       {
-        "query": "digital circus 9",
-        "value": 120,
-        "formattedValue": "+120%",
+        "query": "oliver tree",
+        "value": 90,
+        "formattedValue": "+90%",
         "raw": {
-          "query": "digital circus 9",
-          "value": 120,
-          "formattedValue": "+120%",
-          "link": "/trends/explore?q=digital+circus+9&date=now+7-d&geo=BR"
-        }
-      },
-      {
-        "query": "jogos de hoje ao vivo",
-        "value": 120,
-        "formattedValue": "+120%",
-        "raw": {
-          "query": "jogos de hoje ao vivo",
-          "value": 120,
-          "formattedValue": "+120%",
-          "link": "/trends/explore?q=jogos+de+hoje+ao+vivo&date=now+7-d&geo=BR"
-        }
-      },
-      {
-        "query": "caze tv ao vivo agora",
-        "value": 120,
-        "formattedValue": "+120%",
-        "raw": {
-          "query": "caze tv ao vivo agora",
-          "value": 120,
-          "formattedValue": "+120%",
-          "link": "/trends/explore?q=caze+tv+ao+vivo+agora&date=now+7-d&geo=BR"
+          "query": "oliver tree",
+          "value": 90,
+          "formattedValue": "+90%",
+          "link": "/trends/explore?q=oliver+tree&date=now+7-d&geo=BR"
         }
       },
       {
         "query": "gaules",
-        "value": 90,
-        "formattedValue": "+90%",
+        "value": 80,
+        "formattedValue": "+80%",
         "raw": {
           "query": "gaules",
-          "value": 90,
-          "formattedValue": "+90%",
+          "value": 80,
+          "formattedValue": "+80%",
           "link": "/trends/explore?q=gaules&date=now+7-d&geo=BR"
         }
       },
       {
-        "query": "cazé tv ao vivo",
+        "query": "tv caze ao vivo agora",
         "value": 80,
         "formattedValue": "+80%",
         "raw": {
-          "query": "cazé tv ao vivo",
+          "query": "tv caze ao vivo agora",
           "value": 80,
           "formattedValue": "+80%",
-          "link": "/trends/explore?q=caz%C3%A9+tv+ao+vivo&date=now+7-d&geo=BR"
+          "link": "/trends/explore?q=tv+caze+ao+vivo+agora&date=now+7-d&geo=BR"
         }
       },
       {
-        "query": "casimiro ao vivo",
-        "value": 80,
-        "formattedValue": "+80%",
+        "query": "cazé tv",
+        "value": 60,
+        "formattedValue": "+60%",
         "raw": {
-          "query": "casimiro ao vivo",
-          "value": 80,
-          "formattedValue": "+80%",
-          "link": "/trends/explore?q=casimiro+ao+vivo&date=now+7-d&geo=BR"
+          "query": "cazé tv",
+          "value": 60,
+          "formattedValue": "+60%",
+          "link": "/trends/explore?q=caz%C3%A9+tv&date=now+7-d&geo=BR"
         }
       },
       {
-        "query": "caze tv",
-        "value": 80,
-        "formattedValue": "+80%",
+        "query": "portugal",
+        "value": 50,
+        "formattedValue": "+50%",
         "raw": {
-          "query": "caze tv",
-          "value": 80,
-          "formattedValue": "+80%",
-          "link": "/trends/explore?q=caze+tv&date=now+7-d&geo=BR"
-        }
-      },
-      {
-        "query": "tv cazé",
-        "value": 80,
-        "formattedValue": "+80%",
-        "raw": {
-          "query": "tv cazé",
-          "value": 80,
-          "formattedValue": "+80%",
-          "link": "/trends/explore?q=tv+caz%C3%A9&date=now+7-d&geo=BR"
+          "query": "portugal",
+          "value": 50,
+          "formattedValue": "+50%",
+          "link": "/trends/explore?q=portugal&date=now+7-d&geo=BR"
         }
       },
       {
         "query": "cazétv",
-        "value": 70,
-        "formattedValue": "+70%",
+        "value": 50,
+        "formattedValue": "+50%",
         "raw": {
           "query": "cazétv",
-          "value": 70,
-          "formattedValue": "+70%",
+          "value": 50,
+          "formattedValue": "+50%",
           "link": "/trends/explore?q=caz%C3%A9tv&date=now+7-d&geo=BR"
         }
       }
