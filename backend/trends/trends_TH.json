@@ -1,8 +1,619 @@
 {
   "status": "success",
   "topics": {
-    "top": [],
-    "rising": []
+    "top": [
+      {
+        "query": "Bài hát",
+        "value": 100,
+        "formattedValue": "100",
+        "raw": {
+          "topic": {
+            "mid": "/m/074ft",
+            "title": "Bài hát",
+            "type": "Loại sáng tác"
+          },
+          "value": 100,
+          "formattedValue": "100",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/074ft&date=now+7-d&geo=TH"
+        }
+      },
+      {
+        "query": "Ngày",
+        "value": 29,
+        "formattedValue": "29",
+        "raw": {
+          "topic": {
+            "mid": "/m/02bbq",
+            "title": "Ngày",
+            "type": "Thời gian"
+          },
+          "value": 29,
+          "formattedValue": "29",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/02bbq&date=now+7-d&geo=TH"
+        }
+      },
+      {
+        "query": "Tiếng Thái",
+        "value": 26,
+        "formattedValue": "26",
+        "raw": {
+          "topic": {
+            "mid": "/m/0c_v2",
+            "title": "Tiếng Thái",
+            "type": "Ngôn ngữ con người"
+          },
+          "value": 26,
+          "formattedValue": "26",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/0c_v2&date=now+7-d&geo=TH"
+        }
+      },
+      {
+        "query": "Thái Lan",
+        "value": 22,
+        "formattedValue": "22",
+        "raw": {
+          "topic": {
+            "mid": "/m/07f1x",
+            "title": "Thái Lan",
+            "type": "Quốc gia ở Châu Á"
+          },
+          "value": 22,
+          "formattedValue": "22",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/07f1x&date=now+7-d&geo=TH"
+        }
+      },
+      {
+        "query": "Điện ảnh",
+        "value": 22,
+        "formattedValue": "22",
+        "raw": {
+          "topic": {
+            "mid": "/m/02vxn",
+            "title": "Điện ảnh",
+            "type": "Loại truyền hình"
+          },
+          "value": 22,
+          "formattedValue": "22",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/02vxn&date=now+7-d&geo=TH"
+        }
+      },
+      {
+        "query": "ๆ",
+        "value": 19,
+        "formattedValue": "19",
+        "raw": {
+          "topic": {
+            "mid": "/g/1227_4cd",
+            "title": "ๆ",
+            "type": "Chủ đề"
+          },
+          "value": 19,
+          "formattedValue": "19",
+          "hasData": true,
+          "link": "/trends/explore?q=/g/1227_4cd&date=now+7-d&geo=TH"
+        }
+      },
+      {
+        "query": "Karaoke",
+        "value": 16,
+        "formattedValue": "16",
+        "raw": {
+          "topic": {
+            "mid": "/m/04c5p",
+            "title": "Karaoke",
+            "type": "Chủ đề"
+          },
+          "value": 16,
+          "formattedValue": "16",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/04c5p&date=now+7-d&geo=TH"
+        }
+      },
+      {
+        "query": "Bóng đá",
+        "value": 15,
+        "formattedValue": "15",
+        "raw": {
+          "topic": {
+            "mid": "/m/02vx4",
+            "title": "Bóng đá",
+            "type": "Thể thao"
+          },
+          "value": 15,
+          "formattedValue": "15",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/02vx4&date=now+7-d&geo=TH"
+        }
+      },
+      {
+        "query": "Ô tô",
+        "value": 14,
+        "formattedValue": "14",
+        "raw": {
+          "topic": {
+            "mid": "/m/0k4j",
+            "title": "Ô tô",
+            "type": "Chế độ phương tiện"
+          },
+          "value": 14,
+          "formattedValue": "14",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/0k4j&date=now+7-d&geo=TH"
+        }
+      },
+      {
+        "query": "Tranh biếm họa",
+        "value": 14,
+        "formattedValue": "14",
+        "raw": {
+          "topic": {
+            "mid": "/m/0215n",
+            "title": "Tranh biếm họa",
+            "type": "Thể loại truyền hình"
+          },
+          "value": 14,
+          "formattedValue": "14",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/0215n&date=now+7-d&geo=TH"
+        }
+      },
+      {
+        "query": "Ma",
+        "value": 14,
+        "formattedValue": "14",
+        "raw": {
+          "topic": {
+            "mid": "/m/038_l",
+            "title": "Ma",
+            "type": "Chủ đề"
+          },
+          "value": 14,
+          "formattedValue": "14",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/038_l&date=now+7-d&geo=TH"
+        }
+      },
+      {
+        "query": "Âm thanh",
+        "value": 11,
+        "formattedValue": "11",
+        "raw": {
+          "topic": {
+            "mid": "/m/06qc5",
+            "title": "Âm thanh",
+            "type": "Chủ đề"
+          },
+          "value": 11,
+          "formattedValue": "11",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/06qc5&date=now+7-d&geo=TH"
+        }
+      },
+      {
+        "query": "Trẻ em",
+        "value": 11,
+        "formattedValue": "11",
+        "raw": {
+          "topic": {
+            "mid": "/m/0ytgt",
+            "title": "Trẻ em",
+            "type": "Chủ đề"
+          },
+          "value": 11,
+          "formattedValue": "11",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/0ytgt&date=now+7-d&geo=TH"
+        }
+      },
+      {
+        "query": "Thế giới",
+        "value": 11,
+        "formattedValue": "11",
+        "raw": {
+          "topic": {
+            "mid": "/m/09nm_",
+            "title": "Thế giới",
+            "type": "Chủ đề"
+          },
+          "value": 11,
+          "formattedValue": "11",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/09nm_&date=now+7-d&geo=TH"
+        }
+      },
+      {
+        "query": "Tiếng Trung",
+        "value": 11,
+        "formattedValue": "11",
+        "raw": {
+          "topic": {
+            "mid": "/m/01r2l",
+            "title": "Tiếng Trung",
+            "type": "Tiếng"
+          },
+          "value": 11,
+          "formattedValue": "11",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/01r2l&date=now+7-d&geo=TH"
+        }
+      },
+      {
+        "query": "Người",
+        "value": 11,
+        "formattedValue": "11",
+        "raw": {
+          "topic": {
+            "mid": "/m/0dgw9r",
+            "title": "Người",
+            "type": "Bộ Linh trưởng"
+          },
+          "value": 11,
+          "formattedValue": "11",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/0dgw9r&date=now+7-d&geo=TH"
+        }
+      },
+      {
+        "query": "2026",
+        "value": 11,
+        "formattedValue": "11",
+        "raw": {
+          "topic": {
+            "mid": "/g/11b77d6b6g",
+            "title": "2026",
+            "type": "Chủ đề"
+          },
+          "value": 11,
+          "formattedValue": "11",
+          "hasData": true,
+          "link": "/trends/explore?q=/g/11b77d6b6g&date=now+7-d&geo=TH"
+        }
+      },
+      {
+        "query": "Trò chơi",
+        "value": 10,
+        "formattedValue": "10",
+        "raw": {
+          "topic": {
+            "mid": "/m/03bt1gh",
+            "title": "Trò chơi",
+            "type": "Chủ đề"
+          },
+          "value": 10,
+          "formattedValue": "10",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/03bt1gh&date=now+7-d&geo=TH"
+        }
+      },
+      {
+        "query": "Ngựa",
+        "value": 10,
+        "formattedValue": "10",
+        "raw": {
+          "topic": {
+            "mid": "/m/03k3r",
+            "title": "Ngựa",
+            "type": "Động vật"
+          },
+          "value": 10,
+          "formattedValue": "10",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/03k3r&date=now+7-d&geo=TH"
+        }
+      },
+      {
+        "query": "Tình yêu",
+        "value": 10,
+        "formattedValue": "10",
+        "raw": {
+          "topic": {
+            "mid": "/m/048knlz",
+            "title": "Tình yêu",
+            "type": "Chủ đề"
+          },
+          "value": 10,
+          "formattedValue": "10",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/048knlz&date=now+7-d&geo=TH"
+        }
+      },
+      {
+        "query": "Chơi",
+        "value": 8,
+        "formattedValue": "8",
+        "raw": {
+          "topic": {
+            "mid": "/m/013dbvty",
+            "title": "Chơi",
+            "type": "Hoạt động"
+          },
+          "value": 8,
+          "formattedValue": "8",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/013dbvty&date=now+7-d&geo=TH"
+        }
+      },
+      {
+        "query": "Ăn",
+        "value": 7,
+        "formattedValue": "7",
+        "raw": {
+          "topic": {
+            "mid": "/m/01f5gx",
+            "title": "Ăn",
+            "type": "Chủ đề"
+          },
+          "value": 7,
+          "formattedValue": "7",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/01f5gx&date=now+7-d&geo=TH"
+        }
+      },
+      {
+        "query": "Nhảy múa",
+        "value": 7,
+        "formattedValue": "7",
+        "raw": {
+          "topic": {
+            "mid": "/m/026bk",
+            "title": "Nhảy múa",
+            "type": "Lĩnh vực nghề nghiệp"
+          },
+          "value": 7,
+          "formattedValue": "7",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/026bk&date=now+7-d&geo=TH"
+        }
+      },
+      {
+        "query": "Giải Bóng đá Vô địch Thế giới",
+        "value": 7,
+        "formattedValue": "7",
+        "raw": {
+          "topic": {
+            "mid": "/m/030q7",
+            "title": "Giải Bóng đá Vô địch Thế giới",
+            "type": "Giải bóng đá"
+          },
+          "value": 7,
+          "formattedValue": "7",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/030q7&date=now+7-d&geo=TH"
+        }
+      }
+    ],
+    "rising": [
+      {
+        "query": "Pokémon Champions",
+        "value": 1300,
+        "formattedValue": "+1.300%",
+        "raw": {
+          "topic": {
+            "mid": "/g/11x346b_j0",
+            "title": "Pokémon Champions",
+            "type": "Video game"
+          },
+          "value": 1300,
+          "formattedValue": "+1.300%",
+          "link": "/trends/explore?q=/g/11x346b_j0&date=now+7-d&geo=TH"
+        }
+      },
+      {
+        "query": "Đội tuyển Bóng chuyền nữ Quốc gia Thái Lan",
+        "value": 750,
+        "formattedValue": "+750%",
+        "raw": {
+          "topic": {
+            "mid": "/m/03gsm5n",
+            "title": "Đội tuyển Bóng chuyền nữ Quốc gia Thái Lan",
+            "type": "Chủ đề"
+          },
+          "value": 750,
+          "formattedValue": "+750%",
+          "link": "/trends/explore?q=/m/03gsm5n&date=now+7-d&geo=TH"
+        }
+      },
+      {
+        "query": "Argentina",
+        "value": 450,
+        "formattedValue": "+450%",
+        "raw": {
+          "topic": {
+            "mid": "/m/0jgd",
+            "title": "Argentina",
+            "type": "Quốc gia ở Nam Mỹ"
+          },
+          "value": 450,
+          "formattedValue": "+450%",
+          "link": "/trends/explore?q=/m/0jgd&date=now+7-d&geo=TH"
+        }
+      },
+      {
+        "query": "Bóng chuyền",
+        "value": 300,
+        "formattedValue": "+300%",
+        "raw": {
+          "topic": {
+            "mid": "/m/07_53",
+            "title": "Bóng chuyền",
+            "type": "Thể thao"
+          },
+          "value": 300,
+          "formattedValue": "+300%",
+          "link": "/trends/explore?q=/m/07_53&date=now+7-d&geo=TH"
+        }
+      },
+      {
+        "query": "Rạp xiếc kỹ thuật số diệu kỳ",
+        "value": 250,
+        "formattedValue": "+250%",
+        "raw": {
+          "topic": {
+            "mid": "/g/11krktg_mq",
+            "title": "Rạp xiếc kỹ thuật số diệu kỳ",
+            "type": "Phim truyền hình"
+          },
+          "value": 250,
+          "formattedValue": "+250%",
+          "link": "/trends/explore?q=/g/11krktg_mq&date=now+7-d&geo=TH"
+        }
+      },
+      {
+        "query": "Nội tiết tố",
+        "value": 200,
+        "formattedValue": "+200%",
+        "raw": {
+          "topic": {
+            "mid": "/m/03gv9",
+            "title": "Nội tiết tố",
+            "type": "Chủ đề"
+          },
+          "value": 200,
+          "formattedValue": "+200%",
+          "link": "/trends/explore?q=/m/03gv9&date=now+7-d&geo=TH"
+        }
+      },
+      {
+        "query": "Pokémon",
+        "value": 180,
+        "formattedValue": "+180%",
+        "raw": {
+          "topic": {
+            "mid": "/g/121p7fb0",
+            "title": "Pokémon",
+            "type": "Chủ đề"
+          },
+          "value": 180,
+          "formattedValue": "+180%",
+          "link": "/trends/explore?q=/g/121p7fb0&date=now+7-d&geo=TH"
+        }
+      },
+      {
+        "query": "Sunthorn Phu",
+        "value": 160,
+        "formattedValue": "+160%",
+        "raw": {
+          "topic": {
+            "mid": "/m/0331yc",
+            "title": "Sunthorn Phu",
+            "type": "Nhà thơ"
+          },
+          "value": 160,
+          "formattedValue": "+160%",
+          "link": "/trends/explore?q=/m/0331yc&date=now+7-d&geo=TH"
+        }
+      },
+      {
+        "query": "Pokémon",
+        "value": 90,
+        "formattedValue": "+90%",
+        "raw": {
+          "topic": {
+            "mid": "/m/05b1n7",
+            "title": "Pokémon",
+            "type": "Dòng trò chơi"
+          },
+          "value": 90,
+          "formattedValue": "+90%",
+          "link": "/trends/explore?q=/m/05b1n7&date=now+7-d&geo=TH"
+        }
+      },
+      {
+        "query": "The Evil Lawyer",
+        "value": 90,
+        "formattedValue": "+90%",
+        "raw": {
+          "topic": {
+            "mid": "/g/11n3r3l0dl",
+            "title": "The Evil Lawyer",
+            "type": "Chương trình truyền hình"
+          },
+          "value": 90,
+          "formattedValue": "+90%",
+          "link": "/trends/explore?q=/g/11n3r3l0dl&date=now+7-d&geo=TH"
+        }
+      },
+      {
+        "query": "Mèo lớn",
+        "value": 70,
+        "formattedValue": "+70%",
+        "raw": {
+          "topic": {
+            "mid": "/m/016126",
+            "title": "Mèo lớn",
+            "type": "Giới Động vật"
+          },
+          "value": 70,
+          "formattedValue": "+70%",
+          "link": "/trends/explore?q=/m/016126&date=now+7-d&geo=TH"
+        }
+      },
+      {
+        "query": "Liên Quân",
+        "value": 70,
+        "formattedValue": "+70%",
+        "raw": {
+          "topic": {
+            "mid": "/g/11c5wkwgwx",
+            "title": "Liên Quân",
+            "type": "Trò chơi điện tử"
+          },
+          "value": 70,
+          "formattedValue": "+70%",
+          "link": "/trends/explore?q=/g/11c5wkwgwx&date=now+7-d&geo=TH"
+        }
+      },
+      {
+        "query": "Trailer",
+        "value": 60,
+        "formattedValue": "+60%",
+        "raw": {
+          "topic": {
+            "mid": "/m/03hdbf",
+            "title": "Trailer",
+            "type": "Chủ đề"
+          },
+          "value": 60,
+          "formattedValue": "+60%",
+          "link": "/trends/explore?q=/m/03hdbf&date=now+7-d&geo=TH"
+        }
+      },
+      {
+        "query": "tóc",
+        "value": 50,
+        "formattedValue": "+50%",
+        "raw": {
+          "topic": {
+            "mid": "/g/12163_h5",
+            "title": "tóc",
+            "type": "Chủ đề"
+          },
+          "value": 50,
+          "formattedValue": "+50%",
+          "link": "/trends/explore?q=/g/12163_h5&date=now+7-d&geo=TH"
+        }
+      },
+      {
+        "query": "Rồng",
+        "value": 50,
+        "formattedValue": "+50%",
+        "raw": {
+          "topic": {
+            "mid": "/m/02cp5",
+            "title": "Rồng",
+            "type": "Sinh vật thần thoại"
+          },
+          "value": 50,
+          "formattedValue": "+50%",
+          "link": "/trends/explore?q=/m/02cp5&date=now+7-d&geo=TH"
+        }
+      }
+    ]
   },
   "queries": {
     "top": [
@@ -19,6 +630,18 @@
         }
       },
       {
+        "query": "เธอ",
+        "value": 27,
+        "formattedValue": "27",
+        "raw": {
+          "query": "เธอ",
+          "value": 27,
+          "formattedValue": "27",
+          "hasData": true,
+          "link": "/trends/explore?q=%E0%B9%80%E0%B8%98%E0%B8%AD&date=now+7-d&geo=TH"
+        }
+      },
+      {
         "query": "หนัง",
         "value": 24,
         "formattedValue": "24",
@@ -31,25 +654,13 @@
         }
       },
       {
-        "query": "หวย",
-        "value": 20,
-        "formattedValue": "20",
-        "raw": {
-          "query": "หวย",
-          "value": 20,
-          "formattedValue": "20",
-          "hasData": true,
-          "link": "/trends/explore?q=%E0%B8%AB%E0%B8%A7%E0%B8%A2&date=now+7-d&geo=TH"
-        }
-      },
-      {
         "query": "ผี",
-        "value": 13,
-        "formattedValue": "13",
+        "value": 14,
+        "formattedValue": "14",
         "raw": {
           "query": "ผี",
-          "value": 13,
-          "formattedValue": "13",
+          "value": 14,
+          "formattedValue": "14",
           "hasData": true,
           "link": "/trends/explore?q=%E0%B8%9C%E0%B8%B5&date=now+7-d&geo=TH"
         }
@@ -79,27 +690,27 @@
         }
       },
       {
-        "query": "คาราโอเกะ",
-        "value": 11,
-        "formattedValue": "11",
+        "query": "ขอ",
+        "value": 12,
+        "formattedValue": "12",
         "raw": {
-          "query": "คาราโอเกะ",
-          "value": 11,
-          "formattedValue": "11",
+          "query": "ขอ",
+          "value": 12,
+          "formattedValue": "12",
           "hasData": true,
-          "link": "/trends/explore?q=%E0%B8%84%E0%B8%B2%E0%B8%A3%E0%B8%B2%E0%B9%82%E0%B8%AD%E0%B9%80%E0%B8%81%E0%B8%B0&date=now+7-d&geo=TH"
+          "link": "/trends/explore?q=%E0%B8%82%E0%B8%AD&date=now+7-d&geo=TH"
         }
       },
       {
-        "query": "หวย ลาว",
-        "value": 10,
-        "formattedValue": "10",
+        "query": "คาราโอเกะ",
+        "value": 12,
+        "formattedValue": "12",
         "raw": {
-          "query": "หวย ลาว",
-          "value": 10,
-          "formattedValue": "10",
+          "query": "คาราโอเกะ",
+          "value": 12,
+          "formattedValue": "12",
           "hasData": true,
-          "link": "/trends/explore?q=%E0%B8%AB%E0%B8%A7%E0%B8%A2+%E0%B8%A5%E0%B8%B2%E0%B8%A7&date=now+7-d&geo=TH"
+          "link": "/trends/explore?q=%E0%B8%84%E0%B8%B2%E0%B8%A3%E0%B8%B2%E0%B9%82%E0%B8%AD%E0%B9%80%E0%B8%81%E0%B8%B0&date=now+7-d&geo=TH"
         }
       },
       {
@@ -115,6 +726,30 @@
         }
       },
       {
+        "query": "กิน",
+        "value": 9,
+        "formattedValue": "9",
+        "raw": {
+          "query": "กิน",
+          "value": 9,
+          "formattedValue": "9",
+          "hasData": true,
+          "link": "/trends/explore?q=%E0%B8%81%E0%B8%B4%E0%B8%99&date=now+7-d&geo=TH"
+        }
+      },
+      {
+        "query": "หวย ลาว",
+        "value": 9,
+        "formattedValue": "9",
+        "raw": {
+          "query": "หวย ลาว",
+          "value": 9,
+          "formattedValue": "9",
+          "hasData": true,
+          "link": "/trends/explore?q=%E0%B8%AB%E0%B8%A7%E0%B8%A2+%E0%B8%A5%E0%B8%B2%E0%B8%A7&date=now+7-d&geo=TH"
+        }
+      },
+      {
         "query": "โหน กระแส",
         "value": 9,
         "formattedValue": "9",
@@ -124,18 +759,6 @@
           "formattedValue": "9",
           "hasData": true,
           "link": "/trends/explore?q=%E0%B9%82%E0%B8%AB%E0%B8%99+%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B9%81%E0%B8%AA&date=now+7-d&geo=TH"
-        }
-      },
-      {
-        "query": "คิดถึง",
-        "value": 7,
-        "formattedValue": "7",
-        "raw": {
-          "query": "คิดถึง",
-          "value": 7,
-          "formattedValue": "7",
-          "hasData": true,
-          "link": "/trends/explore?q=%E0%B8%84%E0%B8%B4%E0%B8%94%E0%B8%96%E0%B8%B6%E0%B8%87&date=now+7-d&geo=TH"
         }
       },
       {
@@ -151,6 +774,18 @@
         }
       },
       {
+        "query": "คิดถึง",
+        "value": 7,
+        "formattedValue": "7",
+        "raw": {
+          "query": "คิดถึง",
+          "value": 7,
+          "formattedValue": "7",
+          "hasData": true,
+          "link": "/trends/explore?q=%E0%B8%84%E0%B8%B4%E0%B8%94%E0%B8%96%E0%B8%B6%E0%B8%87&date=now+7-d&geo=TH"
+        }
+      },
+      {
         "query": "หวย ลาว วัน นี้",
         "value": 6,
         "formattedValue": "6",
@@ -160,18 +795,6 @@
           "formattedValue": "6",
           "hasData": true,
           "link": "/trends/explore?q=%E0%B8%AB%E0%B8%A7%E0%B8%A2+%E0%B8%A5%E0%B8%B2%E0%B8%A7+%E0%B8%A7%E0%B8%B1%E0%B8%99+%E0%B8%99%E0%B8%B5%E0%B9%89&date=now+7-d&geo=TH"
-        }
-      },
-      {
-        "query": "ฮานอย วัน นี้",
-        "value": 6,
-        "formattedValue": "6",
-        "raw": {
-          "query": "ฮานอย วัน นี้",
-          "value": 6,
-          "formattedValue": "6",
-          "hasData": true,
-          "link": "/trends/explore?q=%E0%B8%AE%E0%B8%B2%E0%B8%99%E0%B8%AD%E0%B8%A2+%E0%B8%A7%E0%B8%B1%E0%B8%99+%E0%B8%99%E0%B8%B5%E0%B9%89&date=now+7-d&geo=TH"
         }
       },
       {
@@ -187,6 +810,42 @@
         }
       },
       {
+        "query": "ฮานอย วัน นี้",
+        "value": 6,
+        "formattedValue": "6",
+        "raw": {
+          "query": "ฮานอย วัน นี้",
+          "value": 6,
+          "formattedValue": "6",
+          "hasData": true,
+          "link": "/trends/explore?q=%E0%B8%AE%E0%B8%B2%E0%B8%99%E0%B8%AD%E0%B8%A2+%E0%B8%A7%E0%B8%B1%E0%B8%99+%E0%B8%99%E0%B8%B5%E0%B9%89&date=now+7-d&geo=TH"
+        }
+      },
+      {
+        "query": "เพลง ใหม่",
+        "value": 5,
+        "formattedValue": "5",
+        "raw": {
+          "query": "เพลง ใหม่",
+          "value": 5,
+          "formattedValue": "5",
+          "hasData": true,
+          "link": "/trends/explore?q=%E0%B9%80%E0%B8%9E%E0%B8%A5%E0%B8%87+%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88&date=now+7-d&geo=TH"
+        }
+      },
+      {
+        "query": "หนัง ไทย",
+        "value": 5,
+        "formattedValue": "5",
+        "raw": {
+          "query": "หนัง ไทย",
+          "value": 5,
+          "formattedValue": "5",
+          "hasData": true,
+          "link": "/trends/explore?q=%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87+%E0%B9%84%E0%B8%97%E0%B8%A2&date=now+7-d&geo=TH"
+        }
+      },
+      {
         "query": "เดอะ โก ส เร ดิ โอ ล่าสุด",
         "value": 5,
         "formattedValue": "5",
@@ -196,6 +855,54 @@
           "formattedValue": "5",
           "hasData": true,
           "link": "/trends/explore?q=%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%B0+%E0%B9%82%E0%B8%81+%E0%B8%AA+%E0%B9%80%E0%B8%A3+%E0%B8%94%E0%B8%B4+%E0%B9%82%E0%B8%AD+%E0%B8%A5%E0%B9%88%E0%B8%B2%E0%B8%AA%E0%B8%B8%E0%B8%94&date=now+7-d&geo=TH"
+        }
+      },
+      {
+        "query": "ฟัง เพลง",
+        "value": 5,
+        "formattedValue": "5",
+        "raw": {
+          "query": "ฟัง เพลง",
+          "value": 5,
+          "formattedValue": "5",
+          "hasData": true,
+          "link": "/trends/explore?q=%E0%B8%9F%E0%B8%B1%E0%B8%87+%E0%B9%80%E0%B8%9E%E0%B8%A5%E0%B8%87&date=now+7-d&geo=TH"
+        }
+      },
+      {
+        "query": "the ghost",
+        "value": 5,
+        "formattedValue": "5",
+        "raw": {
+          "query": "the ghost",
+          "value": 5,
+          "formattedValue": "5",
+          "hasData": true,
+          "link": "/trends/explore?q=the+ghost&date=now+7-d&geo=TH"
+        }
+      },
+      {
+        "query": "ละคร",
+        "value": 5,
+        "formattedValue": "5",
+        "raw": {
+          "query": "ละคร",
+          "value": 5,
+          "formattedValue": "5",
+          "hasData": true,
+          "link": "/trends/explore?q=%E0%B8%A5%E0%B8%B0%E0%B8%84%E0%B8%A3&date=now+7-d&geo=TH"
+        }
+      },
+      {
+        "query": "ไฮ ไล ท์ ฟุตบอล",
+        "value": 5,
+        "formattedValue": "5",
+        "raw": {
+          "query": "ไฮ ไล ท์ ฟุตบอล",
+          "value": 5,
+          "formattedValue": "5",
+          "hasData": true,
+          "link": "/trends/explore?q=%E0%B9%84%E0%B8%AE+%E0%B9%84%E0%B8%A5+%E0%B8%97%E0%B9%8C+%E0%B8%9F%E0%B8%B8%E0%B8%95%E0%B8%9A%E0%B8%AD%E0%B8%A5&date=now+7-d&geo=TH"
         }
       },
       {
@@ -209,169 +916,172 @@
           "hasData": true,
           "link": "/trends/explore?q=%E0%B8%AD%E0%B8%B9%E0%B9%8B+%E0%B8%88%E0%B8%B8%E0%B8%99&date=now+7-d&geo=TH"
         }
-      },
-      {
-        "query": "ไฮ ไล ท์ ฟุตบอล",
-        "value": 4,
-        "formattedValue": "4",
-        "raw": {
-          "query": "ไฮ ไล ท์ ฟุตบอล",
-          "value": 4,
-          "formattedValue": "4",
-          "hasData": true,
-          "link": "/trends/explore?q=%E0%B9%84%E0%B8%AE+%E0%B9%84%E0%B8%A5+%E0%B8%97%E0%B9%8C+%E0%B8%9F%E0%B8%B8%E0%B8%95%E0%B8%9A%E0%B8%AD%E0%B8%A5&date=now+7-d&geo=TH"
-        }
-      },
-      {
-        "query": "โหน กระแส ล่าสุด",
-        "value": 4,
-        "formattedValue": "4",
-        "raw": {
-          "query": "โหน กระแส ล่าสุด",
-          "value": 4,
-          "formattedValue": "4",
-          "hasData": true,
-          "link": "/trends/explore?q=%E0%B9%82%E0%B8%AB%E0%B8%99+%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B9%81%E0%B8%AA+%E0%B8%A5%E0%B9%88%E0%B8%B2%E0%B8%AA%E0%B8%B8%E0%B8%94&date=now+7-d&geo=TH"
-        }
-      },
-      {
-        "query": "ความ รัก",
-        "value": 4,
-        "formattedValue": "4",
-        "raw": {
-          "query": "ความ รัก",
-          "value": 4,
-          "formattedValue": "4",
-          "hasData": true,
-          "link": "/trends/explore?q=%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1+%E0%B8%A3%E0%B8%B1%E0%B8%81&date=now+7-d&geo=TH"
-        }
-      },
-      {
-        "query": "อ นิ เมะ",
-        "value": 4,
-        "formattedValue": "4",
-        "raw": {
-          "query": "อ นิ เมะ",
-          "value": 4,
-          "formattedValue": "4",
-          "hasData": true,
-          "link": "/trends/explore?q=%E0%B8%AD+%E0%B8%99%E0%B8%B4+%E0%B9%80%E0%B8%A1%E0%B8%B0&date=now+7-d&geo=TH"
-        }
-      },
-      {
-        "query": "เพลง เด็ก",
-        "value": 4,
-        "formattedValue": "4",
-        "raw": {
-          "query": "เพลง เด็ก",
-          "value": 4,
-          "formattedValue": "4",
-          "hasData": true,
-          "link": "/trends/explore?q=%E0%B9%80%E0%B8%9E%E0%B8%A5%E0%B8%87+%E0%B9%80%E0%B8%94%E0%B9%87%E0%B8%81&date=now+7-d&geo=TH"
-        }
-      },
-      {
-        "query": "the ghost radio",
-        "value": 4,
-        "formattedValue": "4",
-        "raw": {
-          "query": "the ghost radio",
-          "value": 4,
-          "formattedValue": "4",
-          "hasData": true,
-          "link": "/trends/explore?q=the+ghost+radio&date=now+7-d&geo=TH"
-        }
-      },
-      {
-        "query": "นิทาน",
-        "value": 4,
-        "formattedValue": "4",
-        "raw": {
-          "query": "นิทาน",
-          "value": 4,
-          "formattedValue": "4",
-          "hasData": true,
-          "link": "/trends/explore?q=%E0%B8%99%E0%B8%B4%E0%B8%97%E0%B8%B2%E0%B8%99&date=now+7-d&geo=TH"
-        }
-      },
-      {
-        "query": "มานะ",
-        "value": 4,
-        "formattedValue": "4",
-        "raw": {
-          "query": "มานะ",
-          "value": 4,
-          "formattedValue": "4",
-          "hasData": true,
-          "link": "/trends/explore?q=%E0%B8%A1%E0%B8%B2%E0%B8%99%E0%B8%B0&date=now+7-d&geo=TH"
-        }
       }
     ],
     "rising": [
       {
-        "query": "ตรวจ สลากกินแบ่ง รัฐบาล วัน นี้",
-        "value": 1050,
-        "formattedValue": "+1.050%",
+        "query": "pokemon champion",
+        "value": 1250,
+        "formattedValue": "+1.250%",
         "raw": {
-          "query": "ตรวจ สลากกินแบ่ง รัฐบาล วัน นี้",
-          "value": 1050,
-          "formattedValue": "+1.050%",
-          "link": "/trends/explore?q=%E0%B8%95%E0%B8%A3%E0%B8%A7%E0%B8%88+%E0%B8%AA%E0%B8%A5%E0%B8%B2%E0%B8%81%E0%B8%81%E0%B8%B4%E0%B8%99%E0%B9%81%E0%B8%9A%E0%B9%88%E0%B8%87+%E0%B8%A3%E0%B8%B1%E0%B8%90%E0%B8%9A%E0%B8%B2%E0%B8%A5+%E0%B8%A7%E0%B8%B1%E0%B8%99+%E0%B8%99%E0%B8%B5%E0%B9%89&date=now+7-d&geo=TH"
+          "query": "pokemon champion",
+          "value": 1250,
+          "formattedValue": "+1.250%",
+          "link": "/trends/explore?q=pokemon+champion&date=now+7-d&geo=TH"
         }
       },
       {
         "query": "วอ ล เล่ ย์ บอล หญิง ไทย วัน นี้ สด",
-        "value": 650,
-        "formattedValue": "+650%",
+        "value": 900,
+        "formattedValue": "+900%",
         "raw": {
           "query": "วอ ล เล่ ย์ บอล หญิง ไทย วัน นี้ สด",
-          "value": 650,
-          "formattedValue": "+650%",
+          "value": 900,
+          "formattedValue": "+900%",
           "link": "/trends/explore?q=%E0%B8%A7%E0%B8%AD+%E0%B8%A5+%E0%B9%80%E0%B8%A5%E0%B9%88+%E0%B8%A2%E0%B9%8C+%E0%B8%9A%E0%B8%AD%E0%B8%A5+%E0%B8%AB%E0%B8%8D%E0%B8%B4%E0%B8%87+%E0%B9%84%E0%B8%97%E0%B8%A2+%E0%B8%A7%E0%B8%B1%E0%B8%99+%E0%B8%99%E0%B8%B5%E0%B9%89+%E0%B8%AA%E0%B8%94&date=now+7-d&geo=TH"
         }
       },
       {
-        "query": "หวย ไทยรัฐ งวด นี้",
-        "value": 600,
-        "formattedValue": "+600%",
+        "query": "dmd",
+        "value": 750,
+        "formattedValue": "+750%",
         "raw": {
-          "query": "หวย ไทยรัฐ งวด นี้",
-          "value": 600,
-          "formattedValue": "+600%",
-          "link": "/trends/explore?q=%E0%B8%AB%E0%B8%A7%E0%B8%A2+%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%A3%E0%B8%B1%E0%B8%90+%E0%B8%87%E0%B8%A7%E0%B8%94+%E0%B8%99%E0%B8%B5%E0%B9%89&date=now+7-d&geo=TH"
+          "query": "dmd",
+          "value": 750,
+          "formattedValue": "+750%",
+          "link": "/trends/explore?q=dmd&date=now+7-d&geo=TH"
+        }
+      },
+      {
+        "query": "ถ่ายทอด สด วอลเลย์บอล วัน นี้",
+        "value": 700,
+        "formattedValue": "+700%",
+        "raw": {
+          "query": "ถ่ายทอด สด วอลเลย์บอล วัน นี้",
+          "value": 700,
+          "formattedValue": "+700%",
+          "link": "/trends/explore?q=%E0%B8%96%E0%B9%88%E0%B8%B2%E0%B8%A2%E0%B8%97%E0%B8%AD%E0%B8%94+%E0%B8%AA%E0%B8%94+%E0%B8%A7%E0%B8%AD%E0%B8%A5%E0%B9%80%E0%B8%A5%E0%B8%A2%E0%B9%8C%E0%B8%9A%E0%B8%AD%E0%B8%A5+%E0%B8%A7%E0%B8%B1%E0%B8%99+%E0%B8%99%E0%B8%B5%E0%B9%89&date=now+7-d&geo=TH"
         }
       },
       {
         "query": "วอลเลย์บอล หญิง ไทย ล่าสุด",
-        "value": 550,
-        "formattedValue": "+550%",
+        "value": 600,
+        "formattedValue": "+600%",
         "raw": {
           "query": "วอลเลย์บอล หญิง ไทย ล่าสุด",
-          "value": 550,
-          "formattedValue": "+550%",
+          "value": 600,
+          "formattedValue": "+600%",
           "link": "/trends/explore?q=%E0%B8%A7%E0%B8%AD%E0%B8%A5%E0%B9%80%E0%B8%A5%E0%B8%A2%E0%B9%8C%E0%B8%9A%E0%B8%AD%E0%B8%A5+%E0%B8%AB%E0%B8%8D%E0%B8%B4%E0%B8%87+%E0%B9%84%E0%B8%97%E0%B8%A2+%E0%B8%A5%E0%B9%88%E0%B8%B2%E0%B8%AA%E0%B8%B8%E0%B8%94&date=now+7-d&geo=TH"
         }
       },
       {
-        "query": "ดํา สนิท",
+        "query": "บอล เล่ หญิง ไทย ล่าสุด วัน นี้ ถ่ายทอด สด",
         "value": 550,
         "formattedValue": "+550%",
         "raw": {
-          "query": "ดํา สนิท",
+          "query": "บอล เล่ หญิง ไทย ล่าสุด วัน นี้ ถ่ายทอด สด",
           "value": 550,
           "formattedValue": "+550%",
+          "link": "/trends/explore?q=%E0%B8%9A%E0%B8%AD%E0%B8%A5+%E0%B9%80%E0%B8%A5%E0%B9%88+%E0%B8%AB%E0%B8%8D%E0%B8%B4%E0%B8%87+%E0%B9%84%E0%B8%97%E0%B8%A2+%E0%B8%A5%E0%B9%88%E0%B8%B2%E0%B8%AA%E0%B8%B8%E0%B8%94+%E0%B8%A7%E0%B8%B1%E0%B8%99+%E0%B8%99%E0%B8%B5%E0%B9%89+%E0%B8%96%E0%B9%88%E0%B8%B2%E0%B8%A2%E0%B8%97%E0%B8%AD%E0%B8%94+%E0%B8%AA%E0%B8%94&date=now+7-d&geo=TH"
+        }
+      },
+      {
+        "query": "อา เจน ติ น่า ล่าสุด",
+        "value": 550,
+        "formattedValue": "+550%",
+        "raw": {
+          "query": "อา เจน ติ น่า ล่าสุด",
+          "value": 550,
+          "formattedValue": "+550%",
+          "link": "/trends/explore?q=%E0%B8%AD%E0%B8%B2+%E0%B9%80%E0%B8%88%E0%B8%99+%E0%B8%95%E0%B8%B4+%E0%B8%99%E0%B9%88%E0%B8%B2+%E0%B8%A5%E0%B9%88%E0%B8%B2%E0%B8%AA%E0%B8%B8%E0%B8%94&date=now+7-d&geo=TH"
+        }
+      },
+      {
+        "query": "วอลเลย์บอล สด",
+        "value": 550,
+        "formattedValue": "+550%",
+        "raw": {
+          "query": "วอลเลย์บอล สด",
+          "value": 550,
+          "formattedValue": "+550%",
+          "link": "/trends/explore?q=%E0%B8%A7%E0%B8%AD%E0%B8%A5%E0%B9%80%E0%B8%A5%E0%B8%A2%E0%B9%8C%E0%B8%9A%E0%B8%AD%E0%B8%A5+%E0%B8%AA%E0%B8%94&date=now+7-d&geo=TH"
+        }
+      },
+      {
+        "query": "วอลเลย์บอล",
+        "value": 400,
+        "formattedValue": "+400%",
+        "raw": {
+          "query": "วอลเลย์บอล",
+          "value": 400,
+          "formattedValue": "+400%",
+          "link": "/trends/explore?q=%E0%B8%A7%E0%B8%AD%E0%B8%A5%E0%B9%80%E0%B8%A5%E0%B8%A2%E0%B9%8C%E0%B8%9A%E0%B8%AD%E0%B8%A5&date=now+7-d&geo=TH"
+        }
+      },
+      {
+        "query": "เพลง ส กุ ช ชี่",
+        "value": 400,
+        "formattedValue": "+400%",
+        "raw": {
+          "query": "เพลง ส กุ ช ชี่",
+          "value": 400,
+          "formattedValue": "+400%",
+          "link": "/trends/explore?q=%E0%B9%80%E0%B8%9E%E0%B8%A5%E0%B8%87+%E0%B8%AA+%E0%B8%81%E0%B8%B8+%E0%B8%8A+%E0%B8%8A%E0%B8%B5%E0%B9%88&date=now+7-d&geo=TH"
+        }
+      },
+      {
+        "query": "ดํา สนิท",
+        "value": 350,
+        "formattedValue": "+350%",
+        "raw": {
+          "query": "ดํา สนิท",
+          "value": 350,
+          "formattedValue": "+350%",
           "link": "/trends/explore?q=%E0%B8%94%E0%B9%8D%E0%B8%B2+%E0%B8%AA%E0%B8%99%E0%B8%B4%E0%B8%97&date=now+7-d&geo=TH"
         }
       },
       {
-        "query": "ท นาย ปีศาจ",
-        "value": 140,
-        "formattedValue": "+140%",
+        "query": "อม พระ มา พูด",
+        "value": 250,
+        "formattedValue": "+250%",
         "raw": {
-          "query": "ท นาย ปีศาจ",
-          "value": 140,
-          "formattedValue": "+140%",
-          "link": "/trends/explore?q=%E0%B8%97+%E0%B8%99%E0%B8%B2%E0%B8%A2+%E0%B8%9B%E0%B8%B5%E0%B8%A8%E0%B8%B2%E0%B8%88&date=now+7-d&geo=TH"
+          "query": "อม พระ มา พูด",
+          "value": 250,
+          "formattedValue": "+250%",
+          "link": "/trends/explore?q=%E0%B8%AD%E0%B8%A1+%E0%B8%9E%E0%B8%A3%E0%B8%B0+%E0%B8%A1%E0%B8%B2+%E0%B8%9E%E0%B8%B9%E0%B8%94&date=now+7-d&geo=TH"
+        }
+      },
+      {
+        "query": "the amazing digital circus",
+        "value": 250,
+        "formattedValue": "+250%",
+        "raw": {
+          "query": "the amazing digital circus",
+          "value": 250,
+          "formattedValue": "+250%",
+          "link": "/trends/explore?q=the+amazing+digital+circus&date=now+7-d&geo=TH"
+        }
+      },
+      {
+        "query": "ขี้แง proxie",
+        "value": 250,
+        "formattedValue": "+250%",
+        "raw": {
+          "query": "ขี้แง proxie",
+          "value": 250,
+          "formattedValue": "+250%",
+          "link": "/trends/explore?q=%E0%B8%82%E0%B8%B5%E0%B9%89%E0%B9%81%E0%B8%87+proxie&date=now+7-d&geo=TH"
+        }
+      },
+      {
+        "query": "the take ฮอร์โมน",
+        "value": 200,
+        "formattedValue": "+200%",
+        "raw": {
+          "query": "the take ฮอร์โมน",
+          "value": 200,
+          "formattedValue": "+200%",
+          "link": "/trends/explore?q=the+take+%E0%B8%AE%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B9%82%E0%B8%A1%E0%B8%99&date=now+7-d&geo=TH"
         }
       },
       {
@@ -386,25 +1096,25 @@
         }
       },
       {
-        "query": "ไฮ ไล ท์ ฟุตบอล",
-        "value": 70,
-        "formattedValue": "+70%",
+        "query": "life goes on",
+        "value": 80,
+        "formattedValue": "+80%",
         "raw": {
-          "query": "ไฮ ไล ท์ ฟุตบอล",
-          "value": 70,
-          "formattedValue": "+70%",
-          "link": "/trends/explore?q=%E0%B9%84%E0%B8%AE+%E0%B9%84%E0%B8%A5+%E0%B8%97%E0%B9%8C+%E0%B8%9F%E0%B8%B8%E0%B8%95%E0%B8%9A%E0%B8%AD%E0%B8%A5&date=now+7-d&geo=TH"
+          "query": "life goes on",
+          "value": 80,
+          "formattedValue": "+80%",
+          "link": "/trends/explore?q=life+goes+on&date=now+7-d&geo=TH"
         }
       },
       {
-        "query": "monomax",
+        "query": "ท นาย ปีศาจ",
         "value": 70,
         "formattedValue": "+70%",
         "raw": {
-          "query": "monomax",
+          "query": "ท นาย ปีศาจ",
           "value": 70,
           "formattedValue": "+70%",
-          "link": "/trends/explore?q=monomax&date=now+7-d&geo=TH"
+          "link": "/trends/explore?q=%E0%B8%97+%E0%B8%99%E0%B8%B2%E0%B8%A2+%E0%B8%9B%E0%B8%B5%E0%B8%A8%E0%B8%B2%E0%B8%88&date=now+7-d&geo=TH"
         }
       },
       {
@@ -419,36 +1129,69 @@
         }
       },
       {
-        "query": "มนัสวี ร์",
-        "value": 50,
-        "formattedValue": "+50%",
+        "query": "rov",
+        "value": 60,
+        "formattedValue": "+60%",
         "raw": {
-          "query": "มนัสวี ร์",
-          "value": 50,
-          "formattedValue": "+50%",
-          "link": "/trends/explore?q=%E0%B8%A1%E0%B8%99%E0%B8%B1%E0%B8%AA%E0%B8%A7%E0%B8%B5+%E0%B8%A3%E0%B9%8C&date=now+7-d&geo=TH"
+          "query": "rov",
+          "value": 60,
+          "formattedValue": "+60%",
+          "link": "/trends/explore?q=rov&date=now+7-d&geo=TH"
         }
       },
       {
-        "query": "ไฮ ไล ท์ ฟุตบอล โลก",
+        "query": "ดวล เพลง ชิง ทุน ล่าสุด",
         "value": 50,
         "formattedValue": "+50%",
         "raw": {
-          "query": "ไฮ ไล ท์ ฟุตบอล โลก",
+          "query": "ดวล เพลง ชิง ทุน ล่าสุด",
           "value": 50,
           "formattedValue": "+50%",
-          "link": "/trends/explore?q=%E0%B9%84%E0%B8%AE+%E0%B9%84%E0%B8%A5+%E0%B8%97%E0%B9%8C+%E0%B8%9F%E0%B8%B8%E0%B8%95%E0%B8%9A%E0%B8%AD%E0%B8%A5+%E0%B9%82%E0%B8%A5%E0%B8%81&date=now+7-d&geo=TH"
+          "link": "/trends/explore?q=%E0%B8%94%E0%B8%A7%E0%B8%A5+%E0%B9%80%E0%B8%9E%E0%B8%A5%E0%B8%87+%E0%B8%8A%E0%B8%B4%E0%B8%87+%E0%B8%97%E0%B8%B8%E0%B8%99+%E0%B8%A5%E0%B9%88%E0%B8%B2%E0%B8%AA%E0%B8%B8%E0%B8%94&date=now+7-d&geo=TH"
         }
       },
       {
-        "query": "มานะ พง ษ์ สิทธิ์ คํา ภี ร์",
-        "value": 40,
-        "formattedValue": "+40%",
+        "query": "porzax",
+        "value": 50,
+        "formattedValue": "+50%",
         "raw": {
-          "query": "มานะ พง ษ์ สิทธิ์ คํา ภี ร์",
-          "value": 40,
-          "formattedValue": "+40%",
-          "link": "/trends/explore?q=%E0%B8%A1%E0%B8%B2%E0%B8%99%E0%B8%B0+%E0%B8%9E%E0%B8%87+%E0%B8%A9%E0%B9%8C+%E0%B8%AA%E0%B8%B4%E0%B8%97%E0%B8%98%E0%B8%B4%E0%B9%8C+%E0%B8%84%E0%B9%8D%E0%B8%B2+%E0%B8%A0%E0%B8%B5+%E0%B8%A3%E0%B9%8C&date=now+7-d&geo=TH"
+          "query": "porzax",
+          "value": 50,
+          "formattedValue": "+50%",
+          "link": "/trends/explore?q=porzax&date=now+7-d&geo=TH"
+        }
+      },
+      {
+        "query": "ไฮ ไล ท์ ฟุตบอล",
+        "value": 50,
+        "formattedValue": "+50%",
+        "raw": {
+          "query": "ไฮ ไล ท์ ฟุตบอล",
+          "value": 50,
+          "formattedValue": "+50%",
+          "link": "/trends/explore?q=%E0%B9%84%E0%B8%AE+%E0%B9%84%E0%B8%A5+%E0%B8%97%E0%B9%8C+%E0%B8%9F%E0%B8%B8%E0%B8%95%E0%B8%9A%E0%B8%AD%E0%B8%A5&date=now+7-d&geo=TH"
+        }
+      },
+      {
+        "query": "วัว ชน วัน นี้",
+        "value": 50,
+        "formattedValue": "+50%",
+        "raw": {
+          "query": "วัว ชน วัน นี้",
+          "value": 50,
+          "formattedValue": "+50%",
+          "link": "/trends/explore?q=%E0%B8%A7%E0%B8%B1%E0%B8%A7+%E0%B8%8A%E0%B8%99+%E0%B8%A7%E0%B8%B1%E0%B8%99+%E0%B8%99%E0%B8%B5%E0%B9%89&date=now+7-d&geo=TH"
+        }
+      },
+      {
+        "query": "monomax",
+        "value": 50,
+        "formattedValue": "+50%",
+        "raw": {
+          "query": "monomax",
+          "value": 50,
+          "formattedValue": "+50%",
+          "link": "/trends/explore?q=monomax&date=now+7-d&geo=TH"
         }
       }
     ]
