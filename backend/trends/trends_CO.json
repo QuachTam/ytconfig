@@ -1,586 +1,1333 @@
 {
   "status": "success",
   "topics": {
-    "top": [],
-    "rising": []
+    "top": [
+      {
+        "query": "Tiếng Tây Ban Nha",
+        "value": 100,
+        "formattedValue": "100",
+        "raw": {
+          "topic": {
+            "mid": "/m/06nm1",
+            "title": "Tiếng Tây Ban Nha",
+            "type": "Tiếng"
+          },
+          "value": 100,
+          "formattedValue": "100",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/06nm1&date=now+7-d&geo=CO"
+        }
+      },
+      {
+        "query": "Điện ảnh",
+        "value": 92,
+        "formattedValue": "92",
+        "raw": {
+          "topic": {
+            "mid": "/m/02vxn",
+            "title": "Điện ảnh",
+            "type": "Loại truyền hình"
+          },
+          "value": 92,
+          "formattedValue": "92",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/02vxn&date=now+7-d&geo=CO"
+        }
+      },
+      {
+        "query": "Bài hát",
+        "value": 78,
+        "formattedValue": "78",
+        "raw": {
+          "topic": {
+            "mid": "/m/074ft",
+            "title": "Bài hát",
+            "type": "Loại sáng tác"
+          },
+          "value": 78,
+          "formattedValue": "78",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/074ft&date=now+7-d&geo=CO"
+        }
+      },
+      {
+        "query": "Âm nhạc",
+        "value": 73,
+        "formattedValue": "73",
+        "raw": {
+          "topic": {
+            "mid": "/m/04rlf",
+            "title": "Âm nhạc",
+            "type": "Định dạng âm thanh"
+          },
+          "value": 73,
+          "formattedValue": "73",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/04rlf&date=now+7-d&geo=CO"
+        }
+      },
+      {
+        "query": "Lời bài hát",
+        "value": 71,
+        "formattedValue": "71",
+        "raw": {
+          "topic": {
+            "mid": "/m/09lgd",
+            "title": "Lời bài hát",
+            "type": "Chủ đề"
+          },
+          "value": 71,
+          "formattedValue": "71",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/09lgd&date=now+7-d&geo=CO"
+        }
+      },
+      {
+        "query": "Colombia",
+        "value": 47,
+        "formattedValue": "47",
+        "raw": {
+          "topic": {
+            "mid": "/m/01ls2",
+            "title": "Colombia",
+            "type": "Quốc gia ở Nam Mỹ"
+          },
+          "value": 47,
+          "formattedValue": "47",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/01ls2&date=now+7-d&geo=CO"
+        }
+      },
+      {
+        "query": "Video",
+        "value": 47,
+        "formattedValue": "47",
+        "raw": {
+          "topic": {
+            "mid": "/m/07z4p",
+            "title": "Video",
+            "type": "Định dạng phim"
+          },
+          "value": 47,
+          "formattedValue": "47",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/07z4p&date=now+7-d&geo=CO"
+        }
+      },
+      {
+        "query": "2026",
+        "value": 45,
+        "formattedValue": "45",
+        "raw": {
+          "topic": {
+            "mid": "/g/11b77d6b6g",
+            "title": "2026",
+            "type": "Chủ đề"
+          },
+          "value": 45,
+          "formattedValue": "45",
+          "hasData": true,
+          "link": "/trends/explore?q=/g/11b77d6b6g&date=now+7-d&geo=CO"
+        }
+      },
+      {
+        "query": "Caracol Televisión",
+        "value": 39,
+        "formattedValue": "39",
+        "raw": {
+          "topic": {
+            "mid": "/m/04z7lg",
+            "title": "Caracol Televisión",
+            "type": "Mạng truyền hình"
+          },
+          "value": 39,
+          "formattedValue": "39",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/04z7lg&date=now+7-d&geo=CO"
+        }
+      },
+      {
+        "query": "Giải Bóng đá Vô địch Thế giới",
+        "value": 27,
+        "formattedValue": "27",
+        "raw": {
+          "topic": {
+            "mid": "/m/030q7",
+            "title": "Giải Bóng đá Vô địch Thế giới",
+            "type": "Giải bóng đá"
+          },
+          "value": 27,
+          "formattedValue": "27",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/030q7&date=now+7-d&geo=CO"
+        }
+      },
+      {
+        "query": "Tiếng Latinh",
+        "value": 27,
+        "formattedValue": "27",
+        "raw": {
+          "topic": {
+            "mid": "/m/04h9h",
+            "title": "Tiếng Latinh",
+            "type": "Ngôn ngữ"
+          },
+          "value": 27,
+          "formattedValue": "27",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/04h9h&date=now+7-d&geo=CO"
+        }
+      },
+      {
+        "query": "Diomedes Díaz",
+        "value": 26,
+        "formattedValue": "26",
+        "raw": {
+          "topic": {
+            "mid": "/m/01s8l_3",
+            "title": "Diomedes Díaz",
+            "type": "Ca sĩ"
+          },
+          "value": 26,
+          "formattedValue": "26",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/01s8l_3&date=now+7-d&geo=CO"
+        }
+      },
+      {
+        "query": "Tình yêu",
+        "value": 25,
+        "formattedValue": "25",
+        "raw": {
+          "topic": {
+            "mid": "/m/048knlz",
+            "title": "Tình yêu",
+            "type": "Chủ đề"
+          },
+          "value": 25,
+          "formattedValue": "25",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/048knlz&date=now+7-d&geo=CO"
+        }
+      },
+      {
+        "query": "Nhạc Salsa",
+        "value": 25,
+        "formattedValue": "25",
+        "raw": {
+          "topic": {
+            "mid": "/m/0ln16",
+            "title": "Nhạc Salsa",
+            "type": "Thể loại nhạc"
+          },
+          "value": 25,
+          "formattedValue": "25",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/0ln16&date=now+7-d&geo=CO"
+        }
+      },
+      {
+        "query": "Đội tuyển Bóng đá Quốc gia Colombia",
+        "value": 25,
+        "formattedValue": "25",
+        "raw": {
+          "topic": {
+            "mid": "/m/032c08",
+            "title": "Đội tuyển Bóng đá Quốc gia Colombia",
+            "type": "Đội bóng đá"
+          },
+          "value": 25,
+          "formattedValue": "25",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/032c08&date=now+7-d&geo=CO"
+        }
+      },
+      {
+        "query": "Nhạc Vallenato",
+        "value": 24,
+        "formattedValue": "24",
+        "raw": {
+          "topic": {
+            "mid": "/m/03m8l9",
+            "title": "Nhạc Vallenato",
+            "type": "Thể loại nhạc"
+          },
+          "value": 24,
+          "formattedValue": "24",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/03m8l9&date=now+7-d&geo=CO"
+        }
+      },
+      {
+        "query": "chương",
+        "value": 22,
+        "formattedValue": "22",
+        "raw": {
+          "topic": {
+            "mid": "/m/042scs",
+            "title": "chương",
+            "type": "Chủ đề"
+          },
+          "value": 22,
+          "formattedValue": "22",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/042scs&date=now+7-d&geo=CO"
+        }
+      },
+      {
+        "query": "Trò chơi",
+        "value": 20,
+        "formattedValue": "20",
+        "raw": {
+          "topic": {
+            "mid": "/m/03bt1gh",
+            "title": "Trò chơi",
+            "type": "Chủ đề"
+          },
+          "value": 20,
+          "formattedValue": "20",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/03bt1gh&date=now+7-d&geo=CO"
+        }
+      },
+      {
+        "query": "Bóng đá",
+        "value": 19,
+        "formattedValue": "19",
+        "raw": {
+          "topic": {
+            "mid": "/m/02vx4",
+            "title": "Bóng đá",
+            "type": "Thể thao"
+          },
+          "value": 19,
+          "formattedValue": "19",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/02vx4&date=now+7-d&geo=CO"
+        }
+      },
+      {
+        "query": "La rosa de Guadalupe",
+        "value": 18,
+        "formattedValue": "18",
+        "raw": {
+          "topic": {
+            "mid": "/m/07kcy_8",
+            "title": "La rosa de Guadalupe",
+            "type": "Chương trình truyền hình"
+          },
+          "value": 18,
+          "formattedValue": "18",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/07kcy_8&date=now+7-d&geo=CO"
+        }
+      },
+      {
+        "query": "Fede Vigevani",
+        "value": 18,
+        "formattedValue": "18",
+        "raw": {
+          "topic": {
+            "mid": "/g/11fx8yx8dh",
+            "title": "Fede Vigevani",
+            "type": "Người làm YouTube"
+          },
+          "value": 18,
+          "formattedValue": "18",
+          "hasData": true,
+          "link": "/trends/explore?q=/g/11fx8yx8dh&date=now+7-d&geo=CO"
+        }
+      },
+      {
+        "query": "Nhảy múa",
+        "value": 17,
+        "formattedValue": "17",
+        "raw": {
+          "topic": {
+            "mid": "/m/026bk",
+            "title": "Nhảy múa",
+            "type": "Lĩnh vực nghề nghiệp"
+          },
+          "value": 17,
+          "formattedValue": "17",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/026bk&date=now+7-d&geo=CO"
+        }
+      },
+      {
+        "query": "Tập phim",
+        "value": 17,
+        "formattedValue": "17",
+        "raw": {
+          "topic": {
+            "mid": "/m/02cphr",
+            "title": "Tập phim",
+            "type": "Chủ đề"
+          },
+          "value": 17,
+          "formattedValue": "17",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/02cphr&date=now+7-d&geo=CO"
+        }
+      },
+      {
+        "query": "RCN Televisión",
+        "value": 14,
+        "formattedValue": "14",
+        "raw": {
+          "topic": {
+            "mid": "/m/09hj_3",
+            "title": "RCN Televisión",
+            "type": "Mạng truyền hình"
+          },
+          "value": 14,
+          "formattedValue": "14",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/09hj_3&date=now+7-d&geo=CO"
+        }
+      },
+      {
+        "query": "Kitô giáo",
+        "value": 14,
+        "formattedValue": "14",
+        "raw": {
+          "topic": {
+            "mid": "/m/01lp8",
+            "title": "Kitô giáo",
+            "type": "Tôn giáo"
+          },
+          "value": 14,
+          "formattedValue": "14",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/01lp8&date=now+7-d&geo=CO"
+        }
+      }
+    ],
+    "rising": [
+      {
+        "query": "Juanpis Gonzalez",
+        "value": 9550,
+        "formattedValue": "Đột phá",
+        "raw": {
+          "topic": {
+            "mid": "/g/11g0v_q488",
+            "title": "Juanpis Gonzalez",
+            "type": "Nghệ sĩ âm nhạc"
+          },
+          "value": 9550,
+          "formattedValue": "Đột phá",
+          "link": "/trends/explore?q=/g/11g0v_q488&date=now+7-d&geo=CO"
+        }
+      },
+      {
+        "query": "Dai Dai",
+        "value": 4850,
+        "formattedValue": "+4.850%",
+        "raw": {
+          "topic": {
+            "mid": "/g/11njjz3473",
+            "title": "Dai Dai",
+            "type": "Tác phẩm âm nhạc của Ed Sheeran, Jon Bellion, và Shakira"
+          },
+          "value": 4850,
+          "formattedValue": "+4.850%",
+          "link": "/trends/explore?q=/g/11njjz3473&date=now+7-d&geo=CO"
+        }
+      },
+      {
+        "query": "2026 Colombian presidential election",
+        "value": 3050,
+        "formattedValue": "+3.050%",
+        "raw": {
+          "topic": {
+            "mid": "/g/11lnzyrykj",
+            "title": "2026 Colombian presidential election",
+            "type": "Chủ đề"
+          },
+          "value": 3050,
+          "formattedValue": "+3.050%",
+          "link": "/trends/explore?q=/g/11lnzyrykj&date=now+7-d&geo=CO"
+        }
+      },
+      {
+        "query": "Alex Bueno",
+        "value": 3050,
+        "formattedValue": "+3.050%",
+        "raw": {
+          "topic": {
+            "mid": "/m/0797vq",
+            "title": "Alex Bueno",
+            "type": "Ca sĩ"
+          },
+          "value": 3050,
+          "formattedValue": "+3.050%",
+          "link": "/trends/explore?q=/m/0797vq&date=now+7-d&geo=CO"
+        }
+      },
+      {
+        "query": "Đội tuyển bóng đá quốc gia Cộng hòa Dân chủ Congo",
+        "value": 2800,
+        "formattedValue": "+2.800%",
+        "raw": {
+          "topic": {
+            "mid": "/m/03_st3",
+            "title": "Đội tuyển bóng đá quốc gia Cộng hòa Dân chủ Congo",
+            "type": "Đội bóng đá"
+          },
+          "value": 2800,
+          "formattedValue": "+2.800%",
+          "link": "/trends/explore?q=/m/03_st3&date=now+7-d&geo=CO"
+        }
+      },
+      {
+        "query": "Đội tuyển bóng đá quốc gia Uzbekistan",
+        "value": 2500,
+        "formattedValue": "+2.500%",
+        "raw": {
+          "topic": {
+            "mid": "/m/03__77",
+            "title": "Đội tuyển bóng đá quốc gia Uzbekistan",
+            "type": "Đội bóng đá"
+          },
+          "value": 2500,
+          "formattedValue": "+2.500%",
+          "link": "/trends/explore?q=/m/03__77&date=now+7-d&geo=CO"
+        }
+      },
+      {
+        "query": "Yeferson Cossio",
+        "value": 2100,
+        "formattedValue": "+2.100%",
+        "raw": {
+          "topic": {
+            "mid": "/g/11f7k1kkyg",
+            "title": "Yeferson Cossio",
+            "type": "Người có ảnh hưởng"
+          },
+          "value": 2100,
+          "formattedValue": "+2.100%",
+          "link": "/trends/explore?q=/g/11f7k1kkyg&date=now+7-d&geo=CO"
+        }
+      },
+      {
+        "query": "Bầu cử",
+        "value": 650,
+        "formattedValue": "+650%",
+        "raw": {
+          "topic": {
+            "mid": "/m/02l3h",
+            "title": "Bầu cử",
+            "type": "Chủ đề"
+          },
+          "value": 650,
+          "formattedValue": "+650%",
+          "link": "/trends/explore?q=/m/02l3h&date=now+7-d&geo=CO"
+        }
+      },
+      {
+        "query": "Đội tuyển Bóng đá Quốc gia Bồ Đào Nha",
+        "value": 550,
+        "formattedValue": "+550%",
+        "raw": {
+          "topic": {
+            "mid": "/m/02rqxc",
+            "title": "Đội tuyển Bóng đá Quốc gia Bồ Đào Nha",
+            "type": "Đội bóng đá"
+          },
+          "value": 550,
+          "formattedValue": "+550%",
+          "link": "/trends/explore?q=/m/02rqxc&date=now+7-d&geo=CO"
+        }
+      },
+      {
+        "query": "Đội tuyển Bóng đá Quốc gia Colombia",
+        "value": 400,
+        "formattedValue": "+400%",
+        "raw": {
+          "topic": {
+            "mid": "/m/032c08",
+            "title": "Đội tuyển Bóng đá Quốc gia Colombia",
+            "type": "Đội bóng đá"
+          },
+          "value": 400,
+          "formattedValue": "+400%",
+          "link": "/trends/explore?q=/m/032c08&date=now+7-d&geo=CO"
+        }
+      },
+      {
+        "query": "Juanpis González: The Series",
+        "value": 300,
+        "formattedValue": "+300%",
+        "raw": {
+          "topic": {
+            "mid": "/g/11pkl18sc7",
+            "title": "Juanpis González: The Series",
+            "type": "Chương trình truyền hình"
+          },
+          "value": 300,
+          "formattedValue": "+300%",
+          "link": "/trends/explore?q=/g/11pkl18sc7&date=now+7-d&geo=CO"
+        }
+      },
+      {
+        "query": "Đầu phiếu",
+        "value": 250,
+        "formattedValue": "+250%",
+        "raw": {
+          "topic": {
+            "mid": "/m/0pgkc",
+            "title": "Đầu phiếu",
+            "type": "Chủ đề"
+          },
+          "value": 250,
+          "formattedValue": "+250%",
+          "link": "/trends/explore?q=/m/0pgkc&date=now+7-d&geo=CO"
+        }
+      },
+      {
+        "query": "Bồ Đào Nha",
+        "value": 250,
+        "formattedValue": "+250%",
+        "raw": {
+          "topic": {
+            "mid": "/m/05r4w",
+            "title": "Bồ Đào Nha",
+            "type": "Quốc gia"
+          },
+          "value": 250,
+          "formattedValue": "+250%",
+          "link": "/trends/explore?q=/m/05r4w&date=now+7-d&geo=CO"
+        }
+      },
+      {
+        "query": "Iván Cepeda",
+        "value": 170,
+        "formattedValue": "+170%",
+        "raw": {
+          "topic": {
+            "mid": "/g/1q6jc4dr2",
+            "title": "Iván Cepeda",
+            "type": "Thượng nghị sĩ Colombia"
+          },
+          "value": 170,
+          "formattedValue": "+170%",
+          "link": "/trends/explore?q=/g/1q6jc4dr2&date=now+7-d&geo=CO"
+        }
+      },
+      {
+        "query": "Abelardo de la Espriella",
+        "value": 140,
+        "formattedValue": "+140%",
+        "raw": {
+          "topic": {
+            "mid": "/g/11bwfmp95b",
+            "title": "Abelardo de la Espriella",
+            "type": "Luật sư"
+          },
+          "value": 140,
+          "formattedValue": "+140%",
+          "link": "/trends/explore?q=/g/11bwfmp95b&date=now+7-d&geo=CO"
+        }
+      },
+      {
+        "query": "Tổng thống",
+        "value": 140,
+        "formattedValue": "+140%",
+        "raw": {
+          "topic": {
+            "mid": "/m/060c4",
+            "title": "Tổng thống",
+            "type": "Chủ đề"
+          },
+          "value": 140,
+          "formattedValue": "+140%",
+          "link": "/trends/explore?q=/m/060c4&date=now+7-d&geo=CO"
+        }
+      },
+      {
+        "query": "Lionel Messi",
+        "value": 140,
+        "formattedValue": "+140%",
+        "raw": {
+          "topic": {
+            "mid": "/m/06qjgc",
+            "title": "Lionel Messi",
+            "type": "Cầu thủ"
+          },
+          "value": 140,
+          "formattedValue": "+140%",
+          "link": "/trends/explore?q=/m/06qjgc&date=now+7-d&geo=CO"
+        }
+      },
+      {
+        "query": "Phỏng vấn",
+        "value": 130,
+        "formattedValue": "+130%",
+        "raw": {
+          "topic": {
+            "mid": "/m/01jdpf",
+            "title": "Phỏng vấn",
+            "type": "Chủ đề"
+          },
+          "value": 130,
+          "formattedValue": "+130%",
+          "link": "/trends/explore?q=/m/01jdpf&date=now+7-d&geo=CO"
+        }
+      },
+      {
+        "query": "Colombia",
+        "value": 120,
+        "formattedValue": "+120%",
+        "raw": {
+          "topic": {
+            "mid": "/m/01ls2",
+            "title": "Colombia",
+            "type": "Quốc gia ở Nam Mỹ"
+          },
+          "value": 120,
+          "formattedValue": "+120%",
+          "link": "/trends/explore?q=/m/01ls2&date=now+7-d&geo=CO"
+        }
+      },
+      {
+        "query": "Hổ",
+        "value": 120,
+        "formattedValue": "+120%",
+        "raw": {
+          "topic": {
+            "mid": "/m/07dm6",
+            "title": "Hổ",
+            "type": "Động vật"
+          },
+          "value": 120,
+          "formattedValue": "+120%",
+          "link": "/trends/explore?q=/m/07dm6&date=now+7-d&geo=CO"
+        }
+      },
+      {
+        "query": "Đội tuyển Bóng đá Quốc gia Algérie",
+        "value": 120,
+        "formattedValue": "+120%",
+        "raw": {
+          "topic": {
+            "mid": "/m/03_qj1",
+            "title": "Đội tuyển Bóng đá Quốc gia Algérie",
+            "type": "Đội bóng đá"
+          },
+          "value": 120,
+          "formattedValue": "+120%",
+          "link": "/trends/explore?q=/m/03_qj1&date=now+7-d&geo=CO"
+        }
+      },
+      {
+        "query": "Đội tuyển Bóng đá Quốc gia Argentina",
+        "value": 120,
+        "formattedValue": "+120%",
+        "raw": {
+          "topic": {
+            "mid": "/m/02bh_v",
+            "title": "Đội tuyển Bóng đá Quốc gia Argentina",
+            "type": "Đội bóng đá"
+          },
+          "value": 120,
+          "formattedValue": "+120%",
+          "link": "/trends/explore?q=/m/02bh_v&date=now+7-d&geo=CO"
+        }
+      },
+      {
+        "query": "Plim Plim",
+        "value": 70,
+        "formattedValue": "+70%",
+        "raw": {
+          "topic": {
+            "mid": "/g/11ylp539gm",
+            "title": "Plim Plim",
+            "type": "Chủ đề"
+          },
+          "value": 70,
+          "formattedValue": "+70%",
+          "link": "/trends/explore?q=/g/11ylp539gm&date=now+7-d&geo=CO"
+        }
+      }
+    ]
   },
   "queries": {
     "top": [
       {
-        "query": "caracol",
+        "query": "la",
         "value": 100,
         "formattedValue": "100",
         "raw": {
-          "query": "caracol",
+          "query": "la",
           "value": 100,
           "formattedValue": "100",
           "hasData": true,
-          "link": "/trends/explore?q=caracol&date=now+7-d&geo=CO"
+          "link": "/trends/explore?q=la&date=now+7-d&geo=CO"
         }
       },
       {
         "query": "colombia",
-        "value": 83,
-        "formattedValue": "83",
+        "value": 18,
+        "formattedValue": "18",
         "raw": {
           "query": "colombia",
-          "value": 83,
-          "formattedValue": "83",
+          "value": 18,
+          "formattedValue": "18",
           "hasData": true,
           "link": "/trends/explore?q=colombia&date=now+7-d&geo=CO"
         }
       },
       {
+        "query": "caracol",
+        "value": 17,
+        "formattedValue": "17",
+        "raw": {
+          "query": "caracol",
+          "value": 17,
+          "formattedValue": "17",
+          "hasData": true,
+          "link": "/trends/explore?q=caracol&date=now+7-d&geo=CO"
+        }
+      },
+      {
         "query": "amor",
-        "value": 76,
-        "formattedValue": "76",
+        "value": 15,
+        "formattedValue": "15",
         "raw": {
           "query": "amor",
-          "value": 76,
-          "formattedValue": "76",
+          "value": 15,
+          "formattedValue": "15",
           "hasData": true,
           "link": "/trends/explore?q=amor&date=now+7-d&geo=CO"
         }
       },
       {
-        "query": "caracol en vivo",
-        "value": 71,
-        "formattedValue": "71",
-        "raw": {
-          "query": "caracol en vivo",
-          "value": 71,
-          "formattedValue": "71",
-          "hasData": true,
-          "link": "/trends/explore?q=caracol+en+vivo&date=now+7-d&geo=CO"
-        }
-      },
-      {
         "query": "musica",
-        "value": 71,
-        "formattedValue": "71",
+        "value": 13,
+        "formattedValue": "13",
         "raw": {
           "query": "musica",
-          "value": 71,
-          "formattedValue": "71",
+          "value": 13,
+          "formattedValue": "13",
           "hasData": true,
           "link": "/trends/explore?q=musica&date=now+7-d&geo=CO"
         }
       },
       {
+        "query": "caracol en vivo",
+        "value": 13,
+        "formattedValue": "13",
+        "raw": {
+          "query": "caracol en vivo",
+          "value": 13,
+          "formattedValue": "13",
+          "hasData": true,
+          "link": "/trends/explore?q=caracol+en+vivo&date=now+7-d&geo=CO"
+        }
+      },
+      {
         "query": "peliculas",
-        "value": 56,
-        "formattedValue": "56",
+        "value": 12,
+        "formattedValue": "12",
         "raw": {
           "query": "peliculas",
-          "value": 56,
-          "formattedValue": "56",
+          "value": 12,
+          "formattedValue": "12",
           "hasData": true,
           "link": "/trends/explore?q=peliculas&date=now+7-d&geo=CO"
         }
       },
       {
         "query": "videos",
-        "value": 49,
-        "formattedValue": "49",
+        "value": 10,
+        "formattedValue": "10",
         "raw": {
           "query": "videos",
-          "value": 49,
-          "formattedValue": "49",
+          "value": 10,
+          "formattedValue": "10",
           "hasData": true,
           "link": "/trends/explore?q=videos&date=now+7-d&geo=CO"
         }
       },
       {
-        "query": "canciones",
-        "value": 44,
-        "formattedValue": "44",
-        "raw": {
-          "query": "canciones",
-          "value": 44,
-          "formattedValue": "44",
-          "hasData": true,
-          "link": "/trends/explore?q=canciones&date=now+7-d&geo=CO"
-        }
-      },
-      {
         "query": "salsa",
-        "value": 42,
-        "formattedValue": "42",
+        "value": 9,
+        "formattedValue": "9",
         "raw": {
           "query": "salsa",
-          "value": 42,
-          "formattedValue": "42",
+          "value": 9,
+          "formattedValue": "9",
           "hasData": true,
           "link": "/trends/explore?q=salsa&date=now+7-d&geo=CO"
         }
       },
       {
         "query": "peliculas completas en español",
-        "value": 42,
-        "formattedValue": "42",
+        "value": 9,
+        "formattedValue": "9",
         "raw": {
           "query": "peliculas completas en español",
-          "value": 42,
-          "formattedValue": "42",
+          "value": 9,
+          "formattedValue": "9",
           "hasData": true,
           "link": "/trends/explore?q=peliculas+completas+en+espa%C3%B1ol&date=now+7-d&geo=CO"
         }
       },
       {
+        "query": "canciones",
+        "value": 8,
+        "formattedValue": "8",
+        "raw": {
+          "query": "canciones",
+          "value": 8,
+          "formattedValue": "8",
+          "hasData": true,
+          "link": "/trends/explore?q=canciones&date=now+7-d&geo=CO"
+        }
+      },
+      {
         "query": "música",
-        "value": 38,
-        "formattedValue": "38",
+        "value": 7,
+        "formattedValue": "7",
         "raw": {
           "query": "música",
-          "value": 38,
-          "formattedValue": "38",
+          "value": 7,
+          "formattedValue": "7",
           "hasData": true,
           "link": "/trends/explore?q=m%C3%BAsica&date=now+7-d&geo=CO"
         }
       },
       {
         "query": "peliculas completas en español latino",
-        "value": 30,
-        "formattedValue": "30",
+        "value": 6,
+        "formattedValue": "6",
         "raw": {
           "query": "peliculas completas en español latino",
-          "value": 30,
-          "formattedValue": "30",
+          "value": 6,
+          "formattedValue": "6",
           "hasData": true,
           "link": "/trends/explore?q=peliculas+completas+en+espa%C3%B1ol+latino&date=now+7-d&geo=CO"
         }
       },
       {
         "query": "fede",
-        "value": 29,
-        "formattedValue": "29",
+        "value": 6,
+        "formattedValue": "6",
         "raw": {
           "query": "fede",
-          "value": 29,
-          "formattedValue": "29",
+          "value": 6,
+          "formattedValue": "6",
           "hasData": true,
           "link": "/trends/explore?q=fede&date=now+7-d&geo=CO"
         }
       },
       {
         "query": "diomedes diaz",
-        "value": 26,
-        "formattedValue": "26",
+        "value": 5,
+        "formattedValue": "5",
         "raw": {
           "query": "diomedes diaz",
-          "value": 26,
-          "formattedValue": "26",
+          "value": 5,
+          "formattedValue": "5",
           "hasData": true,
           "link": "/trends/explore?q=diomedes+diaz&date=now+7-d&geo=CO"
         }
       },
       {
-        "query": "rcn",
-        "value": 24,
-        "formattedValue": "24",
+        "query": "cepeda",
+        "value": 5,
+        "formattedValue": "5",
         "raw": {
-          "query": "rcn",
-          "value": 24,
-          "formattedValue": "24",
+          "query": "cepeda",
+          "value": 5,
+          "formattedValue": "5",
           "hasData": true,
-          "link": "/trends/explore?q=rcn&date=now+7-d&geo=CO"
-        }
-      },
-      {
-        "query": "la rosa de guadalupe",
-        "value": 24,
-        "formattedValue": "24",
-        "raw": {
-          "query": "la rosa de guadalupe",
-          "value": 24,
-          "formattedValue": "24",
-          "hasData": true,
-          "link": "/trends/explore?q=la+rosa+de+guadalupe&date=now+7-d&geo=CO"
-        }
-      },
-      {
-        "query": "fede vigevani",
-        "value": 23,
-        "formattedValue": "23",
-        "raw": {
-          "query": "fede vigevani",
-          "value": 23,
-          "formattedValue": "23",
-          "hasData": true,
-          "link": "/trends/explore?q=fede+vigevani&date=now+7-d&geo=CO"
+          "link": "/trends/explore?q=cepeda&date=now+7-d&geo=CO"
         }
       },
       {
         "query": "vallenato",
-        "value": 23,
-        "formattedValue": "23",
+        "value": 5,
+        "formattedValue": "5",
         "raw": {
           "query": "vallenato",
-          "value": 23,
-          "formattedValue": "23",
+          "value": 5,
+          "formattedValue": "5",
           "hasData": true,
           "link": "/trends/explore?q=vallenato&date=now+7-d&geo=CO"
         }
       },
       {
+        "query": "la rosa de guadalupe",
+        "value": 5,
+        "formattedValue": "5",
+        "raw": {
+          "query": "la rosa de guadalupe",
+          "value": 5,
+          "formattedValue": "5",
+          "hasData": true,
+          "link": "/trends/explore?q=la+rosa+de+guadalupe&date=now+7-d&geo=CO"
+        }
+      },
+      {
+        "query": "rcn",
+        "value": 5,
+        "formattedValue": "5",
+        "raw": {
+          "query": "rcn",
+          "value": 5,
+          "formattedValue": "5",
+          "hasData": true,
+          "link": "/trends/explore?q=rcn&date=now+7-d&geo=CO"
+        }
+      },
+      {
+        "query": "fede vigevani",
+        "value": 5,
+        "formattedValue": "5",
+        "raw": {
+          "query": "fede vigevani",
+          "value": 5,
+          "formattedValue": "5",
+          "hasData": true,
+          "link": "/trends/explore?q=fede+vigevani&date=now+7-d&geo=CO"
+        }
+      },
+      {
+        "query": "terror",
+        "value": 4,
+        "formattedValue": "4",
+        "raw": {
+          "query": "terror",
+          "value": 4,
+          "formattedValue": "4",
+          "hasData": true,
+          "link": "/trends/explore?q=terror&date=now+7-d&geo=CO"
+        }
+      },
+      {
         "query": "tiktok",
-        "value": 20,
-        "formattedValue": "20",
+        "value": 4,
+        "formattedValue": "4",
         "raw": {
           "query": "tiktok",
-          "value": 20,
-          "formattedValue": "20",
+          "value": 4,
+          "formattedValue": "4",
           "hasData": true,
           "link": "/trends/explore?q=tiktok&date=now+7-d&geo=CO"
         }
       },
       {
-        "query": "mundial 2026",
-        "value": 19,
-        "formattedValue": "19",
-        "raw": {
-          "query": "mundial 2026",
-          "value": 19,
-          "formattedValue": "19",
-          "hasData": true,
-          "link": "/trends/explore?q=mundial+2026&date=now+7-d&geo=CO"
-        }
-      },
-      {
-        "query": "películas",
-        "value": 19,
-        "formattedValue": "19",
-        "raw": {
-          "query": "películas",
-          "value": 19,
-          "formattedValue": "19",
-          "hasData": true,
-          "link": "/trends/explore?q=pel%C3%ADculas&date=now+7-d&geo=CO"
-        }
-      },
-      {
         "query": "champeta",
-        "value": 19,
-        "formattedValue": "19",
+        "value": 4,
+        "formattedValue": "4",
         "raw": {
           "query": "champeta",
-          "value": 19,
-          "formattedValue": "19",
+          "value": 4,
+          "formattedValue": "4",
           "hasData": true,
           "link": "/trends/explore?q=champeta&date=now+7-d&geo=CO"
         }
       },
       {
         "query": "shakira",
-        "value": 18,
-        "formattedValue": "18",
+        "value": 4,
+        "formattedValue": "4",
         "raw": {
           "query": "shakira",
-          "value": 18,
-          "formattedValue": "18",
+          "value": 4,
+          "formattedValue": "4",
           "hasData": true,
           "link": "/trends/explore?q=shakira&date=now+7-d&geo=CO"
         }
       },
       {
-        "query": "rcn en vivo",
-        "value": 17,
-        "formattedValue": "17",
+        "query": "películas",
+        "value": 4,
+        "formattedValue": "4",
         "raw": {
-          "query": "rcn en vivo",
-          "value": 17,
-          "formattedValue": "17",
+          "query": "películas",
+          "value": 4,
+          "formattedValue": "4",
           "hasData": true,
-          "link": "/trends/explore?q=rcn+en+vivo&date=now+7-d&geo=CO"
-        }
-      },
-      {
-        "query": "vallenatos",
-        "value": 16,
-        "formattedValue": "16",
-        "raw": {
-          "query": "vallenatos",
-          "value": 16,
-          "formattedValue": "16",
-          "hasData": true,
-          "link": "/trends/explore?q=vallenatos&date=now+7-d&geo=CO"
+          "link": "/trends/explore?q=pel%C3%ADculas&date=now+7-d&geo=CO"
         }
       }
     ],
     "rising": [
       {
         "query": "colombia vs uzbekistan",
-        "value": 9400,
+        "value": 8900,
         "formattedValue": "Đột phá",
         "raw": {
           "query": "colombia vs uzbekistan",
-          "value": 9400,
+          "value": 8900,
           "formattedValue": "Đột phá",
           "link": "/trends/explore?q=colombia+vs+uzbekistan&date=now+7-d&geo=CO"
         }
       },
       {
+        "query": "portugal vs congo",
+        "value": 4750,
+        "formattedValue": "+4.750%",
+        "raw": {
+          "query": "portugal vs congo",
+          "value": 4750,
+          "formattedValue": "+4.750%",
+          "link": "/trends/explore?q=portugal+vs+congo&date=now+7-d&geo=CO"
+        }
+      },
+      {
+        "query": "portugal contra rd congo",
+        "value": 4150,
+        "formattedValue": "+4.150%",
+        "raw": {
+          "query": "portugal contra rd congo",
+          "value": 4150,
+          "formattedValue": "+4.150%",
+          "link": "/trends/explore?q=portugal+contra+rd+congo&date=now+7-d&geo=CO"
+        }
+      },
+      {
+        "query": "por la ventana cepeda",
+        "value": 3900,
+        "formattedValue": "+3.900%",
+        "raw": {
+          "query": "por la ventana cepeda",
+          "value": 3900,
+          "formattedValue": "+3.900%",
+          "link": "/trends/explore?q=por+la+ventana+cepeda&date=now+7-d&geo=CO"
+        }
+      },
+      {
+        "query": "inglaterra vs croacia",
+        "value": 3450,
+        "formattedValue": "+3.450%",
+        "raw": {
+          "query": "inglaterra vs croacia",
+          "value": 3450,
+          "formattedValue": "+3.450%",
+          "link": "/trends/explore?q=inglaterra+vs+croacia&date=now+7-d&geo=CO"
+        }
+      },
+      {
         "query": "uruguay vs cabo verde",
-        "value": 3700,
-        "formattedValue": "+3.700%",
+        "value": 3300,
+        "formattedValue": "+3.300%",
         "raw": {
           "query": "uruguay vs cabo verde",
-          "value": 3700,
-          "formattedValue": "+3.700%",
+          "value": 3300,
+          "formattedValue": "+3.300%",
           "link": "/trends/explore?q=uruguay+vs+cabo+verde&date=now+7-d&geo=CO"
         }
       },
       {
+        "query": "brasil vs haiti 2026",
+        "value": 2800,
+        "formattedValue": "+2.800%",
+        "raw": {
+          "query": "brasil vs haiti 2026",
+          "value": 2800,
+          "formattedValue": "+2.800%",
+          "link": "/trends/explore?q=brasil+vs+haiti+2026&date=now+7-d&geo=CO"
+        }
+      },
+      {
         "query": "elecciones colombia 2026",
-        "value": 2300,
-        "formattedValue": "+2.300%",
+        "value": 2650,
+        "formattedValue": "+2.650%",
         "raw": {
           "query": "elecciones colombia 2026",
-          "value": 2300,
-          "formattedValue": "+2.300%",
+          "value": 2650,
+          "formattedValue": "+2.650%",
           "link": "/trends/explore?q=elecciones+colombia+2026&date=now+7-d&geo=CO"
         }
       },
       {
         "query": "alex bueno",
-        "value": 2050,
-        "formattedValue": "+2.050%",
+        "value": 2650,
+        "formattedValue": "+2.650%",
         "raw": {
           "query": "alex bueno",
-          "value": 2050,
-          "formattedValue": "+2.050%",
+          "value": 2650,
+          "formattedValue": "+2.650%",
           "link": "/trends/explore?q=alex+bueno&date=now+7-d&geo=CO"
         }
       },
       {
         "query": "yeferson cossio",
-        "value": 1750,
-        "formattedValue": "+1.750%",
+        "value": 2250,
+        "formattedValue": "+2.250%",
         "raw": {
           "query": "yeferson cossio",
-          "value": 1750,
-          "formattedValue": "+1.750%",
+          "value": 2250,
+          "formattedValue": "+2.250%",
           "link": "/trends/explore?q=yeferson+cossio&date=now+7-d&geo=CO"
         }
       },
       {
-        "query": "discurso de abelardo de la espriella",
-        "value": 1200,
-        "formattedValue": "+1.200%",
+        "query": "francia vs irak",
+        "value": 1350,
+        "formattedValue": "+1.350%",
         "raw": {
-          "query": "discurso de abelardo de la espriella",
-          "value": 1200,
-          "formattedValue": "+1.200%",
-          "link": "/trends/explore?q=discurso+de+abelardo+de+la+espriella&date=now+7-d&geo=CO"
+          "query": "francia vs irak",
+          "value": 1350,
+          "formattedValue": "+1.350%",
+          "link": "/trends/explore?q=francia+vs+irak&date=now+7-d&geo=CO"
         }
       },
       {
-        "query": "karen torres",
+        "query": "mexico vs corea del sur",
+        "value": 1150,
+        "formattedValue": "+1.150%",
+        "raw": {
+          "query": "mexico vs corea del sur",
+          "value": 1150,
+          "formattedValue": "+1.150%",
+          "link": "/trends/explore?q=mexico+vs+corea+del+sur&date=now+7-d&geo=CO"
+        }
+      },
+      {
+        "query": "uzbekistán contra colombia",
+        "value": 850,
+        "formattedValue": "+850%",
+        "raw": {
+          "query": "uzbekistán contra colombia",
+          "value": 850,
+          "formattedValue": "+850%",
+          "link": "/trends/explore?q=uzbekist%C3%A1n+contra+colombia&date=now+7-d&geo=CO"
+        }
+      },
+      {
+        "query": "noruega vs senegal",
+        "value": 550,
+        "formattedValue": "+550%",
+        "raw": {
+          "query": "noruega vs senegal",
+          "value": 550,
+          "formattedValue": "+550%",
+          "link": "/trends/explore?q=noruega+vs+senegal&date=now+7-d&geo=CO"
+        }
+      },
+      {
+        "query": "partido de colombia en vivo caracol hoy",
+        "value": 550,
+        "formattedValue": "+550%",
+        "raw": {
+          "query": "partido de colombia en vivo caracol hoy",
+          "value": 550,
+          "formattedValue": "+550%",
+          "link": "/trends/explore?q=partido+de+colombia+en+vivo+caracol+hoy&date=now+7-d&geo=CO"
+        }
+      },
+      {
+        "query": "portugal hoy",
+        "value": 500,
+        "formattedValue": "+500%",
+        "raw": {
+          "query": "portugal hoy",
+          "value": 500,
+          "formattedValue": "+500%",
+          "link": "/trends/explore?q=portugal+hoy&date=now+7-d&geo=CO"
+        }
+      },
+      {
+        "query": "portugal",
         "value": 450,
         "formattedValue": "+450%",
         "raw": {
-          "query": "karen torres",
+          "query": "portugal",
           "value": 450,
           "formattedValue": "+450%",
-          "link": "/trends/explore?q=karen+torres&date=now+7-d&geo=CO"
+          "link": "/trends/explore?q=portugal&date=now+7-d&geo=CO"
+        }
+      },
+      {
+        "query": "colombia tierra querida",
+        "value": 450,
+        "formattedValue": "+450%",
+        "raw": {
+          "query": "colombia tierra querida",
+          "value": 450,
+          "formattedValue": "+450%",
+          "link": "/trends/explore?q=colombia+tierra+querida&date=now+7-d&geo=CO"
+        }
+      },
+      {
+        "query": "mami prende la radio encienda la tele",
+        "value": 450,
+        "formattedValue": "+450%",
+        "raw": {
+          "query": "mami prende la radio encienda la tele",
+          "value": 450,
+          "formattedValue": "+450%",
+          "link": "/trends/explore?q=mami+prende+la+radio+encienda+la+tele&date=now+7-d&geo=CO"
         }
       },
       {
         "query": "por la ventana",
-        "value": 300,
-        "formattedValue": "+300%",
+        "value": 400,
+        "formattedValue": "+400%",
         "raw": {
           "query": "por la ventana",
-          "value": 300,
-          "formattedValue": "+300%",
+          "value": 400,
+          "formattedValue": "+400%",
           "link": "/trends/explore?q=por+la+ventana&date=now+7-d&geo=CO"
         }
       },
       {
         "query": "colombia hoy",
-        "value": 300,
-        "formattedValue": "+300%",
+        "value": 350,
+        "formattedValue": "+350%",
         "raw": {
           "query": "colombia hoy",
-          "value": 300,
-          "formattedValue": "+300%",
+          "value": 350,
+          "formattedValue": "+350%",
           "link": "/trends/explore?q=colombia+hoy&date=now+7-d&geo=CO"
         }
       },
       {
-        "query": "juanpis gonzalez",
-        "value": 250,
-        "formattedValue": "+250%",
+        "query": "el ritmo que nos une",
+        "value": 350,
+        "formattedValue": "+350%",
         "raw": {
-          "query": "juanpis gonzalez",
-          "value": 250,
-          "formattedValue": "+250%",
-          "link": "/trends/explore?q=juanpis+gonzalez&date=now+7-d&geo=CO"
+          "query": "el ritmo que nos une",
+          "value": 350,
+          "formattedValue": "+350%",
+          "link": "/trends/explore?q=el+ritmo+que+nos+une&date=now+7-d&geo=CO"
+        }
+      },
+      {
+        "query": "yo soy mundial diomedes diaz",
+        "value": 350,
+        "formattedValue": "+350%",
+        "raw": {
+          "query": "yo soy mundial diomedes diaz",
+          "value": 350,
+          "formattedValue": "+350%",
+          "link": "/trends/explore?q=yo+soy+mundial+diomedes+diaz&date=now+7-d&geo=CO"
+        }
+      },
+      {
+        "query": "karen torres",
+        "value": 350,
+        "formattedValue": "+350%",
+        "raw": {
+          "query": "karen torres",
+          "value": 350,
+          "formattedValue": "+350%",
+          "link": "/trends/explore?q=karen+torres&date=now+7-d&geo=CO"
         }
       },
       {
         "query": "juanpis",
-        "value": 250,
-        "formattedValue": "+250%",
+        "value": 300,
+        "formattedValue": "+300%",
         "raw": {
           "query": "juanpis",
-          "value": 250,
-          "formattedValue": "+250%",
+          "value": 300,
+          "formattedValue": "+300%",
           "link": "/trends/explore?q=juanpis&date=now+7-d&geo=CO"
-        }
-      },
-      {
-        "query": "argentina",
-        "value": 250,
-        "formattedValue": "+250%",
-        "raw": {
-          "query": "argentina",
-          "value": 250,
-          "formattedValue": "+250%",
-          "link": "/trends/explore?q=argentina&date=now+7-d&geo=CO"
-        }
-      },
-      {
-        "query": "ivan cepeda",
-        "value": 190,
-        "formattedValue": "+190%",
-        "raw": {
-          "query": "ivan cepeda",
-          "value": 190,
-          "formattedValue": "+190%",
-          "link": "/trends/explore?q=ivan+cepeda&date=now+7-d&geo=CO"
-        }
-      },
-      {
-        "query": "glitch",
-        "value": 170,
-        "formattedValue": "+170%",
-        "raw": {
-          "query": "glitch",
-          "value": 170,
-          "formattedValue": "+170%",
-          "link": "/trends/explore?q=glitch&date=now+7-d&geo=CO"
-        }
-      },
-      {
-        "query": "colombia",
-        "value": 130,
-        "formattedValue": "+130%",
-        "raw": {
-          "query": "colombia",
-          "value": 130,
-          "formattedValue": "+130%",
-          "link": "/trends/explore?q=colombia&date=now+7-d&geo=CO"
-        }
-      },
-      {
-        "query": "abelardo de la espriella",
-        "value": 110,
-        "formattedValue": "+110%",
-        "raw": {
-          "query": "abelardo de la espriella",
-          "value": 110,
-          "formattedValue": "+110%",
-          "link": "/trends/explore?q=abelardo+de+la+espriella&date=now+7-d&geo=CO"
-        }
-      },
-      {
-        "query": "digital circus",
-        "value": 90,
-        "formattedValue": "+90%",
-        "raw": {
-          "query": "digital circus",
-          "value": 90,
-          "formattedValue": "+90%",
-          "link": "/trends/explore?q=digital+circus&date=now+7-d&geo=CO"
-        }
-      },
-      {
-        "query": "caracol radio en vivo",
-        "value": 90,
-        "formattedValue": "+90%",
-        "raw": {
-          "query": "caracol radio en vivo",
-          "value": 90,
-          "formattedValue": "+90%",
-          "link": "/trends/explore?q=caracol+radio+en+vivo&date=now+7-d&geo=CO"
-        }
-      },
-      {
-        "query": "caracol",
-        "value": 80,
-        "formattedValue": "+80%",
-        "raw": {
-          "query": "caracol",
-          "value": 80,
-          "formattedValue": "+80%",
-          "link": "/trends/explore?q=caracol&date=now+7-d&geo=CO"
-        }
-      },
-      {
-        "query": "partido de futbol de hoy en vivo",
-        "value": 80,
-        "formattedValue": "+80%",
-        "raw": {
-          "query": "partido de futbol de hoy en vivo",
-          "value": 80,
-          "formattedValue": "+80%",
-          "link": "/trends/explore?q=partido+de+futbol+de+hoy+en+vivo&date=now+7-d&geo=CO"
-        }
-      },
-      {
-        "query": "blu radio en vivo",
-        "value": 70,
-        "formattedValue": "+70%",
-        "raw": {
-          "query": "blu radio en vivo",
-          "value": 70,
-          "formattedValue": "+70%",
-          "link": "/trends/explore?q=blu+radio+en+vivo&date=now+7-d&geo=CO"
-        }
-      },
-      {
-        "query": "caracol en vivo",
-        "value": 60,
-        "formattedValue": "+60%",
-        "raw": {
-          "query": "caracol en vivo",
-          "value": 60,
-          "formattedValue": "+60%",
-          "link": "/trends/explore?q=caracol+en+vivo&date=now+7-d&geo=CO"
-        }
-      },
-      {
-        "query": "noticias caracol en vivo",
-        "value": 60,
-        "formattedValue": "+60%",
-        "raw": {
-          "query": "noticias caracol en vivo",
-          "value": 60,
-          "formattedValue": "+60%",
-          "link": "/trends/explore?q=noticias+caracol+en+vivo&date=now+7-d&geo=CO"
-        }
-      },
-      {
-        "query": "yolo aventuras",
-        "value": 60,
-        "formattedValue": "+60%",
-        "raw": {
-          "query": "yolo aventuras",
-          "value": 60,
-          "formattedValue": "+60%",
-          "link": "/trends/explore?q=yolo+aventuras&date=now+7-d&geo=CO"
-        }
-      },
-      {
-        "query": "las muñequitas",
-        "value": 50,
-        "formattedValue": "+50%",
-        "raw": {
-          "query": "las muñequitas",
-          "value": 50,
-          "formattedValue": "+50%",
-          "link": "/trends/explore?q=las+mu%C3%B1equitas&date=now+7-d&geo=CO"
         }
       }
     ]
