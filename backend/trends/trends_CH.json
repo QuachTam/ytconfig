@@ -35,6 +35,22 @@
         }
       },
       {
+        "query": "2026",
+        "value": 74,
+        "formattedValue": "74",
+        "raw": {
+          "topic": {
+            "mid": "/g/11b77d6b6g",
+            "title": "2026",
+            "type": "Chủ đề"
+          },
+          "value": 74,
+          "formattedValue": "74",
+          "hasData": true,
+          "link": "/trends/explore?q=/g/11b77d6b6g&date=now+7-d&geo=CH"
+        }
+      },
+      {
         "query": "Điện ảnh",
         "value": 70,
         "formattedValue": "70",
@@ -51,49 +67,33 @@
         }
       },
       {
-        "query": "2026",
-        "value": 69,
-        "formattedValue": "69",
-        "raw": {
-          "topic": {
-            "mid": "/g/11b77d6b6g",
-            "title": "2026",
-            "type": "Chủ đề"
-          },
-          "value": 69,
-          "formattedValue": "69",
-          "hasData": true,
-          "link": "/trends/explore?q=/g/11b77d6b6g&date=now+7-d&geo=CH"
-        }
-      },
-      {
         "query": "Tin tức",
-        "value": 59,
-        "formattedValue": "59",
+        "value": 63,
+        "formattedValue": "63",
         "raw": {
           "topic": {
             "mid": "/m/05jhg",
             "title": "Tin tức",
             "type": "Định dạng phát thanh"
           },
-          "value": 59,
-          "formattedValue": "59",
+          "value": 63,
+          "formattedValue": "63",
           "hasData": true,
           "link": "/trends/explore?q=/m/05jhg&date=now+7-d&geo=CH"
         }
       },
       {
         "query": "Tiếng Đức",
-        "value": 51,
-        "formattedValue": "51",
+        "value": 56,
+        "formattedValue": "56",
         "raw": {
           "topic": {
             "mid": "/m/04306rv",
             "title": "Tiếng Đức",
             "type": "Ngôn ngữ con người"
           },
-          "value": 51,
-          "formattedValue": "51",
+          "value": 56,
+          "formattedValue": "56",
           "hasData": true,
           "link": "/trends/explore?q=/m/04306rv&date=now+7-d&geo=CH"
         }
@@ -116,18 +116,50 @@
       },
       {
         "query": "Video",
-        "value": 29,
-        "formattedValue": "29",
+        "value": 31,
+        "formattedValue": "31",
         "raw": {
           "topic": {
             "mid": "/m/07z4p",
             "title": "Video",
             "type": "Định dạng phim"
           },
-          "value": 29,
-          "formattedValue": "29",
+          "value": 31,
+          "formattedValue": "31",
           "hasData": true,
           "link": "/trends/explore?q=/m/07z4p&date=now+7-d&geo=CH"
+        }
+      },
+      {
+        "query": "Thụy Sĩ",
+        "value": 27,
+        "formattedValue": "27",
+        "raw": {
+          "topic": {
+            "mid": "/m/06mzp",
+            "title": "Thụy Sĩ",
+            "type": "Quốc gia ở Châu Âu"
+          },
+          "value": 27,
+          "formattedValue": "27",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/06mzp&date=now+7-d&geo=CH"
+        }
+      },
+      {
+        "query": "Trailer",
+        "value": 27,
+        "formattedValue": "27",
+        "raw": {
+          "topic": {
+            "mid": "/m/03hdbf",
+            "title": "Trailer",
+            "type": "Chủ đề"
+          },
+          "value": 27,
+          "formattedValue": "27",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/03hdbf&date=now+7-d&geo=CH"
         }
       },
       {
@@ -147,67 +179,51 @@
         }
       },
       {
-        "query": "Thụy Sĩ",
-        "value": 26,
-        "formattedValue": "26",
-        "raw": {
-          "topic": {
-            "mid": "/m/06mzp",
-            "title": "Thụy Sĩ",
-            "type": "Quốc gia ở Châu Âu"
-          },
-          "value": 26,
-          "formattedValue": "26",
-          "hasData": true,
-          "link": "/trends/explore?q=/m/06mzp&date=now+7-d&geo=CH"
-        }
-      },
-      {
-        "query": "Trailer",
-        "value": 25,
-        "formattedValue": "25",
-        "raw": {
-          "topic": {
-            "mid": "/m/03hdbf",
-            "title": "Trailer",
-            "type": "Chủ đề"
-          },
-          "value": 25,
-          "formattedValue": "25",
-          "hasData": true,
-          "link": "/trends/explore?q=/m/03hdbf&date=now+7-d&geo=CH"
-        }
-      },
-      {
         "query": "Bóng đá",
-        "value": 22,
-        "formattedValue": "22",
+        "value": 23,
+        "formattedValue": "23",
         "raw": {
           "topic": {
             "mid": "/m/02vx4",
             "title": "Bóng đá",
             "type": "Thể thao"
           },
-          "value": 22,
-          "formattedValue": "22",
+          "value": 23,
+          "formattedValue": "23",
           "hasData": true,
           "link": "/trends/explore?q=/m/02vx4&date=now+7-d&geo=CH"
         }
       },
       {
         "query": "Tiếng Pháp",
-        "value": 21,
-        "formattedValue": "21",
+        "value": 22,
+        "formattedValue": "22",
         "raw": {
           "topic": {
             "mid": "/m/064_8sq",
             "title": "Tiếng Pháp",
             "type": "Ngôn ngữ con người"
           },
+          "value": 22,
+          "formattedValue": "22",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/064_8sq&date=now+7-d&geo=CH"
+        }
+      },
+      {
+        "query": "2025",
+        "value": 21,
+        "formattedValue": "21",
+        "raw": {
+          "topic": {
+            "mid": "/g/11b77d3kyg",
+            "title": "2025",
+            "type": "Chủ đề"
+          },
           "value": 21,
           "formattedValue": "21",
           "hasData": true,
-          "link": "/trends/explore?q=/m/064_8sq&date=now+7-d&geo=CH"
+          "link": "/trends/explore?q=/g/11b77d3kyg&date=now+7-d&geo=CH"
         }
       },
       {
@@ -227,67 +243,51 @@
         }
       },
       {
-        "query": "2025",
+        "query": "Thế giới",
         "value": 19,
         "formattedValue": "19",
-        "raw": {
-          "topic": {
-            "mid": "/g/11b77d3kyg",
-            "title": "2025",
-            "type": "Chủ đề"
-          },
-          "value": 19,
-          "formattedValue": "19",
-          "hasData": true,
-          "link": "/trends/explore?q=/g/11b77d3kyg&date=now+7-d&geo=CH"
-        }
-      },
-      {
-        "query": "Nhảy múa",
-        "value": 18,
-        "formattedValue": "18",
-        "raw": {
-          "topic": {
-            "mid": "/m/026bk",
-            "title": "Nhảy múa",
-            "type": "Lĩnh vực nghề nghiệp"
-          },
-          "value": 18,
-          "formattedValue": "18",
-          "hasData": true,
-          "link": "/trends/explore?q=/m/026bk&date=now+7-d&geo=CH"
-        }
-      },
-      {
-        "query": "Trò chơi",
-        "value": 18,
-        "formattedValue": "18",
-        "raw": {
-          "topic": {
-            "mid": "/m/03bt1gh",
-            "title": "Trò chơi",
-            "type": "Chủ đề"
-          },
-          "value": 18,
-          "formattedValue": "18",
-          "hasData": true,
-          "link": "/trends/explore?q=/m/03bt1gh&date=now+7-d&geo=CH"
-        }
-      },
-      {
-        "query": "Thế giới",
-        "value": 18,
-        "formattedValue": "18",
         "raw": {
           "topic": {
             "mid": "/m/09nm_",
             "title": "Thế giới",
             "type": "Chủ đề"
           },
-          "value": 18,
-          "formattedValue": "18",
+          "value": 19,
+          "formattedValue": "19",
           "hasData": true,
           "link": "/trends/explore?q=/m/09nm_&date=now+7-d&geo=CH"
+        }
+      },
+      {
+        "query": "Nhảy múa",
+        "value": 19,
+        "formattedValue": "19",
+        "raw": {
+          "topic": {
+            "mid": "/m/026bk",
+            "title": "Nhảy múa",
+            "type": "Lĩnh vực nghề nghiệp"
+          },
+          "value": 19,
+          "formattedValue": "19",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/026bk&date=now+7-d&geo=CH"
+        }
+      },
+      {
+        "query": "Trò chơi",
+        "value": 19,
+        "formattedValue": "19",
+        "raw": {
+          "topic": {
+            "mid": "/m/03bt1gh",
+            "title": "Trò chơi",
+            "type": "Chủ đề"
+          },
+          "value": 19,
+          "formattedValue": "19",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/03bt1gh&date=now+7-d&geo=CH"
         }
       },
       {
@@ -323,6 +323,22 @@
         }
       },
       {
+        "query": "Pháp",
+        "value": 16,
+        "formattedValue": "16",
+        "raw": {
+          "topic": {
+            "mid": "/m/0f8l9c",
+            "title": "Pháp",
+            "type": "Quốc gia ở Châu Âu"
+          },
+          "value": 16,
+          "formattedValue": "16",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/0f8l9c&date=now+7-d&geo=CH"
+        }
+      },
+      {
         "query": "Phản ứng kích thích cảm giác tự động",
         "value": 16,
         "formattedValue": "16",
@@ -340,322 +356,381 @@
       },
       {
         "query": "Minecraft",
-        "value": 15,
-        "formattedValue": "15",
+        "value": 16,
+        "formattedValue": "16",
         "raw": {
           "topic": {
             "mid": "/m/09v6kpg",
             "title": "Minecraft",
             "type": "Trò chơi điện tử"
           },
-          "value": 15,
-          "formattedValue": "15",
+          "value": 16,
+          "formattedValue": "16",
           "hasData": true,
           "link": "/trends/explore?q=/m/09v6kpg&date=now+7-d&geo=CH"
         }
       },
       {
-        "query": "Đức",
+        "query": "Ô tô",
         "value": 15,
         "formattedValue": "15",
         "raw": {
           "topic": {
-            "mid": "/m/0345h",
-            "title": "Đức",
-            "type": "Quốc gia ở Châu Âu"
+            "mid": "/m/0k4j",
+            "title": "Ô tô",
+            "type": "Chế độ phương tiện"
           },
           "value": 15,
           "formattedValue": "15",
           "hasData": true,
-          "link": "/trends/explore?q=/m/0345h&date=now+7-d&geo=CH"
-        }
-      },
-      {
-        "query": "Công thức nấu ăn",
-        "value": 14,
-        "formattedValue": "14",
-        "raw": {
-          "topic": {
-            "mid": "/m/0p57p",
-            "title": "Công thức nấu ăn",
-            "type": "Thể loại văn học"
-          },
-          "value": 14,
-          "formattedValue": "14",
-          "hasData": true,
-          "link": "/trends/explore?q=/m/0p57p&date=now+7-d&geo=CH"
+          "link": "/trends/explore?q=/m/0k4j&date=now+7-d&geo=CH"
         }
       }
     ],
     "rising": [
       {
         "query": "JPEG",
-        "value": 3500,
-        "formattedValue": "+3.500%",
+        "value": 6500,
+        "formattedValue": "Đột phá",
         "raw": {
           "topic": {
             "mid": "/m/0220vh_",
             "title": "JPEG",
             "type": "Định dạng tập tin"
           },
-          "value": 3500,
-          "formattedValue": "+3.500%",
+          "value": 6500,
+          "formattedValue": "Đột phá",
           "link": "/trends/explore?q=/m/0220vh_&date=now+7-d&geo=CH"
         }
       },
       {
         "query": "Venezuela",
-        "value": 550,
-        "formattedValue": "+550%",
+        "value": 800,
+        "formattedValue": "+800%",
         "raw": {
           "topic": {
             "mid": "/m/07ylj",
             "title": "Venezuela",
             "type": "Quốc gia ở Nam Mỹ"
           },
-          "value": 550,
-          "formattedValue": "+550%",
+          "value": 800,
+          "formattedValue": "+800%",
           "link": "/trends/explore?q=/m/07ylj&date=now+7-d&geo=CH"
         }
       },
       {
         "query": "Động đất",
-        "value": 550,
-        "formattedValue": "+550%",
+        "value": 750,
+        "formattedValue": "+750%",
         "raw": {
           "topic": {
             "mid": "/m/02r97",
             "title": "Động đất",
             "type": "Chủ đề"
           },
-          "value": 550,
-          "formattedValue": "+550%",
+          "value": 750,
+          "formattedValue": "+750%",
           "link": "/trends/explore?q=/m/02r97&date=now+7-d&geo=CH"
         }
       },
       {
-        "query": "Đội tuyển Bóng đá Quốc gia Ecuador",
-        "value": 300,
-        "formattedValue": "+300%",
+        "query": "Kho lưu trữ",
+        "value": 700,
+        "formattedValue": "+700%",
         "raw": {
           "topic": {
-            "mid": "/m/03zj_3",
-            "title": "Đội tuyển Bóng đá Quốc gia Ecuador",
-            "type": "Đội bóng đá"
+            "mid": "/m/01tygv",
+            "title": "Kho lưu trữ",
+            "type": "Loại hình tổ chức"
           },
-          "value": 300,
-          "formattedValue": "+300%",
-          "link": "/trends/explore?q=/m/03zj_3&date=now+7-d&geo=CH"
-        }
-      },
-      {
-        "query": "Máy điều hòa không khí",
-        "value": 250,
-        "formattedValue": "+250%",
-        "raw": {
-          "topic": {
-            "mid": "/g/1yqccwk9n",
-            "title": "Máy điều hòa không khí",
-            "type": "Chủ đề"
-          },
-          "value": 250,
-          "formattedValue": "+250%",
-          "link": "/trends/explore?q=/g/1yqccwk9n&date=now+7-d&geo=CH"
-        }
-      },
-      {
-        "query": "Đội tuyển Bóng đá Quốc gia Bờ Biển Ngà",
-        "value": 250,
-        "formattedValue": "+250%",
-        "raw": {
-          "topic": {
-            "mid": "/m/040pyq",
-            "title": "Đội tuyển Bóng đá Quốc gia Bờ Biển Ngà",
-            "type": "Đội bóng đá"
-          },
-          "value": 250,
-          "formattedValue": "+250%",
-          "link": "/trends/explore?q=/m/040pyq&date=now+7-d&geo=CH"
+          "value": 700,
+          "formattedValue": "+700%",
+          "link": "/trends/explore?q=/m/01tygv&date=now+7-d&geo=CH"
         }
       },
       {
         "query": "Định nghĩa",
-        "value": 170,
-        "formattedValue": "+170%",
+        "value": 350,
+        "formattedValue": "+350%",
         "raw": {
           "topic": {
             "mid": "/m/026yf",
             "title": "Định nghĩa",
             "type": "Chủ đề"
           },
-          "value": 170,
-          "formattedValue": "+170%",
+          "value": 350,
+          "formattedValue": "+350%",
           "link": "/trends/explore?q=/m/026yf&date=now+7-d&geo=CH"
         }
       },
       {
+        "query": "Dai dai",
+        "value": 300,
+        "formattedValue": "+300%",
+        "raw": {
+          "topic": {
+            "mid": "/g/11z7fc_dhy",
+            "title": "Dai dai",
+            "type": "Bài hát của Shakira"
+          },
+          "value": 300,
+          "formattedValue": "+300%",
+          "link": "/trends/explore?q=/g/11z7fc_dhy&date=now+7-d&geo=CH"
+        }
+      },
+      {
+        "query": "Đội tuyển Bóng đá Quốc gia Áo",
+        "value": 300,
+        "formattedValue": "+300%",
+        "raw": {
+          "topic": {
+            "mid": "/m/033g0y",
+            "title": "Đội tuyển Bóng đá Quốc gia Áo",
+            "type": "Đội bóng đá"
+          },
+          "value": 300,
+          "formattedValue": "+300%",
+          "link": "/trends/explore?q=/m/033g0y&date=now+7-d&geo=CH"
+        }
+      },
+      {
+        "query": "Áo",
+        "value": 200,
+        "formattedValue": "+200%",
+        "raw": {
+          "topic": {
+            "mid": "/m/0h7x",
+            "title": "Áo",
+            "type": "Quốc gia ở Châu Âu"
+          },
+          "value": 200,
+          "formattedValue": "+200%",
+          "link": "/trends/explore?q=/m/0h7x&date=now+7-d&geo=CH"
+        }
+      },
+      {
+        "query": "Máy điều hòa không khí",
+        "value": 150,
+        "formattedValue": "+150%",
+        "raw": {
+          "topic": {
+            "mid": "/g/1yqccwk9n",
+            "title": "Máy điều hòa không khí",
+            "type": "Chủ đề"
+          },
+          "value": 150,
+          "formattedValue": "+150%",
+          "link": "/trends/explore?q=/g/1yqccwk9n&date=now+7-d&geo=CH"
+        }
+      },
+      {
+        "query": "Đội tuyển Bóng đá Quốc gia Jordan",
+        "value": 140,
+        "formattedValue": "+140%",
+        "raw": {
+          "topic": {
+            "mid": "/m/0452m3",
+            "title": "Đội tuyển Bóng đá Quốc gia Jordan",
+            "type": "Đội bóng đá"
+          },
+          "value": 140,
+          "formattedValue": "+140%",
+          "link": "/trends/explore?q=/m/0452m3&date=now+7-d&geo=CH"
+        }
+      },
+      {
         "query": "Quạt",
-        "value": 160,
-        "formattedValue": "+160%",
+        "value": 120,
+        "formattedValue": "+120%",
         "raw": {
           "topic": {
             "mid": "/m/02x984l",
             "title": "Quạt",
             "type": "Dòng sản phẩm"
           },
-          "value": 160,
-          "formattedValue": "+160%",
+          "value": 120,
+          "formattedValue": "+120%",
           "link": "/trends/explore?q=/m/02x984l&date=now+7-d&geo=CH"
         }
       },
       {
+        "query": "Bóng gậy",
+        "value": 110,
+        "formattedValue": "+110%",
+        "raw": {
+          "topic": {
+            "mid": "/m/09xp_",
+            "title": "Bóng gậy",
+            "type": "Thể thao"
+          },
+          "value": 110,
+          "formattedValue": "+110%",
+          "link": "/trends/explore?q=/m/09xp_&date=now+7-d&geo=CH"
+        }
+      },
+      {
         "query": "Grand Theft Auto VI",
-        "value": 150,
-        "formattedValue": "+150%",
+        "value": 90,
+        "formattedValue": "+90%",
         "raw": {
           "topic": {
             "mid": "/g/11tfwwbjts",
             "title": "Grand Theft Auto VI",
             "type": "Trò chơi điện tử"
           },
-          "value": 150,
-          "formattedValue": "+150%",
+          "value": 90,
+          "formattedValue": "+90%",
           "link": "/trends/explore?q=/g/11tfwwbjts&date=now+7-d&geo=CH"
         }
       },
       {
-        "query": "Côte d’Ivoire",
-        "value": 110,
-        "formattedValue": "+110%",
-        "raw": {
-          "topic": {
-            "mid": "/m/0fv4v",
-            "title": "Côte d’Ivoire",
-            "type": "Quốc gia ở Tây Phi"
-          },
-          "value": 110,
-          "formattedValue": "+110%",
-          "link": "/trends/explore?q=/m/0fv4v&date=now+7-d&geo=CH"
-        }
-      },
-      {
-        "query": "Kiểm tra",
-        "value": 110,
-        "formattedValue": "+110%",
-        "raw": {
-          "topic": {
-            "mid": "/g/11bwc74plg",
-            "title": "Kiểm tra",
-            "type": "Chủ đề"
-          },
-          "value": 110,
-          "formattedValue": "+110%",
-          "link": "/trends/explore?q=/g/11bwc74plg&date=now+7-d&geo=CH"
-        }
-      },
-      {
-        "query": "Đại học",
-        "value": 100,
-        "formattedValue": "+100%",
-        "raw": {
-          "topic": {
-            "mid": "/m/07tf8",
-            "title": "Đại học",
-            "type": "Danh mục trường học"
-          },
-          "value": 100,
-          "formattedValue": "+100%",
-          "link": "/trends/explore?q=/m/07tf8&date=now+7-d&geo=CH"
-        }
-      },
-      {
-        "query": "Iraq",
+        "query": "Bản đồ",
         "value": 90,
         "formattedValue": "+90%",
         "raw": {
           "topic": {
-            "mid": "/m/0d05q4",
-            "title": "Iraq",
-            "type": "Quốc gia ở Trung Đông"
+            "mid": "/m/04_tb",
+            "title": "Bản đồ",
+            "type": "Thể loại văn học"
           },
           "value": 90,
           "formattedValue": "+90%",
-          "link": "/trends/explore?q=/m/0d05q4&date=now+7-d&geo=CH"
-        }
-      },
-      {
-        "query": "Netflix",
-        "value": 80,
-        "formattedValue": "+80%",
-        "raw": {
-          "topic": {
-            "mid": "/m/017rf_",
-            "title": "Netflix",
-            "type": "Mạng truyền hình"
-          },
-          "value": 80,
-          "formattedValue": "+80%",
-          "link": "/trends/explore?q=/m/017rf_&date=now+7-d&geo=CH"
-        }
-      },
-      {
-        "query": "Discord",
-        "value": 70,
-        "formattedValue": "+70%",
-        "raw": {
-          "topic": {
-            "mid": "/g/11cjpb9d52",
-            "title": "Discord",
-            "type": "Trang web"
-          },
-          "value": 70,
-          "formattedValue": "+70%",
-          "link": "/trends/explore?q=/g/11cjpb9d52&date=now+7-d&geo=CH"
-        }
-      },
-      {
-        "query": "Na Uy",
-        "value": 60,
-        "formattedValue": "+60%",
-        "raw": {
-          "topic": {
-            "mid": "/m/05b4w",
-            "title": "Na Uy",
-            "type": "Quốc gia ở Châu Âu"
-          },
-          "value": 60,
-          "formattedValue": "+60%",
-          "link": "/trends/explore?q=/m/05b4w&date=now+7-d&geo=CH"
+          "link": "/trends/explore?q=/m/04_tb&date=now+7-d&geo=CH"
         }
       },
       {
         "query": "Neymar",
-        "value": 60,
-        "formattedValue": "+60%",
+        "value": 80,
+        "formattedValue": "+80%",
         "raw": {
           "topic": {
             "mid": "/m/03m5111",
             "title": "Neymar",
             "type": "Cầu thủ"
           },
-          "value": 60,
-          "formattedValue": "+60%",
+          "value": 80,
+          "formattedValue": "+80%",
           "link": "/trends/explore?q=/m/03m5111&date=now+7-d&geo=CH"
         }
       },
       {
-        "query": "2021",
+        "query": "Iraq",
+        "value": 70,
+        "formattedValue": "+70%",
+        "raw": {
+          "topic": {
+            "mid": "/m/0d05q4",
+            "title": "Iraq",
+            "type": "Quốc gia ở Trung Đông"
+          },
+          "value": 70,
+          "formattedValue": "+70%",
+          "link": "/trends/explore?q=/m/0d05q4&date=now+7-d&geo=CH"
+        }
+      },
+      {
+        "query": "Đội tuyển Bóng đá Quốc gia Colombia",
+        "value": 70,
+        "formattedValue": "+70%",
+        "raw": {
+          "topic": {
+            "mid": "/m/032c08",
+            "title": "Đội tuyển Bóng đá Quốc gia Colombia",
+            "type": "Đội bóng đá"
+          },
+          "value": 70,
+          "formattedValue": "+70%",
+          "link": "/trends/explore?q=/m/032c08&date=now+7-d&geo=CH"
+        }
+      },
+      {
+        "query": "Jordan",
+        "value": 70,
+        "formattedValue": "+70%",
+        "raw": {
+          "topic": {
+            "mid": "/m/03__y",
+            "title": "Jordan",
+            "type": "Quốc gia ở Trung Đông"
+          },
+          "value": 70,
+          "formattedValue": "+70%",
+          "link": "/trends/explore?q=/m/03__y&date=now+7-d&geo=CH"
+        }
+      },
+      {
+        "query": "Na Uy",
+        "value": 70,
+        "formattedValue": "+70%",
+        "raw": {
+          "topic": {
+            "mid": "/m/05b4w",
+            "title": "Na Uy",
+            "type": "Quốc gia ở Châu Âu"
+          },
+          "value": 70,
+          "formattedValue": "+70%",
+          "link": "/trends/explore?q=/m/05b4w&date=now+7-d&geo=CH"
+        }
+      },
+      {
+        "query": "Đại học",
         "value": 60,
         "formattedValue": "+60%",
         "raw": {
           "topic": {
-            "mid": "/g/11b77d6b6f",
-            "title": "2021",
-            "type": "Chủ đề"
+            "mid": "/m/07tf8",
+            "title": "Đại học",
+            "type": "Danh mục trường học"
           },
           "value": 60,
           "formattedValue": "+60%",
-          "link": "/trends/explore?q=/g/11b77d6b6f&date=now+7-d&geo=CH"
+          "link": "/trends/explore?q=/m/07tf8&date=now+7-d&geo=CH"
+        }
+      },
+      {
+        "query": "Colombia",
+        "value": 60,
+        "formattedValue": "+60%",
+        "raw": {
+          "topic": {
+            "mid": "/m/01ls2",
+            "title": "Colombia",
+            "type": "Quốc gia ở Nam Mỹ"
+          },
+          "value": 60,
+          "formattedValue": "+60%",
+          "link": "/trends/explore?q=/m/01ls2&date=now+7-d&geo=CH"
+        }
+      },
+      {
+        "query": "Discord",
+        "value": 50,
+        "formattedValue": "+50%",
+        "raw": {
+          "topic": {
+            "mid": "/g/11cjpb9d52",
+            "title": "Discord",
+            "type": "Trang web"
+          },
+          "value": 50,
+          "formattedValue": "+50%",
+          "link": "/trends/explore?q=/g/11cjpb9d52&date=now+7-d&geo=CH"
+        }
+      },
+      {
+        "query": "Kiểm tra",
+        "value": 50,
+        "formattedValue": "+50%",
+        "raw": {
+          "topic": {
+            "mid": "/g/11bwc74plg",
+            "title": "Kiểm tra",
+            "type": "Chủ đề"
+          },
+          "value": 50,
+          "formattedValue": "+50%",
+          "link": "/trends/explore?q=/g/11bwc74plg&date=now+7-d&geo=CH"
         }
       },
       {
@@ -674,48 +749,18 @@
         }
       },
       {
-        "query": "Bản đồ",
-        "value": 50,
-        "formattedValue": "+50%",
-        "raw": {
-          "topic": {
-            "mid": "/m/04_tb",
-            "title": "Bản đồ",
-            "type": "Thể loại văn học"
-          },
-          "value": 50,
-          "formattedValue": "+50%",
-          "link": "/trends/explore?q=/m/04_tb&date=now+7-d&geo=CH"
-        }
-      },
-      {
-        "query": "Lễ Giáng sinh",
-        "value": 50,
-        "formattedValue": "+50%",
-        "raw": {
-          "topic": {
-            "mid": "/m/01vq3",
-            "title": "Lễ Giáng sinh",
-            "type": "Ngày lễ"
-          },
-          "value": 50,
-          "formattedValue": "+50%",
-          "link": "/trends/explore?q=/m/01vq3&date=now+7-d&geo=CH"
-        }
-      },
-      {
-        "query": "Áo",
+        "query": "Netflix",
         "value": 40,
         "formattedValue": "+40%",
         "raw": {
           "topic": {
-            "mid": "/m/0h7x",
-            "title": "Áo",
-            "type": "Quốc gia ở Châu Âu"
+            "mid": "/m/017rf_",
+            "title": "Netflix",
+            "type": "Mạng truyền hình"
           },
           "value": 40,
           "formattedValue": "+40%",
-          "link": "/trends/explore?q=/m/0h7x&date=now+7-d&geo=CH"
+          "link": "/trends/explore?q=/m/017rf_&date=now+7-d&geo=CH"
         }
       }
     ]
@@ -736,84 +781,84 @@
       },
       {
         "query": "music",
-        "value": 68,
-        "formattedValue": "68",
+        "value": 67,
+        "formattedValue": "67",
         "raw": {
           "query": "music",
-          "value": 68,
-          "formattedValue": "68",
+          "value": 67,
+          "formattedValue": "67",
           "hasData": true,
           "link": "/trends/explore?q=music&date=now+7-d&geo=CH"
         }
       },
       {
         "query": "film",
-        "value": 49,
-        "formattedValue": "49",
+        "value": 50,
+        "formattedValue": "50",
         "raw": {
           "query": "film",
-          "value": 49,
-          "formattedValue": "49",
+          "value": 50,
+          "formattedValue": "50",
           "hasData": true,
           "link": "/trends/explore?q=film&date=now+7-d&geo=CH"
         }
       },
       {
         "query": "songs",
-        "value": 40,
-        "formattedValue": "40",
+        "value": 42,
+        "formattedValue": "42",
         "raw": {
           "query": "songs",
-          "value": 40,
-          "formattedValue": "40",
+          "value": 42,
+          "formattedValue": "42",
           "hasData": true,
           "link": "/trends/explore?q=songs&date=now+7-d&geo=CH"
         }
       },
       {
         "query": "srf",
-        "value": 34,
-        "formattedValue": "34",
+        "value": 35,
+        "formattedValue": "35",
         "raw": {
           "query": "srf",
-          "value": 34,
-          "formattedValue": "34",
+          "value": 35,
+          "formattedValue": "35",
           "hasData": true,
           "link": "/trends/explore?q=srf&date=now+7-d&geo=CH"
         }
       },
       {
-        "query": "wm",
-        "value": 28,
-        "formattedValue": "28",
-        "raw": {
-          "query": "wm",
-          "value": 28,
-          "formattedValue": "28",
-          "hasData": true,
-          "link": "/trends/explore?q=wm&date=now+7-d&geo=CH"
-        }
-      },
-      {
         "query": "asmr",
-        "value": 27,
-        "formattedValue": "27",
+        "value": 29,
+        "formattedValue": "29",
         "raw": {
           "query": "asmr",
-          "value": 27,
-          "formattedValue": "27",
+          "value": 29,
+          "formattedValue": "29",
           "hasData": true,
           "link": "/trends/explore?q=asmr&date=now+7-d&geo=CH"
         }
       },
       {
+        "query": "wm",
+        "value": 27,
+        "formattedValue": "27",
+        "raw": {
+          "query": "wm",
+          "value": 27,
+          "formattedValue": "27",
+          "hasData": true,
+          "link": "/trends/explore?q=wm&date=now+7-d&geo=CH"
+        }
+      },
+      {
         "query": "minecraft",
-        "value": 26,
-        "formattedValue": "26",
+        "value": 27,
+        "formattedValue": "27",
         "raw": {
           "query": "minecraft",
-          "value": 26,
-          "formattedValue": "26",
+          "value": 27,
+          "formattedValue": "27",
           "hasData": true,
           "link": "/trends/explore?q=minecraft&date=now+7-d&geo=CH"
         }
@@ -831,6 +876,30 @@
         }
       },
       {
+        "query": "musique",
+        "value": 21,
+        "formattedValue": "21",
+        "raw": {
+          "query": "musique",
+          "value": 21,
+          "formattedValue": "21",
+          "hasData": true,
+          "link": "/trends/explore?q=musique&date=now+7-d&geo=CH"
+        }
+      },
+      {
+        "query": "musik",
+        "value": 19,
+        "formattedValue": "19",
+        "raw": {
+          "query": "musik",
+          "value": 19,
+          "formattedValue": "19",
+          "hasData": true,
+          "link": "/trends/explore?q=musik&date=now+7-d&geo=CH"
+        }
+      },
+      {
         "query": "world cup",
         "value": 19,
         "formattedValue": "19",
@@ -843,49 +912,37 @@
         }
       },
       {
-        "query": "musique",
-        "value": 19,
-        "formattedValue": "19",
-        "raw": {
-          "query": "musique",
-          "value": 19,
-          "formattedValue": "19",
-          "hasData": true,
-          "link": "/trends/explore?q=musique&date=now+7-d&geo=CH"
-        }
-      },
-      {
-        "query": "musik",
+        "query": "portugal",
         "value": 18,
         "formattedValue": "18",
         "raw": {
-          "query": "musik",
+          "query": "portugal",
           "value": 18,
           "formattedValue": "18",
           "hasData": true,
-          "link": "/trends/explore?q=musik&date=now+7-d&geo=CH"
+          "link": "/trends/explore?q=portugal&date=now+7-d&geo=CH"
         }
       },
       {
-        "query": "michael jackson",
+        "query": "schweiz",
         "value": 18,
         "formattedValue": "18",
         "raw": {
-          "query": "michael jackson",
+          "query": "schweiz",
           "value": 18,
           "formattedValue": "18",
           "hasData": true,
-          "link": "/trends/explore?q=michael+jackson&date=now+7-d&geo=CH"
+          "link": "/trends/explore?q=schweiz&date=now+7-d&geo=CH"
         }
       },
       {
         "query": "srf sport",
-        "value": 17,
-        "formattedValue": "17",
+        "value": 18,
+        "formattedValue": "18",
         "raw": {
           "query": "srf sport",
-          "value": 17,
-          "formattedValue": "17",
+          "value": 18,
+          "formattedValue": "18",
           "hasData": true,
           "link": "/trends/explore?q=srf+sport&date=now+7-d&geo=CH"
         }
@@ -903,27 +960,15 @@
         }
       },
       {
-        "query": "schweiz",
+        "query": "michael jackson",
         "value": 17,
         "formattedValue": "17",
         "raw": {
-          "query": "schweiz",
+          "query": "michael jackson",
           "value": 17,
           "formattedValue": "17",
           "hasData": true,
-          "link": "/trends/explore?q=schweiz&date=now+7-d&geo=CH"
-        }
-      },
-      {
-        "query": "shakira",
-        "value": 16,
-        "formattedValue": "16",
-        "raw": {
-          "query": "shakira",
-          "value": 16,
-          "formattedValue": "16",
-          "hasData": true,
-          "link": "/trends/explore?q=shakira&date=now+7-d&geo=CH"
+          "link": "/trends/explore?q=michael+jackson&date=now+7-d&geo=CH"
         }
       },
       {
@@ -939,6 +984,18 @@
         }
       },
       {
+        "query": "shakira",
+        "value": 15,
+        "formattedValue": "15",
+        "raw": {
+          "query": "shakira",
+          "value": 15,
+          "formattedValue": "15",
+          "hasData": true,
+          "link": "/trends/explore?q=shakira&date=now+7-d&geo=CH"
+        }
+      },
+      {
         "query": "doku",
         "value": 15,
         "formattedValue": "15",
@@ -951,27 +1008,27 @@
         }
       },
       {
-        "query": "deutschland",
-        "value": 14,
-        "formattedValue": "14",
+        "query": "дискорд обход",
+        "value": 15,
+        "formattedValue": "15",
         "raw": {
-          "query": "deutschland",
-          "value": 14,
-          "formattedValue": "14",
+          "query": "дискорд обход",
+          "value": 15,
+          "formattedValue": "15",
           "hasData": true,
-          "link": "/trends/explore?q=deutschland&date=now+7-d&geo=CH"
+          "link": "/trends/explore?q=%D0%B4%D0%B8%D1%81%D0%BA%D0%BE%D1%80%D0%B4+%D0%BE%D0%B1%D1%85%D0%BE%D0%B4&date=now+7-d&geo=CH"
         }
       },
       {
-        "query": "дискорд обход",
-        "value": 13,
-        "formattedValue": "13",
+        "query": "youtube",
+        "value": 14,
+        "formattedValue": "14",
         "raw": {
-          "query": "дискорд обход",
-          "value": 13,
-          "formattedValue": "13",
+          "query": "youtube",
+          "value": 14,
+          "formattedValue": "14",
           "hasData": true,
-          "link": "/trends/explore?q=%D0%B4%D0%B8%D1%81%D0%BA%D0%BE%D1%80%D0%B4+%D0%BE%D0%B1%D1%85%D0%BE%D0%B4&date=now+7-d&geo=CH"
+          "link": "/trends/explore?q=youtube&date=now+7-d&geo=CH"
         }
       },
       {
@@ -987,76 +1044,31 @@
         }
       },
       {
-        "query": "portugal",
-        "value": 13,
-        "formattedValue": "13",
-        "raw": {
-          "query": "portugal",
-          "value": 13,
-          "formattedValue": "13",
-          "hasData": true,
-          "link": "/trends/explore?q=portugal&date=now+7-d&geo=CH"
-        }
-      },
-      {
-        "query": "youtube",
-        "value": 13,
-        "formattedValue": "13",
-        "raw": {
-          "query": "youtube",
-          "value": 13,
-          "formattedValue": "13",
-          "hasData": true,
-          "link": "/trends/explore?q=youtube&date=now+7-d&geo=CH"
-        }
-      },
-      {
         "query": "football",
+        "value": 13,
+        "formattedValue": "13",
+        "raw": {
+          "query": "football",
+          "value": 13,
+          "formattedValue": "13",
+          "hasData": true,
+          "link": "/trends/explore?q=football&date=now+7-d&geo=CH"
+        }
+      },
+      {
+        "query": "shorts",
         "value": 12,
         "formattedValue": "12",
         "raw": {
-          "query": "football",
+          "query": "shorts",
           "value": 12,
           "formattedValue": "12",
           "hasData": true,
-          "link": "/trends/explore?q=football&date=now+7-d&geo=CH"
+          "link": "/trends/explore?q=shorts&date=now+7-d&geo=CH"
         }
       }
     ],
     "rising": [
-      {
-        "query": "deutschland elfenbeinküste",
-        "value": 2800,
-        "formattedValue": "+2.800%",
-        "raw": {
-          "query": "deutschland elfenbeinküste",
-          "value": 2800,
-          "formattedValue": "+2.800%",
-          "link": "/trends/explore?q=deutschland+elfenbeink%C3%BCste&date=now+7-d&geo=CH"
-        }
-      },
-      {
-        "query": "deutschland ecuador",
-        "value": 2550,
-        "formattedValue": "+2.550%",
-        "raw": {
-          "query": "deutschland ecuador",
-          "value": 2550,
-          "formattedValue": "+2.550%",
-          "link": "/trends/explore?q=deutschland+ecuador&date=now+7-d&geo=CH"
-        }
-      },
-      {
-        "query": "france irak",
-        "value": 2100,
-        "formattedValue": "+2.100%",
-        "raw": {
-          "query": "france irak",
-          "value": 2100,
-          "formattedValue": "+2.100%",
-          "link": "/trends/explore?q=france+irak&date=now+7-d&geo=CH"
-        }
-      },
       {
         "query": "portugal vs uzbekistan",
         "value": 1900,
@@ -1069,14 +1081,102 @@
         }
       },
       {
-        "query": "deutschland gegen elfenbeinküste",
+        "query": "france irak",
+        "value": 1750,
+        "formattedValue": "+1.750%",
+        "raw": {
+          "query": "france irak",
+          "value": 1750,
+          "formattedValue": "+1.750%",
+          "link": "/trends/explore?q=france+irak&date=now+7-d&geo=CH"
+        }
+      },
+      {
+        "query": "algerien österreich",
+        "value": 1700,
+        "formattedValue": "+1.700%",
+        "raw": {
+          "query": "algerien österreich",
+          "value": 1700,
+          "formattedValue": "+1.700%",
+          "link": "/trends/explore?q=algerien+%C3%B6sterreich&date=now+7-d&geo=CH"
+        }
+      },
+      {
+        "query": "venezuela erdbeben",
+        "value": 1650,
+        "formattedValue": "+1.650%",
+        "raw": {
+          "query": "venezuela erdbeben",
+          "value": 1650,
+          "formattedValue": "+1.650%",
+          "link": "/trends/explore?q=venezuela+erdbeben&date=now+7-d&geo=CH"
+        }
+      },
+      {
+        "query": "citizen vigilante",
+        "value": 1450,
+        "formattedValue": "+1.450%",
+        "raw": {
+          "query": "citizen vigilante",
+          "value": 1450,
+          "formattedValue": "+1.450%",
+          "link": "/trends/explore?q=citizen+vigilante&date=now+7-d&geo=CH"
+        }
+      },
+      {
+        "query": "portugal colombia",
         "value": 1400,
         "formattedValue": "+1.400%",
         "raw": {
-          "query": "deutschland gegen elfenbeinküste",
+          "query": "portugal colombia",
           "value": 1400,
           "formattedValue": "+1.400%",
-          "link": "/trends/explore?q=deutschland+gegen+elfenbeink%C3%BCste&date=now+7-d&geo=CH"
+          "link": "/trends/explore?q=portugal+colombia&date=now+7-d&geo=CH"
+        }
+      },
+      {
+        "query": "citizen vigilante deutsch",
+        "value": 1350,
+        "formattedValue": "+1.350%",
+        "raw": {
+          "query": "citizen vigilante deutsch",
+          "value": 1350,
+          "formattedValue": "+1.350%",
+          "link": "/trends/explore?q=citizen+vigilante+deutsch&date=now+7-d&geo=CH"
+        }
+      },
+      {
+        "query": "venezuela earthquake",
+        "value": 1200,
+        "formattedValue": "+1.200%",
+        "raw": {
+          "query": "venezuela earthquake",
+          "value": 1200,
+          "formattedValue": "+1.200%",
+          "link": "/trends/explore?q=venezuela+earthquake&date=now+7-d&geo=CH"
+        }
+      },
+      {
+        "query": "deniz göktaş",
+        "value": 1200,
+        "formattedValue": "+1.200%",
+        "raw": {
+          "query": "deniz göktaş",
+          "value": 1200,
+          "formattedValue": "+1.200%",
+          "link": "/trends/explore?q=deniz+g%C3%B6kta%C5%9F&date=now+7-d&geo=CH"
+        }
+      },
+      {
+        "query": "argentina vs jordania",
+        "value": 1150,
+        "formattedValue": "+1.150%",
+        "raw": {
+          "query": "argentina vs jordania",
+          "value": 1150,
+          "formattedValue": "+1.150%",
+          "link": "/trends/explore?q=argentina+vs+jordania&date=now+7-d&geo=CH"
         }
       },
       {
@@ -1091,28 +1191,6 @@
         }
       },
       {
-        "query": "citizen vigilante",
-        "value": 1050,
-        "formattedValue": "+1.050%",
-        "raw": {
-          "query": "citizen vigilante",
-          "value": 1050,
-          "formattedValue": "+1.050%",
-          "link": "/trends/explore?q=citizen+vigilante&date=now+7-d&geo=CH"
-        }
-      },
-      {
-        "query": "france – irak",
-        "value": 850,
-        "formattedValue": "+850%",
-        "raw": {
-          "query": "france – irak",
-          "value": 850,
-          "formattedValue": "+850%",
-          "link": "/trends/explore?q=france+%E2%80%93+irak&date=now+7-d&geo=CH"
-        }
-      },
-      {
         "query": "schweiz kanada",
         "value": 850,
         "formattedValue": "+850%",
@@ -1124,13 +1202,57 @@
         }
       },
       {
-        "query": "argentinien gegen österreich",
+        "query": "venezuela",
+        "value": 850,
+        "formattedValue": "+850%",
+        "raw": {
+          "query": "venezuela",
+          "value": 850,
+          "formattedValue": "+850%",
+          "link": "/trends/explore?q=venezuela&date=now+7-d&geo=CH"
+        }
+      },
+      {
+        "query": "france – irak",
         "value": 800,
         "formattedValue": "+800%",
         "raw": {
-          "query": "argentinien gegen österreich",
+          "query": "france – irak",
           "value": 800,
           "formattedValue": "+800%",
+          "link": "/trends/explore?q=france+%E2%80%93+irak&date=now+7-d&geo=CH"
+        }
+      },
+      {
+        "query": "argentina vs austria",
+        "value": 800,
+        "formattedValue": "+800%",
+        "raw": {
+          "query": "argentina vs austria",
+          "value": 800,
+          "formattedValue": "+800%",
+          "link": "/trends/explore?q=argentina+vs+austria&date=now+7-d&geo=CH"
+        }
+      },
+      {
+        "query": "portugal vs colombia",
+        "value": 750,
+        "formattedValue": "+750%",
+        "raw": {
+          "query": "portugal vs colombia",
+          "value": 750,
+          "formattedValue": "+750%",
+          "link": "/trends/explore?q=portugal+vs+colombia&date=now+7-d&geo=CH"
+        }
+      },
+      {
+        "query": "argentinien gegen österreich",
+        "value": 750,
+        "formattedValue": "+750%",
+        "raw": {
+          "query": "argentinien gegen österreich",
+          "value": 750,
+          "formattedValue": "+750%",
           "link": "/trends/explore?q=argentinien+gegen+%C3%B6sterreich&date=now+7-d&geo=CH"
         }
       },
@@ -1146,157 +1268,80 @@
         }
       },
       {
-        "query": "venezuela",
+        "query": "portugal kolumbien",
+        "value": 700,
+        "formattedValue": "+700%",
+        "raw": {
+          "query": "portugal kolumbien",
+          "value": 700,
+          "formattedValue": "+700%",
+          "link": "/trends/explore?q=portugal+kolumbien&date=now+7-d&geo=CH"
+        }
+      },
+      {
+        "query": "brawl talk",
         "value": 650,
         "formattedValue": "+650%",
         "raw": {
-          "query": "venezuela",
+          "query": "brawl talk",
           "value": 650,
           "formattedValue": "+650%",
-          "link": "/trends/explore?q=venezuela&date=now+7-d&geo=CH"
-        }
-      },
-      {
-        "query": "france norvege",
-        "value": 600,
-        "formattedValue": "+600%",
-        "raw": {
-          "query": "france norvege",
-          "value": 600,
-          "formattedValue": "+600%",
-          "link": "/trends/explore?q=france+norvege&date=now+7-d&geo=CH"
-        }
-      },
-      {
-        "query": "türkei usa",
-        "value": 600,
-        "formattedValue": "+600%",
-        "raw": {
-          "query": "türkei usa",
-          "value": 600,
-          "formattedValue": "+600%",
-          "link": "/trends/explore?q=t%C3%BCrkei+usa&date=now+7-d&geo=CH"
-        }
-      },
-      {
-        "query": "france irak 2026",
-        "value": 550,
-        "formattedValue": "+550%",
-        "raw": {
-          "query": "france irak 2026",
-          "value": 550,
-          "formattedValue": "+550%",
-          "link": "/trends/explore?q=france+irak+2026&date=now+7-d&geo=CH"
-        }
-      },
-      {
-        "query": "christian wolf",
-        "value": 450,
-        "formattedValue": "+450%",
-        "raw": {
-          "query": "christian wolf",
-          "value": 450,
-          "formattedValue": "+450%",
-          "link": "/trends/explore?q=christian+wolf&date=now+7-d&geo=CH"
+          "link": "/trends/explore?q=brawl+talk&date=now+7-d&geo=CH"
         }
       },
       {
         "query": "miimii",
-        "value": 400,
-        "formattedValue": "+400%",
+        "value": 600,
+        "formattedValue": "+600%",
         "raw": {
           "query": "miimii",
-          "value": 400,
-          "formattedValue": "+400%",
+          "value": 600,
+          "formattedValue": "+600%",
           "link": "/trends/explore?q=miimii&date=now+7-d&geo=CH"
         }
       },
       {
-        "query": "brasilien schottland",
-        "value": 350,
-        "formattedValue": "+350%",
+        "query": "france irak 2026",
+        "value": 600,
+        "formattedValue": "+600%",
         "raw": {
-          "query": "brasilien schottland",
-          "value": 350,
-          "formattedValue": "+350%",
-          "link": "/trends/explore?q=brasilien+schottland&date=now+7-d&geo=CH"
+          "query": "france irak 2026",
+          "value": 600,
+          "formattedValue": "+600%",
+          "link": "/trends/explore?q=france+irak+2026&date=now+7-d&geo=CH"
         }
       },
       {
         "query": "apored",
-        "value": 350,
-        "formattedValue": "+350%",
+        "value": 550,
+        "formattedValue": "+550%",
         "raw": {
           "query": "apored",
-          "value": 350,
-          "formattedValue": "+350%",
+          "value": 550,
+          "formattedValue": "+550%",
           "link": "/trends/explore?q=apored&date=now+7-d&geo=CH"
         }
       },
       {
-        "query": "steam machine",
-        "value": 350,
-        "formattedValue": "+350%",
+        "query": "algerie autriche",
+        "value": 550,
+        "formattedValue": "+550%",
         "raw": {
-          "query": "steam machine",
-          "value": 350,
-          "formattedValue": "+350%",
-          "link": "/trends/explore?q=steam+machine&date=now+7-d&geo=CH"
+          "query": "algerie autriche",
+          "value": 550,
+          "formattedValue": "+550%",
+          "link": "/trends/explore?q=algerie+autriche&date=now+7-d&geo=CH"
         }
       },
       {
-        "query": "muhtemel aşk",
-        "value": 250,
-        "formattedValue": "+250%",
+        "query": "brasilien schottland",
+        "value": 500,
+        "formattedValue": "+500%",
         "raw": {
-          "query": "muhtemel aşk",
-          "value": 250,
-          "formattedValue": "+250%",
-          "link": "/trends/explore?q=muhtemel+a%C5%9Fk&date=now+7-d&geo=CH"
-        }
-      },
-      {
-        "query": "deniz undav",
-        "value": 250,
-        "formattedValue": "+250%",
-        "raw": {
-          "query": "deniz undav",
-          "value": 250,
-          "formattedValue": "+250%",
-          "link": "/trends/explore?q=deniz+undav&date=now+7-d&geo=CH"
-        }
-      },
-      {
-        "query": "türkei paraguay",
-        "value": 160,
-        "formattedValue": "+160%",
-        "raw": {
-          "query": "türkei paraguay",
-          "value": 160,
-          "formattedValue": "+160%",
-          "link": "/trends/explore?q=t%C3%BCrkei+paraguay&date=now+7-d&geo=CH"
-        }
-      },
-      {
-        "query": "gta 6",
-        "value": 150,
-        "formattedValue": "+150%",
-        "raw": {
-          "query": "gta 6",
-          "value": 150,
-          "formattedValue": "+150%",
-          "link": "/trends/explore?q=gta+6&date=now+7-d&geo=CH"
-        }
-      },
-      {
-        "query": "gta 6 trailer",
-        "value": 130,
-        "formattedValue": "+130%",
-        "raw": {
-          "query": "gta 6 trailer",
-          "value": 130,
-          "formattedValue": "+130%",
-          "link": "/trends/explore?q=gta+6+trailer&date=now+7-d&geo=CH"
+          "query": "brasilien schottland",
+          "value": 500,
+          "formattedValue": "+500%",
+          "link": "/trends/explore?q=brasilien+schottland&date=now+7-d&geo=CH"
         }
       }
     ]
