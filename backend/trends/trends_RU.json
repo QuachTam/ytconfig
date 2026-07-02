@@ -20,48 +20,48 @@
       },
       {
         "query": "Điện ảnh",
-        "value": 63,
-        "formattedValue": "63",
+        "value": 65,
+        "formattedValue": "65",
         "raw": {
           "topic": {
             "mid": "/m/02vxn",
             "title": "Điện ảnh",
             "type": "Loại truyền hình"
           },
-          "value": 63,
-          "formattedValue": "63",
+          "value": 65,
+          "formattedValue": "65",
           "hasData": true,
           "link": "/trends/explore?q=/m/02vxn&date=now+7-d&geo=RU"
         }
       },
       {
         "query": "2026",
-        "value": 56,
-        "formattedValue": "56",
+        "value": 54,
+        "formattedValue": "54",
         "raw": {
           "topic": {
             "mid": "/g/11b77d6b6g",
             "title": "2026",
             "type": "Chủ đề"
           },
-          "value": 56,
-          "formattedValue": "56",
+          "value": 54,
+          "formattedValue": "54",
           "hasData": true,
           "link": "/trends/explore?q=/g/11b77d6b6g&date=now+7-d&geo=RU"
         }
       },
       {
         "query": "Âm nhạc",
-        "value": 49,
-        "formattedValue": "49",
+        "value": 48,
+        "formattedValue": "48",
         "raw": {
           "topic": {
             "mid": "/m/04rlf",
             "title": "Âm nhạc",
             "type": "Định dạng âm thanh"
           },
-          "value": 49,
-          "formattedValue": "49",
+          "value": 48,
+          "formattedValue": "48",
           "hasData": true,
           "link": "/trends/explore?q=/m/04rlf&date=now+7-d&geo=RU"
         }
@@ -100,50 +100,66 @@
       },
       {
         "query": "Tập phim",
-        "value": 38,
-        "formattedValue": "38",
+        "value": 39,
+        "formattedValue": "39",
         "raw": {
           "topic": {
             "mid": "/m/02cphr",
             "title": "Tập phim",
             "type": "Chủ đề"
           },
-          "value": 38,
-          "formattedValue": "38",
+          "value": 39,
+          "formattedValue": "39",
           "hasData": true,
           "link": "/trends/explore?q=/m/02cphr&date=now+7-d&geo=RU"
         }
       },
       {
         "query": "Video",
-        "value": 34,
-        "formattedValue": "34",
+        "value": 37,
+        "formattedValue": "37",
         "raw": {
           "topic": {
             "mid": "/m/07z4p",
             "title": "Video",
             "type": "Định dạng phim"
           },
-          "value": 34,
-          "formattedValue": "34",
+          "value": 37,
+          "formattedValue": "37",
           "hasData": true,
           "link": "/trends/explore?q=/m/07z4p&date=now+7-d&geo=RU"
         }
       },
       {
         "query": "Tiếng Nga",
-        "value": 33,
-        "formattedValue": "33",
+        "value": 35,
+        "formattedValue": "35",
         "raw": {
           "topic": {
             "mid": "/m/06b_j",
             "title": "Tiếng Nga",
             "type": "Ngôn ngữ"
           },
+          "value": 35,
+          "formattedValue": "35",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/06b_j&date=now+7-d&geo=RU"
+        }
+      },
+      {
+        "query": "Mùa",
+        "value": 33,
+        "formattedValue": "33",
+        "raw": {
+          "topic": {
+            "mid": "/g/1hhzgv2_w",
+            "title": "Mùa",
+            "type": "Chủ đề"
+          },
           "value": 33,
           "formattedValue": "33",
           "hasData": true,
-          "link": "/trends/explore?q=/m/06b_j&date=now+7-d&geo=RU"
+          "link": "/trends/explore?q=/g/1hhzgv2_w&date=now+7-d&geo=RU"
         }
       },
       {
@@ -160,22 +176,6 @@
           "formattedValue": "32",
           "hasData": true,
           "link": "/trends/explore?q=/m/026bs1g&date=now+7-d&geo=RU"
-        }
-      },
-      {
-        "query": "Mùa",
-        "value": 29,
-        "formattedValue": "29",
-        "raw": {
-          "topic": {
-            "mid": "/g/1hhzgv2_w",
-            "title": "Mùa",
-            "type": "Chủ đề"
-          },
-          "value": 29,
-          "formattedValue": "29",
-          "hasData": true,
-          "link": "/trends/explore?q=/g/1hhzgv2_w&date=now+7-d&geo=RU"
         }
       },
       {
@@ -212,32 +212,48 @@
       },
       {
         "query": "Tin tức",
-        "value": 25,
-        "formattedValue": "25",
+        "value": 26,
+        "formattedValue": "26",
         "raw": {
           "topic": {
             "mid": "/m/05jhg",
             "title": "Tin tức",
             "type": "Định dạng phát thanh"
           },
-          "value": 25,
-          "formattedValue": "25",
+          "value": 26,
+          "formattedValue": "26",
           "hasData": true,
           "link": "/trends/explore?q=/m/05jhg&date=now+7-d&geo=RU"
         }
       },
       {
+        "query": "Trẻ em",
+        "value": 23,
+        "formattedValue": "23",
+        "raw": {
+          "topic": {
+            "mid": "/m/0ytgt",
+            "title": "Trẻ em",
+            "type": "Chủ đề"
+          },
+          "value": 23,
+          "formattedValue": "23",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/0ytgt&date=now+7-d&geo=RU"
+        }
+      },
+      {
         "query": "Grand Theft Auto",
-        "value": 25,
-        "formattedValue": "25",
+        "value": 23,
+        "formattedValue": "23",
         "raw": {
           "topic": {
             "mid": "/m/04w8jw",
             "title": "Grand Theft Auto",
             "type": "Loạt trò chơi điện tử"
           },
-          "value": 25,
-          "formattedValue": "25",
+          "value": 23,
+          "formattedValue": "23",
           "hasData": true,
           "link": "/trends/explore?q=/m/04w8jw&date=now+7-d&geo=RU"
         }
@@ -260,64 +276,48 @@
       },
       {
         "query": "Chương trình truyền hình dài tập",
-        "value": 23,
-        "formattedValue": "23",
+        "value": 22,
+        "formattedValue": "22",
         "raw": {
           "topic": {
             "mid": "/g/1219y26q",
             "title": "Chương trình truyền hình dài tập",
             "type": "Chủ đề"
           },
-          "value": 23,
-          "formattedValue": "23",
+          "value": 22,
+          "formattedValue": "22",
           "hasData": true,
           "link": "/trends/explore?q=/g/1219y26q&date=now+7-d&geo=RU"
         }
       },
       {
-        "query": "Trẻ em",
+        "query": "Ô tô",
         "value": 21,
         "formattedValue": "21",
-        "raw": {
-          "topic": {
-            "mid": "/m/0ytgt",
-            "title": "Trẻ em",
-            "type": "Chủ đề"
-          },
-          "value": 21,
-          "formattedValue": "21",
-          "hasData": true,
-          "link": "/trends/explore?q=/m/0ytgt&date=now+7-d&geo=RU"
-        }
-      },
-      {
-        "query": "Ô tô",
-        "value": 20,
-        "formattedValue": "20",
         "raw": {
           "topic": {
             "mid": "/m/0k4j",
             "title": "Ô tô",
             "type": "Chế độ phương tiện"
           },
-          "value": 20,
-          "formattedValue": "20",
+          "value": 21,
+          "formattedValue": "21",
           "hasData": true,
           "link": "/trends/explore?q=/m/0k4j&date=now+7-d&geo=RU"
         }
       },
       {
         "query": "Lịch sử",
-        "value": 19,
-        "formattedValue": "19",
+        "value": 20,
+        "formattedValue": "20",
         "raw": {
           "topic": {
             "mid": "/m/03g3w",
             "title": "Lịch sử",
             "type": "Lĩnh vực nghiên cứu"
           },
-          "value": 19,
-          "formattedValue": "19",
+          "value": 20,
+          "formattedValue": "20",
           "hasData": true,
           "link": "/trends/explore?q=/m/03g3w&date=now+7-d&geo=RU"
         }
@@ -340,16 +340,16 @@
       },
       {
         "query": "Trailer",
-        "value": 17,
-        "formattedValue": "17",
+        "value": 18,
+        "formattedValue": "18",
         "raw": {
           "topic": {
             "mid": "/m/03hdbf",
             "title": "Trailer",
             "type": "Chủ đề"
           },
-          "value": 17,
-          "formattedValue": "17",
+          "value": 18,
+          "formattedValue": "18",
           "hasData": true,
           "link": "/trends/explore?q=/m/03hdbf&date=now+7-d&geo=RU"
         }
@@ -372,16 +372,16 @@
       },
       {
         "query": "Vlad A4",
-        "value": 16,
-        "formattedValue": "16",
+        "value": 17,
+        "formattedValue": "17",
         "raw": {
           "topic": {
             "mid": "/g/11smyfmwz1",
             "title": "Vlad A4",
             "type": "Người làm YouTube"
           },
-          "value": 16,
-          "formattedValue": "16",
+          "value": 17,
+          "formattedValue": "17",
           "hasData": true,
           "link": "/trends/explore?q=/g/11smyfmwz1&date=now+7-d&geo=RU"
         }
@@ -406,212 +406,152 @@
     "rising": [
       {
         "query": "Metal Family",
-        "value": 550,
-        "formattedValue": "+550%",
+        "value": 750,
+        "formattedValue": "+750%",
         "raw": {
           "topic": {
             "mid": "/g/11qg325hzk",
             "title": "Metal Family",
             "type": "Chương trình truyền hình"
           },
-          "value": 550,
-          "formattedValue": "+550%",
+          "value": 750,
+          "formattedValue": "+750%",
           "link": "/trends/explore?q=/g/11qg325hzk&date=now+7-d&geo=RU"
         }
       },
       {
-        "query": "Paraguay",
-        "value": 350,
-        "formattedValue": "+350%",
-        "raw": {
-          "topic": {
-            "mid": "/m/05v10",
-            "title": "Paraguay",
-            "type": "Quốc gia ở Nam Mỹ"
-          },
-          "value": 350,
-          "formattedValue": "+350%",
-          "link": "/trends/explore?q=/m/05v10&date=now+7-d&geo=RU"
-        }
-      },
-      {
         "query": "Deltarune",
-        "value": 300,
-        "formattedValue": "+300%",
+        "value": 120,
+        "formattedValue": "+120%",
         "raw": {
           "topic": {
             "mid": "/g/11fgkrytw9",
             "title": "Deltarune",
             "type": "Video game"
           },
-          "value": 300,
-          "formattedValue": "+300%",
+          "value": 120,
+          "formattedValue": "+120%",
           "link": "/trends/explore?q=/g/11fgkrytw9&date=now+7-d&geo=RU"
         }
       },
       {
-        "query": "Grand Theft Auto VI",
-        "value": 150,
-        "formattedValue": "+150%",
-        "raw": {
-          "topic": {
-            "mid": "/g/11tfwwbjts",
-            "title": "Grand Theft Auto VI",
-            "type": "Trò chơi điện tử"
-          },
-          "value": 150,
-          "formattedValue": "+150%",
-          "link": "/trends/explore?q=/g/11tfwwbjts&date=now+7-d&geo=RU"
-        }
-      },
-      {
-        "query": "Maroc",
+        "query": "Đức",
         "value": 110,
         "formattedValue": "+110%",
-        "raw": {
-          "topic": {
-            "mid": "/m/04wgh",
-            "title": "Maroc",
-            "type": "Quốc gia ở Bắc Phi"
-          },
-          "value": 110,
-          "formattedValue": "+110%",
-          "link": "/trends/explore?q=/m/04wgh&date=now+7-d&geo=RU"
-        }
-      },
-      {
-        "query": "Brawl Stars",
-        "value": 90,
-        "formattedValue": "+90%",
-        "raw": {
-          "topic": {
-            "mid": "/g/11d_2386_9",
-            "title": "Brawl Stars",
-            "type": "Trò chơi điện tử"
-          },
-          "value": 90,
-          "formattedValue": "+90%",
-          "link": "/trends/explore?q=/g/11d_2386_9&date=now+7-d&geo=RU"
-        }
-      },
-      {
-        "query": "Stray Kids",
-        "value": 70,
-        "formattedValue": "+70%",
-        "raw": {
-          "topic": {
-            "mid": "/g/11f3f_dy9l",
-            "title": "Stray Kids",
-            "type": "Nhóm nhạc"
-          },
-          "value": 70,
-          "formattedValue": "+70%",
-          "link": "/trends/explore?q=/g/11f3f_dy9l&date=now+7-d&geo=RU"
-        }
-      },
-      {
-        "query": "Đức",
-        "value": 60,
-        "formattedValue": "+60%",
         "raw": {
           "topic": {
             "mid": "/m/0345h",
             "title": "Đức",
             "type": "Quốc gia ở Châu Âu"
           },
-          "value": 60,
-          "formattedValue": "+60%",
+          "value": 110,
+          "formattedValue": "+110%",
           "link": "/trends/explore?q=/m/0345h&date=now+7-d&geo=RU"
         }
       },
       {
-        "query": "Hà Lan",
-        "value": 60,
-        "formattedValue": "+60%",
+        "query": "Brawl Stars",
+        "value": 80,
+        "formattedValue": "+80%",
         "raw": {
           "topic": {
-            "mid": "/m/059j2",
-            "title": "Hà Lan",
-            "type": "Quốc gia ở Châu Âu"
+            "mid": "/g/11d_2386_9",
+            "title": "Brawl Stars",
+            "type": "Trò chơi điện tử"
           },
-          "value": 60,
-          "formattedValue": "+60%",
-          "link": "/trends/explore?q=/m/059j2&date=now+7-d&geo=RU"
-        }
-      },
-      {
-        "query": "bà nội/ngoại",
-        "value": 60,
-        "formattedValue": "+60%",
-        "raw": {
-          "topic": {
-            "mid": "/g/121p7r_n",
-            "title": "bà nội/ngoại",
-            "type": "Chủ đề"
-          },
-          "value": 60,
-          "formattedValue": "+60%",
-          "link": "/trends/explore?q=/g/121p7r_n&date=now+7-d&geo=RU"
+          "value": 80,
+          "formattedValue": "+80%",
+          "link": "/trends/explore?q=/g/11d_2386_9&date=now+7-d&geo=RU"
         }
       },
       {
         "query": "Phòng",
-        "value": 60,
-        "formattedValue": "+60%",
+        "value": 70,
+        "formattedValue": "+70%",
         "raw": {
           "topic": {
             "mid": "/m/06ht1",
             "title": "Phòng",
             "type": "Loại phòng ở"
           },
-          "value": 60,
-          "formattedValue": "+60%",
+          "value": 70,
+          "formattedValue": "+70%",
           "link": "/trends/explore?q=/m/06ht1&date=now+7-d&geo=RU"
         }
       },
       {
+        "query": "Grand Theft Auto VI",
+        "value": 70,
+        "formattedValue": "+70%",
+        "raw": {
+          "topic": {
+            "mid": "/g/11tfwwbjts",
+            "title": "Grand Theft Auto VI",
+            "type": "Trò chơi điện tử"
+          },
+          "value": 70,
+          "formattedValue": "+70%",
+          "link": "/trends/explore?q=/g/11tfwwbjts&date=now+7-d&geo=RU"
+        }
+      },
+      {
+        "query": "Brazil",
+        "value": 50,
+        "formattedValue": "+50%",
+        "raw": {
+          "topic": {
+            "mid": "/m/015fr",
+            "title": "Brazil",
+            "type": "Quốc gia ở Nam Mỹ"
+          },
+          "value": 50,
+          "formattedValue": "+50%",
+          "link": "/trends/explore?q=/m/015fr&date=now+7-d&geo=RU"
+        }
+      },
+      {
         "query": "Xăng",
-        "value": 60,
-        "formattedValue": "+60%",
+        "value": 50,
+        "formattedValue": "+50%",
         "raw": {
           "topic": {
             "mid": "/m/05wy2",
             "title": "Xăng",
             "type": "Nhiên liệu"
           },
-          "value": 60,
-          "formattedValue": "+60%",
+          "value": 50,
+          "formattedValue": "+50%",
           "link": "/trends/explore?q=/m/05wy2&date=now+7-d&geo=RU"
         }
       },
       {
-        "query": "War Thunder",
-        "value": 60,
-        "formattedValue": "+60%",
-        "raw": {
-          "topic": {
-            "mid": "/m/0r3w7jk",
-            "title": "War Thunder",
-            "type": "Trò chơi điện tử"
-          },
-          "value": 60,
-          "formattedValue": "+60%",
-          "link": "/trends/explore?q=/m/0r3w7jk&date=now+7-d&geo=RU"
-        }
-      },
-      {
-        "query": "Genshin Impact",
+        "query": "Nhật Bản",
         "value": 40,
         "formattedValue": "+40%",
         "raw": {
           "topic": {
-            "mid": "/g/11hznck6gj",
-            "title": "Genshin Impact",
-            "type": "Trò chơi điện tử"
+            "mid": "/m/03_3d",
+            "title": "Nhật Bản",
+            "type": "Quốc gia ở Đông Á"
           },
           "value": 40,
           "formattedValue": "+40%",
-          "link": "/trends/explore?q=/g/11hznck6gj&date=now+7-d&geo=RU"
+          "link": "/trends/explore?q=/m/03_3d&date=now+7-d&geo=RU"
+        }
+      },
+      {
+        "query": "Pháp",
+        "value": 40,
+        "formattedValue": "+40%",
+        "raw": {
+          "topic": {
+            "mid": "/m/0f8l9c",
+            "title": "Pháp",
+            "type": "Quốc gia ở Châu Âu"
+          },
+          "value": 40,
+          "formattedValue": "+40%",
+          "link": "/trends/explore?q=/m/0f8l9c&date=now+7-d&geo=RU"
         }
       }
     ]
@@ -632,96 +572,84 @@
       },
       {
         "query": "реакция",
-        "value": 79,
-        "formattedValue": "79",
+        "value": 81,
+        "formattedValue": "81",
         "raw": {
           "query": "реакция",
-          "value": 79,
-          "formattedValue": "79",
+          "value": 81,
+          "formattedValue": "81",
           "hasData": true,
           "link": "/trends/explore?q=%D1%80%D0%B5%D0%B0%D0%BA%D1%86%D0%B8%D1%8F&date=now+7-d&geo=RU"
         }
       },
       {
         "query": "обзор",
-        "value": 77,
-        "formattedValue": "77",
+        "value": 76,
+        "formattedValue": "76",
         "raw": {
           "query": "обзор",
-          "value": 77,
-          "formattedValue": "77",
+          "value": 76,
+          "formattedValue": "76",
           "hasData": true,
           "link": "/trends/explore?q=%D0%BE%D0%B1%D0%B7%D0%BE%D1%80&date=now+7-d&geo=RU"
         }
       },
       {
         "query": "песни",
-        "value": 74,
-        "formattedValue": "74",
+        "value": 70,
+        "formattedValue": "70",
         "raw": {
           "query": "песни",
-          "value": 74,
-          "formattedValue": "74",
+          "value": 70,
+          "formattedValue": "70",
           "hasData": true,
           "link": "/trends/explore?q=%D0%BF%D0%B5%D1%81%D0%BD%D0%B8&date=now+7-d&geo=RU"
         }
       },
       {
         "query": "фильм",
-        "value": 68,
-        "formattedValue": "68",
+        "value": 69,
+        "formattedValue": "69",
         "raw": {
           "query": "фильм",
-          "value": 68,
-          "formattedValue": "68",
+          "value": 69,
+          "formattedValue": "69",
           "hasData": true,
           "link": "/trends/explore?q=%D1%84%D0%B8%D0%BB%D1%8C%D0%BC&date=now+7-d&geo=RU"
         }
       },
       {
-        "query": "видео",
-        "value": 61,
-        "formattedValue": "61",
-        "raw": {
-          "query": "видео",
-          "value": 61,
-          "formattedValue": "61",
-          "hasData": true,
-          "link": "/trends/explore?q=%D0%B2%D0%B8%D0%B4%D0%B5%D0%BE&date=now+7-d&geo=RU"
-        }
-      },
-      {
         "query": "музыка",
-        "value": 59,
-        "formattedValue": "59",
+        "value": 60,
+        "formattedValue": "60",
         "raw": {
           "query": "музыка",
-          "value": 59,
-          "formattedValue": "59",
+          "value": 60,
+          "formattedValue": "60",
           "hasData": true,
           "link": "/trends/explore?q=%D0%BC%D1%83%D0%B7%D1%8B%D0%BA%D0%B0&date=now+7-d&geo=RU"
         }
       },
       {
         "query": "майнкрафт",
-        "value": 49,
-        "formattedValue": "49",
+        "value": 48,
+        "formattedValue": "48",
         "raw": {
           "query": "майнкрафт",
-          "value": 49,
-          "formattedValue": "49",
+          "value": 48,
+          "formattedValue": "48",
           "hasData": true,
           "link": "/trends/explore?q=%D0%BC%D0%B0%D0%B9%D0%BD%D0%BA%D1%80%D0%B0%D1%84%D1%82&date=now+7-d&geo=RU"
         }
       },
       {
         "query": "новости",
-        "value": 47,
-        "formattedValue": "47",
+        "value": 46,
+        "formattedValue": "46",
         "raw": {
           "query": "новости",
-          "value": 47,
-          "formattedValue": "47",
+          "value": 46,
+          "formattedValue": "46",
           "hasData": true,
           "link": "/trends/explore?q=%D0%BD%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D0%B8&date=now+7-d&geo=RU"
         }
@@ -739,25 +667,13 @@
         }
       },
       {
-        "query": "прохождение",
-        "value": 41,
-        "formattedValue": "41",
-        "raw": {
-          "query": "прохождение",
-          "value": 41,
-          "formattedValue": "41",
-          "hasData": true,
-          "link": "/trends/explore?q=%D0%BF%D1%80%D0%BE%D1%85%D0%BE%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5&date=now+7-d&geo=RU"
-        }
-      },
-      {
         "query": "асмр",
-        "value": 39,
-        "formattedValue": "39",
+        "value": 38,
+        "formattedValue": "38",
         "raw": {
           "query": "асмр",
-          "value": 39,
-          "formattedValue": "39",
+          "value": 38,
+          "formattedValue": "38",
           "hasData": true,
           "link": "/trends/explore?q=%D0%B0%D1%81%D0%BC%D1%80&date=now+7-d&geo=RU"
         }
@@ -787,25 +703,13 @@
         }
       },
       {
-        "query": "сериал",
-        "value": 35,
-        "formattedValue": "35",
-        "raw": {
-          "query": "сериал",
-          "value": 35,
-          "formattedValue": "35",
-          "hasData": true,
-          "link": "/trends/explore?q=%D1%81%D0%B5%D1%80%D0%B8%D0%B0%D0%BB&date=now+7-d&geo=RU"
-        }
-      },
-      {
         "query": "игры",
-        "value": 34,
-        "formattedValue": "34",
+        "value": 33,
+        "formattedValue": "33",
         "raw": {
           "query": "игры",
-          "value": 34,
-          "formattedValue": "34",
+          "value": 33,
+          "formattedValue": "33",
           "hasData": true,
           "link": "/trends/explore?q=%D0%B8%D0%B3%D1%80%D1%8B&date=now+7-d&geo=RU"
         }
@@ -824,12 +728,12 @@
       },
       {
         "query": "мультики",
-        "value": 31,
-        "formattedValue": "31",
+        "value": 30,
+        "formattedValue": "30",
         "raw": {
           "query": "мультики",
-          "value": 31,
-          "formattedValue": "31",
+          "value": 30,
+          "formattedValue": "30",
           "hasData": true,
           "link": "/trends/explore?q=%D0%BC%D1%83%D0%BB%D1%8C%D1%82%D0%B8%D0%BA%D0%B8&date=now+7-d&geo=RU"
         }
@@ -847,6 +751,18 @@
         }
       },
       {
+        "query": "asmr",
+        "value": 25,
+        "formattedValue": "25",
+        "raw": {
+          "query": "asmr",
+          "value": 25,
+          "formattedValue": "25",
+          "hasData": true,
+          "link": "/trends/explore?q=asmr&date=now+7-d&geo=RU"
+        }
+      },
+      {
         "query": "roblox",
         "value": 25,
         "formattedValue": "25",
@@ -856,6 +772,18 @@
           "formattedValue": "25",
           "hasData": true,
           "link": "/trends/explore?q=roblox&date=now+7-d&geo=RU"
+        }
+      },
+      {
+        "query": "интервью",
+        "value": 25,
+        "formattedValue": "25",
+        "raw": {
+          "query": "интервью",
+          "value": 25,
+          "formattedValue": "25",
+          "hasData": true,
+          "link": "/trends/explore?q=%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D0%B2%D1%8C%D1%8E&date=now+7-d&geo=RU"
         }
       },
       {
@@ -871,30 +799,6 @@
         }
       },
       {
-        "query": "интервью",
-        "value": 24,
-        "formattedValue": "24",
-        "raw": {
-          "query": "интервью",
-          "value": 24,
-          "formattedValue": "24",
-          "hasData": true,
-          "link": "/trends/explore?q=%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D0%B2%D1%8C%D1%8E&date=now+7-d&geo=RU"
-        }
-      },
-      {
-        "query": "asmr",
-        "value": 23,
-        "formattedValue": "23",
-        "raw": {
-          "query": "asmr",
-          "value": 23,
-          "formattedValue": "23",
-          "hasData": true,
-          "link": "/trends/explore?q=asmr&date=now+7-d&geo=RU"
-        }
-      },
-      {
         "query": "фильмы",
         "value": 23,
         "formattedValue": "23",
@@ -907,50 +811,119 @@
         }
       },
       {
-        "query": "истории",
-        "value": 23,
-        "formattedValue": "23",
+        "query": "компот",
+        "value": 19,
+        "formattedValue": "19",
         "raw": {
-          "query": "истории",
-          "value": 23,
-          "formattedValue": "23",
+          "query": "компот",
+          "value": 19,
+          "formattedValue": "19",
           "hasData": true,
-          "link": "/trends/explore?q=%D0%B8%D1%81%D1%82%D0%BE%D1%80%D0%B8%D0%B8&date=now+7-d&geo=RU"
+          "link": "/trends/explore?q=%D0%BA%D0%BE%D0%BC%D0%BF%D0%BE%D1%82&date=now+7-d&geo=RU"
+        }
+      },
+      {
+        "query": "мультик",
+        "value": 19,
+        "formattedValue": "19",
+        "raw": {
+          "query": "мультик",
+          "value": 19,
+          "formattedValue": "19",
+          "hasData": true,
+          "link": "/trends/explore?q=%D0%BC%D1%83%D0%BB%D1%8C%D1%82%D0%B8%D0%BA&date=now+7-d&geo=RU"
+        }
+      },
+      {
+        "query": "куплинов",
+        "value": 18,
+        "formattedValue": "18",
+        "raw": {
+          "query": "куплинов",
+          "value": 18,
+          "formattedValue": "18",
+          "hasData": true,
+          "link": "/trends/explore?q=%D0%BA%D1%83%D0%BF%D0%BB%D0%B8%D0%BD%D0%BE%D0%B2&date=now+7-d&geo=RU"
+        }
+      },
+      {
+        "query": "deltarune",
+        "value": 18,
+        "formattedValue": "18",
+        "raw": {
+          "query": "deltarune",
+          "value": 18,
+          "formattedValue": "18",
+          "hasData": true,
+          "link": "/trends/explore?q=deltarune&date=now+7-d&geo=RU"
         }
       }
     ],
     "rising": [
       {
-        "query": "лунин",
-        "value": 4450,
-        "formattedValue": "+4.450%",
-        "raw": {
-          "query": "лунин",
-          "value": 4450,
-          "formattedValue": "+4.450%",
-          "link": "/trends/explore?q=%D0%BB%D1%83%D0%BD%D0%B8%D0%BD&date=now+7-d&geo=RU"
-        }
-      },
-      {
         "query": "германия парагвай",
-        "value": 2950,
-        "formattedValue": "+2.950%",
+        "value": 4800,
+        "formattedValue": "+4.800%",
         "raw": {
           "query": "германия парагвай",
-          "value": 2950,
-          "formattedValue": "+2.950%",
+          "value": 4800,
+          "formattedValue": "+4.800%",
           "link": "/trends/explore?q=%D0%B3%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D1%8F+%D0%BF%D0%B0%D1%80%D0%B0%D0%B3%D0%B2%D0%B0%D0%B9&date=now+7-d&geo=RU"
         }
       },
       {
+        "query": "лунин",
+        "value": 3400,
+        "formattedValue": "+3.400%",
+        "raw": {
+          "query": "лунин",
+          "value": 3400,
+          "formattedValue": "+3.400%",
+          "link": "/trends/explore?q=%D0%BB%D1%83%D0%BD%D0%B8%D0%BD&date=now+7-d&geo=RU"
+        }
+      },
+      {
         "query": "александр лунин",
-        "value": 2750,
-        "formattedValue": "+2.750%",
+        "value": 2350,
+        "formattedValue": "+2.350%",
         "raw": {
           "query": "александр лунин",
-          "value": 2750,
-          "formattedValue": "+2.750%",
+          "value": 2350,
+          "formattedValue": "+2.350%",
           "link": "/trends/explore?q=%D0%B0%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80+%D0%BB%D1%83%D0%BD%D0%B8%D0%BD&date=now+7-d&geo=RU"
+        }
+      },
+      {
+        "query": "метал фемели 2 сезон 7 эпизод",
+        "value": 1900,
+        "formattedValue": "+1.900%",
+        "raw": {
+          "query": "метал фемели 2 сезон 7 эпизод",
+          "value": 1900,
+          "formattedValue": "+1.900%",
+          "link": "/trends/explore?q=%D0%BC%D0%B5%D1%82%D0%B0%D0%BB+%D1%84%D0%B5%D0%BC%D0%B5%D0%BB%D0%B8+2+%D1%81%D0%B5%D0%B7%D0%BE%D0%BD+7+%D1%8D%D0%BF%D0%B8%D0%B7%D0%BE%D0%B4&date=now+7-d&geo=RU"
+        }
+      },
+      {
+        "query": "франция швеция",
+        "value": 1750,
+        "formattedValue": "+1.750%",
+        "raw": {
+          "query": "франция швеция",
+          "value": 1750,
+          "formattedValue": "+1.750%",
+          "link": "/trends/explore?q=%D1%84%D1%80%D0%B0%D0%BD%D1%86%D0%B8%D1%8F+%D1%88%D0%B2%D0%B5%D1%86%D0%B8%D1%8F&date=now+7-d&geo=RU"
+        }
+      },
+      {
+        "query": "нидерланды марокко",
+        "value": 1650,
+        "formattedValue": "+1.650%",
+        "raw": {
+          "query": "нидерланды марокко",
+          "value": 1650,
+          "formattedValue": "+1.650%",
+          "link": "/trends/explore?q=%D0%BD%D0%B8%D0%B4%D0%B5%D1%80%D0%BB%D0%B0%D0%BD%D0%B4%D1%8B+%D0%BC%D0%B0%D1%80%D0%BE%D0%BA%D0%BA%D0%BE&date=now+7-d&geo=RU"
         }
       },
       {
@@ -965,90 +938,57 @@
         }
       },
       {
-        "query": "deltarune chapter 5",
-        "value": 1550,
-        "formattedValue": "+1.550%",
+        "query": "zombie stage",
+        "value": 1350,
+        "formattedValue": "+1.350%",
         "raw": {
-          "query": "deltarune chapter 5",
-          "value": 1550,
-          "formattedValue": "+1.550%",
-          "link": "/trends/explore?q=deltarune+chapter+5&date=now+7-d&geo=RU"
-        }
-      },
-      {
-        "query": "метал фемели 2 сезон 7 эпизод",
-        "value": 1400,
-        "formattedValue": "+1.400%",
-        "raw": {
-          "query": "метал фемели 2 сезон 7 эпизод",
-          "value": 1400,
-          "formattedValue": "+1.400%",
-          "link": "/trends/explore?q=%D0%BC%D0%B5%D1%82%D0%B0%D0%BB+%D1%84%D0%B5%D0%BC%D0%B5%D0%BB%D0%B8+2+%D1%81%D0%B5%D0%B7%D0%BE%D0%BD+7+%D1%8D%D0%BF%D0%B8%D0%B7%D0%BE%D0%B4&date=now+7-d&geo=RU"
-        }
-      },
-      {
-        "query": "бравл толк",
-        "value": 1250,
-        "formattedValue": "+1.250%",
-        "raw": {
-          "query": "бравл толк",
-          "value": 1250,
-          "formattedValue": "+1.250%",
-          "link": "/trends/explore?q=%D0%B1%D1%80%D0%B0%D0%B2%D0%BB+%D1%82%D0%BE%D0%BB%D0%BA&date=now+7-d&geo=RU"
-        }
-      },
-      {
-        "query": "дельтарун 5 глава",
-        "value": 1200,
-        "formattedValue": "+1.200%",
-        "raw": {
-          "query": "дельтарун 5 глава",
-          "value": 1200,
-          "formattedValue": "+1.200%",
-          "link": "/trends/explore?q=%D0%B4%D0%B5%D0%BB%D1%8C%D1%82%D0%B0%D1%80%D1%83%D0%BD+5+%D0%B3%D0%BB%D0%B0%D0%B2%D0%B0&date=now+7-d&geo=RU"
-        }
-      },
-      {
-        "query": "бравл толк на русском",
-        "value": 1150,
-        "formattedValue": "+1.150%",
-        "raw": {
-          "query": "бравл толк на русском",
-          "value": 1150,
-          "formattedValue": "+1.150%",
-          "link": "/trends/explore?q=%D0%B1%D1%80%D0%B0%D0%B2%D0%BB+%D1%82%D0%BE%D0%BB%D0%BA+%D0%BD%D0%B0+%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%BE%D0%BC&date=now+7-d&geo=RU"
+          "query": "zombie stage",
+          "value": 1350,
+          "formattedValue": "+1.350%",
+          "link": "/trends/explore?q=zombie+stage&date=now+7-d&geo=RU"
         }
       },
       {
         "query": "бразилия япония",
-        "value": 1100,
-        "formattedValue": "+1.100%",
+        "value": 1300,
+        "formattedValue": "+1.300%",
         "raw": {
           "query": "бразилия япония",
-          "value": 1100,
-          "formattedValue": "+1.100%",
+          "value": 1300,
+          "formattedValue": "+1.300%",
           "link": "/trends/explore?q=%D0%B1%D1%80%D0%B0%D0%B7%D0%B8%D0%BB%D0%B8%D1%8F+%D1%8F%D0%BF%D0%BE%D0%BD%D0%B8%D1%8F&date=now+7-d&geo=RU"
         }
       },
       {
-        "query": "deltarune chapter 5 ost",
-        "value": 900,
-        "formattedValue": "+900%",
+        "query": "бравл толк",
+        "value": 1100,
+        "formattedValue": "+1.100%",
         "raw": {
-          "query": "deltarune chapter 5 ost",
-          "value": 900,
-          "formattedValue": "+900%",
-          "link": "/trends/explore?q=deltarune+chapter+5+ost&date=now+7-d&geo=RU"
+          "query": "бравл толк",
+          "value": 1100,
+          "formattedValue": "+1.100%",
+          "link": "/trends/explore?q=%D0%B1%D1%80%D0%B0%D0%B2%D0%BB+%D1%82%D0%BE%D0%BB%D0%BA&date=now+7-d&geo=RU"
+        }
+      },
+      {
+        "query": "бравл толк на русском",
+        "value": 1050,
+        "formattedValue": "+1.050%",
+        "raw": {
+          "query": "бравл толк на русском",
+          "value": 1050,
+          "formattedValue": "+1.050%",
+          "link": "/trends/explore?q=%D0%B1%D1%80%D0%B0%D0%B2%D0%BB+%D1%82%D0%BE%D0%BB%D0%BA+%D0%BD%D0%B0+%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%BE%D0%BC&date=now+7-d&geo=RU"
         }
       },
       {
         "query": "просто масло",
-        "value": 900,
-        "formattedValue": "+900%",
+        "value": 1000,
+        "formattedValue": "+1.000%",
         "raw": {
           "query": "просто масло",
-          "value": 900,
-          "formattedValue": "+900%",
+          "value": 1000,
+          "formattedValue": "+1.000%",
           "link": "/trends/explore?q=%D0%BF%D1%80%D0%BE%D1%81%D1%82%D0%BE+%D0%BC%D0%B0%D1%81%D0%BB%D0%BE&date=now+7-d&geo=RU"
         }
       },
@@ -1064,135 +1004,135 @@
         }
       },
       {
-        "query": "марокко нидерланды",
-        "value": 800,
-        "formattedValue": "+800%",
-        "raw": {
-          "query": "марокко нидерланды",
-          "value": 800,
-          "formattedValue": "+800%",
-          "link": "/trends/explore?q=%D0%BC%D0%B0%D1%80%D0%BE%D0%BA%D0%BA%D0%BE+%D0%BD%D0%B8%D0%B4%D0%B5%D1%80%D0%BB%D0%B0%D0%BD%D0%B4%D1%8B&date=now+7-d&geo=RU"
-        }
-      },
-      {
-        "query": "brawl talk",
-        "value": 750,
-        "formattedValue": "+750%",
-        "raw": {
-          "query": "brawl talk",
-          "value": 750,
-          "formattedValue": "+750%",
-          "link": "/trends/explore?q=brawl+talk&date=now+7-d&geo=RU"
-        }
-      },
-      {
-        "query": "слепаков",
-        "value": 550,
-        "formattedValue": "+550%",
-        "raw": {
-          "query": "слепаков",
-          "value": 550,
-          "formattedValue": "+550%",
-          "link": "/trends/explore?q=%D1%81%D0%BB%D0%B5%D0%BF%D0%B0%D0%BA%D0%BE%D0%B2&date=now+7-d&geo=RU"
-        }
-      },
-      {
         "query": "метал фемели",
-        "value": 550,
-        "formattedValue": "+550%",
+        "value": 850,
+        "formattedValue": "+850%",
         "raw": {
           "query": "метал фемели",
-          "value": 550,
-          "formattedValue": "+550%",
+          "value": 850,
+          "formattedValue": "+850%",
           "link": "/trends/explore?q=%D0%BC%D0%B5%D1%82%D0%B0%D0%BB+%D1%84%D0%B5%D0%BC%D0%B5%D0%BB%D0%B8&date=now+7-d&geo=RU"
         }
       },
       {
         "query": "metal family",
-        "value": 400,
-        "formattedValue": "+400%",
+        "value": 600,
+        "formattedValue": "+600%",
         "raw": {
           "query": "metal family",
-          "value": 400,
-          "formattedValue": "+400%",
+          "value": 600,
+          "formattedValue": "+600%",
           "link": "/trends/explore?q=metal+family&date=now+7-d&geo=RU"
         }
       },
       {
-        "query": "deltarune",
-        "value": 300,
-        "formattedValue": "+300%",
+        "query": "brawl talk",
+        "value": 600,
+        "formattedValue": "+600%",
         "raw": {
-          "query": "deltarune",
-          "value": 300,
-          "formattedValue": "+300%",
-          "link": "/trends/explore?q=deltarune&date=now+7-d&geo=RU"
-        }
-      },
-      {
-        "query": "дельтарун",
-        "value": 300,
-        "formattedValue": "+300%",
-        "raw": {
-          "query": "дельтарун",
-          "value": 300,
-          "formattedValue": "+300%",
-          "link": "/trends/explore?q=%D0%B4%D0%B5%D0%BB%D1%8C%D1%82%D0%B0%D1%80%D1%83%D0%BD&date=now+7-d&geo=RU"
+          "query": "brawl talk",
+          "value": 600,
+          "formattedValue": "+600%",
+          "link": "/trends/explore?q=brawl+talk&date=now+7-d&geo=RU"
         }
       },
       {
         "query": "поперечный",
-        "value": 300,
-        "formattedValue": "+300%",
+        "value": 350,
+        "formattedValue": "+350%",
         "raw": {
           "query": "поперечный",
-          "value": 300,
-          "formattedValue": "+300%",
+          "value": 350,
+          "formattedValue": "+350%",
           "link": "/trends/explore?q=%D0%BF%D0%BE%D0%BF%D0%B5%D1%80%D0%B5%D1%87%D0%BD%D1%8B%D0%B9&date=now+7-d&geo=RU"
         }
       },
       {
-        "query": "бабка алка",
-        "value": 200,
-        "formattedValue": "+200%",
+        "query": "данила поперечный",
+        "value": 300,
+        "formattedValue": "+300%",
         "raw": {
-          "query": "бабка алка",
-          "value": 200,
-          "formattedValue": "+200%",
-          "link": "/trends/explore?q=%D0%B1%D0%B0%D0%B1%D0%BA%D0%B0+%D0%B0%D0%BB%D0%BA%D0%B0&date=now+7-d&geo=RU"
-        }
-      },
-      {
-        "query": "гта 6",
-        "value": 200,
-        "formattedValue": "+200%",
-        "raw": {
-          "query": "гта 6",
-          "value": 200,
-          "formattedValue": "+200%",
-          "link": "/trends/explore?q=%D0%B3%D1%82%D0%B0+6&date=now+7-d&geo=RU"
+          "query": "данила поперечный",
+          "value": 300,
+          "formattedValue": "+300%",
+          "link": "/trends/explore?q=%D0%B4%D0%B0%D0%BD%D0%B8%D0%BB%D0%B0+%D0%BF%D0%BE%D0%BF%D0%B5%D1%80%D0%B5%D1%87%D0%BD%D1%8B%D0%B9&date=now+7-d&geo=RU"
         }
       },
       {
         "query": "alien stage",
-        "value": 180,
-        "formattedValue": "+180%",
+        "value": 250,
+        "formattedValue": "+250%",
         "raw": {
           "query": "alien stage",
-          "value": 180,
-          "formattedValue": "+180%",
+          "value": 250,
+          "formattedValue": "+250%",
           "link": "/trends/explore?q=alien+stage&date=now+7-d&geo=RU"
         }
       },
       {
-        "query": "law by mike",
+        "query": "deltarune chapter 5",
         "value": 180,
         "formattedValue": "+180%",
         "raw": {
-          "query": "law by mike",
+          "query": "deltarune chapter 5",
           "value": 180,
           "formattedValue": "+180%",
-          "link": "/trends/explore?q=law+by+mike&date=now+7-d&geo=RU"
+          "link": "/trends/explore?q=deltarune+chapter+5&date=now+7-d&geo=RU"
+        }
+      },
+      {
+        "query": "стрелец молодец",
+        "value": 170,
+        "formattedValue": "+170%",
+        "raw": {
+          "query": "стрелец молодец",
+          "value": 170,
+          "formattedValue": "+170%",
+          "link": "/trends/explore?q=%D1%81%D1%82%D1%80%D0%B5%D0%BB%D0%B5%D1%86+%D0%BC%D0%BE%D0%BB%D0%BE%D0%B4%D0%B5%D1%86&date=now+7-d&geo=RU"
+        }
+      },
+      {
+        "query": "deltarune",
+        "value": 120,
+        "formattedValue": "+120%",
+        "raw": {
+          "query": "deltarune",
+          "value": 120,
+          "formattedValue": "+120%",
+          "link": "/trends/explore?q=deltarune&date=now+7-d&geo=RU"
+        }
+      },
+      {
+        "query": "кокошка",
+        "value": 120,
+        "formattedValue": "+120%",
+        "raw": {
+          "query": "кокошка",
+          "value": 120,
+          "formattedValue": "+120%",
+          "link": "/trends/explore?q=%D0%BA%D0%BE%D0%BA%D0%BE%D1%88%D0%BA%D0%B0&date=now+7-d&geo=RU"
+        }
+      },
+      {
+        "query": "гта 6",
+        "value": 110,
+        "formattedValue": "+110%",
+        "raw": {
+          "query": "гта 6",
+          "value": 110,
+          "formattedValue": "+110%",
+          "link": "/trends/explore?q=%D0%B3%D1%82%D0%B0+6&date=now+7-d&geo=RU"
+        }
+      },
+      {
+        "query": "бабка алка",
+        "value": 100,
+        "formattedValue": "+100%",
+        "raw": {
+          "query": "бабка алка",
+          "value": 100,
+          "formattedValue": "+100%",
+          "link": "/trends/explore?q=%D0%B1%D0%B0%D0%B1%D0%BA%D0%B0+%D0%B0%D0%BB%D0%BA%D0%B0&date=now+7-d&geo=RU"
         }
       }
     ]
