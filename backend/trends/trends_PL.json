@@ -1,708 +1,8 @@
 {
   "status": "success",
   "topics": {
-    "top": [
-      {
-        "query": "Bài hát",
-        "value": 100,
-        "formattedValue": "100",
-        "raw": {
-          "topic": {
-            "mid": "/m/074ft",
-            "title": "Bài hát",
-            "type": "Loại sáng tác"
-          },
-          "value": 100,
-          "formattedValue": "100",
-          "hasData": true,
-          "link": "/trends/explore?q=/m/074ft&date=now+7-d&geo=PL"
-        }
-      },
-      {
-        "query": "Tiếng Ba Lan",
-        "value": 49,
-        "formattedValue": "49",
-        "raw": {
-          "topic": {
-            "mid": "/m/05qqm",
-            "title": "Tiếng Ba Lan",
-            "type": "Ngôn ngữ"
-          },
-          "value": 49,
-          "formattedValue": "49",
-          "hasData": true,
-          "link": "/trends/explore?q=/m/05qqm&date=now+7-d&geo=PL"
-        }
-      },
-      {
-        "query": "Điện ảnh",
-        "value": 46,
-        "formattedValue": "46",
-        "raw": {
-          "topic": {
-            "mid": "/m/02vxn",
-            "title": "Điện ảnh",
-            "type": "Loại truyền hình"
-          },
-          "value": 46,
-          "formattedValue": "46",
-          "hasData": true,
-          "link": "/trends/explore?q=/m/02vxn&date=now+7-d&geo=PL"
-        }
-      },
-      {
-        "query": "Âm nhạc",
-        "value": 39,
-        "formattedValue": "39",
-        "raw": {
-          "topic": {
-            "mid": "/m/04rlf",
-            "title": "Âm nhạc",
-            "type": "Định dạng âm thanh"
-          },
-          "value": 39,
-          "formattedValue": "39",
-          "hasData": true,
-          "link": "/trends/explore?q=/m/04rlf&date=now+7-d&geo=PL"
-        }
-      },
-      {
-        "query": "2026",
-        "value": 35,
-        "formattedValue": "35",
-        "raw": {
-          "topic": {
-            "mid": "/g/11b77d6b6g",
-            "title": "2026",
-            "type": "Chủ đề"
-          },
-          "value": 35,
-          "formattedValue": "35",
-          "hasData": true,
-          "link": "/trends/explore?q=/g/11b77d6b6g&date=now+7-d&geo=PL"
-        }
-      },
-      {
-        "query": "Trẻ em",
-        "value": 33,
-        "formattedValue": "33",
-        "raw": {
-          "topic": {
-            "mid": "/m/0ytgt",
-            "title": "Trẻ em",
-            "type": "Chủ đề"
-          },
-          "value": 33,
-          "formattedValue": "33",
-          "hasData": true,
-          "link": "/trends/explore?q=/m/0ytgt&date=now+7-d&geo=PL"
-        }
-      },
-      {
-        "query": "Ba Lan",
-        "value": 28,
-        "formattedValue": "28",
-        "raw": {
-          "topic": {
-            "mid": "/m/05qhw",
-            "title": "Ba Lan",
-            "type": "Quốc gia ở Châu Âu"
-          },
-          "value": 28,
-          "formattedValue": "28",
-          "hasData": true,
-          "link": "/trends/explore?q=/m/05qhw&date=now+7-d&geo=PL"
-        }
-      },
-      {
-        "query": "Minecraft",
-        "value": 24,
-        "formattedValue": "24",
-        "raw": {
-          "topic": {
-            "mid": "/m/09v6kpg",
-            "title": "Minecraft",
-            "type": "Trò chơi điện tử"
-          },
-          "value": 24,
-          "formattedValue": "24",
-          "hasData": true,
-          "link": "/trends/explore?q=/m/09v6kpg&date=now+7-d&geo=PL"
-        }
-      },
-      {
-        "query": "phối lại",
-        "value": 21,
-        "formattedValue": "21",
-        "raw": {
-          "topic": {
-            "mid": "/g/11bwd8x8nv",
-            "title": "phối lại",
-            "type": "Chủ đề"
-          },
-          "value": 21,
-          "formattedValue": "21",
-          "hasData": true,
-          "link": "/trends/explore?q=/g/11bwd8x8nv&date=now+7-d&geo=PL"
-        }
-      },
-      {
-        "query": "Kanał Zero",
-        "value": 20,
-        "formattedValue": "20",
-        "raw": {
-          "topic": {
-            "mid": "/g/11vq8tkpj_",
-            "title": "Kanał Zero",
-            "type": "Kênh truyền hình"
-          },
-          "value": 20,
-          "formattedValue": "20",
-          "hasData": true,
-          "link": "/trends/explore?q=/g/11vq8tkpj_&date=now+7-d&geo=PL"
-        }
-      },
-      {
-        "query": "Ngụ ngôn",
-        "value": 19,
-        "formattedValue": "19",
-        "raw": {
-          "topic": {
-            "mid": "/m/031mk",
-            "title": "Ngụ ngôn",
-            "type": "Thể loại văn học"
-          },
-          "value": 19,
-          "formattedValue": "19",
-          "hasData": true,
-          "link": "/trends/explore?q=/m/031mk&date=now+7-d&geo=PL"
-        }
-      },
-      {
-        "query": "Trò chơi",
-        "value": 19,
-        "formattedValue": "19",
-        "raw": {
-          "topic": {
-            "mid": "/m/03bt1gh",
-            "title": "Trò chơi",
-            "type": "Chủ đề"
-          },
-          "value": 19,
-          "formattedValue": "19",
-          "hasData": true,
-          "link": "/trends/explore?q=/m/03bt1gh&date=now+7-d&geo=PL"
-        }
-      },
-      {
-        "query": "Phá hoại",
-        "value": 13,
-        "formattedValue": "13",
-        "raw": {
-          "topic": {
-            "mid": "/m/0795q",
-            "title": "Phá hoại",
-            "type": "Sabotage"
-          },
-          "value": 13,
-          "formattedValue": "13",
-          "hasData": true,
-          "link": "/trends/explore?q=/m/0795q&date=now+7-d&geo=PL"
-        }
-      },
-      {
-        "query": "Wojan",
-        "value": 13,
-        "formattedValue": "13",
-        "raw": {
-          "topic": {
-            "mid": "/g/11x7wfxqpp",
-            "title": "Wojan",
-            "type": "Nghệ sĩ âm nhạc"
-          },
-          "value": 13,
-          "formattedValue": "13",
-          "hasData": true,
-          "link": "/trends/explore?q=/g/11x7wfxqpp&date=now+7-d&geo=PL"
-        }
-      },
-      {
-        "query": "Grand Theft Auto",
-        "value": 13,
-        "formattedValue": "13",
-        "raw": {
-          "topic": {
-            "mid": "/m/04w8jw",
-            "title": "Grand Theft Auto",
-            "type": "Loạt trò chơi điện tử"
-          },
-          "value": 13,
-          "formattedValue": "13",
-          "hasData": true,
-          "link": "/trends/explore?q=/m/04w8jw&date=now+7-d&geo=PL"
-        }
-      },
-      {
-        "query": "Ô tô",
-        "value": 13,
-        "formattedValue": "13",
-        "raw": {
-          "topic": {
-            "mid": "/m/0k4j",
-            "title": "Ô tô",
-            "type": "Chế độ phương tiện"
-          },
-          "value": 13,
-          "formattedValue": "13",
-          "hasData": true,
-          "link": "/trends/explore?q=/m/0k4j&date=now+7-d&geo=PL"
-        }
-      },
-      {
-        "query": "Roblox",
-        "value": 13,
-        "formattedValue": "13",
-        "raw": {
-          "topic": {
-            "mid": "/m/026bs1g",
-            "title": "Roblox",
-            "type": "Nền tảng điện toán"
-          },
-          "value": 13,
-          "formattedValue": "13",
-          "hasData": true,
-          "link": "/trends/explore?q=/m/026bs1g&date=now+7-d&geo=PL"
-        }
-      },
-      {
-        "query": "Tập phim",
-        "value": 12,
-        "formattedValue": "12",
-        "raw": {
-          "topic": {
-            "mid": "/m/02cphr",
-            "title": "Tập phim",
-            "type": "Chủ đề"
-          },
-          "value": 12,
-          "formattedValue": "12",
-          "hasData": true,
-          "link": "/trends/explore?q=/m/02cphr&date=now+7-d&geo=PL"
-        }
-      },
-      {
-        "query": "Phản ứng kích thích cảm giác tự động",
-        "value": 11,
-        "formattedValue": "11",
-        "raw": {
-          "topic": {
-            "mid": "/m/0ngt1v6",
-            "title": "Phản ứng kích thích cảm giác tự động",
-            "type": "Chủ đề"
-          },
-          "value": 11,
-          "formattedValue": "11",
-          "hasData": true,
-          "link": "/trends/explore?q=/m/0ngt1v6&date=now+7-d&geo=PL"
-        }
-      },
-      {
-        "query": "Trailer",
-        "value": 11,
-        "formattedValue": "11",
-        "raw": {
-          "topic": {
-            "mid": "/m/03hdbf",
-            "title": "Trailer",
-            "type": "Chủ đề"
-          },
-          "value": 11,
-          "formattedValue": "11",
-          "hasData": true,
-          "link": "/trends/explore?q=/m/03hdbf&date=now+7-d&geo=PL"
-        }
-      },
-      {
-        "query": "2025",
-        "value": 11,
-        "formattedValue": "11",
-        "raw": {
-          "topic": {
-            "mid": "/g/11b77d3kyg",
-            "title": "2025",
-            "type": "Chủ đề"
-          },
-          "value": 11,
-          "formattedValue": "11",
-          "hasData": true,
-          "link": "/trends/explore?q=/g/11b77d3kyg&date=now+7-d&geo=PL"
-        }
-      },
-      {
-        "query": "Tin tức",
-        "value": 11,
-        "formattedValue": "11",
-        "raw": {
-          "topic": {
-            "mid": "/m/05jhg",
-            "title": "Tin tức",
-            "type": "Định dạng phát thanh"
-          },
-          "value": 11,
-          "formattedValue": "11",
-          "hasData": true,
-          "link": "/trends/explore?q=/m/05jhg&date=now+7-d&geo=PL"
-        }
-      },
-      {
-        "query": "Âm thanh",
-        "value": 11,
-        "formattedValue": "11",
-        "raw": {
-          "topic": {
-            "mid": "/m/06qc5",
-            "title": "Âm thanh",
-            "type": "Chủ đề"
-          },
-          "value": 11,
-          "formattedValue": "11",
-          "hasData": true,
-          "link": "/trends/explore?q=/m/06qc5&date=now+7-d&geo=PL"
-        }
-      }
-    ],
-    "rising": [
-      {
-        "query": "German Paraguayans",
-        "value": 3250,
-        "formattedValue": "+3.250%",
-        "raw": {
-          "topic": {
-            "mid": "/m/08sflx",
-            "title": "German Paraguayans",
-            "type": "Sắc tộc"
-          },
-          "value": 3250,
-          "formattedValue": "+3.250%",
-          "link": "/trends/explore?q=/m/08sflx&date=now+7-d&geo=PL"
-        }
-      },
-      {
-        "query": "kỳ ảo",
-        "value": 650,
-        "formattedValue": "+650%",
-        "raw": {
-          "topic": {
-            "mid": "/g/11fldtx0nc",
-            "title": "kỳ ảo",
-            "type": "Loại phim"
-          },
-          "value": 650,
-          "formattedValue": "+650%",
-          "link": "/trends/explore?q=/g/11fldtx0nc&date=now+7-d&geo=PL"
-        }
-      },
-      {
-        "query": "https://werkaaferka.pl/",
-        "value": 400,
-        "formattedValue": "+400%",
-        "raw": {
-          "topic": {
-            "mid": "/g/11xdt687cl",
-            "title": "https://werkaaferka.pl/",
-            "type": "Chủ đề"
-          },
-          "value": 400,
-          "formattedValue": "+400%",
-          "link": "/trends/explore?q=/g/11xdt687cl&date=now+7-d&geo=PL"
-        }
-      },
-      {
-        "query": "Deltarune",
-        "value": 300,
-        "formattedValue": "+300%",
-        "raw": {
-          "topic": {
-            "mid": "/g/11fgkrytw9",
-            "title": "Deltarune",
-            "type": "Video game"
-          },
-          "value": 300,
-          "formattedValue": "+300%",
-          "link": "/trends/explore?q=/g/11fgkrytw9&date=now+7-d&geo=PL"
-        }
-      },
-      {
-        "query": "Paraguay",
-        "value": 200,
-        "formattedValue": "+200%",
-        "raw": {
-          "topic": {
-            "mid": "/m/05v10",
-            "title": "Paraguay",
-            "type": "Quốc gia ở Nam Mỹ"
-          },
-          "value": 200,
-          "formattedValue": "+200%",
-          "link": "/trends/explore?q=/m/05v10&date=now+7-d&geo=PL"
-        }
-      },
-      {
-        "query": "Máy điều hòa không khí",
-        "value": 200,
-        "formattedValue": "+200%",
-        "raw": {
-          "topic": {
-            "mid": "/g/1yqccwk9n",
-            "title": "Máy điều hòa không khí",
-            "type": "Chủ đề"
-          },
-          "value": 200,
-          "formattedValue": "+200%",
-          "link": "/trends/explore?q=/g/1yqccwk9n&date=now+7-d&geo=PL"
-        }
-      },
-      {
-        "query": "Maroc",
-        "value": 170,
-        "formattedValue": "+170%",
-        "raw": {
-          "topic": {
-            "mid": "/m/04wgh",
-            "title": "Maroc",
-            "type": "Quốc gia ở Bắc Phi"
-          },
-          "value": 170,
-          "formattedValue": "+170%",
-          "link": "/trends/explore?q=/m/04wgh&date=now+7-d&geo=PL"
-        }
-      },
-      {
-        "query": "Grand Theft Auto VI",
-        "value": 130,
-        "formattedValue": "+130%",
-        "raw": {
-          "topic": {
-            "mid": "/g/11tfwwbjts",
-            "title": "Grand Theft Auto VI",
-            "type": "Trò chơi điện tử"
-          },
-          "value": 130,
-          "formattedValue": "+130%",
-          "link": "/trends/explore?q=/g/11tfwwbjts&date=now+7-d&geo=PL"
-        }
-      },
-      {
-        "query": "Điều hòa không khí",
-        "value": 130,
-        "formattedValue": "+130%",
-        "raw": {
-          "topic": {
-            "mid": "/m/025wky1",
-            "title": "Điều hòa không khí",
-            "type": "Chủ đề"
-          },
-          "value": 130,
-          "formattedValue": "+130%",
-          "link": "/trends/explore?q=/m/025wky1&date=now+7-d&geo=PL"
-        }
-      },
-      {
-        "query": "Kem lạnh",
-        "value": 130,
-        "formattedValue": "+130%",
-        "raw": {
-          "topic": {
-            "mid": "/m/0cxn2",
-            "title": "Kem lạnh",
-            "type": "Thực phẩm"
-          },
-          "value": 130,
-          "formattedValue": "+130%",
-          "link": "/trends/explore?q=/m/0cxn2&date=now+7-d&geo=PL"
-        }
-      },
-      {
-        "query": "Kanał Zero",
-        "value": 70,
-        "formattedValue": "+70%",
-        "raw": {
-          "topic": {
-            "mid": "/g/11vq8tkpj_",
-            "title": "Kanał Zero",
-            "type": "Kênh truyền hình"
-          },
-          "value": 70,
-          "formattedValue": "+70%",
-          "link": "/trends/explore?q=/g/11vq8tkpj_&date=now+7-d&geo=PL"
-        }
-      },
-      {
-        "query": "Brawl Stars",
-        "value": 70,
-        "formattedValue": "+70%",
-        "raw": {
-          "topic": {
-            "mid": "/g/11d_2386_9",
-            "title": "Brawl Stars",
-            "type": "Trò chơi điện tử"
-          },
-          "value": 70,
-          "formattedValue": "+70%",
-          "link": "/trends/explore?q=/g/11d_2386_9&date=now+7-d&geo=PL"
-        }
-      },
-      {
-        "query": "Hồ bơi",
-        "value": 70,
-        "formattedValue": "+70%",
-        "raw": {
-          "topic": {
-            "mid": "/m/0b_rs",
-            "title": "Hồ bơi",
-            "type": "Chủ đề"
-          },
-          "value": 70,
-          "formattedValue": "+70%",
-          "link": "/trends/explore?q=/m/0b_rs&date=now+7-d&geo=PL"
-        }
-      },
-      {
-        "query": "Grand Theft Auto",
-        "value": 60,
-        "formattedValue": "+60%",
-        "raw": {
-          "topic": {
-            "mid": "/m/04w8jw",
-            "title": "Grand Theft Auto",
-            "type": "Loạt trò chơi điện tử"
-          },
-          "value": 60,
-          "formattedValue": "+60%",
-          "link": "/trends/explore?q=/m/04w8jw&date=now+7-d&geo=PL"
-        }
-      },
-      {
-        "query": "Krzysztof Stanowski",
-        "value": 60,
-        "formattedValue": "+60%",
-        "raw": {
-          "topic": {
-            "mid": "/g/11gk8wrdfn",
-            "title": "Krzysztof Stanowski",
-            "type": "Doanh nhân"
-          },
-          "value": 60,
-          "formattedValue": "+60%",
-          "link": "/trends/explore?q=/g/11gk8wrdfn&date=now+7-d&geo=PL"
-        }
-      },
-      {
-        "query": "Đức",
-        "value": 60,
-        "formattedValue": "+60%",
-        "raw": {
-          "topic": {
-            "mid": "/m/0345h",
-            "title": "Đức",
-            "type": "Quốc gia ở Châu Âu"
-          },
-          "value": 60,
-          "formattedValue": "+60%",
-          "link": "/trends/explore?q=/m/0345h&date=now+7-d&geo=PL"
-        }
-      },
-      {
-        "query": "0",
-        "value": 60,
-        "formattedValue": "+60%",
-        "raw": {
-          "topic": {
-            "mid": "/g/11bc6ry_g6",
-            "title": "0",
-            "type": "Số"
-          },
-          "value": 60,
-          "formattedValue": "+60%",
-          "link": "/trends/explore?q=/g/11bc6ry_g6&date=now+7-d&geo=PL"
-        }
-      },
-      {
-        "query": "Ekipa",
-        "value": 50,
-        "formattedValue": "+50%",
-        "raw": {
-          "topic": {
-            "mid": "/g/11n2n7j529",
-            "title": "Ekipa",
-            "type": "Nhóm nhạc"
-          },
-          "value": 50,
-          "formattedValue": "+50%",
-          "link": "/trends/explore?q=/g/11n2n7j529&date=now+7-d&geo=PL"
-        }
-      },
-      {
-        "query": "reZi",
-        "value": 50,
-        "formattedValue": "+50%",
-        "raw": {
-          "topic": {
-            "mid": "/g/11s7s4rgjp",
-            "title": "reZi",
-            "type": "Nghệ sĩ âm nhạc"
-          },
-          "value": 50,
-          "formattedValue": "+50%",
-          "link": "/trends/explore?q=/g/11s7s4rgjp&date=now+7-d&geo=PL"
-        }
-      },
-      {
-        "query": "Brazil",
-        "value": 40,
-        "formattedValue": "+40%",
-        "raw": {
-          "topic": {
-            "mid": "/m/015fr",
-            "title": "Brazil",
-            "type": "Quốc gia ở Nam Mỹ"
-          },
-          "value": 40,
-          "formattedValue": "+40%",
-          "link": "/trends/explore?q=/m/015fr&date=now+7-d&geo=PL"
-        }
-      },
-      {
-        "query": "Hà Lan",
-        "value": 40,
-        "formattedValue": "+40%",
-        "raw": {
-          "topic": {
-            "mid": "/m/059j2",
-            "title": "Hà Lan",
-            "type": "Quốc gia ở Châu Âu"
-          },
-          "value": 40,
-          "formattedValue": "+40%",
-          "link": "/trends/explore?q=/m/059j2&date=now+7-d&geo=PL"
-        }
-      },
-      {
-        "query": "Wojan",
-        "value": 40,
-        "formattedValue": "+40%",
-        "raw": {
-          "topic": {
-            "mid": "/g/11x7wfxqpp",
-            "title": "Wojan",
-            "type": "Nghệ sĩ âm nhạc"
-          },
-          "value": 40,
-          "formattedValue": "+40%",
-          "link": "/trends/explore?q=/g/11x7wfxqpp&date=now+7-d&geo=PL"
-        }
-      }
-    ]
+    "top": [],
+    "rising": []
   },
   "queries": {
     "top": [
@@ -720,110 +20,110 @@
       },
       {
         "query": "piosenka",
-        "value": 95,
-        "formattedValue": "95",
+        "value": 94,
+        "formattedValue": "94",
         "raw": {
           "query": "piosenka",
-          "value": 95,
-          "formattedValue": "95",
+          "value": 94,
+          "formattedValue": "94",
           "hasData": true,
           "link": "/trends/explore?q=piosenka&date=now+7-d&geo=PL"
         }
       },
       {
         "query": "czajnik",
-        "value": 74,
-        "formattedValue": "74",
+        "value": 65,
+        "formattedValue": "65",
         "raw": {
           "query": "czajnik",
-          "value": 74,
-          "formattedValue": "74",
+          "value": 65,
+          "formattedValue": "65",
           "hasData": true,
           "link": "/trends/explore?q=czajnik&date=now+7-d&geo=PL"
         }
       },
       {
-        "query": "zero",
-        "value": 73,
-        "formattedValue": "73",
-        "raw": {
-          "query": "zero",
-          "value": 73,
-          "formattedValue": "73",
-          "hasData": true,
-          "link": "/trends/explore?q=zero&date=now+7-d&geo=PL"
-        }
-      },
-      {
         "query": "minecraft",
-        "value": 60,
-        "formattedValue": "60",
+        "value": 61,
+        "formattedValue": "61",
         "raw": {
           "query": "minecraft",
-          "value": 60,
-          "formattedValue": "60",
+          "value": 61,
+          "formattedValue": "61",
           "hasData": true,
           "link": "/trends/explore?q=minecraft&date=now+7-d&geo=PL"
         }
       },
       {
         "query": "wojan",
-        "value": 56,
-        "formattedValue": "56",
+        "value": 57,
+        "formattedValue": "57",
         "raw": {
           "query": "wojan",
-          "value": 56,
-          "formattedValue": "56",
+          "value": 57,
+          "formattedValue": "57",
           "hasData": true,
           "link": "/trends/explore?q=wojan&date=now+7-d&geo=PL"
         }
       },
       {
-        "query": "music",
+        "query": "zero",
         "value": 54,
         "formattedValue": "54",
         "raw": {
-          "query": "music",
+          "query": "zero",
           "value": 54,
           "formattedValue": "54",
+          "hasData": true,
+          "link": "/trends/explore?q=zero&date=now+7-d&geo=PL"
+        }
+      },
+      {
+        "query": "music",
+        "value": 53,
+        "formattedValue": "53",
+        "raw": {
+          "query": "music",
+          "value": 53,
+          "formattedValue": "53",
           "hasData": true,
           "link": "/trends/explore?q=music&date=now+7-d&geo=PL"
         }
       },
       {
         "query": "muzyka",
-        "value": 42,
-        "formattedValue": "42",
+        "value": 39,
+        "formattedValue": "39",
         "raw": {
           "query": "muzyka",
-          "value": 42,
-          "formattedValue": "42",
+          "value": 39,
+          "formattedValue": "39",
           "hasData": true,
           "link": "/trends/explore?q=muzyka&date=now+7-d&geo=PL"
         }
       },
       {
         "query": "sabotażysta",
-        "value": 42,
-        "formattedValue": "42",
+        "value": 37,
+        "formattedValue": "37",
         "raw": {
           "query": "sabotażysta",
-          "value": 42,
-          "formattedValue": "42",
+          "value": 37,
+          "formattedValue": "37",
           "hasData": true,
           "link": "/trends/explore?q=sabota%C5%BCysta&date=now+7-d&geo=PL"
         }
       },
       {
-        "query": "zero kanał",
-        "value": 40,
-        "formattedValue": "40",
+        "query": "baza",
+        "value": 35,
+        "formattedValue": "35",
         "raw": {
-          "query": "zero kanał",
-          "value": 40,
-          "formattedValue": "40",
+          "query": "baza",
+          "value": 35,
+          "formattedValue": "35",
           "hasData": true,
-          "link": "/trends/explore?q=zero+kana%C5%82&date=now+7-d&geo=PL"
+          "link": "/trends/explore?q=baza&date=now+7-d&geo=PL"
         }
       },
       {
@@ -840,84 +140,84 @@
       },
       {
         "query": "rezi",
-        "value": 34,
-        "formattedValue": "34",
+        "value": 32,
+        "formattedValue": "32",
         "raw": {
           "query": "rezi",
-          "value": 34,
-          "formattedValue": "34",
+          "value": 32,
+          "formattedValue": "32",
           "hasData": true,
           "link": "/trends/explore?q=rezi&date=now+7-d&geo=PL"
         }
       },
       {
-        "query": "baza",
+        "query": "książulo",
         "value": 31,
         "formattedValue": "31",
         "raw": {
-          "query": "baza",
+          "query": "książulo",
           "value": 31,
           "formattedValue": "31",
           "hasData": true,
-          "link": "/trends/explore?q=baza&date=now+7-d&geo=PL"
+          "link": "/trends/explore?q=ksi%C4%85%C5%BCulo&date=now+7-d&geo=PL"
+        }
+      },
+      {
+        "query": "kanał zero",
+        "value": 29,
+        "formattedValue": "29",
+        "raw": {
+          "query": "kanał zero",
+          "value": 29,
+          "formattedValue": "29",
+          "hasData": true,
+          "link": "/trends/explore?q=kana%C5%82+zero&date=now+7-d&geo=PL"
         }
       },
       {
         "query": "news",
-        "value": 29,
-        "formattedValue": "29",
+        "value": 27,
+        "formattedValue": "27",
         "raw": {
           "query": "news",
-          "value": 29,
-          "formattedValue": "29",
+          "value": 27,
+          "formattedValue": "27",
           "hasData": true,
           "link": "/trends/explore?q=news&date=now+7-d&geo=PL"
         }
       },
       {
         "query": "asmr",
-        "value": 29,
-        "formattedValue": "29",
+        "value": 27,
+        "formattedValue": "27",
         "raw": {
           "query": "asmr",
-          "value": 29,
-          "formattedValue": "29",
+          "value": 27,
+          "formattedValue": "27",
           "hasData": true,
           "link": "/trends/explore?q=asmr&date=now+7-d&geo=PL"
         }
       },
       {
         "query": "songs",
-        "value": 28,
-        "formattedValue": "28",
+        "value": 26,
+        "formattedValue": "26",
         "raw": {
           "query": "songs",
-          "value": 28,
-          "formattedValue": "28",
+          "value": 26,
+          "formattedValue": "26",
           "hasData": true,
           "link": "/trends/explore?q=songs&date=now+7-d&geo=PL"
         }
       },
       {
-        "query": "książulo",
-        "value": 27,
-        "formattedValue": "27",
-        "raw": {
-          "query": "książulo",
-          "value": 27,
-          "formattedValue": "27",
-          "hasData": true,
-          "link": "/trends/explore?q=ksi%C4%85%C5%BCulo&date=now+7-d&geo=PL"
-        }
-      },
-      {
         "query": "skolim",
-        "value": 26,
-        "formattedValue": "26",
+        "value": 23,
+        "formattedValue": "23",
         "raw": {
           "query": "skolim",
-          "value": 26,
-          "formattedValue": "26",
+          "value": 23,
+          "formattedValue": "23",
           "hasData": true,
           "link": "/trends/explore?q=skolim&date=now+7-d&geo=PL"
         }
@@ -959,328 +259,251 @@
         }
       },
       {
-        "query": "republika",
+        "query": "maja",
         "value": 20,
         "formattedValue": "20",
         "raw": {
-          "query": "republika",
+          "query": "maja",
           "value": 20,
           "formattedValue": "20",
+          "hasData": true,
+          "link": "/trends/explore?q=maja&date=now+7-d&geo=PL"
+        }
+      },
+      {
+        "query": "republika",
+        "value": 19,
+        "formattedValue": "19",
+        "raw": {
+          "query": "republika",
+          "value": 19,
+          "formattedValue": "19",
           "hasData": true,
           "link": "/trends/explore?q=republika&date=now+7-d&geo=PL"
         }
       },
       {
         "query": "karaoke",
-        "value": 20,
-        "formattedValue": "20",
+        "value": 18,
+        "formattedValue": "18",
         "raw": {
           "query": "karaoke",
-          "value": 20,
-          "formattedValue": "20",
+          "value": 18,
+          "formattedValue": "18",
           "hasData": true,
           "link": "/trends/explore?q=karaoke&date=now+7-d&geo=PL"
         }
       },
       {
-        "query": "maja",
-        "value": 19,
-        "formattedValue": "19",
+        "query": "genzie",
+        "value": 17,
+        "formattedValue": "17",
         "raw": {
-          "query": "maja",
-          "value": 19,
-          "formattedValue": "19",
+          "query": "genzie",
+          "value": 17,
+          "formattedValue": "17",
           "hasData": true,
-          "link": "/trends/explore?q=maja&date=now+7-d&geo=PL"
-        }
-      },
-      {
-        "query": "lego",
-        "value": 19,
-        "formattedValue": "19",
-        "raw": {
-          "query": "lego",
-          "value": 19,
-          "formattedValue": "19",
-          "hasData": true,
-          "link": "/trends/explore?q=lego&date=now+7-d&geo=PL"
+          "link": "/trends/explore?q=genzie&date=now+7-d&geo=PL"
         }
       }
     ],
     "rising": [
       {
         "query": "niemcy paragwaj",
-        "value": 3650,
-        "formattedValue": "+3.650%",
+        "value": 6700,
+        "formattedValue": "Đột phá",
         "raw": {
           "query": "niemcy paragwaj",
-          "value": 3650,
-          "formattedValue": "+3.650%",
+          "value": 6700,
+          "formattedValue": "Đột phá",
           "link": "/trends/explore?q=niemcy+paragwaj&date=now+7-d&geo=PL"
         }
       },
       {
-        "query": "maroko holandia",
-        "value": 2500,
-        "formattedValue": "+2.500%",
+        "query": "holandia maroko",
+        "value": 5100,
+        "formattedValue": "Đột phá",
         "raw": {
-          "query": "maroko holandia",
-          "value": 2500,
-          "formattedValue": "+2.500%",
-          "link": "/trends/explore?q=maroko+holandia&date=now+7-d&geo=PL"
+          "query": "holandia maroko",
+          "value": 5100,
+          "formattedValue": "Đột phá",
+          "link": "/trends/explore?q=holandia+maroko&date=now+7-d&geo=PL"
         }
       },
       {
-        "query": "deltarune chapter 5",
-        "value": 1450,
-        "formattedValue": "+1.450%",
+        "query": "belgia senegal",
+        "value": 2350,
+        "formattedValue": "+2.350%",
         "raw": {
-          "query": "deltarune chapter 5",
-          "value": 1450,
-          "formattedValue": "+1.450%",
-          "link": "/trends/explore?q=deltarune+chapter+5&date=now+7-d&geo=PL"
+          "query": "belgia senegal",
+          "value": 2350,
+          "formattedValue": "+2.350%",
+          "link": "/trends/explore?q=belgia+senegal&date=now+7-d&geo=PL"
         }
       },
       {
         "query": "ekipa fantasy",
-        "value": 1450,
-        "formattedValue": "+1.450%",
+        "value": 1300,
+        "formattedValue": "+1.300%",
         "raw": {
           "query": "ekipa fantasy",
-          "value": 1450,
-          "formattedValue": "+1.450%",
+          "value": 1300,
+          "formattedValue": "+1.300%",
           "link": "/trends/explore?q=ekipa+fantasy&date=now+7-d&geo=PL"
         }
       },
       {
-        "query": "mecz charytatywny ekipa fantasy",
-        "value": 1250,
-        "formattedValue": "+1.250%",
-        "raw": {
-          "query": "mecz charytatywny ekipa fantasy",
-          "value": 1250,
-          "formattedValue": "+1.250%",
-          "link": "/trends/explore?q=mecz+charytatywny+ekipa+fantasy&date=now+7-d&geo=PL"
-        }
-      },
-      {
-        "query": "champion 2",
+        "query": "tomasz gryka",
         "value": 950,
         "formattedValue": "+950%",
         "raw": {
-          "query": "champion 2",
+          "query": "tomasz gryka",
           "value": 950,
           "formattedValue": "+950%",
-          "link": "/trends/explore?q=champion+2&date=now+7-d&geo=PL"
+          "link": "/trends/explore?q=tomasz+gryka&date=now+7-d&geo=PL"
         }
       },
       {
         "query": "brawl talk",
-        "value": 950,
-        "formattedValue": "+950%",
+        "value": 700,
+        "formattedValue": "+700%",
         "raw": {
           "query": "brawl talk",
-          "value": 950,
-          "formattedValue": "+950%",
+          "value": 700,
+          "formattedValue": "+700%",
           "link": "/trends/explore?q=brawl+talk&date=now+7-d&geo=PL"
         }
       },
       {
-        "query": "ta jedyna",
-        "value": 400,
-        "formattedValue": "+400%",
+        "query": "champion 2",
+        "value": 450,
+        "formattedValue": "+450%",
         "raw": {
-          "query": "ta jedyna",
-          "value": 400,
-          "formattedValue": "+400%",
-          "link": "/trends/explore?q=ta+jedyna&date=now+7-d&geo=PL"
-        }
-      },
-      {
-        "query": "dziwidło olbrzymie live",
-        "value": 350,
-        "formattedValue": "+350%",
-        "raw": {
-          "query": "dziwidło olbrzymie live",
-          "value": 350,
-          "formattedValue": "+350%",
-          "link": "/trends/explore?q=dziwid%C5%82o+olbrzymie+live&date=now+7-d&geo=PL"
-        }
-      },
-      {
-        "query": "ber gar",
-        "value": 250,
-        "formattedValue": "+250%",
-        "raw": {
-          "query": "ber gar",
-          "value": 250,
-          "formattedValue": "+250%",
-          "link": "/trends/explore?q=ber+gar&date=now+7-d&geo=PL"
-        }
-      },
-      {
-        "query": "gta 6",
-        "value": 160,
-        "formattedValue": "+160%",
-        "raw": {
-          "query": "gta 6",
-          "value": 160,
-          "formattedValue": "+160%",
-          "link": "/trends/explore?q=gta+6&date=now+7-d&geo=PL"
-        }
-      },
-      {
-        "query": "gta 6 trailer",
-        "value": 160,
-        "formattedValue": "+160%",
-        "raw": {
-          "query": "gta 6 trailer",
-          "value": 160,
-          "formattedValue": "+160%",
-          "link": "/trends/explore?q=gta+6+trailer&date=now+7-d&geo=PL"
-        }
-      },
-      {
-        "query": "ksiazulo",
-        "value": 150,
-        "formattedValue": "+150%",
-        "raw": {
-          "query": "ksiazulo",
-          "value": 150,
-          "formattedValue": "+150%",
-          "link": "/trends/explore?q=ksiazulo&date=now+7-d&geo=PL"
+          "query": "champion 2",
+          "value": 450,
+          "formattedValue": "+450%",
+          "link": "/trends/explore?q=champion+2&date=now+7-d&geo=PL"
         }
       },
       {
         "query": "książulo",
-        "value": 150,
-        "formattedValue": "+150%",
+        "value": 180,
+        "formattedValue": "+180%",
         "raw": {
           "query": "książulo",
-          "value": 150,
-          "formattedValue": "+150%",
+          "value": 180,
+          "formattedValue": "+180%",
           "link": "/trends/explore?q=ksi%C4%85%C5%BCulo&date=now+7-d&geo=PL"
         }
       },
       {
-        "query": "bnt",
-        "value": 150,
-        "formattedValue": "+150%",
+        "query": "ksiazulo",
+        "value": 170,
+        "formattedValue": "+170%",
         "raw": {
-          "query": "bnt",
-          "value": 150,
-          "formattedValue": "+150%",
-          "link": "/trends/explore?q=bnt&date=now+7-d&geo=PL"
+          "query": "ksiazulo",
+          "value": 170,
+          "formattedValue": "+170%",
+          "link": "/trends/explore?q=ksiazulo&date=now+7-d&geo=PL"
         }
       },
       {
-        "query": "piosenki wojana",
-        "value": 140,
-        "formattedValue": "+140%",
+        "query": "mortalcio",
+        "value": 120,
+        "formattedValue": "+120%",
         "raw": {
-          "query": "piosenki wojana",
-          "value": 140,
-          "formattedValue": "+140%",
-          "link": "/trends/explore?q=piosenki+wojana&date=now+7-d&geo=PL"
+          "query": "mortalcio",
+          "value": 120,
+          "formattedValue": "+120%",
+          "link": "/trends/explore?q=mortalcio&date=now+7-d&geo=PL"
         }
       },
       {
-        "query": "rezigiusz",
+        "query": "farma bagiego",
         "value": 110,
         "formattedValue": "+110%",
         "raw": {
-          "query": "rezigiusz",
+          "query": "farma bagiego",
           "value": 110,
           "formattedValue": "+110%",
-          "link": "/trends/explore?q=rezigiusz&date=now+7-d&geo=PL"
-        }
-      },
-      {
-        "query": "kanal zero",
-        "value": 80,
-        "formattedValue": "+80%",
-        "raw": {
-          "query": "kanal zero",
-          "value": 80,
-          "formattedValue": "+80%",
-          "link": "/trends/explore?q=kanal+zero&date=now+7-d&geo=PL"
-        }
-      },
-      {
-        "query": "wojan games",
-        "value": 80,
-        "formattedValue": "+80%",
-        "raw": {
-          "query": "wojan games",
-          "value": 80,
-          "formattedValue": "+80%",
-          "link": "/trends/explore?q=wojan+games&date=now+7-d&geo=PL"
-        }
-      },
-      {
-        "query": "rezi",
-        "value": 70,
-        "formattedValue": "+70%",
-        "raw": {
-          "query": "rezi",
-          "value": 70,
-          "formattedValue": "+70%",
-          "link": "/trends/explore?q=rezi&date=now+7-d&geo=PL"
-        }
-      },
-      {
-        "query": "zero kanał",
-        "value": 70,
-        "formattedValue": "+70%",
-        "raw": {
-          "query": "zero kanał",
-          "value": 70,
-          "formattedValue": "+70%",
-          "link": "/trends/explore?q=zero+kana%C5%82&date=now+7-d&geo=PL"
-        }
-      },
-      {
-        "query": "stanowski",
-        "value": 60,
-        "formattedValue": "+60%",
-        "raw": {
-          "query": "stanowski",
-          "value": 60,
-          "formattedValue": "+60%",
-          "link": "/trends/explore?q=stanowski&date=now+7-d&geo=PL"
-        }
-      },
-      {
-        "query": "zero",
-        "value": 60,
-        "formattedValue": "+60%",
-        "raw": {
-          "query": "zero",
-          "value": 60,
-          "formattedValue": "+60%",
-          "link": "/trends/explore?q=zero&date=now+7-d&geo=PL"
-        }
-      },
-      {
-        "query": "wojan",
-        "value": 60,
-        "formattedValue": "+60%",
-        "raw": {
-          "query": "wojan",
-          "value": 60,
-          "formattedValue": "+60%",
-          "link": "/trends/explore?q=wojan&date=now+7-d&geo=PL"
+          "link": "/trends/explore?q=farma+bagiego&date=now+7-d&geo=PL"
         }
       },
       {
         "query": "luka",
+        "value": 100,
+        "formattedValue": "+100%",
+        "raw": {
+          "query": "luka",
+          "value": 100,
+          "formattedValue": "+100%",
+          "link": "/trends/explore?q=luka&date=now+7-d&geo=PL"
+        }
+      },
+      {
+        "query": "bagi",
         "value": 60,
         "formattedValue": "+60%",
         "raw": {
-          "query": "luka",
+          "query": "bagi",
           "value": 60,
           "formattedValue": "+60%",
-          "link": "/trends/explore?q=luka&date=now+7-d&geo=PL"
+          "link": "/trends/explore?q=bagi&date=now+7-d&geo=PL"
+        }
+      },
+      {
+        "query": "wojan",
+        "value": 50,
+        "formattedValue": "+50%",
+        "raw": {
+          "query": "wojan",
+          "value": 50,
+          "formattedValue": "+50%",
+          "link": "/trends/explore?q=wojan&date=now+7-d&geo=PL"
+        }
+      },
+      {
+        "query": "rezi",
+        "value": 50,
+        "formattedValue": "+50%",
+        "raw": {
+          "query": "rezi",
+          "value": 50,
+          "formattedValue": "+50%",
+          "link": "/trends/explore?q=rezi&date=now+7-d&geo=PL"
+        }
+      },
+      {
+        "query": "avi",
+        "value": 40,
+        "formattedValue": "+40%",
+        "raw": {
+          "query": "avi",
+          "value": 40,
+          "formattedValue": "+40%",
+          "link": "/trends/explore?q=avi&date=now+7-d&geo=PL"
+        }
+      },
+      {
+        "query": "baza",
+        "value": 40,
+        "formattedValue": "+40%",
+        "raw": {
+          "query": "baza",
+          "value": 40,
+          "formattedValue": "+40%",
+          "link": "/trends/explore?q=baza&date=now+7-d&geo=PL"
+        }
+      },
+      {
+        "query": "zipek",
+        "value": 40,
+        "formattedValue": "+40%",
+        "raw": {
+          "query": "zipek",
+          "value": 40,
+          "formattedValue": "+40%",
+          "link": "/trends/explore?q=zipek&date=now+7-d&geo=PL"
         }
       }
     ]
