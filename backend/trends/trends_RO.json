@@ -1,8 +1,740 @@
 {
   "status": "success",
   "topics": {
-    "top": [],
-    "rising": []
+    "top": [
+      {
+        "query": "Âm nhạc",
+        "value": 100,
+        "formattedValue": "100",
+        "raw": {
+          "topic": {
+            "mid": "/m/04rlf",
+            "title": "Âm nhạc",
+            "type": "Định dạng âm thanh"
+          },
+          "value": 100,
+          "formattedValue": "100",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/04rlf&date=now+7-d&geo=RO"
+        }
+      },
+      {
+        "query": "Tiếng Romania",
+        "value": 54,
+        "formattedValue": "54",
+        "raw": {
+          "topic": {
+            "mid": "/m/02hxc3j",
+            "title": "Tiếng Romania",
+            "type": "Ngôn ngữ"
+          },
+          "value": 54,
+          "formattedValue": "54",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/02hxc3j&date=now+7-d&geo=RO"
+        }
+      },
+      {
+        "query": "Bài hát",
+        "value": 48,
+        "formattedValue": "48",
+        "raw": {
+          "topic": {
+            "mid": "/m/074ft",
+            "title": "Bài hát",
+            "type": "Loại sáng tác"
+          },
+          "value": 48,
+          "formattedValue": "48",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/074ft&date=now+7-d&geo=RO"
+        }
+      },
+      {
+        "query": "2026",
+        "value": 46,
+        "formattedValue": "46",
+        "raw": {
+          "topic": {
+            "mid": "/g/11b77d6b6g",
+            "title": "2026",
+            "type": "Chủ đề"
+          },
+          "value": 46,
+          "formattedValue": "46",
+          "hasData": true,
+          "link": "/trends/explore?q=/g/11b77d6b6g&date=now+7-d&geo=RO"
+        }
+      },
+      {
+        "query": "Điện ảnh",
+        "value": 42,
+        "formattedValue": "42",
+        "raw": {
+          "topic": {
+            "mid": "/m/02vxn",
+            "title": "Điện ảnh",
+            "type": "Loại truyền hình"
+          },
+          "value": 42,
+          "formattedValue": "42",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/02vxn&date=now+7-d&geo=RO"
+        }
+      },
+      {
+        "query": "Trẻ em",
+        "value": 34,
+        "formattedValue": "34",
+        "raw": {
+          "topic": {
+            "mid": "/m/0ytgt",
+            "title": "Trẻ em",
+            "type": "Chủ đề"
+          },
+          "value": 34,
+          "formattedValue": "34",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/0ytgt&date=now+7-d&geo=RO"
+        }
+      },
+      {
+        "query": "Romania",
+        "value": 25,
+        "formattedValue": "25",
+        "raw": {
+          "topic": {
+            "mid": "/m/06c1y",
+            "title": "Romania",
+            "type": "Quốc gia ở Châu Âu"
+          },
+          "value": 25,
+          "formattedValue": "25",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/06c1y&date=now+7-d&geo=RO"
+        }
+      },
+      {
+        "query": "Hội Họa",
+        "value": 21,
+        "formattedValue": "21",
+        "raw": {
+          "topic": {
+            "mid": "/m/02csf",
+            "title": "Hội Họa",
+            "type": "Hình thức nghệ thuật thị giác"
+          },
+          "value": 21,
+          "formattedValue": "21",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/02csf&date=now+7-d&geo=RO"
+        }
+      },
+      {
+        "query": "Manele",
+        "value": 21,
+        "formattedValue": "21",
+        "raw": {
+          "topic": {
+            "mid": "/m/065179",
+            "title": "Manele",
+            "type": "Thể loại nhạc"
+          },
+          "value": 21,
+          "formattedValue": "21",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/065179&date=now+7-d&geo=RO"
+        }
+      },
+      {
+        "query": "Âm thanh",
+        "value": 17,
+        "formattedValue": "17",
+        "raw": {
+          "topic": {
+            "mid": "/m/06qc5",
+            "title": "Âm thanh",
+            "type": "Chủ đề"
+          },
+          "value": 17,
+          "formattedValue": "17",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/06qc5&date=now+7-d&geo=RO"
+        }
+      },
+      {
+        "query": "Nicolae Guță",
+        "value": 17,
+        "formattedValue": "17",
+        "raw": {
+          "topic": {
+            "mid": "/m/064trx",
+            "title": "Nicolae Guță",
+            "type": "Ca sĩ"
+          },
+          "value": 17,
+          "formattedValue": "17",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/064trx&date=now+7-d&geo=RO"
+        }
+      },
+      {
+        "query": "Trò chơi",
+        "value": 17,
+        "formattedValue": "17",
+        "raw": {
+          "topic": {
+            "mid": "/m/03bt1gh",
+            "title": "Trò chơi",
+            "type": "Chủ đề"
+          },
+          "value": 17,
+          "formattedValue": "17",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/03bt1gh&date=now+7-d&geo=RO"
+        }
+      },
+      {
+        "query": "Tháng 5",
+        "value": 16,
+        "formattedValue": "16",
+        "raw": {
+          "topic": {
+            "mid": "/m/04w_7",
+            "title": "Tháng 5",
+            "type": "Tháng"
+          },
+          "value": 16,
+          "formattedValue": "16",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/04w_7&date=now+7-d&geo=RO"
+        }
+      },
+      {
+        "query": "Dani Mocanu",
+        "value": 14,
+        "formattedValue": "14",
+        "raw": {
+          "topic": {
+            "mid": "/g/11b7_srt52",
+            "title": "Dani Mocanu",
+            "type": "Ca sĩ"
+          },
+          "value": 14,
+          "formattedValue": "14",
+          "hasData": true,
+          "link": "/trends/explore?q=/g/11b7_srt52&date=now+7-d&geo=RO"
+        }
+      },
+      {
+        "query": "2025",
+        "value": 14,
+        "formattedValue": "14",
+        "raw": {
+          "topic": {
+            "mid": "/g/11b77d3kyg",
+            "title": "2025",
+            "type": "Chủ đề"
+          },
+          "value": 14,
+          "formattedValue": "14",
+          "hasData": true,
+          "link": "/trends/explore?q=/g/11b77d3kyg&date=now+7-d&geo=RO"
+        }
+      },
+      {
+        "query": "Florin Salam",
+        "value": 14,
+        "formattedValue": "14",
+        "raw": {
+          "topic": {
+            "mid": "/m/09v9ytl",
+            "title": "Florin Salam",
+            "type": "Nhạc sĩ"
+          },
+          "value": 14,
+          "formattedValue": "14",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/09v9ytl&date=now+7-d&geo=RO"
+        }
+      },
+      {
+        "query": "Ô tô",
+        "value": 13,
+        "formattedValue": "13",
+        "raw": {
+          "topic": {
+            "mid": "/m/0k4j",
+            "title": "Ô tô",
+            "type": "Chế độ phương tiện"
+          },
+          "value": 13,
+          "formattedValue": "13",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/0k4j&date=now+7-d&geo=RO"
+        }
+      },
+      {
+        "query": "Trẻ sơ sinh",
+        "value": 13,
+        "formattedValue": "13",
+        "raw": {
+          "topic": {
+            "mid": "/m/0jnvp",
+            "title": "Trẻ sơ sinh",
+            "type": "Chủ đề"
+          },
+          "value": 13,
+          "formattedValue": "13",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/0jnvp&date=now+7-d&geo=RO"
+        }
+      },
+      {
+        "query": "SATALANA",
+        "value": 13,
+        "formattedValue": "13",
+        "raw": {
+          "topic": {
+            "mid": "/g/11zbqn1_md",
+            "title": "SATALANA",
+            "type": "Chủ đề"
+          },
+          "value": 13,
+          "formattedValue": "13",
+          "hasData": true,
+          "link": "/trends/explore?q=/g/11zbqn1_md&date=now+7-d&geo=RO"
+        }
+      },
+      {
+        "query": "Video",
+        "value": 13,
+        "formattedValue": "13",
+        "raw": {
+          "topic": {
+            "mid": "/m/07z4p",
+            "title": "Video",
+            "type": "Định dạng phim"
+          },
+          "value": 13,
+          "formattedValue": "13",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/07z4p&date=now+7-d&geo=RO"
+        }
+      },
+      {
+        "query": "Tập phim",
+        "value": 12,
+        "formattedValue": "12",
+        "raw": {
+          "topic": {
+            "mid": "/m/02cphr",
+            "title": "Tập phim",
+            "type": "Chủ đề"
+          },
+          "value": 12,
+          "formattedValue": "12",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/02cphr&date=now+7-d&geo=RO"
+        }
+      },
+      {
+        "query": "Remix",
+        "value": 12,
+        "formattedValue": "12",
+        "raw": {
+          "topic": {
+            "mid": "/m/014k25",
+            "title": "Remix",
+            "type": "Chủ đề"
+          },
+          "value": 12,
+          "formattedValue": "12",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/014k25&date=now+7-d&geo=RO"
+        }
+      },
+      {
+        "query": "Minecraft",
+        "value": 12,
+        "formattedValue": "12",
+        "raw": {
+          "topic": {
+            "mid": "/m/09v6kpg",
+            "title": "Minecraft",
+            "type": "Trò chơi điện tử"
+          },
+          "value": 12,
+          "formattedValue": "12",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/09v6kpg&date=now+7-d&geo=RO"
+        }
+      },
+      {
+        "query": "Roblox",
+        "value": 12,
+        "formattedValue": "12",
+        "raw": {
+          "topic": {
+            "mid": "/m/026bs1g",
+            "title": "Roblox",
+            "type": "Nền tảng điện toán"
+          },
+          "value": 12,
+          "formattedValue": "12",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/026bs1g&date=now+7-d&geo=RO"
+        }
+      },
+      {
+        "query": "JPEG",
+        "value": 12,
+        "formattedValue": "12",
+        "raw": {
+          "topic": {
+            "mid": "/m/0220vh_",
+            "title": "JPEG",
+            "type": "Định dạng tập tin"
+          },
+          "value": 12,
+          "formattedValue": "12",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/0220vh_&date=now+7-d&geo=RO"
+        }
+      }
+    ],
+    "rising": [
+      {
+        "query": "Vara nu e vara",
+        "value": 10250,
+        "formattedValue": "Đột phá",
+        "raw": {
+          "topic": {
+            "mid": "/g/11nqpg6blq",
+            "title": "Vara nu e vara",
+            "type": "Chủ đề"
+          },
+          "value": 10250,
+          "formattedValue": "Đột phá",
+          "link": "/trends/explore?q=/g/11nqpg6blq&date=now+7-d&geo=RO"
+        }
+      },
+      {
+        "query": "Belgia - Senegal",
+        "value": 1850,
+        "formattedValue": "+1.850%",
+        "raw": {
+          "topic": {
+            "mid": "/g/11zghgpwmz",
+            "title": "Belgia - Senegal",
+            "type": "Chủ đề"
+          },
+          "value": 1850,
+          "formattedValue": "+1.850%",
+          "link": "/trends/explore?q=/g/11zghgpwmz&date=now+7-d&geo=RO"
+        }
+      },
+      {
+        "query": "Belgia - Senegal",
+        "value": 1800,
+        "formattedValue": "+1.800%",
+        "raw": {
+          "topic": {
+            "mid": "/g/11zghf_fhz",
+            "title": "Belgia - Senegal",
+            "type": "Chủ đề"
+          },
+          "value": 1800,
+          "formattedValue": "+1.800%",
+          "link": "/trends/explore?q=/g/11zghf_fhz&date=now+7-d&geo=RO"
+        }
+      },
+      {
+        "query": "Călin Georgescu",
+        "value": 500,
+        "formattedValue": "+500%",
+        "raw": {
+          "topic": {
+            "mid": "/m/0cc6v_t",
+            "title": "Călin Georgescu",
+            "type": "Chính khách"
+          },
+          "value": 500,
+          "formattedValue": "+500%",
+          "link": "/trends/explore?q=/m/0cc6v_t&date=now+7-d&geo=RO"
+        }
+      },
+      {
+        "query": "SATALANA",
+        "value": 300,
+        "formattedValue": "+300%",
+        "raw": {
+          "topic": {
+            "mid": "/g/11zbqn1_md",
+            "title": "SATALANA",
+            "type": "Chủ đề"
+          },
+          "value": 300,
+          "formattedValue": "+300%",
+          "link": "/trends/explore?q=/g/11zbqn1_md&date=now+7-d&geo=RO"
+        }
+      },
+      {
+        "query": "Maroc",
+        "value": 300,
+        "formattedValue": "+300%",
+        "raw": {
+          "topic": {
+            "mid": "/m/04wgh",
+            "title": "Maroc",
+            "type": "Quốc gia ở Bắc Phi"
+          },
+          "value": 300,
+          "formattedValue": "+300%",
+          "link": "/trends/explore?q=/m/04wgh&date=now+7-d&geo=RO"
+        }
+      },
+      {
+        "query": "Hà Lan",
+        "value": 300,
+        "formattedValue": "+300%",
+        "raw": {
+          "topic": {
+            "mid": "/m/059j2",
+            "title": "Hà Lan",
+            "type": "Quốc gia ở Châu Âu"
+          },
+          "value": 300,
+          "formattedValue": "+300%",
+          "link": "/trends/explore?q=/m/059j2&date=now+7-d&geo=RO"
+        }
+      },
+      {
+        "query": "JPEG",
+        "value": 200,
+        "formattedValue": "+200%",
+        "raw": {
+          "topic": {
+            "mid": "/m/0220vh_",
+            "title": "JPEG",
+            "type": "Định dạng tập tin"
+          },
+          "value": 200,
+          "formattedValue": "+200%",
+          "link": "/trends/explore?q=/m/0220vh_&date=now+7-d&geo=RO"
+        }
+      },
+      {
+        "query": "National Register of Historic Monuments in Romania",
+        "value": 170,
+        "formattedValue": "+170%",
+        "raw": {
+          "topic": {
+            "mid": "/m/0gg6ytp",
+            "title": "National Register of Historic Monuments in Romania",
+            "type": "Chủ đề"
+          },
+          "value": 170,
+          "formattedValue": "+170%",
+          "link": "/trends/explore?q=/m/0gg6ytp&date=now+7-d&geo=RO"
+        }
+      },
+      {
+        "query": "AntenaPLAY",
+        "value": 120,
+        "formattedValue": "+120%",
+        "raw": {
+          "topic": {
+            "mid": "/g/11f662dmc_",
+            "title": "AntenaPLAY",
+            "type": "Phần mềm"
+          },
+          "value": 120,
+          "formattedValue": "+120%",
+          "link": "/trends/explore?q=/g/11f662dmc_&date=now+7-d&geo=RO"
+        }
+      },
+      {
+        "query": "Senegal",
+        "value": 100,
+        "formattedValue": "+100%",
+        "raw": {
+          "topic": {
+            "mid": "/m/06srk",
+            "title": "Senegal",
+            "type": "Quốc gia ở Tây Phi"
+          },
+          "value": 100,
+          "formattedValue": "+100%",
+          "link": "/trends/explore?q=/m/06srk&date=now+7-d&geo=RO"
+        }
+      },
+      {
+        "query": "Romanian Baccalaureate",
+        "value": 100,
+        "formattedValue": "+100%",
+        "raw": {
+          "topic": {
+            "mid": "/m/03wh6sy",
+            "title": "Romanian Baccalaureate",
+            "type": "Chủ đề"
+          },
+          "value": 100,
+          "formattedValue": "+100%",
+          "link": "/trends/explore?q=/m/03wh6sy&date=now+7-d&geo=RO"
+        }
+      },
+      {
+        "query": "Kashkaval",
+        "value": 90,
+        "formattedValue": "+90%",
+        "raw": {
+          "topic": {
+            "mid": "/m/02b795",
+            "title": "Kashkaval",
+            "type": "Phó mát"
+          },
+          "value": 90,
+          "formattedValue": "+90%",
+          "link": "/trends/explore?q=/m/02b795&date=now+7-d&geo=RO"
+        }
+      },
+      {
+        "query": "Bản đồ",
+        "value": 90,
+        "formattedValue": "+90%",
+        "raw": {
+          "topic": {
+            "mid": "/m/04_tb",
+            "title": "Bản đồ",
+            "type": "Thể loại văn học"
+          },
+          "value": 90,
+          "formattedValue": "+90%",
+          "link": "/trends/explore?q=/m/04_tb&date=now+7-d&geo=RO"
+        }
+      },
+      {
+        "query": "Bệnh viện",
+        "value": 90,
+        "formattedValue": "+90%",
+        "raw": {
+          "topic": {
+            "mid": "/m/0hpnr",
+            "title": "Bệnh viện",
+            "type": "Chức năng của tòa nhà"
+          },
+          "value": 90,
+          "formattedValue": "+90%",
+          "link": "/trends/explore?q=/m/0hpnr&date=now+7-d&geo=RO"
+        }
+      },
+      {
+        "query": "Điều hòa không khí",
+        "value": 80,
+        "formattedValue": "+80%",
+        "raw": {
+          "topic": {
+            "mid": "/m/025wky1",
+            "title": "Điều hòa không khí",
+            "type": "Chủ đề"
+          },
+          "value": 80,
+          "formattedValue": "+80%",
+          "link": "/trends/explore?q=/m/025wky1&date=now+7-d&geo=RO"
+        }
+      },
+      {
+        "query": "Pháp",
+        "value": 70,
+        "formattedValue": "+70%",
+        "raw": {
+          "topic": {
+            "mid": "/m/0f8l9c",
+            "title": "Pháp",
+            "type": "Quốc gia ở Châu Âu"
+          },
+          "value": 70,
+          "formattedValue": "+70%",
+          "link": "/trends/explore?q=/m/0f8l9c&date=now+7-d&geo=RO"
+        }
+      },
+      {
+        "query": "NIO",
+        "value": 70,
+        "formattedValue": "+70%",
+        "raw": {
+          "topic": {
+            "mid": "/g/11dd_vrp41",
+            "title": "NIO",
+            "type": "Hãng sản xuất ô tô"
+          },
+          "value": 70,
+          "formattedValue": "+70%",
+          "link": "/trends/explore?q=/g/11dd_vrp41&date=now+7-d&geo=RO"
+        }
+      },
+      {
+        "query": "Nhật Bản",
+        "value": 60,
+        "formattedValue": "+60%",
+        "raw": {
+          "topic": {
+            "mid": "/m/03_3d",
+            "title": "Nhật Bản",
+            "type": "Quốc gia ở Đông Á"
+          },
+          "value": 60,
+          "formattedValue": "+60%",
+          "link": "/trends/explore?q=/m/03_3d&date=now+7-d&geo=RO"
+        }
+      },
+      {
+        "query": "Brawl Stars",
+        "value": 60,
+        "formattedValue": "+60%",
+        "raw": {
+          "topic": {
+            "mid": "/g/11d_2386_9",
+            "title": "Brawl Stars",
+            "type": "Trò chơi điện tử"
+          },
+          "value": 60,
+          "formattedValue": "+60%",
+          "link": "/trends/explore?q=/g/11d_2386_9&date=now+7-d&geo=RO"
+        }
+      },
+      {
+        "query": "Đức",
+        "value": 60,
+        "formattedValue": "+60%",
+        "raw": {
+          "topic": {
+            "mid": "/m/0345h",
+            "title": "Đức",
+            "type": "Quốc gia ở Châu Âu"
+          },
+          "value": 60,
+          "formattedValue": "+60%",
+          "link": "/trends/explore?q=/m/0345h&date=now+7-d&geo=RO"
+        }
+      },
+      {
+        "query": "không khí",
+        "value": 50,
+        "formattedValue": "+50%",
+        "raw": {
+          "topic": {
+            "mid": "/g/1223qwg4",
+            "title": "không khí",
+            "type": "Chủ đề"
+          },
+          "value": 50,
+          "formattedValue": "+50%",
+          "link": "/trends/explore?q=/g/1223qwg4&date=now+7-d&geo=RO"
+        }
+      }
+    ]
   },
   "queries": {
     "top": [
@@ -20,14 +752,26 @@
       },
       {
         "query": "muzică",
-        "value": 87,
-        "formattedValue": "87",
+        "value": 84,
+        "formattedValue": "84",
         "raw": {
           "query": "muzică",
-          "value": 87,
-          "formattedValue": "87",
+          "value": 84,
+          "formattedValue": "84",
           "hasData": true,
           "link": "/trends/explore?q=muzic%C4%83&date=now+7-d&geo=RO"
+        }
+      },
+      {
+        "query": "music",
+        "value": 66,
+        "formattedValue": "66",
+        "raw": {
+          "query": "music",
+          "value": 66,
+          "formattedValue": "66",
+          "hasData": true,
+          "link": "/trends/explore?q=music&date=now+7-d&geo=RO"
         }
       },
       {
@@ -43,39 +787,27 @@
         }
       },
       {
-        "query": "music",
-        "value": 61,
-        "formattedValue": "61",
+        "query": "satalana",
+        "value": 57,
+        "formattedValue": "57",
         "raw": {
-          "query": "music",
-          "value": 61,
-          "formattedValue": "61",
+          "query": "satalana",
+          "value": 57,
+          "formattedValue": "57",
           "hasData": true,
-          "link": "/trends/explore?q=music&date=now+7-d&geo=RO"
+          "link": "/trends/explore?q=satalana&date=now+7-d&geo=RO"
         }
       },
       {
         "query": "manele",
-        "value": 59,
-        "formattedValue": "59",
+        "value": 57,
+        "formattedValue": "57",
         "raw": {
           "query": "manele",
-          "value": 59,
-          "formattedValue": "59",
+          "value": 57,
+          "formattedValue": "57",
           "hasData": true,
           "link": "/trends/explore?q=manele&date=now+7-d&geo=RO"
-        }
-      },
-      {
-        "query": "satalana",
-        "value": 58,
-        "formattedValue": "58",
-        "raw": {
-          "query": "satalana",
-          "value": 58,
-          "formattedValue": "58",
-          "hasData": true,
-          "link": "/trends/explore?q=satalana&date=now+7-d&geo=RO"
         }
       },
       {
@@ -91,39 +823,75 @@
         }
       },
       {
+        "query": "cercel",
+        "value": 39,
+        "formattedValue": "39",
+        "raw": {
+          "query": "cercel",
+          "value": 39,
+          "formattedValue": "39",
+          "hasData": true,
+          "link": "/trends/explore?q=cercel&date=now+7-d&geo=RO"
+        }
+      },
+      {
         "query": "dani mocanu",
-        "value": 38,
-        "formattedValue": "38",
+        "value": 37,
+        "formattedValue": "37",
         "raw": {
           "query": "dani mocanu",
-          "value": 38,
-          "formattedValue": "38",
+          "value": 37,
+          "formattedValue": "37",
           "hasData": true,
           "link": "/trends/explore?q=dani+mocanu&date=now+7-d&geo=RO"
         }
       },
       {
+        "query": "roblox",
+        "value": 32,
+        "formattedValue": "32",
+        "raw": {
+          "query": "roblox",
+          "value": 32,
+          "formattedValue": "32",
+          "hasData": true,
+          "link": "/trends/explore?q=roblox&date=now+7-d&geo=RO"
+        }
+      },
+      {
         "query": "minecraft",
-        "value": 33,
-        "formattedValue": "33",
+        "value": 32,
+        "formattedValue": "32",
         "raw": {
           "query": "minecraft",
-          "value": 33,
-          "formattedValue": "33",
+          "value": 32,
+          "formattedValue": "32",
           "hasData": true,
           "link": "/trends/explore?q=minecraft&date=now+7-d&geo=RO"
         }
       },
       {
-        "query": "songs",
+        "query": "filme",
+        "value": 32,
+        "formattedValue": "32",
+        "raw": {
+          "query": "filme",
+          "value": 32,
+          "formattedValue": "32",
+          "hasData": true,
+          "link": "/trends/explore?q=filme&date=now+7-d&geo=RO"
+        }
+      },
+      {
+        "query": "florin cercel",
         "value": 31,
         "formattedValue": "31",
         "raw": {
-          "query": "songs",
+          "query": "florin cercel",
           "value": 31,
           "formattedValue": "31",
           "hasData": true,
-          "link": "/trends/explore?q=songs&date=now+7-d&geo=RO"
+          "link": "/trends/explore?q=florin+cercel&date=now+7-d&geo=RO"
         }
       },
       {
@@ -139,73 +907,73 @@
         }
       },
       {
-        "query": "florin cercel",
+        "query": "florin salam",
         "value": 30,
         "formattedValue": "30",
         "raw": {
-          "query": "florin cercel",
+          "query": "florin salam",
           "value": 30,
           "formattedValue": "30",
-          "hasData": true,
-          "link": "/trends/explore?q=florin+cercel&date=now+7-d&geo=RO"
-        }
-      },
-      {
-        "query": "snik",
-        "value": 28,
-        "formattedValue": "28",
-        "raw": {
-          "query": "snik",
-          "value": 28,
-          "formattedValue": "28",
-          "hasData": true,
-          "link": "/trends/explore?q=snik&date=now+7-d&geo=RO"
-        }
-      },
-      {
-        "query": "florin salam",
-        "value": 27,
-        "formattedValue": "27",
-        "raw": {
-          "query": "florin salam",
-          "value": 27,
-          "formattedValue": "27",
           "hasData": true,
           "link": "/trends/explore?q=florin+salam&date=now+7-d&geo=RO"
         }
       },
       {
+        "query": "songs",
+        "value": 29,
+        "formattedValue": "29",
+        "raw": {
+          "query": "songs",
+          "value": 29,
+          "formattedValue": "29",
+          "hasData": true,
+          "link": "/trends/explore?q=songs&date=now+7-d&geo=RO"
+        }
+      },
+      {
+        "query": "snik",
+        "value": 27,
+        "formattedValue": "27",
+        "raw": {
+          "query": "snik",
+          "value": 27,
+          "formattedValue": "27",
+          "hasData": true,
+          "link": "/trends/explore?q=snik&date=now+7-d&geo=RO"
+        }
+      },
+      {
         "query": "casa iubirii",
-        "value": 26,
-        "formattedValue": "26",
+        "value": 25,
+        "formattedValue": "25",
         "raw": {
           "query": "casa iubirii",
-          "value": 26,
-          "formattedValue": "26",
+          "value": 25,
+          "formattedValue": "25",
           "hasData": true,
           "link": "/trends/explore?q=casa+iubirii&date=now+7-d&geo=RO"
         }
       },
       {
         "query": "podcast",
-        "value": 24,
-        "formattedValue": "24",
+        "value": 23,
+        "formattedValue": "23",
         "raw": {
           "query": "podcast",
-          "value": 24,
-          "formattedValue": "24",
+          "value": 23,
+          "formattedValue": "23",
           "hasData": true,
           "link": "/trends/explore?q=podcast&date=now+7-d&geo=RO"
         }
       },
       {
         "query": "selly",
-        "value": 21,
-        "formattedValue": "21",
+        "value": 22,
+        "formattedValue": "22",
         "raw": {
           "query": "selly",
-          "value": 21,
-          "formattedValue": "21",
+          "value": 22,
+          "formattedValue": "22",
           "hasData": true,
           "link": "/trends/explore?q=selly&date=now+7-d&geo=RO"
         }
@@ -235,98 +1003,117 @@
         }
       },
       {
-        "query": "michael jackson",
+        "query": "tzanca",
         "value": 20,
         "formattedValue": "20",
         "raw": {
-          "query": "michael jackson",
+          "query": "tzanca",
           "value": 20,
           "formattedValue": "20",
           "hasData": true,
+          "link": "/trends/explore?q=tzanca&date=now+7-d&geo=RO"
+        }
+      },
+      {
+        "query": "familia",
+        "value": 19,
+        "formattedValue": "19",
+        "raw": {
+          "query": "familia",
+          "value": 19,
+          "formattedValue": "19",
+          "hasData": true,
+          "link": "/trends/explore?q=familia&date=now+7-d&geo=RO"
+        }
+      },
+      {
+        "query": "michael jackson",
+        "value": 19,
+        "formattedValue": "19",
+        "raw": {
+          "query": "michael jackson",
+          "value": 19,
+          "formattedValue": "19",
+          "hasData": true,
           "link": "/trends/explore?q=michael+jackson&date=now+7-d&geo=RO"
-        }
-      },
-      {
-        "query": "babasha",
-        "value": 19,
-        "formattedValue": "19",
-        "raw": {
-          "query": "babasha",
-          "value": 19,
-          "formattedValue": "19",
-          "hasData": true,
-          "link": "/trends/explore?q=babasha&date=now+7-d&geo=RO"
-        }
-      },
-      {
-        "query": "sky",
-        "value": 19,
-        "formattedValue": "19",
-        "raw": {
-          "query": "sky",
-          "value": 19,
-          "formattedValue": "19",
-          "hasData": true,
-          "link": "/trends/explore?q=sky&date=now+7-d&geo=RO"
-        }
-      },
-      {
-        "query": "asmr",
-        "value": 18,
-        "formattedValue": "18",
-        "raw": {
-          "query": "asmr",
-          "value": 18,
-          "formattedValue": "18",
-          "hasData": true,
-          "link": "/trends/explore?q=asmr&date=now+7-d&geo=RO"
-        }
-      },
-      {
-        "query": "diana",
-        "value": 18,
-        "formattedValue": "18",
-        "raw": {
-          "query": "diana",
-          "value": 18,
-          "formattedValue": "18",
-          "hasData": true,
-          "link": "/trends/explore?q=diana&date=now+7-d&geo=RO"
-        }
-      },
-      {
-        "query": "nicolae guta",
-        "value": 17,
-        "formattedValue": "17",
-        "raw": {
-          "query": "nicolae guta",
-          "value": 17,
-          "formattedValue": "17",
-          "hasData": true,
-          "link": "/trends/explore?q=nicolae+guta&date=now+7-d&geo=RO"
         }
       }
     ],
     "rising": [
       {
+        "query": "olanda maroc",
+        "value": 4200,
+        "formattedValue": "+4.200%",
+        "raw": {
+          "query": "olanda maroc",
+          "value": 4200,
+          "formattedValue": "+4.200%",
+          "link": "/trends/explore?q=olanda+maroc&date=now+7-d&geo=RO"
+        }
+      },
+      {
         "query": "belgia senegal",
-        "value": 1950,
-        "formattedValue": "+1.950%",
+        "value": 2000,
+        "formattedValue": "+2.000%",
         "raw": {
           "query": "belgia senegal",
-          "value": 1950,
-          "formattedValue": "+1.950%",
+          "value": 2000,
+          "formattedValue": "+2.000%",
           "link": "/trends/explore?q=belgia+senegal&date=now+7-d&geo=RO"
         }
       },
       {
+        "query": "brawl talk",
+        "value": 650,
+        "formattedValue": "+650%",
+        "raw": {
+          "query": "brawl talk",
+          "value": 650,
+          "formattedValue": "+650%",
+          "link": "/trends/explore?q=brawl+talk&date=now+7-d&geo=RO"
+        }
+      },
+      {
+        "query": "calin georgescu",
+        "value": 450,
+        "formattedValue": "+450%",
+        "raw": {
+          "query": "calin georgescu",
+          "value": 450,
+          "formattedValue": "+450%",
+          "link": "/trends/explore?q=calin+georgescu&date=now+7-d&geo=RO"
+        }
+      },
+      {
+        "query": "doamna mihaela",
+        "value": 200,
+        "formattedValue": "+200%",
+        "raw": {
+          "query": "doamna mihaela",
+          "value": 200,
+          "formattedValue": "+200%",
+          "link": "/trends/explore?q=doamna+mihaela&date=now+7-d&geo=RO"
+        }
+      },
+      {
+        "query": "gata bacu gata scoala",
+        "value": 200,
+        "formattedValue": "+200%",
+        "raw": {
+          "query": "gata bacu gata scoala",
+          "value": 200,
+          "formattedValue": "+200%",
+          "link": "/trends/explore?q=gata+bacu+gata+scoala&date=now+7-d&geo=RO"
+        }
+      },
+      {
         "query": "antenaplay",
-        "value": 120,
-        "formattedValue": "+120%",
+        "value": 110,
+        "formattedValue": "+110%",
         "raw": {
           "query": "antenaplay",
-          "value": 120,
-          "formattedValue": "+120%",
+          "value": 110,
+          "formattedValue": "+110%",
           "link": "/trends/explore?q=antenaplay&date=now+7-d&geo=RO"
         }
       },
@@ -343,35 +1130,24 @@
       },
       {
         "query": "nio",
-        "value": 90,
-        "formattedValue": "+90%",
+        "value": 80,
+        "formattedValue": "+80%",
         "raw": {
           "query": "nio",
-          "value": 90,
-          "formattedValue": "+90%",
+          "value": 80,
+          "formattedValue": "+80%",
           "link": "/trends/explore?q=nio&date=now+7-d&geo=RO"
         }
       },
       {
         "query": "recorder",
-        "value": 90,
-        "formattedValue": "+90%",
+        "value": 80,
+        "formattedValue": "+80%",
         "raw": {
           "query": "recorder",
-          "value": 90,
-          "formattedValue": "+90%",
+          "value": 80,
+          "formattedValue": "+80%",
           "link": "/trends/explore?q=recorder&date=now+7-d&geo=RO"
-        }
-      },
-      {
-        "query": "bie si alin",
-        "value": 70,
-        "formattedValue": "+70%",
-        "raw": {
-          "query": "bie si alin",
-          "value": 70,
-          "formattedValue": "+70%",
-          "link": "/trends/explore?q=bie+si+alin&date=now+7-d&geo=RO"
         }
       },
       {
@@ -386,13 +1162,68 @@
         }
       },
       {
-        "query": "principii",
+        "query": "bie si alin",
+        "value": 70,
+        "formattedValue": "+70%",
+        "raw": {
+          "query": "bie si alin",
+          "value": 70,
+          "formattedValue": "+70%",
+          "link": "/trends/explore?q=bie+si+alin&date=now+7-d&geo=RO"
+        }
+      },
+      {
+        "query": "nicole cherry",
+        "value": 60,
+        "formattedValue": "+60%",
+        "raw": {
+          "query": "nicole cherry",
+          "value": 60,
+          "formattedValue": "+60%",
+          "link": "/trends/explore?q=nicole+cherry&date=now+7-d&geo=RO"
+        }
+      },
+      {
+        "query": "alexia nicole alb",
         "value": 50,
         "formattedValue": "+50%",
         "raw": {
-          "query": "principii",
+          "query": "alexia nicole alb",
           "value": 50,
           "formattedValue": "+50%",
+          "link": "/trends/explore?q=alexia+nicole+alb&date=now+7-d&geo=RO"
+        }
+      },
+      {
+        "query": "alex velea",
+        "value": 50,
+        "formattedValue": "+50%",
+        "raw": {
+          "query": "alex velea",
+          "value": 50,
+          "formattedValue": "+50%",
+          "link": "/trends/explore?q=alex+velea&date=now+7-d&geo=RO"
+        }
+      },
+      {
+        "query": "imogen",
+        "value": 50,
+        "formattedValue": "+50%",
+        "raw": {
+          "query": "imogen",
+          "value": 50,
+          "formattedValue": "+50%",
+          "link": "/trends/explore?q=imogen&date=now+7-d&geo=RO"
+        }
+      },
+      {
+        "query": "principii",
+        "value": 40,
+        "formattedValue": "+40%",
+        "raw": {
+          "query": "principii",
+          "value": 40,
+          "formattedValue": "+40%",
           "link": "/trends/explore?q=principii&date=now+7-d&geo=RO"
         }
       }
