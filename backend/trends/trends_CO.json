@@ -20,34 +20,50 @@
       },
       {
         "query": "Điện ảnh",
-        "value": 92,
-        "formattedValue": "92",
+        "value": 91,
+        "formattedValue": "91",
         "raw": {
           "topic": {
             "mid": "/m/02vxn",
             "title": "Điện ảnh",
             "type": "Loại truyền hình"
           },
-          "value": 92,
-          "formattedValue": "92",
+          "value": 91,
+          "formattedValue": "91",
           "hasData": true,
           "link": "/trends/explore?q=/m/02vxn&date=now+7-d&geo=CO"
         }
       },
       {
         "query": "Âm nhạc",
-        "value": 68,
-        "formattedValue": "68",
+        "value": 70,
+        "formattedValue": "70",
         "raw": {
           "topic": {
             "mid": "/m/04rlf",
             "title": "Âm nhạc",
             "type": "Định dạng âm thanh"
           },
-          "value": 68,
-          "formattedValue": "68",
+          "value": 70,
+          "formattedValue": "70",
           "hasData": true,
           "link": "/trends/explore?q=/m/04rlf&date=now+7-d&geo=CO"
+        }
+      },
+      {
+        "query": "Lời bài hát",
+        "value": 67,
+        "formattedValue": "67",
+        "raw": {
+          "topic": {
+            "mid": "/m/09lgd",
+            "title": "Lời bài hát",
+            "type": "Chủ đề"
+          },
+          "value": 67,
+          "formattedValue": "67",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/09lgd&date=now+7-d&geo=CO"
         }
       },
       {
@@ -67,65 +83,49 @@
         }
       },
       {
-        "query": "Lời bài hát",
-        "value": 65,
-        "formattedValue": "65",
-        "raw": {
-          "topic": {
-            "mid": "/m/09lgd",
-            "title": "Lời bài hát",
-            "type": "Chủ đề"
-          },
-          "value": 65,
-          "formattedValue": "65",
-          "hasData": true,
-          "link": "/trends/explore?q=/m/09lgd&date=now+7-d&geo=CO"
-        }
-      },
-      {
         "query": "Video",
-        "value": 47,
-        "formattedValue": "47",
+        "value": 46,
+        "formattedValue": "46",
         "raw": {
           "topic": {
             "mid": "/m/07z4p",
             "title": "Video",
             "type": "Định dạng phim"
           },
-          "value": 47,
-          "formattedValue": "47",
+          "value": 46,
+          "formattedValue": "46",
           "hasData": true,
           "link": "/trends/explore?q=/m/07z4p&date=now+7-d&geo=CO"
         }
       },
       {
         "query": "2026",
-        "value": 39,
-        "formattedValue": "39",
+        "value": 37,
+        "formattedValue": "37",
         "raw": {
           "topic": {
             "mid": "/g/11b77d6b6g",
             "title": "2026",
             "type": "Chủ đề"
           },
-          "value": 39,
-          "formattedValue": "39",
+          "value": 37,
+          "formattedValue": "37",
           "hasData": true,
           "link": "/trends/explore?q=/g/11b77d6b6g&date=now+7-d&geo=CO"
         }
       },
       {
         "query": "Colombia",
-        "value": 33,
-        "formattedValue": "33",
+        "value": 28,
+        "formattedValue": "28",
         "raw": {
           "topic": {
             "mid": "/m/01ls2",
             "title": "Colombia",
             "type": "Quốc gia ở Nam Mỹ"
           },
-          "value": 33,
-          "formattedValue": "33",
+          "value": 28,
+          "formattedValue": "28",
           "hasData": true,
           "link": "/trends/explore?q=/m/01ls2&date=now+7-d&geo=CO"
         }
@@ -147,51 +147,19 @@
         }
       },
       {
-        "query": "Caracol Televisión",
-        "value": 26,
-        "formattedValue": "26",
-        "raw": {
-          "topic": {
-            "mid": "/m/04z7lg",
-            "title": "Caracol Televisión",
-            "type": "Mạng truyền hình"
-          },
-          "value": 26,
-          "formattedValue": "26",
-          "hasData": true,
-          "link": "/trends/explore?q=/m/04z7lg&date=now+7-d&geo=CO"
-        }
-      },
-      {
         "query": "Diomedes Díaz",
-        "value": 26,
-        "formattedValue": "26",
+        "value": 27,
+        "formattedValue": "27",
         "raw": {
           "topic": {
             "mid": "/m/01s8l_3",
             "title": "Diomedes Díaz",
             "type": "Ca sĩ"
           },
-          "value": 26,
-          "formattedValue": "26",
+          "value": 27,
+          "formattedValue": "27",
           "hasData": true,
           "link": "/trends/explore?q=/m/01s8l_3&date=now+7-d&geo=CO"
-        }
-      },
-      {
-        "query": "Giải Bóng đá Vô địch Thế giới",
-        "value": 25,
-        "formattedValue": "25",
-        "raw": {
-          "topic": {
-            "mid": "/m/030q7",
-            "title": "Giải Bóng đá Vô địch Thế giới",
-            "type": "Giải bóng đá"
-          },
-          "value": 25,
-          "formattedValue": "25",
-          "hasData": true,
-          "link": "/trends/explore?q=/m/030q7&date=now+7-d&geo=CO"
         }
       },
       {
@@ -211,22 +179,6 @@
         }
       },
       {
-        "query": "Nhạc Vallenato",
-        "value": 25,
-        "formattedValue": "25",
-        "raw": {
-          "topic": {
-            "mid": "/m/03m8l9",
-            "title": "Nhạc Vallenato",
-            "type": "Thể loại nhạc"
-          },
-          "value": 25,
-          "formattedValue": "25",
-          "hasData": true,
-          "link": "/trends/explore?q=/m/03m8l9&date=now+7-d&geo=CO"
-        }
-      },
-      {
         "query": "Nhạc Salsa",
         "value": 25,
         "formattedValue": "25",
@@ -243,83 +195,115 @@
         }
       },
       {
-        "query": "Đội tuyển Bóng đá Quốc gia Colombia",
+        "query": "Nhạc Vallenato",
         "value": 25,
         "formattedValue": "25",
         "raw": {
           "topic": {
-            "mid": "/m/032c08",
-            "title": "Đội tuyển Bóng đá Quốc gia Colombia",
-            "type": "Đội bóng đá"
+            "mid": "/m/03m8l9",
+            "title": "Nhạc Vallenato",
+            "type": "Thể loại nhạc"
           },
           "value": 25,
           "formattedValue": "25",
           "hasData": true,
-          "link": "/trends/explore?q=/m/032c08&date=now+7-d&geo=CO"
+          "link": "/trends/explore?q=/m/03m8l9&date=now+7-d&geo=CO"
+        }
+      },
+      {
+        "query": "Giải Bóng đá Vô địch Thế giới",
+        "value": 22,
+        "formattedValue": "22",
+        "raw": {
+          "topic": {
+            "mid": "/m/030q7",
+            "title": "Giải Bóng đá Vô địch Thế giới",
+            "type": "Giải bóng đá"
+          },
+          "value": 22,
+          "formattedValue": "22",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/030q7&date=now+7-d&geo=CO"
+        }
+      },
+      {
+        "query": "Caracol Televisión",
+        "value": 21,
+        "formattedValue": "21",
+        "raw": {
+          "topic": {
+            "mid": "/m/04z7lg",
+            "title": "Caracol Televisión",
+            "type": "Mạng truyền hình"
+          },
+          "value": 21,
+          "formattedValue": "21",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/04z7lg&date=now+7-d&geo=CO"
         }
       },
       {
         "query": "chương",
-        "value": 21,
-        "formattedValue": "21",
+        "value": 20,
+        "formattedValue": "20",
         "raw": {
           "topic": {
             "mid": "/m/042scs",
             "title": "chương",
             "type": "Chủ đề"
           },
-          "value": 21,
-          "formattedValue": "21",
+          "value": 20,
+          "formattedValue": "20",
           "hasData": true,
           "link": "/trends/explore?q=/m/042scs&date=now+7-d&geo=CO"
         }
       },
       {
-        "query": "Bóng đá",
-        "value": 21,
-        "formattedValue": "21",
-        "raw": {
-          "topic": {
-            "mid": "/m/02vx4",
-            "title": "Bóng đá",
-            "type": "Thể thao"
-          },
-          "value": 21,
-          "formattedValue": "21",
-          "hasData": true,
-          "link": "/trends/explore?q=/m/02vx4&date=now+7-d&geo=CO"
-        }
-      },
-      {
         "query": "Trò chơi",
-        "value": 20,
-        "formattedValue": "20",
+        "value": 19,
+        "formattedValue": "19",
         "raw": {
           "topic": {
             "mid": "/m/03bt1gh",
             "title": "Trò chơi",
             "type": "Chủ đề"
           },
-          "value": 20,
-          "formattedValue": "20",
+          "value": 19,
+          "formattedValue": "19",
           "hasData": true,
           "link": "/trends/explore?q=/m/03bt1gh&date=now+7-d&geo=CO"
         }
       },
       {
-        "query": "RCN Televisión",
-        "value": 17,
-        "formattedValue": "17",
+        "query": "Đội tuyển Bóng đá Quốc gia Colombia",
+        "value": 19,
+        "formattedValue": "19",
         "raw": {
           "topic": {
-            "mid": "/m/09hj_3",
-            "title": "RCN Televisión",
-            "type": "Mạng truyền hình"
+            "mid": "/m/032c08",
+            "title": "Đội tuyển Bóng đá Quốc gia Colombia",
+            "type": "Đội bóng đá"
           },
-          "value": 17,
-          "formattedValue": "17",
+          "value": 19,
+          "formattedValue": "19",
           "hasData": true,
-          "link": "/trends/explore?q=/m/09hj_3&date=now+7-d&geo=CO"
+          "link": "/trends/explore?q=/m/032c08&date=now+7-d&geo=CO"
+        }
+      },
+      {
+        "query": "Bóng đá",
+        "value": 19,
+        "formattedValue": "19",
+        "raw": {
+          "topic": {
+            "mid": "/m/02vx4",
+            "title": "Bóng đá",
+            "type": "Thể thao"
+          },
+          "value": 19,
+          "formattedValue": "19",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/02vx4&date=now+7-d&geo=CO"
         }
       },
       {
@@ -371,6 +355,22 @@
         }
       },
       {
+        "query": "Yeison Jimenez",
+        "value": 15,
+        "formattedValue": "15",
+        "raw": {
+          "topic": {
+            "mid": "/g/11gxfrfmks",
+            "title": "Yeison Jimenez",
+            "type": "Ca sĩ"
+          },
+          "value": 15,
+          "formattedValue": "15",
+          "hasData": true,
+          "link": "/trends/explore?q=/g/11gxfrfmks&date=now+7-d&geo=CO"
+        }
+      },
+      {
         "query": "Tập phim",
         "value": 15,
         "formattedValue": "15",
@@ -387,81 +387,111 @@
         }
       },
       {
-        "query": "Kitô giáo",
-        "value": 15,
-        "formattedValue": "15",
+        "query": "RCN Televisión",
+        "value": 14,
+        "formattedValue": "14",
         "raw": {
           "topic": {
-            "mid": "/m/01lp8",
-            "title": "Kitô giáo",
-            "type": "Tôn giáo"
+            "mid": "/m/09hj_3",
+            "title": "RCN Televisión",
+            "type": "Mạng truyền hình"
           },
-          "value": 15,
-          "formattedValue": "15",
+          "value": 14,
+          "formattedValue": "14",
           "hasData": true,
-          "link": "/trends/explore?q=/m/01lp8&date=now+7-d&geo=CO"
+          "link": "/trends/explore?q=/m/09hj_3&date=now+7-d&geo=CO"
         }
       }
     ],
     "rising": [
       {
-        "query": "Đội tuyển Bóng đá Quốc gia Croatia",
-        "value": 600,
-        "formattedValue": "+600%",
+        "query": "Đội tuyển Bóng đá Quốc gia Paraguay",
+        "value": 750,
+        "formattedValue": "+750%",
         "raw": {
           "topic": {
-            "mid": "/m/0356gk",
-            "title": "Đội tuyển Bóng đá Quốc gia Croatia",
+            "mid": "/m/03d8m4",
+            "title": "Đội tuyển Bóng đá Quốc gia Paraguay",
             "type": "Đội bóng đá"
           },
-          "value": 600,
-          "formattedValue": "+600%",
-          "link": "/trends/explore?q=/m/0356gk&date=now+7-d&geo=CO"
+          "value": 750,
+          "formattedValue": "+750%",
+          "link": "/trends/explore?q=/m/03d8m4&date=now+7-d&geo=CO"
+        }
+      },
+      {
+        "query": "Đội tuyển bóng đá quốc gia Hà Lan",
+        "value": 700,
+        "formattedValue": "+700%",
+        "raw": {
+          "topic": {
+            "mid": "/m/02ltg3",
+            "title": "Đội tuyển bóng đá quốc gia Hà Lan",
+            "type": "Đội bóng đá"
+          },
+          "value": 700,
+          "formattedValue": "+700%",
+          "link": "/trends/explore?q=/m/02ltg3&date=now+7-d&geo=CO"
         }
       },
       {
         "query": "Đội tuyển bóng đá quốc gia Ghana",
-        "value": 500,
-        "formattedValue": "+500%",
+        "value": 700,
+        "formattedValue": "+700%",
         "raw": {
           "topic": {
             "mid": "/m/03_qrp",
             "title": "Đội tuyển bóng đá quốc gia Ghana",
             "type": "Đội bóng đá"
           },
-          "value": 500,
-          "formattedValue": "+500%",
+          "value": 700,
+          "formattedValue": "+700%",
           "link": "/trends/explore?q=/m/03_qrp&date=now+7-d&geo=CO"
         }
       },
       {
         "query": "Maroc",
-        "value": 500,
-        "formattedValue": "+500%",
+        "value": 650,
+        "formattedValue": "+650%",
         "raw": {
           "topic": {
             "mid": "/m/04wgh",
             "title": "Maroc",
             "type": "Quốc gia ở Bắc Phi"
           },
-          "value": 500,
-          "formattedValue": "+500%",
+          "value": 650,
+          "formattedValue": "+650%",
           "link": "/trends/explore?q=/m/04wgh&date=now+7-d&geo=CO"
         }
       },
       {
         "query": "Tháng 7",
-        "value": 450,
-        "formattedValue": "+450%",
+        "value": 600,
+        "formattedValue": "+600%",
         "raw": {
           "topic": {
             "mid": "/m/040fv",
             "title": "Tháng 7",
             "type": "Tháng"
           },
-          "value": 450,
-          "formattedValue": "+450%",
+          "value": 600,
+          "formattedValue": "+600%",
           "link": "/trends/explore?q=/m/040fv&date=now+7-d&geo=CO"
+        }
+      },
+      {
+        "query": "Đội tuyển bóng đá quốc gia Maroc",
+        "value": 600,
+        "formattedValue": "+600%",
+        "raw": {
+          "topic": {
+            "mid": "/m/03_9hm",
+            "title": "Đội tuyển bóng đá quốc gia Maroc",
+            "type": "Đội bóng đá"
+          },
+          "value": 600,
+          "formattedValue": "+600%",
+          "link": "/trends/explore?q=/m/03_9hm&date=now+7-d&geo=CO"
         }
       },
       {
@@ -480,183 +510,153 @@
         }
       },
       {
-        "query": "Đội tuyển bóng đá quốc gia Maroc",
-        "value": 350,
-        "formattedValue": "+350%",
+        "query": "Đội tuyển Bóng đá Quốc gia Croatia",
+        "value": 450,
+        "formattedValue": "+450%",
         "raw": {
           "topic": {
-            "mid": "/m/03_9hm",
-            "title": "Đội tuyển bóng đá quốc gia Maroc",
+            "mid": "/m/0356gk",
+            "title": "Đội tuyển Bóng đá Quốc gia Croatia",
             "type": "Đội bóng đá"
           },
-          "value": 350,
-          "formattedValue": "+350%",
-          "link": "/trends/explore?q=/m/03_9hm&date=now+7-d&geo=CO"
+          "value": 450,
+          "formattedValue": "+450%",
+          "link": "/trends/explore?q=/m/0356gk&date=now+7-d&geo=CO"
         }
       },
       {
-        "query": "Đội tuyển bóng đá quốc gia Hà Lan",
-        "value": 300,
-        "formattedValue": "+300%",
+        "query": "Paraguay",
+        "value": 400,
+        "formattedValue": "+400%",
         "raw": {
           "topic": {
-            "mid": "/m/02ltg3",
-            "title": "Đội tuyển bóng đá quốc gia Hà Lan",
-            "type": "Đội bóng đá"
+            "mid": "/m/05v10",
+            "title": "Paraguay",
+            "type": "Quốc gia ở Nam Mỹ"
           },
-          "value": 300,
-          "formattedValue": "+300%",
-          "link": "/trends/explore?q=/m/02ltg3&date=now+7-d&geo=CO"
-        }
-      },
-      {
-        "query": "Cape Verde",
-        "value": 250,
-        "formattedValue": "+250%",
-        "raw": {
-          "topic": {
-            "mid": "/m/01nqj",
-            "title": "Cape Verde",
-            "type": "Quốc gia ở Châu Phi"
-          },
-          "value": 250,
-          "formattedValue": "+250%",
-          "link": "/trends/explore?q=/m/01nqj&date=now+7-d&geo=CO"
-        }
-      },
-      {
-        "query": "Đội tuyển Bóng đá Quốc gia Bồ Đào Nha",
-        "value": 250,
-        "formattedValue": "+250%",
-        "raw": {
-          "topic": {
-            "mid": "/m/02rqxc",
-            "title": "Đội tuyển Bóng đá Quốc gia Bồ Đào Nha",
-            "type": "Đội bóng đá"
-          },
-          "value": 250,
-          "formattedValue": "+250%",
-          "link": "/trends/explore?q=/m/02rqxc&date=now+7-d&geo=CO"
+          "value": 400,
+          "formattedValue": "+400%",
+          "link": "/trends/explore?q=/m/05v10&date=now+7-d&geo=CO"
         }
       },
       {
         "query": "Hà Lan",
-        "value": 250,
-        "formattedValue": "+250%",
+        "value": 400,
+        "formattedValue": "+400%",
         "raw": {
           "topic": {
             "mid": "/m/059j2",
             "title": "Hà Lan",
             "type": "Quốc gia ở Châu Âu"
           },
-          "value": 250,
-          "formattedValue": "+250%",
+          "value": 400,
+          "formattedValue": "+400%",
           "link": "/trends/explore?q=/m/059j2&date=now+7-d&geo=CO"
         }
       },
       {
-        "query": "Đội tuyển Bóng đá Quốc gia Paraguay",
-        "value": 190,
-        "formattedValue": "+190%",
+        "query": "Cape Verde",
+        "value": 300,
+        "formattedValue": "+300%",
         "raw": {
           "topic": {
-            "mid": "/m/03d8m4",
-            "title": "Đội tuyển Bóng đá Quốc gia Paraguay",
-            "type": "Đội bóng đá"
+            "mid": "/m/01nqj",
+            "title": "Cape Verde",
+            "type": "Quốc gia ở Châu Phi"
           },
-          "value": 190,
-          "formattedValue": "+190%",
-          "link": "/trends/explore?q=/m/03d8m4&date=now+7-d&geo=CO"
+          "value": 300,
+          "formattedValue": "+300%",
+          "link": "/trends/explore?q=/m/01nqj&date=now+7-d&geo=CO"
+        }
+      },
+      {
+        "query": "Canada",
+        "value": 180,
+        "formattedValue": "+180%",
+        "raw": {
+          "topic": {
+            "mid": "/m/0d060g",
+            "title": "Canada",
+            "type": "Quốc gia ở Bắc Mỹ"
+          },
+          "value": 180,
+          "formattedValue": "+180%",
+          "link": "/trends/explore?q=/m/0d060g&date=now+7-d&geo=CO"
         }
       },
       {
         "query": "Đội tuyển Bóng đá Quốc gia Nhật Bản",
-        "value": 180,
-        "formattedValue": "+180%",
+        "value": 150,
+        "formattedValue": "+150%",
         "raw": {
           "topic": {
             "mid": "/m/03xh50",
             "title": "Đội tuyển Bóng đá Quốc gia Nhật Bản",
             "type": "Đội bóng đá"
           },
-          "value": 180,
-          "formattedValue": "+180%",
+          "value": 150,
+          "formattedValue": "+150%",
           "link": "/trends/explore?q=/m/03xh50&date=now+7-d&geo=CO"
         }
       },
       {
         "query": "Argentina",
-        "value": 120,
-        "formattedValue": "+120%",
+        "value": 130,
+        "formattedValue": "+130%",
         "raw": {
           "topic": {
             "mid": "/m/0jgd",
             "title": "Argentina",
             "type": "Quốc gia ở Nam Mỹ"
           },
-          "value": 120,
-          "formattedValue": "+120%",
+          "value": 130,
+          "formattedValue": "+130%",
           "link": "/trends/explore?q=/m/0jgd&date=now+7-d&geo=CO"
         }
       },
       {
-        "query": "Bồ Đào Nha",
-        "value": 100,
-        "formattedValue": "+100%",
+        "query": "Plim Plim",
+        "value": 90,
+        "formattedValue": "+90%",
         "raw": {
           "topic": {
-            "mid": "/m/05r4w",
-            "title": "Bồ Đào Nha",
-            "type": "Quốc gia"
+            "mid": "/m/0hzmwkw",
+            "title": "Plim Plim",
+            "type": "Chương trình truyền hình"
           },
-          "value": 100,
-          "formattedValue": "+100%",
-          "link": "/trends/explore?q=/m/05r4w&date=now+7-d&geo=CO"
+          "value": 90,
+          "formattedValue": "+90%",
+          "link": "/trends/explore?q=/m/0hzmwkw&date=now+7-d&geo=CO"
         }
       },
       {
-        "query": "Đội tuyển Bóng đá Quốc gia Argentina",
+        "query": "Disney",
+        "value": 90,
+        "formattedValue": "+90%",
+        "raw": {
+          "topic": {
+            "mid": "/m/0_y78kz",
+            "title": "Disney",
+            "type": "Chủ đề"
+          },
+          "value": 90,
+          "formattedValue": "+90%",
+          "link": "/trends/explore?q=/m/0_y78kz&date=now+7-d&geo=CO"
+        }
+      },
+      {
+        "query": "Đội tuyển Bóng đá Quốc gia Brasil",
         "value": 70,
         "formattedValue": "+70%",
         "raw": {
           "topic": {
-            "mid": "/m/02bh_v",
-            "title": "Đội tuyển Bóng đá Quốc gia Argentina",
+            "mid": "/m/01352_",
+            "title": "Đội tuyển Bóng đá Quốc gia Brasil",
             "type": "Đội bóng đá"
           },
           "value": 70,
           "formattedValue": "+70%",
-          "link": "/trends/explore?q=/m/02bh_v&date=now+7-d&geo=CO"
-        }
-      },
-      {
-        "query": "Gol Caracol",
-        "value": 70,
-        "formattedValue": "+70%",
-        "raw": {
-          "topic": {
-            "mid": "/g/1q61bkl67",
-            "title": "Gol Caracol",
-            "type": "Chương trình truyền hình"
-          },
-          "value": 70,
-          "formattedValue": "+70%",
-          "link": "/trends/explore?q=/g/1q61bkl67&date=now+7-d&geo=CO"
-        }
-      },
-      {
-        "query": "Nhật Bản",
-        "value": 70,
-        "formattedValue": "+70%",
-        "raw": {
-          "topic": {
-            "mid": "/m/03_3d",
-            "title": "Nhật Bản",
-            "type": "Quốc gia ở Đông Á"
-          },
-          "value": 70,
-          "formattedValue": "+70%",
-          "link": "/trends/explore?q=/m/03_3d&date=now+7-d&geo=CO"
+          "link": "/trends/explore?q=/m/01352_&date=now+7-d&geo=CO"
         }
       },
       {
@@ -675,63 +675,63 @@
         }
       },
       {
-        "query": "Đội tuyển Bóng đá Quốc gia Colombia",
+        "query": "Nhật Bản",
         "value": 60,
         "formattedValue": "+60%",
         "raw": {
           "topic": {
-            "mid": "/m/032c08",
-            "title": "Đội tuyển Bóng đá Quốc gia Colombia",
-            "type": "Đội bóng đá"
+            "mid": "/m/03_3d",
+            "title": "Nhật Bản",
+            "type": "Quốc gia ở Đông Á"
           },
           "value": 60,
           "formattedValue": "+60%",
-          "link": "/trends/explore?q=/m/032c08&date=now+7-d&geo=CO"
+          "link": "/trends/explore?q=/m/03_3d&date=now+7-d&geo=CO"
         }
       },
       {
-        "query": "Bóng đá",
+        "query": "Đội tuyển Bóng đá Quốc gia Ecuador",
         "value": 50,
         "formattedValue": "+50%",
         "raw": {
           "topic": {
-            "mid": "/m/02vx4",
-            "title": "Bóng đá",
-            "type": "Thể thao"
+            "mid": "/m/03zj_3",
+            "title": "Đội tuyển Bóng đá Quốc gia Ecuador",
+            "type": "Đội bóng đá"
           },
           "value": 50,
           "formattedValue": "+50%",
-          "link": "/trends/explore?q=/m/02vx4&date=now+7-d&geo=CO"
+          "link": "/trends/explore?q=/m/03zj_3&date=now+7-d&geo=CO"
         }
       },
       {
-        "query": "RCN Televisión",
-        "value": 40,
-        "formattedValue": "+40%",
+        "query": "Đội tuyển Bóng đá Quốc gia Đức",
+        "value": 50,
+        "formattedValue": "+50%",
         "raw": {
           "topic": {
-            "mid": "/m/09hj_3",
-            "title": "RCN Televisión",
-            "type": "Mạng truyền hình"
+            "mid": "/m/01l3wr",
+            "title": "Đội tuyển Bóng đá Quốc gia Đức",
+            "type": "Đội bóng đá"
           },
-          "value": 40,
-          "formattedValue": "+40%",
-          "link": "/trends/explore?q=/m/09hj_3&date=now+7-d&geo=CO"
+          "value": 50,
+          "formattedValue": "+50%",
+          "link": "/trends/explore?q=/m/01l3wr&date=now+7-d&geo=CO"
         }
       },
       {
-        "query": "Đội tuyển Bóng đá Quốc gia Brasil",
+        "query": "Đội tuyển Bóng đá Quốc gia Argentina",
         "value": 40,
         "formattedValue": "+40%",
         "raw": {
           "topic": {
-            "mid": "/m/01352_",
-            "title": "Đội tuyển Bóng đá Quốc gia Brasil",
+            "mid": "/m/02bh_v",
+            "title": "Đội tuyển Bóng đá Quốc gia Argentina",
             "type": "Đội bóng đá"
           },
           "value": 40,
           "formattedValue": "+40%",
-          "link": "/trends/explore?q=/m/01352_&date=now+7-d&geo=CO"
+          "link": "/trends/explore?q=/m/02bh_v&date=now+7-d&geo=CO"
         }
       }
     ]
@@ -752,62 +752,50 @@
       },
       {
         "query": "colombia",
-        "value": 90,
-        "formattedValue": "90",
+        "value": 79,
+        "formattedValue": "79",
         "raw": {
           "query": "colombia",
-          "value": 90,
-          "formattedValue": "90",
+          "value": 79,
+          "formattedValue": "79",
           "hasData": true,
           "link": "/trends/explore?q=colombia&date=now+7-d&geo=CO"
         }
       },
       {
         "query": "musica",
-        "value": 76,
-        "formattedValue": "76",
+        "value": 79,
+        "formattedValue": "79",
         "raw": {
           "query": "musica",
-          "value": 76,
-          "formattedValue": "76",
+          "value": 79,
+          "formattedValue": "79",
           "hasData": true,
           "link": "/trends/explore?q=musica&date=now+7-d&geo=CO"
         }
       },
       {
-        "query": "caracol",
+        "query": "peliculas",
         "value": 71,
         "formattedValue": "71",
         "raw": {
-          "query": "caracol",
+          "query": "peliculas",
           "value": 71,
           "formattedValue": "71",
-          "hasData": true,
-          "link": "/trends/explore?q=caracol&date=now+7-d&geo=CO"
-        }
-      },
-      {
-        "query": "peliculas",
-        "value": 68,
-        "formattedValue": "68",
-        "raw": {
-          "query": "peliculas",
-          "value": 68,
-          "formattedValue": "68",
           "hasData": true,
           "link": "/trends/explore?q=peliculas&date=now+7-d&geo=CO"
         }
       },
       {
-        "query": "caracol en vivo",
-        "value": 63,
-        "formattedValue": "63",
+        "query": "caracol",
+        "value": 66,
+        "formattedValue": "66",
         "raw": {
-          "query": "caracol en vivo",
-          "value": 63,
-          "formattedValue": "63",
+          "query": "caracol",
+          "value": 66,
+          "formattedValue": "66",
           "hasData": true,
-          "link": "/trends/explore?q=caracol+en+vivo&date=now+7-d&geo=CO"
+          "link": "/trends/explore?q=caracol&date=now+7-d&geo=CO"
         }
       },
       {
@@ -824,36 +812,48 @@
       },
       {
         "query": "salsa",
-        "value": 53,
-        "formattedValue": "53",
+        "value": 56,
+        "formattedValue": "56",
         "raw": {
           "query": "salsa",
-          "value": 53,
-          "formattedValue": "53",
+          "value": 56,
+          "formattedValue": "56",
           "hasData": true,
           "link": "/trends/explore?q=salsa&date=now+7-d&geo=CO"
         }
       },
       {
         "query": "peliculas completas en español",
-        "value": 49,
-        "formattedValue": "49",
+        "value": 53,
+        "formattedValue": "53",
         "raw": {
           "query": "peliculas completas en español",
-          "value": 49,
-          "formattedValue": "49",
+          "value": 53,
+          "formattedValue": "53",
           "hasData": true,
           "link": "/trends/explore?q=peliculas+completas+en+espa%C3%B1ol&date=now+7-d&geo=CO"
         }
       },
       {
+        "query": "caracol en vivo",
+        "value": 53,
+        "formattedValue": "53",
+        "raw": {
+          "query": "caracol en vivo",
+          "value": 53,
+          "formattedValue": "53",
+          "hasData": true,
+          "link": "/trends/explore?q=caracol+en+vivo&date=now+7-d&geo=CO"
+        }
+      },
+      {
         "query": "canciones",
-        "value": 48,
-        "formattedValue": "48",
+        "value": 50,
+        "formattedValue": "50",
         "raw": {
           "query": "canciones",
-          "value": 48,
-          "formattedValue": "48",
+          "value": 50,
+          "formattedValue": "50",
           "hasData": true,
           "link": "/trends/explore?q=canciones&date=now+7-d&geo=CO"
         }
@@ -872,74 +872,86 @@
       },
       {
         "query": "peliculas completas en español latino",
-        "value": 35,
-        "formattedValue": "35",
+        "value": 36,
+        "formattedValue": "36",
         "raw": {
           "query": "peliculas completas en español latino",
-          "value": 35,
-          "formattedValue": "35",
+          "value": 36,
+          "formattedValue": "36",
           "hasData": true,
           "link": "/trends/explore?q=peliculas+completas+en+espa%C3%B1ol+latino&date=now+7-d&geo=CO"
         }
       },
       {
         "query": "diomedes diaz",
-        "value": 34,
-        "formattedValue": "34",
+        "value": 35,
+        "formattedValue": "35",
         "raw": {
           "query": "diomedes diaz",
-          "value": 34,
-          "formattedValue": "34",
+          "value": 35,
+          "formattedValue": "35",
           "hasData": true,
           "link": "/trends/explore?q=diomedes+diaz&date=now+7-d&geo=CO"
         }
       },
       {
-        "query": "rcn",
+        "query": "fede",
         "value": 33,
         "formattedValue": "33",
         "raw": {
-          "query": "rcn",
+          "query": "fede",
           "value": 33,
           "formattedValue": "33",
+          "hasData": true,
+          "link": "/trends/explore?q=fede&date=now+7-d&geo=CO"
+        }
+      },
+      {
+        "query": "vallenato",
+        "value": 32,
+        "formattedValue": "32",
+        "raw": {
+          "query": "vallenato",
+          "value": 32,
+          "formattedValue": "32",
+          "hasData": true,
+          "link": "/trends/explore?q=vallenato&date=now+7-d&geo=CO"
+        }
+      },
+      {
+        "query": "rcn",
+        "value": 29,
+        "formattedValue": "29",
+        "raw": {
+          "query": "rcn",
+          "value": 29,
+          "formattedValue": "29",
           "hasData": true,
           "link": "/trends/explore?q=rcn&date=now+7-d&geo=CO"
         }
       },
       {
         "query": "futbol",
-        "value": 32,
-        "formattedValue": "32",
+        "value": 29,
+        "formattedValue": "29",
         "raw": {
           "query": "futbol",
-          "value": 32,
-          "formattedValue": "32",
+          "value": 29,
+          "formattedValue": "29",
           "hasData": true,
           "link": "/trends/explore?q=futbol&date=now+7-d&geo=CO"
         }
       },
       {
-        "query": "vallenato",
-        "value": 30,
-        "formattedValue": "30",
+        "query": "la rosa de guadalupe",
+        "value": 28,
+        "formattedValue": "28",
         "raw": {
-          "query": "vallenato",
-          "value": 30,
-          "formattedValue": "30",
+          "query": "la rosa de guadalupe",
+          "value": 28,
+          "formattedValue": "28",
           "hasData": true,
-          "link": "/trends/explore?q=vallenato&date=now+7-d&geo=CO"
-        }
-      },
-      {
-        "query": "fede",
-        "value": 29,
-        "formattedValue": "29",
-        "raw": {
-          "query": "fede",
-          "value": 29,
-          "formattedValue": "29",
-          "hasData": true,
-          "link": "/trends/explore?q=fede&date=now+7-d&geo=CO"
+          "link": "/trends/explore?q=la+rosa+de+guadalupe&date=now+7-d&geo=CO"
         }
       },
       {
@@ -955,63 +967,39 @@
         }
       },
       {
-        "query": "la rosa de guadalupe",
-        "value": 27,
-        "formattedValue": "27",
-        "raw": {
-          "query": "la rosa de guadalupe",
-          "value": 27,
-          "formattedValue": "27",
-          "hasData": true,
-          "link": "/trends/explore?q=la+rosa+de+guadalupe&date=now+7-d&geo=CO"
-        }
-      },
-      {
-        "query": "rcn en vivo",
-        "value": 25,
-        "formattedValue": "25",
-        "raw": {
-          "query": "rcn en vivo",
-          "value": 25,
-          "formattedValue": "25",
-          "hasData": true,
-          "link": "/trends/explore?q=rcn+en+vivo&date=now+7-d&geo=CO"
-        }
-      },
-      {
-        "query": "champeta",
-        "value": 24,
-        "formattedValue": "24",
-        "raw": {
-          "query": "champeta",
-          "value": 24,
-          "formattedValue": "24",
-          "hasData": true,
-          "link": "/trends/explore?q=champeta&date=now+7-d&geo=CO"
-        }
-      },
-      {
         "query": "fede vigevani",
-        "value": 24,
-        "formattedValue": "24",
+        "value": 26,
+        "formattedValue": "26",
         "raw": {
           "query": "fede vigevani",
-          "value": 24,
-          "formattedValue": "24",
+          "value": 26,
+          "formattedValue": "26",
           "hasData": true,
           "link": "/trends/explore?q=fede+vigevani&date=now+7-d&geo=CO"
         }
       },
       {
-        "query": "partido en vivo de hoy",
-        "value": 23,
-        "formattedValue": "23",
+        "query": "champeta",
+        "value": 25,
+        "formattedValue": "25",
         "raw": {
-          "query": "partido en vivo de hoy",
-          "value": 23,
-          "formattedValue": "23",
+          "query": "champeta",
+          "value": 25,
+          "formattedValue": "25",
           "hasData": true,
-          "link": "/trends/explore?q=partido+en+vivo+de+hoy&date=now+7-d&geo=CO"
+          "link": "/trends/explore?q=champeta&date=now+7-d&geo=CO"
+        }
+      },
+      {
+        "query": "películas",
+        "value": 24,
+        "formattedValue": "24",
+        "raw": {
+          "query": "películas",
+          "value": 24,
+          "formattedValue": "24",
+          "hasData": true,
+          "link": "/trends/explore?q=pel%C3%ADculas&date=now+7-d&geo=CO"
         }
       },
       {
@@ -1027,181 +1015,193 @@
         }
       },
       {
-        "query": "películas",
+        "query": "minecraft",
         "value": 22,
         "formattedValue": "22",
         "raw": {
-          "query": "películas",
+          "query": "minecraft",
           "value": 22,
           "formattedValue": "22",
           "hasData": true,
-          "link": "/trends/explore?q=pel%C3%ADculas&date=now+7-d&geo=CO"
+          "link": "/trends/explore?q=minecraft&date=now+7-d&geo=CO"
+        }
+      },
+      {
+        "query": "rcn en vivo",
+        "value": 21,
+        "formattedValue": "21",
+        "raw": {
+          "query": "rcn en vivo",
+          "value": 21,
+          "formattedValue": "21",
+          "hasData": true,
+          "link": "/trends/explore?q=rcn+en+vivo&date=now+7-d&geo=CO"
         }
       }
     ],
     "rising": [
       {
-        "query": "cabo verde argentina",
-        "value": 8450,
+        "query": "paraguay alemania",
+        "value": 8100,
         "formattedValue": "Đột phá",
         "raw": {
-          "query": "cabo verde argentina",
-          "value": 8450,
+          "query": "paraguay alemania",
+          "value": 8100,
           "formattedValue": "Đột phá",
-          "link": "/trends/explore?q=cabo+verde+argentina&date=now+7-d&geo=CO"
-        }
-      },
-      {
-        "query": "ecuador vs mexico",
-        "value": 6500,
-        "formattedValue": "Đột phá",
-        "raw": {
-          "query": "ecuador vs mexico",
-          "value": 6500,
-          "formattedValue": "Đột phá",
-          "link": "/trends/explore?q=ecuador+vs+mexico&date=now+7-d&geo=CO"
+          "link": "/trends/explore?q=paraguay+alemania&date=now+7-d&geo=CO"
         }
       },
       {
         "query": "argentina vs cabo verde",
-        "value": 6250,
+        "value": 7700,
         "formattedValue": "Đột phá",
         "raw": {
           "query": "argentina vs cabo verde",
-          "value": 6250,
+          "value": 7700,
           "formattedValue": "Đột phá",
           "link": "/trends/explore?q=argentina+vs+cabo+verde&date=now+7-d&geo=CO"
         }
       },
       {
+        "query": "mexico vs ecuador",
+        "value": 6700,
+        "formattedValue": "Đột phá",
+        "raw": {
+          "query": "mexico vs ecuador",
+          "value": 6700,
+          "formattedValue": "Đột phá",
+          "link": "/trends/explore?q=mexico+vs+ecuador&date=now+7-d&geo=CO"
+        }
+      },
+      {
         "query": "paises bajos vs marruecos",
-        "value": 5750,
+        "value": 6300,
         "formattedValue": "Đột phá",
         "raw": {
           "query": "paises bajos vs marruecos",
-          "value": 5750,
+          "value": 6300,
           "formattedValue": "Đột phá",
           "link": "/trends/explore?q=paises+bajos+vs+marruecos&date=now+7-d&geo=CO"
         }
       },
       {
-        "query": "portugal vs croacia",
-        "value": 5550,
+        "query": "colombia vs ghana",
+        "value": 6100,
         "formattedValue": "Đột phá",
         "raw": {
-          "query": "portugal vs croacia",
-          "value": 5550,
+          "query": "colombia vs ghana",
+          "value": 6100,
           "formattedValue": "Đột phá",
+          "link": "/trends/explore?q=colombia+vs+ghana&date=now+7-d&geo=CO"
+        }
+      },
+      {
+        "query": "portugal vs croacia",
+        "value": 4850,
+        "formattedValue": "+4.850%",
+        "raw": {
+          "query": "portugal vs croacia",
+          "value": 4850,
+          "formattedValue": "+4.850%",
           "link": "/trends/explore?q=portugal+vs+croacia&date=now+7-d&geo=CO"
         }
       },
       {
         "query": "alemania vs paraguay 2026",
-        "value": 3800,
-        "formattedValue": "+3.800%",
+        "value": 4100,
+        "formattedValue": "+4.100%",
         "raw": {
           "query": "alemania vs paraguay 2026",
-          "value": 3800,
-          "formattedValue": "+3.800%",
+          "value": 4100,
+          "formattedValue": "+4.100%",
           "link": "/trends/explore?q=alemania+vs+paraguay+2026&date=now+7-d&geo=CO"
         }
       },
       {
-        "query": "colombia vs ghana",
-        "value": 3150,
-        "formattedValue": "+3.150%",
-        "raw": {
-          "query": "colombia vs ghana",
-          "value": 3150,
-          "formattedValue": "+3.150%",
-          "link": "/trends/explore?q=colombia+vs+ghana&date=now+7-d&geo=CO"
-        }
-      },
-      {
         "query": "belgica vs senegal",
-        "value": 3100,
-        "formattedValue": "+3.100%",
+        "value": 3050,
+        "formattedValue": "+3.050%",
         "raw": {
           "query": "belgica vs senegal",
-          "value": 3100,
-          "formattedValue": "+3.100%",
+          "value": 3050,
+          "formattedValue": "+3.050%",
           "link": "/trends/explore?q=belgica+vs+senegal&date=now+7-d&geo=CO"
         }
       },
       {
+        "query": "francia vs paraguay",
+        "value": 2700,
+        "formattedValue": "+2.700%",
+        "raw": {
+          "query": "francia vs paraguay",
+          "value": 2700,
+          "formattedValue": "+2.700%",
+          "link": "/trends/explore?q=francia+vs+paraguay&date=now+7-d&geo=CO"
+        }
+      },
+      {
         "query": "noruega vs costa de marfil",
-        "value": 1950,
-        "formattedValue": "+1.950%",
+        "value": 2100,
+        "formattedValue": "+2.100%",
         "raw": {
           "query": "noruega vs costa de marfil",
-          "value": 1950,
-          "formattedValue": "+1.950%",
+          "value": 2100,
+          "formattedValue": "+2.100%",
           "link": "/trends/explore?q=noruega+vs+costa+de+marfil&date=now+7-d&geo=CO"
         }
       },
       {
-        "query": "brasil vs japon",
-        "value": 1850,
-        "formattedValue": "+1.850%",
-        "raw": {
-          "query": "brasil vs japon",
-          "value": 1850,
-          "formattedValue": "+1.850%",
-          "link": "/trends/explore?q=brasil+vs+japon&date=now+7-d&geo=CO"
-        }
-      },
-      {
-        "query": "australia vs egipto",
-        "value": 1800,
-        "formattedValue": "+1.800%",
-        "raw": {
-          "query": "australia vs egipto",
-          "value": 1800,
-          "formattedValue": "+1.800%",
-          "link": "/trends/explore?q=australia+vs+egipto&date=now+7-d&geo=CO"
-        }
-      },
-      {
-        "query": "colombia vs portugal",
-        "value": 1750,
-        "formattedValue": "+1.750%",
-        "raw": {
-          "query": "colombia vs portugal",
-          "value": 1750,
-          "formattedValue": "+1.750%",
-          "link": "/trends/explore?q=colombia+vs+portugal&date=now+7-d&geo=CO"
-        }
-      },
-      {
-        "query": "colombia contra ghana",
-        "value": 1450,
-        "formattedValue": "+1.450%",
-        "raw": {
-          "query": "colombia contra ghana",
-          "value": 1450,
-          "formattedValue": "+1.450%",
-          "link": "/trends/explore?q=colombia+contra+ghana&date=now+7-d&geo=CO"
-        }
-      },
-      {
         "query": "suiza vs argelia",
-        "value": 1200,
-        "formattedValue": "+1.200%",
+        "value": 1950,
+        "formattedValue": "+1.950%",
         "raw": {
           "query": "suiza vs argelia",
-          "value": 1200,
-          "formattedValue": "+1.200%",
+          "value": 1950,
+          "formattedValue": "+1.950%",
           "link": "/trends/explore?q=suiza+vs+argelia&date=now+7-d&geo=CO"
         }
       },
       {
+        "query": "colombia contra ghana",
+        "value": 1800,
+        "formattedValue": "+1.800%",
+        "raw": {
+          "query": "colombia contra ghana",
+          "value": 1800,
+          "formattedValue": "+1.800%",
+          "link": "/trends/explore?q=colombia+contra+ghana&date=now+7-d&geo=CO"
+        }
+      },
+      {
+        "query": "brasil vs japon",
+        "value": 1450,
+        "formattedValue": "+1.450%",
+        "raw": {
+          "query": "brasil vs japon",
+          "value": 1450,
+          "formattedValue": "+1.450%",
+          "link": "/trends/explore?q=brasil+vs+japon&date=now+7-d&geo=CO"
+        }
+      },
+      {
+        "query": "marruecos vs canada",
+        "value": 950,
+        "formattedValue": "+950%",
+        "raw": {
+          "query": "marruecos vs canada",
+          "value": 950,
+          "formattedValue": "+950%",
+          "link": "/trends/explore?q=marruecos+vs+canada&date=now+7-d&geo=CO"
+        }
+      },
+      {
         "query": "copa mundial de la fifa 2026",
-        "value": 160,
-        "formattedValue": "+160%",
+        "value": 250,
+        "formattedValue": "+250%",
         "raw": {
           "query": "copa mundial de la fifa 2026",
-          "value": 160,
-          "formattedValue": "+160%",
+          "value": 250,
+          "formattedValue": "+250%",
           "link": "/trends/explore?q=copa+mundial+de+la+fifa+2026&date=now+7-d&geo=CO"
         }
       },
@@ -1217,102 +1217,36 @@
         }
       },
       {
-        "query": "yo soy mundial diomedes diaz",
-        "value": 90,
-        "formattedValue": "+90%",
-        "raw": {
-          "query": "yo soy mundial diomedes diaz",
-          "value": 90,
-          "formattedValue": "+90%",
-          "link": "/trends/explore?q=yo+soy+mundial+diomedes+diaz&date=now+7-d&geo=CO"
-        }
-      },
-      {
-        "query": "prenda la radio encienda la tele",
-        "value": 90,
-        "formattedValue": "+90%",
-        "raw": {
-          "query": "prenda la radio encienda la tele",
-          "value": 90,
-          "formattedValue": "+90%",
-          "link": "/trends/explore?q=prenda+la+radio+encienda+la+tele&date=now+7-d&geo=CO"
-        }
-      },
-      {
-        "query": "rcn en vivo partido de hoy",
+        "query": "mas alla del silencio rafael poveda",
         "value": 80,
         "formattedValue": "+80%",
         "raw": {
-          "query": "rcn en vivo partido de hoy",
+          "query": "mas alla del silencio rafael poveda",
           "value": 80,
           "formattedValue": "+80%",
-          "link": "/trends/explore?q=rcn+en+vivo+partido+de+hoy&date=now+7-d&geo=CO"
+          "link": "/trends/explore?q=mas+alla+del+silencio+rafael+poveda&date=now+7-d&geo=CO"
         }
       },
       {
-        "query": "fifa world cup 2026",
-        "value": 80,
-        "formattedValue": "+80%",
+        "query": "this is colombia",
+        "value": 60,
+        "formattedValue": "+60%",
         "raw": {
-          "query": "fifa world cup 2026",
-          "value": 80,
-          "formattedValue": "+80%",
-          "link": "/trends/explore?q=fifa+world+cup+2026&date=now+7-d&geo=CO"
-        }
-      },
-      {
-        "query": "mami prende la radio encienda la tele",
-        "value": 80,
-        "formattedValue": "+80%",
-        "raw": {
-          "query": "mami prende la radio encienda la tele",
-          "value": 80,
-          "formattedValue": "+80%",
-          "link": "/trends/explore?q=mami+prende+la+radio+encienda+la+tele&date=now+7-d&geo=CO"
-        }
-      },
-      {
-        "query": "partido en vivo de hoy",
-        "value": 70,
-        "formattedValue": "+70%",
-        "raw": {
-          "query": "partido en vivo de hoy",
-          "value": 70,
-          "formattedValue": "+70%",
-          "link": "/trends/explore?q=partido+en+vivo+de+hoy&date=now+7-d&geo=CO"
+          "query": "this is colombia",
+          "value": 60,
+          "formattedValue": "+60%",
+          "link": "/trends/explore?q=this+is+colombia&date=now+7-d&geo=CO"
         }
       },
       {
         "query": "conep",
-        "value": 70,
-        "formattedValue": "+70%",
+        "value": 50,
+        "formattedValue": "+50%",
         "raw": {
           "query": "conep",
-          "value": 70,
-          "formattedValue": "+70%",
+          "value": 50,
+          "formattedValue": "+50%",
           "link": "/trends/explore?q=conep&date=now+7-d&geo=CO"
-        }
-      },
-      {
-        "query": "partido de futbol de hoy en vivo",
-        "value": 70,
-        "formattedValue": "+70%",
-        "raw": {
-          "query": "partido de futbol de hoy en vivo",
-          "value": 70,
-          "formattedValue": "+70%",
-          "link": "/trends/explore?q=partido+de+futbol+de+hoy+en+vivo&date=now+7-d&geo=CO"
-        }
-      },
-      {
-        "query": "gol caracol en vivo",
-        "value": 70,
-        "formattedValue": "+70%",
-        "raw": {
-          "query": "gol caracol en vivo",
-          "value": 70,
-          "formattedValue": "+70%",
-          "link": "/trends/explore?q=gol+caracol+en+vivo&date=now+7-d&geo=CO"
         }
       }
     ]
