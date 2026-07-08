@@ -20,82 +20,50 @@
       },
       {
         "query": "Điện ảnh",
-        "value": 82,
-        "formattedValue": "82",
+        "value": 88,
+        "formattedValue": "88",
         "raw": {
           "topic": {
             "mid": "/m/02vxn",
             "title": "Điện ảnh",
             "type": "Loại truyền hình"
           },
-          "value": 82,
-          "formattedValue": "82",
+          "value": 88,
+          "formattedValue": "88",
           "hasData": true,
           "link": "/trends/explore?q=/m/02vxn&date=now+7-d&geo=VN"
         }
       },
       {
         "query": "Karaoke",
-        "value": 71,
-        "formattedValue": "71",
+        "value": 68,
+        "formattedValue": "68",
         "raw": {
           "topic": {
             "mid": "/m/04c5p",
             "title": "Karaoke",
             "type": "Chủ đề"
           },
-          "value": 71,
-          "formattedValue": "71",
+          "value": 68,
+          "formattedValue": "68",
           "hasData": true,
           "link": "/trends/explore?q=/m/04c5p&date=now+7-d&geo=VN"
         }
       },
       {
         "query": "Remix",
-        "value": 45,
-        "formattedValue": "45",
+        "value": 43,
+        "formattedValue": "43",
         "raw": {
           "topic": {
             "mid": "/m/014k25",
             "title": "Remix",
             "type": "Chủ đề"
           },
-          "value": 45,
-          "formattedValue": "45",
+          "value": 43,
+          "formattedValue": "43",
           "hasData": true,
           "link": "/trends/explore?q=/m/014k25&date=now+7-d&geo=VN"
-        }
-      },
-      {
-        "query": "Truyền hình",
-        "value": 25,
-        "formattedValue": "25",
-        "raw": {
-          "topic": {
-            "mid": "/m/07c52",
-            "title": "Truyền hình",
-            "type": "Loại truyền hình"
-          },
-          "value": 25,
-          "formattedValue": "25",
-          "hasData": true,
-          "link": "/trends/explore?q=/m/07c52&date=now+7-d&geo=VN"
-        }
-      },
-      {
-        "query": "Số",
-        "value": 24,
-        "formattedValue": "24",
-        "raw": {
-          "topic": {
-            "mid": "/m/05fwb",
-            "title": "Số",
-            "type": "Chủ đề"
-          },
-          "value": 24,
-          "formattedValue": "24",
-          "hasData": true,
-          "link": "/trends/explore?q=/m/05fwb&date=now+7-d&geo=VN"
         }
       },
       {
@@ -115,83 +83,99 @@
         }
       },
       {
+        "query": "Truyền hình",
+        "value": 24,
+        "formattedValue": "24",
+        "raw": {
+          "topic": {
+            "mid": "/m/07c52",
+            "title": "Truyền hình",
+            "type": "Loại truyền hình"
+          },
+          "value": 24,
+          "formattedValue": "24",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/07c52&date=now+7-d&geo=VN"
+        }
+      },
+      {
+        "query": "Số",
+        "value": 23,
+        "formattedValue": "23",
+        "raw": {
+          "topic": {
+            "mid": "/m/05fwb",
+            "title": "Số",
+            "type": "Chủ đề"
+          },
+          "value": 23,
+          "formattedValue": "23",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/05fwb&date=now+7-d&geo=VN"
+        }
+      },
+      {
         "query": "2026",
-        "value": 20,
-        "formattedValue": "20",
+        "value": 22,
+        "formattedValue": "22",
         "raw": {
           "topic": {
             "mid": "/g/11b77d6b6g",
             "title": "2026",
             "type": "Chủ đề"
           },
-          "value": 20,
-          "formattedValue": "20",
+          "value": 22,
+          "formattedValue": "22",
           "hasData": true,
           "link": "/trends/explore?q=/g/11b77d6b6g&date=now+7-d&geo=VN"
         }
       },
       {
         "query": "Xổ số",
-        "value": 20,
-        "formattedValue": "20",
+        "value": 22,
+        "formattedValue": "22",
         "raw": {
           "topic": {
             "mid": "/m/01h8pw",
             "title": "Xổ số",
             "type": "Chủ đề"
           },
-          "value": 20,
-          "formattedValue": "20",
+          "value": 22,
+          "formattedValue": "22",
           "hasData": true,
           "link": "/trends/explore?q=/m/01h8pw&date=now+7-d&geo=VN"
         }
       },
       {
-        "query": "Bài hát",
+        "query": "Bóng đá",
         "value": 20,
         "formattedValue": "20",
-        "raw": {
-          "topic": {
-            "mid": "/m/074ft",
-            "title": "Bài hát",
-            "type": "Loại sáng tác"
-          },
-          "value": 20,
-          "formattedValue": "20",
-          "hasData": true,
-          "link": "/trends/explore?q=/m/074ft&date=now+7-d&geo=VN"
-        }
-      },
-      {
-        "query": "Bóng đá",
-        "value": 19,
-        "formattedValue": "19",
         "raw": {
           "topic": {
             "mid": "/m/02vx4",
             "title": "Bóng đá",
             "type": "Thể thao"
           },
-          "value": 19,
-          "formattedValue": "19",
+          "value": 20,
+          "formattedValue": "20",
           "hasData": true,
           "link": "/trends/explore?q=/m/02vx4&date=now+7-d&geo=VN"
         }
       },
       {
-        "query": "Doraemon",
-        "value": 18,
-        "formattedValue": "18",
+        "query": "Bài hát",
+        "value": 19,
+        "formattedValue": "19",
         "raw": {
           "topic": {
-            "mid": "/m/0h57ksr",
-            "title": "Doraemon",
-            "type": "Nhân vật"
+            "mid": "/m/074ft",
+            "title": "Bài hát",
+            "type": "Loại sáng tác"
           },
-          "value": 18,
-          "formattedValue": "18",
+          "value": 19,
+          "formattedValue": "19",
           "hasData": true,
-          "link": "/trends/explore?q=/m/0h57ksr&date=now+7-d&geo=VN"
+          "link": "/trends/explore?q=/m/074ft&date=now+7-d&geo=VN"
         }
       },
       {
@@ -211,17 +195,33 @@
         }
       },
       {
+        "query": "Doraemon",
+        "value": 18,
+        "formattedValue": "18",
+        "raw": {
+          "topic": {
+            "mid": "/m/0h57ksr",
+            "title": "Doraemon",
+            "type": "Nhân vật"
+          },
+          "value": 18,
+          "formattedValue": "18",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/0h57ksr&date=now+7-d&geo=VN"
+        }
+      },
+      {
         "query": "Hát",
-        "value": 17,
-        "formattedValue": "17",
+        "value": 16,
+        "formattedValue": "16",
         "raw": {
           "topic": {
             "mid": "/m/015lz1",
             "title": "Hát",
             "type": "Lĩnh vực nghề nghiệp"
           },
-          "value": 17,
-          "formattedValue": "17",
+          "value": 16,
+          "formattedValue": "16",
           "hasData": true,
           "link": "/trends/explore?q=/m/015lz1&date=now+7-d&geo=VN"
         }
@@ -243,65 +243,17 @@
         }
       },
       {
-        "query": "Trống",
+        "query": "Giải Bóng đá Vô địch Thế giới",
         "value": 15,
         "formattedValue": "15",
-        "raw": {
-          "topic": {
-            "mid": "/m/026t6",
-            "title": "Trống",
-            "type": "Nhạc cụ"
-          },
-          "value": 15,
-          "formattedValue": "15",
-          "hasData": true,
-          "link": "/trends/explore?q=/m/026t6&date=now+7-d&geo=VN"
-        }
-      },
-      {
-        "query": "Tiếng Việt",
-        "value": 14,
-        "formattedValue": "14",
-        "raw": {
-          "topic": {
-            "mid": "/m/07zrf",
-            "title": "Tiếng Việt",
-            "type": "Ngôn ngữ"
-          },
-          "value": 14,
-          "formattedValue": "14",
-          "hasData": true,
-          "link": "/trends/explore?q=/m/07zrf&date=now+7-d&geo=VN"
-        }
-      },
-      {
-        "query": "Ngày",
-        "value": 14,
-        "formattedValue": "14",
-        "raw": {
-          "topic": {
-            "mid": "/m/02bbq",
-            "title": "Ngày",
-            "type": "Thời gian"
-          },
-          "value": 14,
-          "formattedValue": "14",
-          "hasData": true,
-          "link": "/trends/explore?q=/m/02bbq&date=now+7-d&geo=VN"
-        }
-      },
-      {
-        "query": "Giải Bóng đá Vô địch Thế giới",
-        "value": 14,
-        "formattedValue": "14",
         "raw": {
           "topic": {
             "mid": "/m/030q7",
             "title": "Giải Bóng đá Vô địch Thế giới",
             "type": "Giải bóng đá"
           },
-          "value": 14,
-          "formattedValue": "14",
+          "value": 15,
+          "formattedValue": "15",
           "hasData": true,
           "link": "/trends/explore?q=/m/030q7&date=now+7-d&geo=VN"
         }
@@ -323,6 +275,54 @@
         }
       },
       {
+        "query": "Trống",
+        "value": 14,
+        "formattedValue": "14",
+        "raw": {
+          "topic": {
+            "mid": "/m/026t6",
+            "title": "Trống",
+            "type": "Nhạc cụ"
+          },
+          "value": 14,
+          "formattedValue": "14",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/026t6&date=now+7-d&geo=VN"
+        }
+      },
+      {
+        "query": "Tiếng Việt",
+        "value": 13,
+        "formattedValue": "13",
+        "raw": {
+          "topic": {
+            "mid": "/m/07zrf",
+            "title": "Tiếng Việt",
+            "type": "Ngôn ngữ"
+          },
+          "value": 13,
+          "formattedValue": "13",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/07zrf&date=now+7-d&geo=VN"
+        }
+      },
+      {
+        "query": "Ngày",
+        "value": 13,
+        "formattedValue": "13",
+        "raw": {
+          "topic": {
+            "mid": "/m/02bbq",
+            "title": "Ngày",
+            "type": "Thời gian"
+          },
+          "value": 13,
+          "formattedValue": "13",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/02bbq&date=now+7-d&geo=VN"
+        }
+      },
+      {
         "query": "TikTok",
         "value": 13,
         "formattedValue": "13",
@@ -336,22 +336,6 @@
           "formattedValue": "13",
           "hasData": true,
           "link": "/trends/explore?q=/g/11f555cn8l&date=now+7-d&geo=VN"
-        }
-      },
-      {
-        "query": "Người",
-        "value": 12,
-        "formattedValue": "12",
-        "raw": {
-          "topic": {
-            "mid": "/m/0dgw9r",
-            "title": "Người",
-            "type": "Bộ Linh trưởng"
-          },
-          "value": 12,
-          "formattedValue": "12",
-          "hasData": true,
-          "link": "/trends/explore?q=/m/0dgw9r&date=now+7-d&geo=VN"
         }
       },
       {
@@ -371,6 +355,22 @@
         }
       },
       {
+        "query": "Roblox",
+        "value": 12,
+        "formattedValue": "12",
+        "raw": {
+          "topic": {
+            "mid": "/m/026bs1g",
+            "title": "Roblox",
+            "type": "Nền tảng điện toán"
+          },
+          "value": 12,
+          "formattedValue": "12",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/026bs1g&date=now+7-d&geo=VN"
+        }
+      },
+      {
         "query": "Kinh dị",
         "value": 12,
         "formattedValue": "12",
@@ -387,26 +387,26 @@
         }
       },
       {
-        "query": "Roblox",
+        "query": "Người",
         "value": 12,
         "formattedValue": "12",
         "raw": {
           "topic": {
-            "mid": "/m/026bs1g",
-            "title": "Roblox",
-            "type": "Nền tảng điện toán"
+            "mid": "/m/0dgw9r",
+            "title": "Người",
+            "type": "Bộ Linh trưởng"
           },
           "value": 12,
           "formattedValue": "12",
           "hasData": true,
-          "link": "/trends/explore?q=/m/026bs1g&date=now+7-d&geo=VN"
+          "link": "/trends/explore?q=/m/0dgw9r&date=now+7-d&geo=VN"
         }
       }
     ],
     "rising": [
       {
         "query": "Tinh hà \"say hi\"",
-        "value": 10550,
+        "value": 11200,
         "formattedValue": "Đột phá",
         "raw": {
           "topic": {
@@ -414,99 +414,144 @@
             "title": "Tinh hà \"say hi\"",
             "type": "Mùa 1"
           },
-          "value": 10550,
+          "value": 11200,
           "formattedValue": "Đột phá",
           "link": "/trends/explore?q=/g/11zbkvrt2_&date=now+7-d&geo=VN"
         }
       },
       {
         "query": "Tìm Em",
-        "value": 3850,
-        "formattedValue": "+3.850%",
+        "value": 4850,
+        "formattedValue": "+4.850%",
         "raw": {
           "topic": {
             "mid": "/g/11z949mgt2",
             "title": "Tìm Em",
             "type": "Chủ đề"
           },
-          "value": 3850,
-          "formattedValue": "+3.850%",
+          "value": 4850,
+          "formattedValue": "+4.850%",
           "link": "/trends/explore?q=/g/11z949mgt2&date=now+7-d&geo=VN"
         }
       },
       {
+        "query": "Đội tuyển bóng đá quốc gia Ai Cập",
+        "value": 3200,
+        "formattedValue": "+3.200%",
+        "raw": {
+          "topic": {
+            "mid": "/m/03_3z4",
+            "title": "Đội tuyển bóng đá quốc gia Ai Cập",
+            "type": "Đội bóng đá"
+          },
+          "value": 3200,
+          "formattedValue": "+3.200%",
+          "link": "/trends/explore?q=/m/03_3z4&date=now+7-d&geo=VN"
+        }
+      },
+      {
         "query": "Anh trai vượt ngàn chông gai",
-        "value": 1600,
-        "formattedValue": "+1.600%",
+        "value": 1500,
+        "formattedValue": "+1.500%",
         "raw": {
           "topic": {
             "mid": "/g/11w1v6n8_q",
             "title": "Anh trai vượt ngàn chông gai",
             "type": "Mùa 1"
           },
-          "value": 1600,
-          "formattedValue": "+1.600%",
+          "value": 1500,
+          "formattedValue": "+1.500%",
           "link": "/trends/explore?q=/g/11w1v6n8_q&date=now+7-d&geo=VN"
         }
       },
       {
+        "query": "Xổ Số Hôm Nay",
+        "value": 1300,
+        "formattedValue": "+1.300%",
+        "raw": {
+          "topic": {
+            "mid": "/g/11vlb7pnln",
+            "title": "Xổ Số Hôm Nay",
+            "type": "Phần mềm"
+          },
+          "value": 1300,
+          "formattedValue": "+1.300%",
+          "link": "/trends/explore?q=/g/11vlb7pnln&date=now+7-d&geo=VN"
+        }
+      },
+      {
         "query": "Tháng 7",
-        "value": 1600,
-        "formattedValue": "+1.600%",
+        "value": 1100,
+        "formattedValue": "+1.100%",
         "raw": {
           "topic": {
             "mid": "/m/040fv",
             "title": "Tháng 7",
             "type": "Tháng"
           },
-          "value": 1600,
-          "formattedValue": "+1.600%",
+          "value": 1100,
+          "formattedValue": "+1.100%",
           "link": "/trends/explore?q=/m/040fv&date=now+7-d&geo=VN"
         }
       },
       {
-        "query": "Croatia",
+        "query": "Đội tuyển Bóng đá Quốc gia Croatia",
         "value": 1000,
         "formattedValue": "+1.000%",
-        "raw": {
-          "topic": {
-            "mid": "/m/01pj7",
-            "title": "Croatia",
-            "type": "Quốc gia ở Balkan"
-          },
-          "value": 1000,
-          "formattedValue": "+1.000%",
-          "link": "/trends/explore?q=/m/01pj7&date=now+7-d&geo=VN"
-        }
-      },
-      {
-        "query": "Đội tuyển Bóng đá Quốc gia Croatia",
-        "value": 800,
-        "formattedValue": "+800%",
         "raw": {
           "topic": {
             "mid": "/m/0356gk",
             "title": "Đội tuyển Bóng đá Quốc gia Croatia",
             "type": "Đội bóng đá"
           },
-          "value": 800,
-          "formattedValue": "+800%",
+          "value": 1000,
+          "formattedValue": "+1.000%",
           "link": "/trends/explore?q=/m/0356gk&date=now+7-d&geo=VN"
         }
       },
       {
-        "query": "Đội tuyển Bóng đá Quốc gia Mexico",
-        "value": 500,
-        "formattedValue": "+500%",
+        "query": "Croatia",
+        "value": 950,
+        "formattedValue": "+950%",
         "raw": {
           "topic": {
-            "mid": "/m/03dj48",
-            "title": "Đội tuyển Bóng đá Quốc gia Mexico",
+            "mid": "/m/01pj7",
+            "title": "Croatia",
+            "type": "Quốc gia ở Balkan"
+          },
+          "value": 950,
+          "formattedValue": "+950%",
+          "link": "/trends/explore?q=/m/01pj7&date=now+7-d&geo=VN"
+        }
+      },
+      {
+        "query": "Đội tuyển bóng đá quốc gia Cabo Verde",
+        "value": 850,
+        "formattedValue": "+850%",
+        "raw": {
+          "topic": {
+            "mid": "/m/04h5tx",
+            "title": "Đội tuyển bóng đá quốc gia Cabo Verde",
             "type": "Đội bóng đá"
           },
-          "value": 500,
-          "formattedValue": "+500%",
-          "link": "/trends/explore?q=/m/03dj48&date=now+7-d&geo=VN"
+          "value": 850,
+          "formattedValue": "+850%",
+          "link": "/trends/explore?q=/m/04h5tx&date=now+7-d&geo=VN"
+        }
+      },
+      {
+        "query": "Tây Ban Nha",
+        "value": 650,
+        "formattedValue": "+650%",
+        "raw": {
+          "topic": {
+            "mid": "/m/06mkj",
+            "title": "Tây Ban Nha",
+            "type": "Quốc gia"
+          },
+          "value": 650,
+          "formattedValue": "+650%",
+          "link": "/trends/explore?q=/m/06mkj&date=now+7-d&geo=VN"
         }
       },
       {
@@ -525,153 +570,93 @@
         }
       },
       {
-        "query": "Tây Ban Nha",
-        "value": 450,
-        "formattedValue": "+450%",
+        "query": "Ai Cập",
+        "value": 400,
+        "formattedValue": "+400%",
         "raw": {
           "topic": {
-            "mid": "/m/06mkj",
-            "title": "Tây Ban Nha",
+            "mid": "/m/02k54",
+            "title": "Ai Cập",
             "type": "Quốc gia"
           },
-          "value": 450,
-          "formattedValue": "+450%",
-          "link": "/trends/explore?q=/m/06mkj&date=now+7-d&geo=VN"
-        }
-      },
-      {
-        "query": "Mexico",
-        "value": 300,
-        "formattedValue": "+300%",
-        "raw": {
-          "topic": {
-            "mid": "/m/0b90_r",
-            "title": "Mexico",
-            "type": "Quốc gia ở Bắc Mỹ"
-          },
-          "value": 300,
-          "formattedValue": "+300%",
-          "link": "/trends/explore?q=/m/0b90_r&date=now+7-d&geo=VN"
+          "value": 400,
+          "formattedValue": "+400%",
+          "link": "/trends/explore?q=/m/02k54&date=now+7-d&geo=VN"
         }
       },
       {
         "query": "Đội tuyển Bóng đá Quốc gia Tây Ban Nha",
-        "value": 180,
-        "formattedValue": "+180%",
+        "value": 350,
+        "formattedValue": "+350%",
         "raw": {
           "topic": {
             "mid": "/m/02w64f",
             "title": "Đội tuyển Bóng đá Quốc gia Tây Ban Nha",
             "type": "Đội bóng đá"
           },
-          "value": 180,
-          "formattedValue": "+180%",
+          "value": 350,
+          "formattedValue": "+350%",
           "link": "/trends/explore?q=/m/02w64f&date=now+7-d&geo=VN"
         }
       },
       {
-        "query": "Anh trai vượt ngàn chông gai",
-        "value": 120,
-        "formattedValue": "+120%",
-        "raw": {
-          "topic": {
-            "mid": "/g/11w42b6mmm",
-            "title": "Anh trai vượt ngàn chông gai",
-            "type": "Chương trình truyền hình"
-          },
-          "value": 120,
-          "formattedValue": "+120%",
-          "link": "/trends/explore?q=/g/11w42b6mmm&date=now+7-d&geo=VN"
-        }
-      },
-      {
-        "query": "Bóng",
-        "value": 110,
-        "formattedValue": "+110%",
-        "raw": {
-          "topic": {
-            "mid": "/m/018xm",
-            "title": "Bóng",
-            "type": "Thiết bị thể thao"
-          },
-          "value": 110,
-          "formattedValue": "+110%",
-          "link": "/trends/explore?q=/m/018xm&date=now+7-d&geo=VN"
-        }
-      },
-      {
-        "query": "Dự báo thời tiết",
-        "value": 60,
-        "formattedValue": "+60%",
-        "raw": {
-          "topic": {
-            "mid": "/m/0jp7j",
-            "title": "Dự báo thời tiết",
-            "type": "Định dạng âm thanh"
-          },
-          "value": 60,
-          "formattedValue": "+60%",
-          "link": "/trends/explore?q=/m/0jp7j&date=now+7-d&geo=VN"
-        }
-      },
-      {
-        "query": "Bệnh viện",
-        "value": 50,
-        "formattedValue": "+50%",
-        "raw": {
-          "topic": {
-            "mid": "/m/0hpnr",
-            "title": "Bệnh viện",
-            "type": "Chức năng của tòa nhà"
-          },
-          "value": 50,
-          "formattedValue": "+50%",
-          "link": "/trends/explore?q=/m/0hpnr&date=now+7-d&geo=VN"
-        }
-      },
-      {
         "query": "Đội tuyển Bóng đá Quốc gia Argentina",
-        "value": 50,
-        "formattedValue": "+50%",
+        "value": 300,
+        "formattedValue": "+300%",
         "raw": {
           "topic": {
             "mid": "/m/02bh_v",
             "title": "Đội tuyển Bóng đá Quốc gia Argentina",
             "type": "Đội bóng đá"
           },
-          "value": 50,
-          "formattedValue": "+50%",
+          "value": 300,
+          "formattedValue": "+300%",
           "link": "/trends/explore?q=/m/02bh_v&date=now+7-d&geo=VN"
         }
       },
       {
-        "query": "Bolero Việt Nam",
-        "value": 50,
-        "formattedValue": "+50%",
+        "query": "Bóng",
+        "value": 130,
+        "formattedValue": "+130%",
         "raw": {
           "topic": {
-            "mid": "/g/1203n8p6d",
-            "title": "Bolero Việt Nam",
-            "type": "Chủ đề"
+            "mid": "/m/018xm",
+            "title": "Bóng",
+            "type": "Thiết bị thể thao"
           },
-          "value": 50,
-          "formattedValue": "+50%",
-          "link": "/trends/explore?q=/g/1203n8p6d&date=now+7-d&geo=VN"
+          "value": 130,
+          "formattedValue": "+130%",
+          "link": "/trends/explore?q=/m/018xm&date=now+7-d&geo=VN"
         }
       },
       {
-        "query": "Cha",
-        "value": 40,
-        "formattedValue": "+40%",
+        "query": "Đội tuyển Bóng đá Quốc gia Bồ Đào Nha",
+        "value": 110,
+        "formattedValue": "+110%",
         "raw": {
           "topic": {
-            "mid": "/m/0lbxg",
-            "title": "Cha",
-            "type": "Chủ đề"
+            "mid": "/m/02rqxc",
+            "title": "Đội tuyển Bóng đá Quốc gia Bồ Đào Nha",
+            "type": "Đội bóng đá"
           },
-          "value": 40,
-          "formattedValue": "+40%",
-          "link": "/trends/explore?q=/m/0lbxg&date=now+7-d&geo=VN"
+          "value": 110,
+          "formattedValue": "+110%",
+          "link": "/trends/explore?q=/m/02rqxc&date=now+7-d&geo=VN"
+        }
+      },
+      {
+        "query": "Anh trai vượt ngàn chông gai",
+        "value": 80,
+        "formattedValue": "+80%",
+        "raw": {
+          "topic": {
+            "mid": "/g/11w42b6mmm",
+            "title": "Anh trai vượt ngàn chông gai",
+            "type": "Chương trình truyền hình"
+          },
+          "value": 80,
+          "formattedValue": "+80%",
+          "link": "/trends/explore?q=/g/11w42b6mmm&date=now+7-d&geo=VN"
         }
       }
     ]
@@ -692,60 +677,60 @@
       },
       {
         "query": "phim",
-        "value": 94,
-        "formattedValue": "94",
+        "value": 95,
+        "formattedValue": "95",
         "raw": {
           "query": "phim",
-          "value": 94,
-          "formattedValue": "94",
+          "value": 95,
+          "formattedValue": "95",
           "hasData": true,
           "link": "/trends/explore?q=phim&date=now+7-d&geo=VN"
         }
       },
       {
         "query": "karaoke",
-        "value": 88,
-        "formattedValue": "88",
+        "value": 86,
+        "formattedValue": "86",
         "raw": {
           "query": "karaoke",
-          "value": 88,
-          "formattedValue": "88",
+          "value": 86,
+          "formattedValue": "86",
           "hasData": true,
           "link": "/trends/explore?q=karaoke&date=now+7-d&geo=VN"
         }
       },
       {
         "query": "em",
-        "value": 86,
-        "formattedValue": "86",
+        "value": 84,
+        "formattedValue": "84",
         "raw": {
           "query": "em",
-          "value": 86,
-          "formattedValue": "86",
+          "value": 84,
+          "formattedValue": "84",
           "hasData": true,
           "link": "/trends/explore?q=em&date=now+7-d&geo=VN"
         }
       },
       {
         "query": "remix",
-        "value": 55,
-        "formattedValue": "55",
+        "value": 53,
+        "formattedValue": "53",
         "raw": {
           "query": "remix",
-          "value": 55,
-          "formattedValue": "55",
+          "value": 53,
+          "formattedValue": "53",
           "hasData": true,
           "link": "/trends/explore?q=remix&date=now+7-d&geo=VN"
         }
       },
       {
         "query": "ma",
-        "value": 38,
-        "formattedValue": "38",
+        "value": 36,
+        "formattedValue": "36",
         "raw": {
           "query": "ma",
-          "value": 38,
-          "formattedValue": "38",
+          "value": 36,
+          "formattedValue": "36",
           "hasData": true,
           "link": "/trends/explore?q=ma&date=now+7-d&geo=VN"
         }
@@ -764,48 +749,48 @@
       },
       {
         "query": "audio",
-        "value": 25,
-        "formattedValue": "25",
+        "value": 23,
+        "formattedValue": "23",
         "raw": {
           "query": "audio",
-          "value": 25,
-          "formattedValue": "25",
+          "value": 23,
+          "formattedValue": "23",
           "hasData": true,
           "link": "/trends/explore?q=audio&date=now+7-d&geo=VN"
         }
       },
       {
         "query": "doraemon",
-        "value": 23,
-        "formattedValue": "23",
+        "value": 21,
+        "formattedValue": "21",
         "raw": {
           "query": "doraemon",
-          "value": 23,
-          "formattedValue": "23",
+          "value": 21,
+          "formattedValue": "21",
           "hasData": true,
           "link": "/trends/explore?q=doraemon&date=now+7-d&geo=VN"
         }
       },
       {
         "query": "nhac",
-        "value": 19,
-        "formattedValue": "19",
+        "value": 20,
+        "formattedValue": "20",
         "raw": {
           "query": "nhac",
-          "value": 19,
-          "formattedValue": "19",
+          "value": 20,
+          "formattedValue": "20",
           "hasData": true,
           "link": "/trends/explore?q=nhac&date=now+7-d&geo=VN"
         }
       },
       {
         "query": "nhạc remix",
-        "value": 18,
-        "formattedValue": "18",
+        "value": 19,
+        "formattedValue": "19",
         "raw": {
           "query": "nhạc remix",
-          "value": 18,
-          "formattedValue": "18",
+          "value": 19,
+          "formattedValue": "19",
           "hasData": true,
           "link": "/trends/explore?q=nh%E1%BA%A1c+remix&date=now+7-d&geo=VN"
         }
@@ -823,27 +808,15 @@
         }
       },
       {
-        "query": "bóng đá",
-        "value": 17,
-        "formattedValue": "17",
-        "raw": {
-          "query": "bóng đá",
-          "value": 17,
-          "formattedValue": "17",
-          "hasData": true,
-          "link": "/trends/explore?q=b%C3%B3ng+%C4%91%C3%A1&date=now+7-d&geo=VN"
-        }
-      },
-      {
-        "query": "roblox",
+        "query": "đá bóng",
         "value": 15,
         "formattedValue": "15",
         "raw": {
-          "query": "roblox",
+          "query": "đá bóng",
           "value": 15,
           "formattedValue": "15",
           "hasData": true,
-          "link": "/trends/explore?q=roblox&date=now+7-d&geo=VN"
+          "link": "/trends/explore?q=%C4%91%C3%A1+b%C3%B3ng&date=now+7-d&geo=VN"
         }
       },
       {
@@ -856,6 +829,18 @@
           "formattedValue": "14",
           "hasData": true,
           "link": "/trends/explore?q=tiktok&date=now+7-d&geo=VN"
+        }
+      },
+      {
+        "query": "roblox",
+        "value": 14,
+        "formattedValue": "14",
+        "raw": {
+          "query": "roblox",
+          "value": 14,
+          "formattedValue": "14",
+          "hasData": true,
+          "link": "/trends/explore?q=roblox&date=now+7-d&geo=VN"
         }
       },
       {
@@ -872,12 +857,12 @@
       },
       {
         "query": "anime",
-        "value": 12,
-        "formattedValue": "12",
+        "value": 11,
+        "formattedValue": "11",
         "raw": {
           "query": "anime",
-          "value": 12,
-          "formattedValue": "12",
+          "value": 11,
+          "formattedValue": "11",
           "hasData": true,
           "link": "/trends/explore?q=anime&date=now+7-d&geo=VN"
         }
@@ -892,18 +877,6 @@
           "formattedValue": "11",
           "hasData": true,
           "link": "/trends/explore?q=world+cup+2026&date=now+7-d&geo=VN"
-        }
-      },
-      {
-        "query": "bài hát",
-        "value": 10,
-        "formattedValue": "10",
-        "raw": {
-          "query": "bài hát",
-          "value": 10,
-          "formattedValue": "10",
-          "hasData": true,
-          "link": "/trends/explore?q=b%C3%A0i+h%C3%A1t&date=now+7-d&geo=VN"
         }
       },
       {
@@ -931,6 +904,18 @@
         }
       },
       {
+        "query": "bài hát",
+        "value": 10,
+        "formattedValue": "10",
+        "raw": {
+          "query": "bài hát",
+          "value": 10,
+          "formattedValue": "10",
+          "hasData": true,
+          "link": "/trends/explore?q=b%C3%A0i+h%C3%A1t&date=now+7-d&geo=VN"
+        }
+      },
+      {
         "query": "thiếu nhi",
         "value": 10,
         "formattedValue": "10",
@@ -943,6 +928,18 @@
         }
       },
       {
+        "query": "minecraft",
+        "value": 10,
+        "formattedValue": "10",
+        "raw": {
+          "query": "minecraft",
+          "value": 10,
+          "formattedValue": "10",
+          "hasData": true,
+          "link": "/trends/explore?q=minecraft&date=now+7-d&geo=VN"
+        }
+      },
+      {
         "query": "conan",
         "value": 9,
         "formattedValue": "9",
@@ -952,18 +949,6 @@
           "formattedValue": "9",
           "hasData": true,
           "link": "/trends/explore?q=conan&date=now+7-d&geo=VN"
-        }
-      },
-      {
-        "query": "minecraft",
-        "value": 9,
-        "formattedValue": "9",
-        "raw": {
-          "query": "minecraft",
-          "value": 9,
-          "formattedValue": "9",
-          "hasData": true,
-          "link": "/trends/explore?q=minecraft&date=now+7-d&geo=VN"
         }
       },
       {
@@ -982,144 +967,144 @@
     "rising": [
       {
         "query": "brazil vs na uy",
-        "value": 5600,
+        "value": 5300,
         "formattedValue": "Đột phá",
         "raw": {
           "query": "brazil vs na uy",
-          "value": 5600,
+          "value": 5300,
           "formattedValue": "Đột phá",
           "link": "/trends/explore?q=brazil+vs+na+uy&date=now+7-d&geo=VN"
         }
       },
       {
         "query": "argentina vs cape verde",
-        "value": 4600,
-        "formattedValue": "+4.600%",
+        "value": 4400,
+        "formattedValue": "+4.400%",
         "raw": {
           "query": "argentina vs cape verde",
-          "value": 4600,
-          "formattedValue": "+4.600%",
+          "value": 4400,
+          "formattedValue": "+4.400%",
           "link": "/trends/explore?q=argentina+vs+cape+verde&date=now+7-d&geo=VN"
         }
       },
       {
-        "query": "phía bên kia thành phố tập 25",
-        "value": 2800,
-        "formattedValue": "+2.800%",
+        "query": "argentina đấu với ai cập",
+        "value": 3550,
+        "formattedValue": "+3.550%",
         "raw": {
-          "query": "phía bên kia thành phố tập 25",
-          "value": 2800,
-          "formattedValue": "+2.800%",
-          "link": "/trends/explore?q=ph%C3%ADa+b%C3%AAn+kia+th%C3%A0nh+ph%E1%BB%91+t%E1%BA%ADp+25&date=now+7-d&geo=VN"
-        }
-      },
-      {
-        "query": "bồ đào nha đấu với croatia",
-        "value": 2800,
-        "formattedValue": "+2.800%",
-        "raw": {
-          "query": "bồ đào nha đấu với croatia",
-          "value": 2800,
-          "formattedValue": "+2.800%",
-          "link": "/trends/explore?q=b%E1%BB%93+%C4%91%C3%A0o+nha+%C4%91%E1%BA%A5u+v%E1%BB%9Bi+croatia&date=now+7-d&geo=VN"
+          "query": "argentina đấu với ai cập",
+          "value": 3550,
+          "formattedValue": "+3.550%",
+          "link": "/trends/explore?q=argentina+%C4%91%E1%BA%A5u+v%E1%BB%9Bi+ai+c%E1%BA%ADp&date=now+7-d&geo=VN"
         }
       },
       {
         "query": "tinh ha say hi",
-        "value": 2400,
-        "formattedValue": "+2.400%",
+        "value": 3300,
+        "formattedValue": "+3.300%",
         "raw": {
           "query": "tinh ha say hi",
-          "value": 2400,
-          "formattedValue": "+2.400%",
+          "value": 3300,
+          "formattedValue": "+3.300%",
           "link": "/trends/explore?q=tinh+ha+say+hi&date=now+7-d&geo=VN"
         }
       },
       {
-        "query": "anh vs mexico",
-        "value": 2200,
-        "formattedValue": "+2.200%",
-        "raw": {
-          "query": "anh vs mexico",
-          "value": 2200,
-          "formattedValue": "+2.200%",
-          "link": "/trends/explore?q=anh+vs+mexico&date=now+7-d&geo=VN"
-        }
-      },
-      {
         "query": "bồ đào nha đấu với tây ban nha",
-        "value": 1850,
-        "formattedValue": "+1.850%",
+        "value": 2450,
+        "formattedValue": "+2.450%",
         "raw": {
           "query": "bồ đào nha đấu với tây ban nha",
-          "value": 1850,
-          "formattedValue": "+1.850%",
+          "value": 2450,
+          "formattedValue": "+2.450%",
           "link": "/trends/explore?q=b%E1%BB%93+%C4%91%C3%A0o+nha+%C4%91%E1%BA%A5u+v%E1%BB%9Bi+t%C3%A2y+ban+nha&date=now+7-d&geo=VN"
         }
       },
       {
-        "query": "phía bên kia thành phố tập 24",
-        "value": 1750,
-        "formattedValue": "+1.750%",
+        "query": "argentina vs ai cập",
+        "value": 2400,
+        "formattedValue": "+2.400%",
         "raw": {
-          "query": "phía bên kia thành phố tập 24",
-          "value": 1750,
-          "formattedValue": "+1.750%",
-          "link": "/trends/explore?q=ph%C3%ADa+b%C3%AAn+kia+th%C3%A0nh+ph%E1%BB%91+t%E1%BA%ADp+24&date=now+7-d&geo=VN"
+          "query": "argentina vs ai cập",
+          "value": 2400,
+          "formattedValue": "+2.400%",
+          "link": "/trends/explore?q=argentina+vs+ai+c%E1%BA%ADp&date=now+7-d&geo=VN"
         }
       },
       {
-        "query": "mexico đấu với anh",
-        "value": 900,
-        "formattedValue": "+900%",
+        "query": "bồ đào nha đấu với croatia",
+        "value": 2200,
+        "formattedValue": "+2.200%",
         "raw": {
-          "query": "mexico đấu với anh",
-          "value": 900,
-          "formattedValue": "+900%",
-          "link": "/trends/explore?q=mexico+%C4%91%E1%BA%A5u+v%E1%BB%9Bi+anh&date=now+7-d&geo=VN"
+          "query": "bồ đào nha đấu với croatia",
+          "value": 2200,
+          "formattedValue": "+2.200%",
+          "link": "/trends/explore?q=b%E1%BB%93+%C4%91%C3%A0o+nha+%C4%91%E1%BA%A5u+v%E1%BB%9Bi+croatia&date=now+7-d&geo=VN"
+        }
+      },
+      {
+        "query": "phía bên kia thành phố tập 25",
+        "value": 1850,
+        "formattedValue": "+1.850%",
+        "raw": {
+          "query": "phía bên kia thành phố tập 25",
+          "value": 1850,
+          "formattedValue": "+1.850%",
+          "link": "/trends/explore?q=ph%C3%ADa+b%C3%AAn+kia+th%C3%A0nh+ph%E1%BB%91+t%E1%BA%ADp+25&date=now+7-d&geo=VN"
         }
       },
       {
         "query": "tinh hà say hi tập 1",
-        "value": 550,
-        "formattedValue": "+550%",
+        "value": 700,
+        "formattedValue": "+700%",
         "raw": {
           "query": "tinh hà say hi tập 1",
-          "value": 550,
-          "formattedValue": "+550%",
+          "value": 700,
+          "formattedValue": "+700%",
           "link": "/trends/explore?q=tinh+h%C3%A0+say+hi+t%E1%BA%ADp+1&date=now+7-d&geo=VN"
         }
       },
       {
         "query": "tinh hà say hi",
-        "value": 500,
-        "formattedValue": "+500%",
+        "value": 550,
+        "formattedValue": "+550%",
         "raw": {
           "query": "tinh hà say hi",
-          "value": 500,
-          "formattedValue": "+500%",
+          "value": 550,
+          "formattedValue": "+550%",
           "link": "/trends/explore?q=tinh+h%C3%A0+say+hi&date=now+7-d&geo=VN"
         }
       },
       {
         "query": "roblox vng",
-        "value": 400,
-        "formattedValue": "+400%",
+        "value": 300,
+        "formattedValue": "+300%",
         "raw": {
           "query": "roblox vng",
-          "value": 400,
-          "formattedValue": "+400%",
+          "value": 300,
+          "formattedValue": "+300%",
           "link": "/trends/explore?q=roblox+vng&date=now+7-d&geo=VN"
         }
       },
       {
+        "query": "argentina",
+        "value": 250,
+        "formattedValue": "+250%",
+        "raw": {
+          "query": "argentina",
+          "value": 250,
+          "formattedValue": "+250%",
+          "link": "/trends/explore?q=argentina&date=now+7-d&geo=VN"
+        }
+      },
+      {
         "query": "anh trai vượt ngàn chông gai 2026",
-        "value": 300,
-        "formattedValue": "+300%",
+        "value": 250,
+        "formattedValue": "+250%",
         "raw": {
           "query": "anh trai vượt ngàn chông gai 2026",
-          "value": 300,
-          "formattedValue": "+300%",
+          "value": 250,
+          "formattedValue": "+250%",
           "link": "/trends/explore?q=anh+trai+v%C6%B0%E1%BB%A3t+ng%C3%A0n+ch%C3%B4ng+gai+2026&date=now+7-d&geo=VN"
         }
       },
@@ -1135,80 +1120,91 @@
         }
       },
       {
+        "query": "kiều lương tâm",
+        "value": 170,
+        "formattedValue": "+170%",
+        "raw": {
+          "query": "kiều lương tâm",
+          "value": 170,
+          "formattedValue": "+170%",
+          "link": "/trends/explore?q=ki%E1%BB%81u+l%C6%B0%C6%A1ng+t%C3%A2m&date=now+7-d&geo=VN"
+        }
+      },
+      {
+        "query": "hoàng luân",
+        "value": 100,
+        "formattedValue": "+100%",
+        "raw": {
+          "query": "hoàng luân",
+          "value": 100,
+          "formattedValue": "+100%",
+          "link": "/trends/explore?q=ho%C3%A0ng+lu%C3%A2n&date=now+7-d&geo=VN"
+        }
+      },
+      {
+        "query": "msi",
+        "value": 90,
+        "formattedValue": "+90%",
+        "raw": {
+          "query": "msi",
+          "value": 90,
+          "formattedValue": "+90%",
+          "link": "/trends/explore?q=msi&date=now+7-d&geo=VN"
+        }
+      },
+      {
         "query": "hà an huy",
-        "value": 200,
-        "formattedValue": "+200%",
+        "value": 90,
+        "formattedValue": "+90%",
         "raw": {
           "query": "hà an huy",
-          "value": 200,
-          "formattedValue": "+200%",
+          "value": 90,
+          "formattedValue": "+90%",
           "link": "/trends/explore?q=h%C3%A0+an+huy&date=now+7-d&geo=VN"
         }
       },
       {
         "query": "anh trai vượt ngàn chông gai",
-        "value": 140,
-        "formattedValue": "+140%",
+        "value": 90,
+        "formattedValue": "+90%",
         "raw": {
           "query": "anh trai vượt ngàn chông gai",
-          "value": 140,
-          "formattedValue": "+140%",
+          "value": 90,
+          "formattedValue": "+90%",
           "link": "/trends/explore?q=anh+trai+v%C6%B0%E1%BB%A3t+ng%C3%A0n+ch%C3%B4ng+gai&date=now+7-d&geo=VN"
         }
       },
       {
-        "query": "msi",
-        "value": 130,
-        "formattedValue": "+130%",
-        "raw": {
-          "query": "msi",
-          "value": 130,
-          "formattedValue": "+130%",
-          "link": "/trends/explore?q=msi&date=now+7-d&geo=VN"
-        }
-      },
-      {
-        "query": "hoàng luân",
-        "value": 110,
-        "formattedValue": "+110%",
-        "raw": {
-          "query": "hoàng luân",
-          "value": 110,
-          "formattedValue": "+110%",
-          "link": "/trends/explore?q=ho%C3%A0ng+lu%C3%A2n&date=now+7-d&geo=VN"
-        }
-      },
-      {
         "query": "tìm em remix",
-        "value": 90,
-        "formattedValue": "+90%",
+        "value": 70,
+        "formattedValue": "+70%",
         "raw": {
           "query": "tìm em remix",
-          "value": 90,
-          "formattedValue": "+90%",
+          "value": 70,
+          "formattedValue": "+70%",
           "link": "/trends/explore?q=t%C3%ACm+em+remix&date=now+7-d&geo=VN"
         }
       },
       {
-        "query": "blue lock",
+        "query": "heo đen",
         "value": 60,
         "formattedValue": "+60%",
         "raw": {
-          "query": "blue lock",
+          "query": "heo đen",
           "value": 60,
           "formattedValue": "+60%",
-          "link": "/trends/explore?q=blue+lock&date=now+7-d&geo=VN"
+          "link": "/trends/explore?q=heo+%C4%91en&date=now+7-d&geo=VN"
         }
       },
       {
-        "query": "xuong rong",
+        "query": "tim em remix",
         "value": 60,
         "formattedValue": "+60%",
         "raw": {
-          "query": "xuong rong",
+          "query": "tim em remix",
           "value": 60,
           "formattedValue": "+60%",
-          "link": "/trends/explore?q=xuong+rong&date=now+7-d&geo=VN"
+          "link": "/trends/explore?q=tim+em+remix&date=now+7-d&geo=VN"
         }
       },
       {
@@ -1223,14 +1219,25 @@
         }
       },
       {
-        "query": "tìm em",
+        "query": "xuong rong",
+        "value": 60,
+        "formattedValue": "+60%",
+        "raw": {
+          "query": "xuong rong",
+          "value": 60,
+          "formattedValue": "+60%",
+          "link": "/trends/explore?q=xuong+rong&date=now+7-d&geo=VN"
+        }
+      },
+      {
+        "query": "tim em",
         "value": 50,
         "formattedValue": "+50%",
         "raw": {
-          "query": "tìm em",
+          "query": "tim em",
           "value": 50,
           "formattedValue": "+50%",
-          "link": "/trends/explore?q=t%C3%ACm+em&date=now+7-d&geo=VN"
+          "link": "/trends/explore?q=tim+em&date=now+7-d&geo=VN"
         }
       }
     ]
