@@ -20,24 +20,24 @@
       },
       {
         "query": "manifest",
-        "value": 87,
-        "formattedValue": "87",
+        "value": 81,
+        "formattedValue": "81",
         "raw": {
           "query": "manifest",
-          "value": 87,
-          "formattedValue": "87",
+          "value": 81,
+          "formattedValue": "81",
           "hasData": true,
           "link": "/trends/explore?q=manifest&date=now+7-d&geo=TR"
         }
       },
       {
         "query": "şarkılar",
-        "value": 45,
-        "formattedValue": "45",
+        "value": 42,
+        "formattedValue": "42",
         "raw": {
           "query": "şarkılar",
-          "value": 45,
-          "formattedValue": "45",
+          "value": 42,
+          "formattedValue": "42",
           "hasData": true,
           "link": "/trends/explore?q=%C5%9Fark%C4%B1lar&date=now+7-d&geo=TR"
         }
@@ -56,14 +56,26 @@
       },
       {
         "query": "toz pembe",
-        "value": 37,
-        "formattedValue": "37",
+        "value": 38,
+        "formattedValue": "38",
         "raw": {
           "query": "toz pembe",
-          "value": 37,
-          "formattedValue": "37",
+          "value": 38,
+          "formattedValue": "38",
           "hasData": true,
           "link": "/trends/explore?q=toz+pembe&date=now+7-d&geo=TR"
+        }
+      },
+      {
+        "query": "altı üstü istanbul",
+        "value": 26,
+        "formattedValue": "26",
+        "raw": {
+          "query": "altı üstü istanbul",
+          "value": 26,
+          "formattedValue": "26",
+          "hasData": true,
+          "link": "/trends/explore?q=alt%C4%B1+%C3%BCst%C3%BC+istanbul&date=now+7-d&geo=TR"
         }
       },
       {
@@ -79,27 +91,15 @@
         }
       },
       {
-        "query": "altı üstü istanbul",
-        "value": 23,
-        "formattedValue": "23",
+        "query": "manifest toz pembe",
+        "value": 21,
+        "formattedValue": "21",
         "raw": {
-          "query": "altı üstü istanbul",
-          "value": 23,
-          "formattedValue": "23",
+          "query": "manifest toz pembe",
+          "value": 21,
+          "formattedValue": "21",
           "hasData": true,
-          "link": "/trends/explore?q=alt%C4%B1+%C3%BCst%C3%BC+istanbul&date=now+7-d&geo=TR"
-        }
-      },
-      {
-        "query": "toz pembe manifest",
-        "value": 20,
-        "formattedValue": "20",
-        "raw": {
-          "query": "toz pembe manifest",
-          "value": 20,
-          "formattedValue": "20",
-          "hasData": true,
-          "link": "/trends/explore?q=toz+pembe+manifest&date=now+7-d&geo=TR"
+          "link": "/trends/explore?q=manifest+toz+pembe&date=now+7-d&geo=TR"
         }
       },
       {
@@ -115,51 +115,27 @@
         }
       },
       {
-        "query": "deniz göktaş",
+        "query": "doğanın kanunu",
         "value": 17,
         "formattedValue": "17",
         "raw": {
-          "query": "deniz göktaş",
+          "query": "doğanın kanunu",
           "value": 17,
           "formattedValue": "17",
-          "hasData": true,
-          "link": "/trends/explore?q=deniz+g%C3%B6kta%C5%9F&date=now+7-d&geo=TR"
-        }
-      },
-      {
-        "query": "doğanın kanunu",
-        "value": 16,
-        "formattedValue": "16",
-        "raw": {
-          "query": "doğanın kanunu",
-          "value": 16,
-          "formattedValue": "16",
           "hasData": true,
           "link": "/trends/explore?q=do%C4%9Fan%C4%B1n+kanunu&date=now+7-d&geo=TR"
         }
       },
       {
-        "query": "elif sinem",
+        "query": "deniz göktaş",
         "value": 15,
         "formattedValue": "15",
         "raw": {
-          "query": "elif sinem",
+          "query": "deniz göktaş",
           "value": 15,
           "formattedValue": "15",
           "hasData": true,
-          "link": "/trends/explore?q=elif+sinem&date=now+7-d&geo=TR"
-        }
-      },
-      {
-        "query": "asmr",
-        "value": 15,
-        "formattedValue": "15",
-        "raw": {
-          "query": "asmr",
-          "value": 15,
-          "formattedValue": "15",
-          "hasData": true,
-          "link": "/trends/explore?q=asmr&date=now+7-d&geo=TR"
+          "link": "/trends/explore?q=deniz+g%C3%B6kta%C5%9F&date=now+7-d&geo=TR"
         }
       },
       {
@@ -175,6 +151,30 @@
         }
       },
       {
+        "query": "elif sinem",
+        "value": 14,
+        "formattedValue": "14",
+        "raw": {
+          "query": "elif sinem",
+          "value": 14,
+          "formattedValue": "14",
+          "hasData": true,
+          "link": "/trends/explore?q=elif+sinem&date=now+7-d&geo=TR"
+        }
+      },
+      {
+        "query": "asmr",
+        "value": 14,
+        "formattedValue": "14",
+        "raw": {
+          "query": "asmr",
+          "value": 14,
+          "formattedValue": "14",
+          "hasData": true,
+          "link": "/trends/explore?q=asmr&date=now+7-d&geo=TR"
+        }
+      },
+      {
         "query": "kurtlar vadisi",
         "value": 13,
         "formattedValue": "13",
@@ -184,42 +184,6 @@
           "formattedValue": "13",
           "hasData": true,
           "link": "/trends/explore?q=kurtlar+vadisi&date=now+7-d&geo=TR"
-        }
-      },
-      {
-        "query": "elif kuzey",
-        "value": 12,
-        "formattedValue": "12",
-        "raw": {
-          "query": "elif kuzey",
-          "value": 12,
-          "formattedValue": "12",
-          "hasData": true,
-          "link": "/trends/explore?q=elif+kuzey&date=now+7-d&geo=TR"
-        }
-      },
-      {
-        "query": "müzik",
-        "value": 12,
-        "formattedValue": "12",
-        "raw": {
-          "query": "müzik",
-          "value": 12,
-          "formattedValue": "12",
-          "hasData": true,
-          "link": "/trends/explore?q=m%C3%BCzik&date=now+7-d&geo=TR"
-        }
-      },
-      {
-        "query": "güldür güldür",
-        "value": 12,
-        "formattedValue": "12",
-        "raw": {
-          "query": "güldür güldür",
-          "value": 12,
-          "formattedValue": "12",
-          "hasData": true,
-          "link": "/trends/explore?q=g%C3%BCld%C3%BCr+g%C3%BCld%C3%BCr&date=now+7-d&geo=TR"
         }
       },
       {
@@ -235,15 +199,51 @@
         }
       },
       {
+        "query": "kuzey elif",
+        "value": 12,
+        "formattedValue": "12",
+        "raw": {
+          "query": "kuzey elif",
+          "value": 12,
+          "formattedValue": "12",
+          "hasData": true,
+          "link": "/trends/explore?q=kuzey+elif&date=now+7-d&geo=TR"
+        }
+      },
+      {
+        "query": "müzik",
+        "value": 12,
+        "formattedValue": "12",
+        "raw": {
+          "query": "müzik",
+          "value": 12,
+          "formattedValue": "12",
+          "hasData": true,
+          "link": "/trends/explore?q=m%C3%BCzik&date=now+7-d&geo=TR"
+        }
+      },
+      {
         "query": "daha 17 fragman",
-        "value": 11,
-        "formattedValue": "11",
+        "value": 12,
+        "formattedValue": "12",
         "raw": {
           "query": "daha 17 fragman",
-          "value": 11,
-          "formattedValue": "11",
+          "value": 12,
+          "formattedValue": "12",
           "hasData": true,
           "link": "/trends/explore?q=daha+17+fragman&date=now+7-d&geo=TR"
+        }
+      },
+      {
+        "query": "güldür güldür",
+        "value": 12,
+        "formattedValue": "12",
+        "raw": {
+          "query": "güldür güldür",
+          "value": 12,
+          "formattedValue": "12",
+          "hasData": true,
+          "link": "/trends/explore?q=g%C3%BCld%C3%BCr+g%C3%BCld%C3%BCr&date=now+7-d&geo=TR"
         }
       },
       {
@@ -259,6 +259,18 @@
         }
       },
       {
+        "query": "ferited",
+        "value": 11,
+        "formattedValue": "11",
+        "raw": {
+          "query": "ferited",
+          "value": 11,
+          "formattedValue": "11",
+          "hasData": true,
+          "link": "/trends/explore?q=ferited&date=now+7-d&geo=TR"
+        }
+      },
+      {
         "query": "piş piş",
         "value": 11,
         "formattedValue": "11",
@@ -271,15 +283,15 @@
         }
       },
       {
-        "query": "halay",
+        "query": "lina",
         "value": 10,
         "formattedValue": "10",
         "raw": {
-          "query": "halay",
+          "query": "lina",
           "value": 10,
           "formattedValue": "10",
           "hasData": true,
-          "link": "/trends/explore?q=halay&date=now+7-d&geo=TR"
+          "link": "/trends/explore?q=lina&date=now+7-d&geo=TR"
         }
       },
       {
@@ -293,52 +305,62 @@
           "hasData": true,
           "link": "/trends/explore?q=rraenee&date=now+7-d&geo=TR"
         }
-      },
-      {
-        "query": "ferited",
-        "value": 10,
-        "formattedValue": "10",
-        "raw": {
-          "query": "ferited",
-          "value": 10,
-          "formattedValue": "10",
-          "hasData": true,
-          "link": "/trends/explore?q=ferited&date=now+7-d&geo=TR"
-        }
       }
     ],
     "rising": [
       {
         "query": "muhtemel aşk 4. bölüm fragmanı",
-        "value": 8300,
+        "value": 8850,
         "formattedValue": "Đột phá",
         "raw": {
           "query": "muhtemel aşk 4. bölüm fragmanı",
-          "value": 8300,
+          "value": 8850,
           "formattedValue": "Đột phá",
           "link": "/trends/explore?q=muhtemel+a%C5%9Fk+4.+b%C3%B6l%C3%BCm+fragman%C4%B1&date=now+7-d&geo=TR"
         }
       },
       {
-        "query": "norveç brezilya",
-        "value": 7550,
+        "query": "brezilya norveç",
+        "value": 7150,
         "formattedValue": "Đột phá",
         "raw": {
-          "query": "norveç brezilya",
-          "value": 7550,
+          "query": "brezilya norveç",
+          "value": 7150,
           "formattedValue": "Đột phá",
-          "link": "/trends/explore?q=norve%C3%A7+brezilya&date=now+7-d&geo=TR"
+          "link": "/trends/explore?q=brezilya+norve%C3%A7&date=now+7-d&geo=TR"
         }
       },
       {
-        "query": "meksika ingiltere",
-        "value": 3350,
-        "formattedValue": "+3.350%",
+        "query": "arjantin mısır",
+        "value": 5500,
+        "formattedValue": "Đột phá",
         "raw": {
-          "query": "meksika ingiltere",
-          "value": 3350,
-          "formattedValue": "+3.350%",
-          "link": "/trends/explore?q=meksika+ingiltere&date=now+7-d&geo=TR"
+          "query": "arjantin mısır",
+          "value": 5500,
+          "formattedValue": "Đột phá",
+          "link": "/trends/explore?q=arjantin+m%C4%B1s%C4%B1r&date=now+7-d&geo=TR"
+        }
+      },
+      {
+        "query": "arjantin yeşil burun adaları",
+        "value": 4100,
+        "formattedValue": "+4.100%",
+        "raw": {
+          "query": "arjantin yeşil burun adaları",
+          "value": 4100,
+          "formattedValue": "+4.100%",
+          "link": "/trends/explore?q=arjantin+ye%C5%9Fil+burun+adalar%C4%B1&date=now+7-d&geo=TR"
+        }
+      },
+      {
+        "query": "portekiz ispanya",
+        "value": 2350,
+        "formattedValue": "+2.350%",
+        "raw": {
+          "query": "portekiz ispanya",
+          "value": 2350,
+          "formattedValue": "+2.350%",
+          "link": "/trends/explore?q=portekiz+ispanya&date=now+7-d&geo=TR"
         }
       },
       {
@@ -354,145 +376,123 @@
       },
       {
         "query": "toz pembe",
-        "value": 500,
-        "formattedValue": "+500%",
+        "value": 550,
+        "formattedValue": "+550%",
         "raw": {
           "query": "toz pembe",
-          "value": 500,
-          "formattedValue": "+500%",
+          "value": 550,
+          "formattedValue": "+550%",
           "link": "/trends/explore?q=toz+pembe&date=now+7-d&geo=TR"
         }
       },
       {
-        "query": "toz pembe manifest",
-        "value": 400,
-        "formattedValue": "+400%",
+        "query": "manifest toz pembe",
+        "value": 450,
+        "formattedValue": "+450%",
         "raw": {
-          "query": "toz pembe manifest",
-          "value": 400,
-          "formattedValue": "+400%",
-          "link": "/trends/explore?q=toz+pembe+manifest&date=now+7-d&geo=TR"
+          "query": "manifest toz pembe",
+          "value": 450,
+          "formattedValue": "+450%",
+          "link": "/trends/explore?q=manifest+toz+pembe&date=now+7-d&geo=TR"
         }
       },
       {
         "query": "daha 17 6 bölüm",
-        "value": 400,
-        "formattedValue": "+400%",
+        "value": 250,
+        "formattedValue": "+250%",
         "raw": {
           "query": "daha 17 6 bölüm",
-          "value": 400,
-          "formattedValue": "+400%",
+          "value": 250,
+          "formattedValue": "+250%",
           "link": "/trends/explore?q=daha+17+6+b%C3%B6l%C3%BCm&date=now+7-d&geo=TR"
         }
       },
       {
+        "query": "muhtemel aşk fragman",
+        "value": 200,
+        "formattedValue": "+200%",
+        "raw": {
+          "query": "muhtemel aşk fragman",
+          "value": 200,
+          "formattedValue": "+200%",
+          "link": "/trends/explore?q=muhtemel+a%C5%9Fk+fragman&date=now+7-d&geo=TR"
+        }
+      },
+      {
         "query": "demokratik kongo şarkısı",
-        "value": 300,
-        "formattedValue": "+300%",
+        "value": 200,
+        "formattedValue": "+200%",
         "raw": {
           "query": "demokratik kongo şarkısı",
-          "value": 300,
-          "formattedValue": "+300%",
+          "value": 200,
+          "formattedValue": "+200%",
           "link": "/trends/explore?q=demokratik+kongo+%C5%9Fark%C4%B1s%C4%B1&date=now+7-d&geo=TR"
         }
       },
       {
         "query": "ara beni",
-        "value": 250,
-        "formattedValue": "+250%",
+        "value": 140,
+        "formattedValue": "+140%",
         "raw": {
           "query": "ara beni",
-          "value": 250,
-          "formattedValue": "+250%",
+          "value": 140,
+          "formattedValue": "+140%",
           "link": "/trends/explore?q=ara+beni&date=now+7-d&geo=TR"
         }
       },
       {
-        "query": "daha 17 6 bölüm fragman",
-        "value": 200,
-        "formattedValue": "+200%",
-        "raw": {
-          "query": "daha 17 6 bölüm fragman",
-          "value": 200,
-          "formattedValue": "+200%",
-          "link": "/trends/explore?q=daha+17+6+b%C3%B6l%C3%BCm+fragman&date=now+7-d&geo=TR"
-        }
-      },
-      {
         "query": "hadise",
-        "value": 180,
-        "formattedValue": "+180%",
+        "value": 140,
+        "formattedValue": "+140%",
         "raw": {
           "query": "hadise",
-          "value": 180,
-          "formattedValue": "+180%",
+          "value": 140,
+          "formattedValue": "+140%",
           "link": "/trends/explore?q=hadise&date=now+7-d&geo=TR"
         }
       },
       {
-        "query": "muhtemel aşk fragman",
-        "value": 180,
-        "formattedValue": "+180%",
+        "query": "daha 17 6 bölüm fragman",
+        "value": 110,
+        "formattedValue": "+110%",
         "raw": {
-          "query": "muhtemel aşk fragman",
-          "value": 180,
-          "formattedValue": "+180%",
-          "link": "/trends/explore?q=muhtemel+a%C5%9Fk+fragman&date=now+7-d&geo=TR"
-        }
-      },
-      {
-        "query": "delirdim geceleri",
-        "value": 100,
-        "formattedValue": "+100%",
-        "raw": {
-          "query": "delirdim geceleri",
-          "value": 100,
-          "formattedValue": "+100%",
-          "link": "/trends/explore?q=delirdim+geceleri&date=now+7-d&geo=TR"
+          "query": "daha 17 6 bölüm fragman",
+          "value": 110,
+          "formattedValue": "+110%",
+          "link": "/trends/explore?q=daha+17+6+b%C3%B6l%C3%BCm+fragman&date=now+7-d&geo=TR"
         }
       },
       {
         "query": "daha 17 fragman",
-        "value": 100,
-        "formattedValue": "+100%",
+        "value": 90,
+        "formattedValue": "+90%",
         "raw": {
           "query": "daha 17 fragman",
-          "value": 100,
-          "formattedValue": "+100%",
+          "value": 90,
+          "formattedValue": "+90%",
           "link": "/trends/explore?q=daha+17+fragman&date=now+7-d&geo=TR"
         }
       },
       {
-        "query": "muhtemel aşk",
-        "value": 60,
-        "formattedValue": "+60%",
-        "raw": {
-          "query": "muhtemel aşk",
-          "value": 60,
-          "formattedValue": "+60%",
-          "link": "/trends/explore?q=muhtemel+a%C5%9Fk&date=now+7-d&geo=TR"
-        }
-      },
-      {
         "query": "idol house",
-        "value": 50,
-        "formattedValue": "+50%",
+        "value": 70,
+        "formattedValue": "+70%",
         "raw": {
           "query": "idol house",
-          "value": 50,
-          "formattedValue": "+50%",
+          "value": 70,
+          "formattedValue": "+70%",
           "link": "/trends/explore?q=idol+house&date=now+7-d&geo=TR"
         }
       },
       {
-        "query": "manifest",
-        "value": 50,
-        "formattedValue": "+50%",
+        "query": "delirdim geceleri",
+        "value": 60,
+        "formattedValue": "+60%",
         "raw": {
-          "query": "manifest",
-          "value": 50,
-          "formattedValue": "+50%",
-          "link": "/trends/explore?q=manifest&date=now+7-d&geo=TR"
+          "query": "delirdim geceleri",
+          "value": 60,
+          "formattedValue": "+60%",
+          "link": "/trends/explore?q=delirdim+geceleri&date=now+7-d&geo=TR"
         }
       },
       {
@@ -507,25 +507,47 @@
         }
       },
       {
+        "query": "muhtemel aşk",
+        "value": 50,
+        "formattedValue": "+50%",
+        "raw": {
+          "query": "muhtemel aşk",
+          "value": 50,
+          "formattedValue": "+50%",
+          "link": "/trends/explore?q=muhtemel+a%C5%9Fk&date=now+7-d&geo=TR"
+        }
+      },
+      {
+        "query": "cnn türk canlı",
+        "value": 50,
+        "formattedValue": "+50%",
+        "raw": {
+          "query": "cnn türk canlı",
+          "value": 50,
+          "formattedValue": "+50%",
+          "link": "/trends/explore?q=cnn+t%C3%BCrk+canl%C4%B1&date=now+7-d&geo=TR"
+        }
+      },
+      {
         "query": "beşiktaş",
-        "value": 40,
-        "formattedValue": "+40%",
+        "value": 50,
+        "formattedValue": "+50%",
         "raw": {
           "query": "beşiktaş",
-          "value": 40,
-          "formattedValue": "+40%",
+          "value": 50,
+          "formattedValue": "+50%",
           "link": "/trends/explore?q=be%C5%9Fikta%C5%9F&date=now+7-d&geo=TR"
         }
       },
       {
-        "query": "verity",
+        "query": "rukiye çetinkaya",
         "value": 40,
         "formattedValue": "+40%",
         "raw": {
-          "query": "verity",
+          "query": "rukiye çetinkaya",
           "value": 40,
           "formattedValue": "+40%",
-          "link": "/trends/explore?q=verity&date=now+7-d&geo=TR"
+          "link": "/trends/explore?q=rukiye+%C3%A7etinkaya&date=now+7-d&geo=TR"
         }
       }
     ]
