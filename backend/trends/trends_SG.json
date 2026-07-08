@@ -20,16 +20,16 @@
       },
       {
         "query": "Điện ảnh",
-        "value": 42,
-        "formattedValue": "42",
+        "value": 46,
+        "formattedValue": "46",
         "raw": {
           "topic": {
             "mid": "/m/02vxn",
             "title": "Điện ảnh",
             "type": "Loại truyền hình"
           },
-          "value": 42,
-          "formattedValue": "42",
+          "value": 46,
+          "formattedValue": "46",
           "hasData": true,
           "link": "/trends/explore?q=/m/02vxn&date=now+7-d&geo=SG"
         }
@@ -52,64 +52,64 @@
       },
       {
         "query": "Karaoke",
-        "value": 26,
-        "formattedValue": "26",
+        "value": 28,
+        "formattedValue": "28",
         "raw": {
           "topic": {
             "mid": "/m/04c5p",
             "title": "Karaoke",
             "type": "Chủ đề"
           },
-          "value": 26,
-          "formattedValue": "26",
+          "value": 28,
+          "formattedValue": "28",
           "hasData": true,
           "link": "/trends/explore?q=/m/04c5p&date=now+7-d&geo=SG"
         }
       },
       {
-        "query": "Tiếng Tamil",
-        "value": 26,
-        "formattedValue": "26",
-        "raw": {
-          "topic": {
-            "mid": "/m/07c9s",
-            "title": "Tiếng Tamil",
-            "type": "Ngôn ngữ"
-          },
-          "value": 26,
-          "formattedValue": "26",
-          "hasData": true,
-          "link": "/trends/explore?q=/m/07c9s&date=now+7-d&geo=SG"
-        }
-      },
-      {
         "query": "Âm nhạc",
-        "value": 24,
-        "formattedValue": "24",
+        "value": 28,
+        "formattedValue": "28",
         "raw": {
           "topic": {
             "mid": "/m/04rlf",
             "title": "Âm nhạc",
             "type": "Định dạng âm thanh"
           },
-          "value": 24,
-          "formattedValue": "24",
+          "value": 28,
+          "formattedValue": "28",
           "hasData": true,
           "link": "/trends/explore?q=/m/04rlf&date=now+7-d&geo=SG"
         }
       },
       {
+        "query": "Tiếng Tamil",
+        "value": 27,
+        "formattedValue": "27",
+        "raw": {
+          "topic": {
+            "mid": "/m/07c9s",
+            "title": "Tiếng Tamil",
+            "type": "Ngôn ngữ"
+          },
+          "value": 27,
+          "formattedValue": "27",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/07c9s&date=now+7-d&geo=SG"
+        }
+      },
+      {
         "query": "Giải Bóng đá Vô địch Thế giới",
-        "value": 22,
-        "formattedValue": "22",
+        "value": 25,
+        "formattedValue": "25",
         "raw": {
           "topic": {
             "mid": "/m/030q7",
             "title": "Giải Bóng đá Vô địch Thế giới",
             "type": "Giải bóng đá"
           },
-          "value": 22,
-          "formattedValue": "22",
+          "value": 25,
+          "formattedValue": "25",
           "hasData": true,
           "link": "/trends/explore?q=/m/030q7&date=now+7-d&geo=SG"
         }
@@ -131,6 +131,38 @@
         }
       },
       {
+        "query": "Video",
+        "value": 19,
+        "formattedValue": "19",
+        "raw": {
+          "topic": {
+            "mid": "/m/07z4p",
+            "title": "Video",
+            "type": "Định dạng phim"
+          },
+          "value": 19,
+          "formattedValue": "19",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/07z4p&date=now+7-d&geo=SG"
+        }
+      },
+      {
+        "query": "Lời bài hát",
+        "value": 18,
+        "formattedValue": "18",
+        "raw": {
+          "topic": {
+            "mid": "/m/09lgd",
+            "title": "Lời bài hát",
+            "type": "Chủ đề"
+          },
+          "value": 18,
+          "formattedValue": "18",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/09lgd&date=now+7-d&geo=SG"
+        }
+      },
+      {
         "query": "Singapore",
         "value": 18,
         "formattedValue": "18",
@@ -147,51 +179,19 @@
         }
       },
       {
-        "query": "Lời bài hát",
+        "query": "YouTube",
         "value": 17,
         "formattedValue": "17",
-        "raw": {
-          "topic": {
-            "mid": "/m/09lgd",
-            "title": "Lời bài hát",
-            "type": "Chủ đề"
-          },
-          "value": 17,
-          "formattedValue": "17",
-          "hasData": true,
-          "link": "/trends/explore?q=/m/09lgd&date=now+7-d&geo=SG"
-        }
-      },
-      {
-        "query": "YouTube",
-        "value": 16,
-        "formattedValue": "16",
         "raw": {
           "topic": {
             "mid": "/m/0kfgvxd",
             "title": "YouTube",
             "type": "Kênh YouTube"
           },
-          "value": 16,
-          "formattedValue": "16",
+          "value": 17,
+          "formattedValue": "17",
           "hasData": true,
           "link": "/trends/explore?q=/m/0kfgvxd&date=now+7-d&geo=SG"
-        }
-      },
-      {
-        "query": "Video",
-        "value": 15,
-        "formattedValue": "15",
-        "raw": {
-          "topic": {
-            "mid": "/m/07z4p",
-            "title": "Video",
-            "type": "Định dạng phim"
-          },
-          "value": 15,
-          "formattedValue": "15",
-          "hasData": true,
-          "link": "/trends/explore?q=/m/07z4p&date=now+7-d&geo=SG"
         }
       },
       {
@@ -212,32 +212,32 @@
       },
       {
         "query": "Tập phim",
-        "value": 11,
-        "formattedValue": "11",
+        "value": 12,
+        "formattedValue": "12",
         "raw": {
           "topic": {
             "mid": "/m/02cphr",
             "title": "Tập phim",
             "type": "Chủ đề"
           },
-          "value": 11,
-          "formattedValue": "11",
+          "value": 12,
+          "formattedValue": "12",
           "hasData": true,
           "link": "/trends/explore?q=/m/02cphr&date=now+7-d&geo=SG"
         }
       },
       {
         "query": "Công thức nấu ăn",
-        "value": 11,
-        "formattedValue": "11",
+        "value": 12,
+        "formattedValue": "12",
         "raw": {
           "topic": {
             "mid": "/m/0p57p",
             "title": "Công thức nấu ăn",
             "type": "Thể loại văn học"
           },
-          "value": 11,
-          "formattedValue": "11",
+          "value": 12,
+          "formattedValue": "12",
           "hasData": true,
           "link": "/trends/explore?q=/m/0p57p&date=now+7-d&geo=SG"
         }
@@ -259,83 +259,67 @@
         }
       },
       {
-        "query": "Tiếng Anh",
-        "value": 9,
-        "formattedValue": "9",
-        "raw": {
-          "topic": {
-            "mid": "/m/02h40lc",
-            "title": "Tiếng Anh",
-            "type": "Ngôn ngữ"
-          },
-          "value": 9,
-          "formattedValue": "9",
-          "hasData": true,
-          "link": "/trends/explore?q=/m/02h40lc&date=now+7-d&geo=SG"
-        }
-      },
-      {
         "query": "Giải Bóng đá Thế giới 2026",
-        "value": 9,
-        "formattedValue": "9",
+        "value": 11,
+        "formattedValue": "11",
         "raw": {
           "topic": {
             "mid": "/m/0r4xs1m",
             "title": "Giải Bóng đá Thế giới 2026",
             "type": "Mùa giải thể thao"
           },
-          "value": 9,
-          "formattedValue": "9",
+          "value": 11,
+          "formattedValue": "11",
           "hasData": true,
           "link": "/trends/explore?q=/m/0r4xs1m&date=now+7-d&geo=SG"
         }
       },
       {
+        "query": "Tiếng Anh",
+        "value": 11,
+        "formattedValue": "11",
+        "raw": {
+          "topic": {
+            "mid": "/m/02h40lc",
+            "title": "Tiếng Anh",
+            "type": "Ngôn ngữ"
+          },
+          "value": 11,
+          "formattedValue": "11",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/02h40lc&date=now+7-d&geo=SG"
+        }
+      },
+      {
         "query": "Nhảy múa",
-        "value": 9,
-        "formattedValue": "9",
+        "value": 10,
+        "formattedValue": "10",
         "raw": {
           "topic": {
             "mid": "/m/026bk",
             "title": "Nhảy múa",
             "type": "Lĩnh vực nghề nghiệp"
           },
-          "value": 9,
-          "formattedValue": "9",
+          "value": 10,
+          "formattedValue": "10",
           "hasData": true,
           "link": "/trends/explore?q=/m/026bk&date=now+7-d&geo=SG"
         }
       },
       {
         "query": "Tin tức",
-        "value": 8,
-        "formattedValue": "8",
+        "value": 9,
+        "formattedValue": "9",
         "raw": {
           "topic": {
             "mid": "/m/05jhg",
             "title": "Tin tức",
             "type": "Định dạng phát thanh"
           },
-          "value": 8,
-          "formattedValue": "8",
+          "value": 9,
+          "formattedValue": "9",
           "hasData": true,
           "link": "/trends/explore?q=/m/05jhg&date=now+7-d&geo=SG"
-        }
-      },
-      {
-        "query": "2025",
-        "value": 8,
-        "formattedValue": "8",
-        "raw": {
-          "topic": {
-            "mid": "/g/11b77d3kyg",
-            "title": "2025",
-            "type": "Chủ đề"
-          },
-          "value": 8,
-          "formattedValue": "8",
-          "hasData": true,
-          "link": "/trends/explore?q=/g/11b77d3kyg&date=now+7-d&geo=SG"
         }
       },
       {
@@ -355,412 +339,428 @@
         }
       },
       {
-        "query": "Trailer",
-        "value": 7,
-        "formattedValue": "7",
+        "query": "2025",
+        "value": 8,
+        "formattedValue": "8",
         "raw": {
           "topic": {
-            "mid": "/m/03hdbf",
-            "title": "Trailer",
+            "mid": "/g/11b77d3kyg",
+            "title": "2025",
             "type": "Chủ đề"
           },
-          "value": 7,
-          "formattedValue": "7",
+          "value": 8,
+          "formattedValue": "8",
           "hasData": true,
-          "link": "/trends/explore?q=/m/03hdbf&date=now+7-d&geo=SG"
+          "link": "/trends/explore?q=/g/11b77d3kyg&date=now+7-d&geo=SG"
         }
       },
       {
         "query": "Trẻ em",
-        "value": 7,
-        "formattedValue": "7",
+        "value": 8,
+        "formattedValue": "8",
         "raw": {
           "topic": {
             "mid": "/m/0ytgt",
             "title": "Trẻ em",
             "type": "Chủ đề"
           },
+          "value": 8,
+          "formattedValue": "8",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/0ytgt&date=now+7-d&geo=SG"
+        }
+      },
+      {
+        "query": "Bóng đá",
+        "value": 7,
+        "formattedValue": "7",
+        "raw": {
+          "topic": {
+            "mid": "/m/02vx4",
+            "title": "Bóng đá",
+            "type": "Thể thao"
+          },
           "value": 7,
           "formattedValue": "7",
           "hasData": true,
-          "link": "/trends/explore?q=/m/0ytgt&date=now+7-d&geo=SG"
+          "link": "/trends/explore?q=/m/02vx4&date=now+7-d&geo=SG"
         }
       }
     ],
     "rising": [
       {
-        "query": "Brazil vs. Norway",
-        "value": 5100,
-        "formattedValue": "Đột phá",
+        "query": "Đội tuyển bóng đá quốc gia Hoa Kỳ",
+        "value": 1700,
+        "formattedValue": "+1.700%",
         "raw": {
           "topic": {
-            "mid": "/g/11y48wz41w",
-            "title": "Brazil vs. Norway",
-            "type": "Tập phim truyền hình"
+            "mid": "/m/02s9vc",
+            "title": "Đội tuyển bóng đá quốc gia Hoa Kỳ",
+            "type": "Đội bóng đá"
           },
-          "value": 5100,
-          "formattedValue": "Đột phá",
-          "link": "/trends/explore?q=/g/11y48wz41w&date=now+7-d&geo=SG"
-        }
-      },
-      {
-        "query": "Alexandra Eala",
-        "value": 1000,
-        "formattedValue": "+1.000%",
-        "raw": {
-          "topic": {
-            "mid": "/g/11j1f8nz_l",
-            "title": "Alexandra Eala",
-            "type": "Vận động viên quần vợt"
-          },
-          "value": 1000,
-          "formattedValue": "+1.000%",
-          "link": "/trends/explore?q=/g/11j1f8nz_l&date=now+7-d&geo=SG"
+          "value": 1700,
+          "formattedValue": "+1.700%",
+          "link": "/trends/explore?q=/m/02s9vc&date=now+7-d&geo=SG"
         }
       },
       {
         "query": "Cape Verde",
-        "value": 950,
-        "formattedValue": "+950%",
+        "value": 900,
+        "formattedValue": "+900%",
         "raw": {
           "topic": {
             "mid": "/m/01nqj",
             "title": "Cape Verde",
             "type": "Quốc gia ở Châu Phi"
           },
-          "value": 950,
-          "formattedValue": "+950%",
+          "value": 900,
+          "formattedValue": "+900%",
           "link": "/trends/explore?q=/m/01nqj&date=now+7-d&geo=SG"
         }
       },
       {
-        "query": "Đội tuyển Bóng đá Quốc gia Mexico",
-        "value": 700,
-        "formattedValue": "+700%",
+        "query": "Đội tuyển Bóng đá Quốc gia Bỉ",
+        "value": 750,
+        "formattedValue": "+750%",
         "raw": {
           "topic": {
-            "mid": "/m/03dj48",
-            "title": "Đội tuyển Bóng đá Quốc gia Mexico",
+            "mid": "/m/0329gm",
+            "title": "Đội tuyển Bóng đá Quốc gia Bỉ",
             "type": "Đội bóng đá"
           },
-          "value": 700,
-          "formattedValue": "+700%",
-          "link": "/trends/explore?q=/m/03dj48&date=now+7-d&geo=SG"
-        }
-      },
-      {
-        "query": "Giải Vô địch Wimbledon",
-        "value": 650,
-        "formattedValue": "+650%",
-        "raw": {
-          "topic": {
-            "mid": "/m/0mmmt",
-            "title": "Giải Vô địch Wimbledon",
-            "type": "Cuộc thi đấu quần vợt"
-          },
-          "value": 650,
-          "formattedValue": "+650%",
-          "link": "/trends/explore?q=/m/0mmmt&date=now+7-d&geo=SG"
+          "value": 750,
+          "formattedValue": "+750%",
+          "link": "/trends/explore?q=/m/0329gm&date=now+7-d&geo=SG"
         }
       },
       {
         "query": "Đội tuyển Bóng đá Quốc gia Croatia",
-        "value": 550,
-        "formattedValue": "+550%",
+        "value": 600,
+        "formattedValue": "+600%",
         "raw": {
           "topic": {
             "mid": "/m/0356gk",
             "title": "Đội tuyển Bóng đá Quốc gia Croatia",
             "type": "Đội bóng đá"
           },
-          "value": 550,
-          "formattedValue": "+550%",
+          "value": 600,
+          "formattedValue": "+600%",
           "link": "/trends/explore?q=/m/0356gk&date=now+7-d&geo=SG"
         }
       },
       {
-        "query": "Đội tuyển Bóng đá Quốc gia Paraguay",
-        "value": 450,
-        "formattedValue": "+450%",
+        "query": "Đội tuyển Bóng đá Quốc gia Mexico",
+        "value": 550,
+        "formattedValue": "+550%",
         "raw": {
           "topic": {
-            "mid": "/m/03d8m4",
-            "title": "Đội tuyển Bóng đá Quốc gia Paraguay",
+            "mid": "/m/03dj48",
+            "title": "Đội tuyển Bóng đá Quốc gia Mexico",
             "type": "Đội bóng đá"
           },
-          "value": 450,
-          "formattedValue": "+450%",
-          "link": "/trends/explore?q=/m/03d8m4&date=now+7-d&geo=SG"
+          "value": 550,
+          "formattedValue": "+550%",
+          "link": "/trends/explore?q=/m/03dj48&date=now+7-d&geo=SG"
+        }
+      },
+      {
+        "query": "Alexandra Eala",
+        "value": 500,
+        "formattedValue": "+500%",
+        "raw": {
+          "topic": {
+            "mid": "/g/11j1f8nz_l",
+            "title": "Alexandra Eala",
+            "type": "Vận động viên quần vợt"
+          },
+          "value": 500,
+          "formattedValue": "+500%",
+          "link": "/trends/explore?q=/g/11j1f8nz_l&date=now+7-d&geo=SG"
         }
       },
       {
         "query": "Argentina",
-        "value": 300,
-        "formattedValue": "+300%",
+        "value": 400,
+        "formattedValue": "+400%",
         "raw": {
           "topic": {
             "mid": "/m/0jgd",
             "title": "Argentina",
             "type": "Quốc gia ở Nam Mỹ"
           },
-          "value": 300,
-          "formattedValue": "+300%",
+          "value": 400,
+          "formattedValue": "+400%",
           "link": "/trends/explore?q=/m/0jgd&date=now+7-d&geo=SG"
         }
       },
       {
-        "query": "Đội tuyển bóng đá quốc gia Cabo Verde",
-        "value": 250,
-        "formattedValue": "+250%",
-        "raw": {
-          "topic": {
-            "mid": "/m/04h5tx",
-            "title": "Đội tuyển bóng đá quốc gia Cabo Verde",
-            "type": "Đội bóng đá"
-          },
-          "value": 250,
-          "formattedValue": "+250%",
-          "link": "/trends/explore?q=/m/04h5tx&date=now+7-d&geo=SG"
-        }
-      },
-      {
-        "query": "Đội tuyển bóng đá quốc gia Maroc",
-        "value": 250,
-        "formattedValue": "+250%",
-        "raw": {
-          "topic": {
-            "mid": "/m/03_9hm",
-            "title": "Đội tuyển bóng đá quốc gia Maroc",
-            "type": "Đội bóng đá"
-          },
-          "value": 250,
-          "formattedValue": "+250%",
-          "link": "/trends/explore?q=/m/03_9hm&date=now+7-d&geo=SG"
-        }
-      },
-      {
         "query": "Đội tuyển Bóng đá Quốc gia Tây Ban Nha",
-        "value": 200,
-        "formattedValue": "+200%",
+        "value": 350,
+        "formattedValue": "+350%",
         "raw": {
           "topic": {
             "mid": "/m/02w64f",
             "title": "Đội tuyển Bóng đá Quốc gia Tây Ban Nha",
             "type": "Đội bóng đá"
           },
-          "value": 200,
-          "formattedValue": "+200%",
+          "value": 350,
+          "formattedValue": "+350%",
           "link": "/trends/explore?q=/m/02w64f&date=now+7-d&geo=SG"
         }
       },
       {
-        "query": "Đội tuyển Bóng đá Quốc gia Anh",
-        "value": 200,
-        "formattedValue": "+200%",
-        "raw": {
-          "topic": {
-            "mid": "/m/02pp1",
-            "title": "Đội tuyển Bóng đá Quốc gia Anh",
-            "type": "Đội bóng đá"
-          },
-          "value": 200,
-          "formattedValue": "+200%",
-          "link": "/trends/explore?q=/m/02pp1&date=now+7-d&geo=SG"
-        }
-      },
-      {
-        "query": "Anh",
-        "value": 200,
-        "formattedValue": "+200%",
-        "raw": {
-          "topic": {
-            "mid": "/m/02jx1",
-            "title": "Anh",
-            "type": "Quốc gia cấu thành Vương quốc Liên hiệp Anh và Bắc Ireland"
-          },
-          "value": 200,
-          "formattedValue": "+200%",
-          "link": "/trends/explore?q=/m/02jx1&date=now+7-d&geo=SG"
-        }
-      },
-      {
-        "query": "Đội tuyển bóng đá quốc gia Cộng hòa Dân chủ Congo",
-        "value": 180,
-        "formattedValue": "+180%",
-        "raw": {
-          "topic": {
-            "mid": "/m/03_st3",
-            "title": "Đội tuyển bóng đá quốc gia Cộng hòa Dân chủ Congo",
-            "type": "Đội bóng đá"
-          },
-          "value": 180,
-          "formattedValue": "+180%",
-          "link": "/trends/explore?q=/m/03_st3&date=now+7-d&geo=SG"
-        }
-      },
-      {
         "query": "Bỉ",
-        "value": 170,
-        "formattedValue": "+170%",
+        "value": 300,
+        "formattedValue": "+300%",
         "raw": {
           "topic": {
             "mid": "/m/0154j",
             "title": "Bỉ",
             "type": "Quốc gia ở Châu Âu"
           },
-          "value": 170,
-          "formattedValue": "+170%",
+          "value": 300,
+          "formattedValue": "+300%",
           "link": "/trends/explore?q=/m/0154j&date=now+7-d&geo=SG"
         }
       },
       {
-        "query": "Đội tuyển bóng đá quốc gia Na Uy",
-        "value": 160,
-        "formattedValue": "+160%",
+        "query": "Giải Vô địch Wimbledon",
+        "value": 300,
+        "formattedValue": "+300%",
         "raw": {
           "topic": {
-            "mid": "/m/01cw24",
-            "title": "Đội tuyển bóng đá quốc gia Na Uy",
-            "type": "Đội bóng đá"
+            "mid": "/m/0mmmt",
+            "title": "Giải Vô địch Wimbledon",
+            "type": "Cuộc thi đấu quần vợt"
           },
-          "value": 160,
-          "formattedValue": "+160%",
-          "link": "/trends/explore?q=/m/01cw24&date=now+7-d&geo=SG"
+          "value": 300,
+          "formattedValue": "+300%",
+          "link": "/trends/explore?q=/m/0mmmt&date=now+7-d&geo=SG"
         }
       },
       {
-        "query": "Tháng 7",
-        "value": 130,
-        "formattedValue": "+130%",
+        "query": "Đội tuyển bóng đá quốc gia Cabo Verde",
+        "value": 300,
+        "formattedValue": "+300%",
         "raw": {
           "topic": {
-            "mid": "/m/040fv",
-            "title": "Tháng 7",
-            "type": "Tháng"
+            "mid": "/m/04h5tx",
+            "title": "Đội tuyển bóng đá quốc gia Cabo Verde",
+            "type": "Đội bóng đá"
           },
-          "value": 130,
-          "formattedValue": "+130%",
-          "link": "/trends/explore?q=/m/040fv&date=now+7-d&geo=SG"
+          "value": 300,
+          "formattedValue": "+300%",
+          "link": "/trends/explore?q=/m/04h5tx&date=now+7-d&geo=SG"
+        }
+      },
+      {
+        "query": "Đội tuyển Bóng đá Quốc gia Anh",
+        "value": 250,
+        "formattedValue": "+250%",
+        "raw": {
+          "topic": {
+            "mid": "/m/02pp1",
+            "title": "Đội tuyển Bóng đá Quốc gia Anh",
+            "type": "Đội bóng đá"
+          },
+          "value": 250,
+          "formattedValue": "+250%",
+          "link": "/trends/explore?q=/m/02pp1&date=now+7-d&geo=SG"
+        }
+      },
+      {
+        "query": "Đội tuyển bóng đá quốc gia Cộng hòa Dân chủ Congo",
+        "value": 250,
+        "formattedValue": "+250%",
+        "raw": {
+          "topic": {
+            "mid": "/m/03_st3",
+            "title": "Đội tuyển bóng đá quốc gia Cộng hòa Dân chủ Congo",
+            "type": "Đội bóng đá"
+          },
+          "value": 250,
+          "formattedValue": "+250%",
+          "link": "/trends/explore?q=/m/03_st3&date=now+7-d&geo=SG"
+        }
+      },
+      {
+        "query": "Amapiano",
+        "value": 250,
+        "formattedValue": "+250%",
+        "raw": {
+          "topic": {
+            "mid": "/g/11j0jg007_",
+            "title": "Amapiano",
+            "type": "Thể loại nhạc"
+          },
+          "value": 250,
+          "formattedValue": "+250%",
+          "link": "/trends/explore?q=/g/11j0jg007_&date=now+7-d&geo=SG"
+        }
+      },
+      {
+        "query": "Anh",
+        "value": 250,
+        "formattedValue": "+250%",
+        "raw": {
+          "topic": {
+            "mid": "/m/02jx1",
+            "title": "Anh",
+            "type": "Quốc gia cấu thành Vương quốc Liên hiệp Anh và Bắc Ireland"
+          },
+          "value": 250,
+          "formattedValue": "+250%",
+          "link": "/trends/explore?q=/m/02jx1&date=now+7-d&geo=SG"
+        }
+      },
+      {
+        "query": "Đội tuyển Bóng đá Quốc gia Paraguay",
+        "value": 250,
+        "formattedValue": "+250%",
+        "raw": {
+          "topic": {
+            "mid": "/m/03d8m4",
+            "title": "Đội tuyển Bóng đá Quốc gia Paraguay",
+            "type": "Đội bóng đá"
+          },
+          "value": 250,
+          "formattedValue": "+250%",
+          "link": "/trends/explore?q=/m/03d8m4&date=now+7-d&geo=SG"
+        }
+      },
+      {
+        "query": "Video âm nhạc",
+        "value": 190,
+        "formattedValue": "+190%",
+        "raw": {
+          "topic": {
+            "mid": "/m/0mdxd",
+            "title": "Video âm nhạc",
+            "type": "Thể loại phim"
+          },
+          "value": 190,
+          "formattedValue": "+190%",
+          "link": "/trends/explore?q=/m/0mdxd&date=now+7-d&geo=SG"
+        }
+      },
+      {
+        "query": "Tây Ban Nha",
+        "value": 180,
+        "formattedValue": "+180%",
+        "raw": {
+          "topic": {
+            "mid": "/m/06mkj",
+            "title": "Tây Ban Nha",
+            "type": "Quốc gia"
+          },
+          "value": 180,
+          "formattedValue": "+180%",
+          "link": "/trends/explore?q=/m/06mkj&date=now+7-d&geo=SG"
         }
       },
       {
         "query": "Erling Haaland",
-        "value": 130,
-        "formattedValue": "+130%",
+        "value": 160,
+        "formattedValue": "+160%",
         "raw": {
           "topic": {
             "mid": "/g/11c6y_yl51",
             "title": "Erling Haaland",
             "type": "Cầu thủ"
           },
-          "value": 130,
-          "formattedValue": "+130%",
+          "value": 160,
+          "formattedValue": "+160%",
           "link": "/trends/explore?q=/g/11c6y_yl51&date=now+7-d&geo=SG"
         }
       },
       {
-        "query": "National Day Parade",
-        "value": 100,
-        "formattedValue": "+100%",
+        "query": "Đội tuyển Bóng đá Quốc gia Argentina",
+        "value": 150,
+        "formattedValue": "+150%",
         "raw": {
           "topic": {
-            "mid": "/m/06cz_3",
-            "title": "National Day Parade",
-            "type": "Chủ đề"
+            "mid": "/m/02bh_v",
+            "title": "Đội tuyển Bóng đá Quốc gia Argentina",
+            "type": "Đội bóng đá"
           },
-          "value": 100,
-          "formattedValue": "+100%",
-          "link": "/trends/explore?q=/m/06cz_3&date=now+7-d&geo=SG"
+          "value": 150,
+          "formattedValue": "+150%",
+          "link": "/trends/explore?q=/m/02bh_v&date=now+7-d&geo=SG"
         }
       },
       {
-        "query": "Nhập nhằng",
-        "value": 90,
-        "formattedValue": "+90%",
+        "query": "Đội tuyển Bóng đá Quốc gia Bồ Đào Nha",
+        "value": 150,
+        "formattedValue": "+150%",
         "raw": {
           "topic": {
-            "mid": "/g/11bc5cxrtv",
-            "title": "Nhập nhằng",
-            "type": "Chủ đề"
+            "mid": "/m/02rqxc",
+            "title": "Đội tuyển Bóng đá Quốc gia Bồ Đào Nha",
+            "type": "Đội bóng đá"
           },
-          "value": 90,
-          "formattedValue": "+90%",
-          "link": "/trends/explore?q=/g/11bc5cxrtv&date=now+7-d&geo=SG"
+          "value": 150,
+          "formattedValue": "+150%",
+          "link": "/trends/explore?q=/m/02rqxc&date=now+7-d&geo=SG"
         }
       },
       {
-        "query": "Pháp",
-        "value": 90,
-        "formattedValue": "+90%",
+        "query": "Ai Cập",
+        "value": 140,
+        "formattedValue": "+140%",
         "raw": {
           "topic": {
-            "mid": "/m/0f8l9c",
-            "title": "Pháp",
-            "type": "Quốc gia ở Châu Âu"
+            "mid": "/m/02k54",
+            "title": "Ai Cập",
+            "type": "Quốc gia"
           },
-          "value": 90,
-          "formattedValue": "+90%",
-          "link": "/trends/explore?q=/m/0f8l9c&date=now+7-d&geo=SG"
+          "value": 140,
+          "formattedValue": "+140%",
+          "link": "/trends/explore?q=/m/02k54&date=now+7-d&geo=SG"
         }
       },
       {
-        "query": "Brazil",
-        "value": 80,
-        "formattedValue": "+80%",
+        "query": "Đội tuyển bóng đá quốc gia Na Uy",
+        "value": 120,
+        "formattedValue": "+120%",
         "raw": {
           "topic": {
-            "mid": "/m/015fr",
-            "title": "Brazil",
-            "type": "Quốc gia ở Nam Mỹ"
+            "mid": "/m/01cw24",
+            "title": "Đội tuyển bóng đá quốc gia Na Uy",
+            "type": "Đội bóng đá"
           },
-          "value": 80,
-          "formattedValue": "+80%",
-          "link": "/trends/explore?q=/m/015fr&date=now+7-d&geo=SG"
+          "value": 120,
+          "formattedValue": "+120%",
+          "link": "/trends/explore?q=/m/01cw24&date=now+7-d&geo=SG"
         }
       },
       {
-        "query": "Na Uy",
-        "value": 70,
-        "formattedValue": "+70%",
+        "query": "Tháng 7",
+        "value": 120,
+        "formattedValue": "+120%",
         "raw": {
           "topic": {
-            "mid": "/m/05b4w",
-            "title": "Na Uy",
-            "type": "Quốc gia ở Châu Âu"
+            "mid": "/m/040fv",
+            "title": "Tháng 7",
+            "type": "Tháng"
           },
-          "value": 70,
-          "formattedValue": "+70%",
-          "link": "/trends/explore?q=/m/05b4w&date=now+7-d&geo=SG"
+          "value": 120,
+          "formattedValue": "+120%",
+          "link": "/trends/explore?q=/m/040fv&date=now+7-d&geo=SG"
         }
       },
       {
         "query": "Pokémon",
-        "value": 70,
-        "formattedValue": "+70%",
+        "value": 100,
+        "formattedValue": "+100%",
         "raw": {
           "topic": {
             "mid": "/m/05b1n7",
             "title": "Pokémon",
             "type": "Dòng trò chơi"
           },
-          "value": 70,
-          "formattedValue": "+70%",
+          "value": 100,
+          "formattedValue": "+100%",
           "link": "/trends/explore?q=/m/05b1n7&date=now+7-d&geo=SG"
-        }
-      },
-      {
-        "query": "Mexico",
-        "value": 70,
-        "formattedValue": "+70%",
-        "raw": {
-          "topic": {
-            "mid": "/m/0b90_r",
-            "title": "Mexico",
-            "type": "Quốc gia ở Bắc Mỹ"
-          },
-          "value": 70,
-          "formattedValue": "+70%",
-          "link": "/trends/explore?q=/m/0b90_r&date=now+7-d&geo=SG"
         }
       }
     ]
@@ -781,38 +781,62 @@
       },
       {
         "query": "movie",
-        "value": 64,
-        "formattedValue": "64",
+        "value": 65,
+        "formattedValue": "65",
         "raw": {
           "query": "movie",
-          "value": 64,
-          "formattedValue": "64",
+          "value": 65,
+          "formattedValue": "65",
           "hasData": true,
           "link": "/trends/explore?q=movie&date=now+7-d&geo=SG"
         }
       },
       {
         "query": "songs",
-        "value": 56,
-        "formattedValue": "56",
+        "value": 55,
+        "formattedValue": "55",
         "raw": {
           "query": "songs",
-          "value": 56,
-          "formattedValue": "56",
+          "value": 55,
+          "formattedValue": "55",
           "hasData": true,
           "link": "/trends/explore?q=songs&date=now+7-d&geo=SG"
         }
       },
       {
         "query": "world cup",
-        "value": 51,
-        "formattedValue": "51",
+        "value": 50,
+        "formattedValue": "50",
         "raw": {
           "query": "world cup",
-          "value": 51,
-          "formattedValue": "51",
+          "value": 50,
+          "formattedValue": "50",
           "hasData": true,
           "link": "/trends/explore?q=world+cup&date=now+7-d&geo=SG"
+        }
+      },
+      {
+        "query": "world cup 2026",
+        "value": 36,
+        "formattedValue": "36",
+        "raw": {
+          "query": "world cup 2026",
+          "value": 36,
+          "formattedValue": "36",
+          "hasData": true,
+          "link": "/trends/explore?q=world+cup+2026&date=now+7-d&geo=SG"
+        }
+      },
+      {
+        "query": "music",
+        "value": 35,
+        "formattedValue": "35",
+        "raw": {
+          "query": "music",
+          "value": 35,
+          "formattedValue": "35",
+          "hasData": true,
+          "link": "/trends/explore?q=music&date=now+7-d&geo=SG"
         }
       },
       {
@@ -828,51 +852,15 @@
         }
       },
       {
-        "query": "world cup 2026",
-        "value": 34,
-        "formattedValue": "34",
-        "raw": {
-          "query": "world cup 2026",
-          "value": 34,
-          "formattedValue": "34",
-          "hasData": true,
-          "link": "/trends/explore?q=world+cup+2026&date=now+7-d&geo=SG"
-        }
-      },
-      {
-        "query": "music",
-        "value": 30,
-        "formattedValue": "30",
-        "raw": {
-          "query": "music",
-          "value": 30,
-          "formattedValue": "30",
-          "hasData": true,
-          "link": "/trends/explore?q=music&date=now+7-d&geo=SG"
-        }
-      },
-      {
         "query": "karaoke",
-        "value": 23,
-        "formattedValue": "23",
+        "value": 22,
+        "formattedValue": "22",
         "raw": {
           "query": "karaoke",
-          "value": 23,
-          "formattedValue": "23",
+          "value": 22,
+          "formattedValue": "22",
           "hasData": true,
           "link": "/trends/explore?q=karaoke&date=now+7-d&geo=SG"
-        }
-      },
-      {
-        "query": "dance",
-        "value": 20,
-        "formattedValue": "20",
-        "raw": {
-          "query": "dance",
-          "value": 20,
-          "formattedValue": "20",
-          "hasData": true,
-          "link": "/trends/explore?q=dance&date=now+7-d&geo=SG"
         }
       },
       {
@@ -888,27 +876,39 @@
         }
       },
       {
-        "query": "trailer",
-        "value": 17,
-        "formattedValue": "17",
+        "query": "argentina",
+        "value": 15,
+        "formattedValue": "15",
         "raw": {
-          "query": "trailer",
-          "value": 17,
-          "formattedValue": "17",
+          "query": "argentina",
+          "value": 15,
+          "formattedValue": "15",
           "hasData": true,
-          "link": "/trends/explore?q=trailer&date=now+7-d&geo=SG"
+          "link": "/trends/explore?q=argentina&date=now+7-d&geo=SG"
         }
       },
       {
         "query": "fifa",
-        "value": 14,
-        "formattedValue": "14",
+        "value": 15,
+        "formattedValue": "15",
         "raw": {
           "query": "fifa",
-          "value": 14,
-          "formattedValue": "14",
+          "value": 15,
+          "formattedValue": "15",
           "hasData": true,
           "link": "/trends/explore?q=fifa&date=now+7-d&geo=SG"
+        }
+      },
+      {
+        "query": "portugal",
+        "value": 13,
+        "formattedValue": "13",
+        "raw": {
+          "query": "portugal",
+          "value": 13,
+          "formattedValue": "13",
+          "hasData": true,
+          "link": "/trends/explore?q=portugal&date=now+7-d&geo=SG"
         }
       },
       {
@@ -924,27 +924,27 @@
         }
       },
       {
-        "query": "roblox",
-        "value": 13,
-        "formattedValue": "13",
-        "raw": {
-          "query": "roblox",
-          "value": 13,
-          "formattedValue": "13",
-          "hasData": true,
-          "link": "/trends/explore?q=roblox&date=now+7-d&geo=SG"
-        }
-      },
-      {
-        "query": "tamil songs",
+        "query": "football",
         "value": 12,
         "formattedValue": "12",
         "raw": {
-          "query": "tamil songs",
+          "query": "football",
           "value": 12,
           "formattedValue": "12",
           "hasData": true,
-          "link": "/trends/explore?q=tamil+songs&date=now+7-d&geo=SG"
+          "link": "/trends/explore?q=football&date=now+7-d&geo=SG"
+        }
+      },
+      {
+        "query": "roblox",
+        "value": 12,
+        "formattedValue": "12",
+        "raw": {
+          "query": "roblox",
+          "value": 12,
+          "formattedValue": "12",
+          "hasData": true,
+          "link": "/trends/explore?q=roblox&date=now+7-d&geo=SG"
         }
       },
       {
@@ -960,6 +960,18 @@
         }
       },
       {
+        "query": "tamil songs",
+        "value": 12,
+        "formattedValue": "12",
+        "raw": {
+          "query": "tamil songs",
+          "value": 12,
+          "formattedValue": "12",
+          "hasData": true,
+          "link": "/trends/explore?q=tamil+songs&date=now+7-d&geo=SG"
+        }
+      },
+      {
         "query": "asmr",
         "value": 12,
         "formattedValue": "12",
@@ -969,30 +981,6 @@
           "formattedValue": "12",
           "hasData": true,
           "link": "/trends/explore?q=asmr&date=now+7-d&geo=SG"
-        }
-      },
-      {
-        "query": "portugal",
-        "value": 12,
-        "formattedValue": "12",
-        "raw": {
-          "query": "portugal",
-          "value": 12,
-          "formattedValue": "12",
-          "hasData": true,
-          "link": "/trends/explore?q=portugal&date=now+7-d&geo=SG"
-        }
-      },
-      {
-        "query": "football",
-        "value": 11,
-        "formattedValue": "11",
-        "raw": {
-          "query": "football",
-          "value": 11,
-          "formattedValue": "11",
-          "hasData": true,
-          "link": "/trends/explore?q=football&date=now+7-d&geo=SG"
         }
       },
       {
@@ -1020,27 +1008,15 @@
         }
       },
       {
-        "query": "france",
+        "query": "food",
         "value": 10,
         "formattedValue": "10",
         "raw": {
-          "query": "france",
+          "query": "food",
           "value": 10,
           "formattedValue": "10",
           "hasData": true,
-          "link": "/trends/explore?q=france&date=now+7-d&geo=SG"
-        }
-      },
-      {
-        "query": "argentina",
-        "value": 10,
-        "formattedValue": "10",
-        "raw": {
-          "query": "argentina",
-          "value": 10,
-          "formattedValue": "10",
-          "hasData": true,
-          "link": "/trends/explore?q=argentina&date=now+7-d&geo=SG"
+          "link": "/trends/explore?q=food&date=now+7-d&geo=SG"
         }
       },
       {
@@ -1056,137 +1032,205 @@
         }
       },
       {
-        "query": "tamil full movie",
+        "query": "france",
+        "value": 9,
+        "formattedValue": "9",
+        "raw": {
+          "query": "france",
+          "value": 9,
+          "formattedValue": "9",
+          "hasData": true,
+          "link": "/trends/explore?q=france&date=now+7-d&geo=SG"
+        }
+      },
+      {
+        "query": "youtube",
         "value": 8,
         "formattedValue": "8",
         "raw": {
-          "query": "tamil full movie",
+          "query": "youtube",
           "value": 8,
           "formattedValue": "8",
           "hasData": true,
-          "link": "/trends/explore?q=tamil+full+movie&date=now+7-d&geo=SG"
+          "link": "/trends/explore?q=youtube&date=now+7-d&geo=SG"
+        }
+      },
+      {
+        "query": "cat",
+        "value": 7,
+        "formattedValue": "7",
+        "raw": {
+          "query": "cat",
+          "value": 7,
+          "formattedValue": "7",
+          "hasData": true,
+          "link": "/trends/explore?q=cat&date=now+7-d&geo=SG"
         }
       }
     ],
     "rising": [
       {
         "query": "england mexico",
-        "value": 9650,
+        "value": 10600,
         "formattedValue": "Đột phá",
         "raw": {
           "query": "england mexico",
-          "value": 9650,
+          "value": 10600,
           "formattedValue": "Đột phá",
           "link": "/trends/explore?q=england+mexico&date=now+7-d&geo=SG"
         }
       },
       {
-        "query": "brazil norway",
+        "query": "cape verde vs argentina",
+        "value": 8650,
+        "formattedValue": "Đột phá",
+        "raw": {
+          "query": "cape verde vs argentina",
+          "value": 8650,
+          "formattedValue": "Đột phá",
+          "link": "/trends/explore?q=cape+verde+vs+argentina&date=now+7-d&geo=SG"
+        }
+      },
+      {
+        "query": "england vs mexico",
         "value": 8450,
         "formattedValue": "Đột phá",
         "raw": {
-          "query": "brazil norway",
+          "query": "england vs mexico",
           "value": 8450,
           "formattedValue": "Đột phá",
-          "link": "/trends/explore?q=brazil+norway&date=now+7-d&geo=SG"
+          "link": "/trends/explore?q=england+vs+mexico&date=now+7-d&geo=SG"
         }
       },
       {
-        "query": "argentina vs cape verde",
-        "value": 8400,
+        "query": "brazil vs norway",
+        "value": 7350,
         "formattedValue": "Đột phá",
         "raw": {
-          "query": "argentina vs cape verde",
-          "value": 8400,
+          "query": "brazil vs norway",
+          "value": 7350,
           "formattedValue": "Đột phá",
-          "link": "/trends/explore?q=argentina+vs+cape+verde&date=now+7-d&geo=SG"
+          "link": "/trends/explore?q=brazil+vs+norway&date=now+7-d&geo=SG"
         }
       },
       {
-        "query": "norway vs brazil",
-        "value": 8250,
+        "query": "egypt vs argentina",
+        "value": 7300,
         "formattedValue": "Đột phá",
         "raw": {
-          "query": "norway vs brazil",
-          "value": 8250,
+          "query": "egypt vs argentina",
+          "value": 7300,
           "formattedValue": "Đột phá",
-          "link": "/trends/explore?q=norway+vs+brazil&date=now+7-d&geo=SG"
+          "link": "/trends/explore?q=egypt+vs+argentina&date=now+7-d&geo=SG"
         }
       },
       {
-        "query": "mexico vs england",
-        "value": 8000,
+        "query": "belgium usa",
+        "value": 5150,
         "formattedValue": "Đột phá",
         "raw": {
-          "query": "mexico vs england",
-          "value": 8000,
+          "query": "belgium usa",
+          "value": 5150,
           "formattedValue": "Đột phá",
-          "link": "/trends/explore?q=mexico+vs+england&date=now+7-d&geo=SG"
+          "link": "/trends/explore?q=belgium+usa&date=now+7-d&geo=SG"
+        }
+      },
+      {
+        "query": "belgium vs usa",
+        "value": 4050,
+        "formattedValue": "+4.050%",
+        "raw": {
+          "query": "belgium vs usa",
+          "value": 4050,
+          "formattedValue": "+4.050%",
+          "link": "/trends/explore?q=belgium+vs+usa&date=now+7-d&geo=SG"
         }
       },
       {
         "query": "france vs paraguay",
-        "value": 4850,
-        "formattedValue": "+4.850%",
+        "value": 3550,
+        "formattedValue": "+3.550%",
         "raw": {
           "query": "france vs paraguay",
-          "value": 4850,
-          "formattedValue": "+4.850%",
+          "value": 3550,
+          "formattedValue": "+3.550%",
           "link": "/trends/explore?q=france+vs+paraguay&date=now+7-d&geo=SG"
         }
       },
       {
         "query": "portugal vs croatia",
-        "value": 3450,
-        "formattedValue": "+3.450%",
+        "value": 3500,
+        "formattedValue": "+3.500%",
         "raw": {
           "query": "portugal vs croatia",
-          "value": 3450,
-          "formattedValue": "+3.450%",
+          "value": 3500,
+          "formattedValue": "+3.500%",
           "link": "/trends/explore?q=portugal+vs+croatia&date=now+7-d&geo=SG"
         }
       },
       {
         "query": "belgium vs senegal",
-        "value": 3200,
-        "formattedValue": "+3.200%",
+        "value": 3000,
+        "formattedValue": "+3.000%",
         "raw": {
           "query": "belgium vs senegal",
-          "value": 3200,
-          "formattedValue": "+3.200%",
+          "value": 3000,
+          "formattedValue": "+3.000%",
           "link": "/trends/explore?q=belgium+vs+senegal&date=now+7-d&geo=SG"
         }
       },
       {
-        "query": "england vs dr congo",
-        "value": 2600,
-        "formattedValue": "+2.600%",
-        "raw": {
-          "query": "england vs dr congo",
-          "value": 2600,
-          "formattedValue": "+2.600%",
-          "link": "/trends/explore?q=england+vs+dr+congo&date=now+7-d&geo=SG"
-        }
-      },
-      {
         "query": "australia vs egypt",
-        "value": 2350,
-        "formattedValue": "+2.350%",
+        "value": 2850,
+        "formattedValue": "+2.850%",
         "raw": {
           "query": "australia vs egypt",
-          "value": 2350,
-          "formattedValue": "+2.350%",
+          "value": 2850,
+          "formattedValue": "+2.850%",
           "link": "/trends/explore?q=australia+vs+egypt&date=now+7-d&geo=SG"
         }
       },
       {
+        "query": "usa vs belgium 2026",
+        "value": 2800,
+        "formattedValue": "+2.800%",
+        "raw": {
+          "query": "usa vs belgium 2026",
+          "value": 2800,
+          "formattedValue": "+2.800%",
+          "link": "/trends/explore?q=usa+vs+belgium+2026&date=now+7-d&geo=SG"
+        }
+      },
+      {
+        "query": "portugal vs spain",
+        "value": 2650,
+        "formattedValue": "+2.650%",
+        "raw": {
+          "query": "portugal vs spain",
+          "value": 2650,
+          "formattedValue": "+2.650%",
+          "link": "/trends/explore?q=portugal+vs+spain&date=now+7-d&geo=SG"
+        }
+      },
+      {
+        "query": "england vs dr congo",
+        "value": 2400,
+        "formattedValue": "+2.400%",
+        "raw": {
+          "query": "england vs dr congo",
+          "value": 2400,
+          "formattedValue": "+2.400%",
+          "link": "/trends/explore?q=england+vs+dr+congo&date=now+7-d&geo=SG"
+        }
+      },
+      {
         "query": "england vs congo",
-        "value": 2200,
-        "formattedValue": "+2.200%",
+        "value": 2100,
+        "formattedValue": "+2.100%",
         "raw": {
           "query": "england vs congo",
-          "value": 2200,
-          "formattedValue": "+2.200%",
+          "value": 2100,
+          "formattedValue": "+2.100%",
           "link": "/trends/explore?q=england+vs+congo&date=now+7-d&geo=SG"
         }
       },
@@ -1202,58 +1246,47 @@
         }
       },
       {
-        "query": "france vs sweden",
+        "query": "spain vs portugal 2026",
         "value": 1900,
         "formattedValue": "+1.900%",
         "raw": {
-          "query": "france vs sweden",
+          "query": "spain vs portugal 2026",
           "value": 1900,
           "formattedValue": "+1.900%",
-          "link": "/trends/explore?q=france+vs+sweden&date=now+7-d&geo=SG"
-        }
-      },
-      {
-        "query": "norway vs ivory coast",
-        "value": 1900,
-        "formattedValue": "+1.900%",
-        "raw": {
-          "query": "norway vs ivory coast",
-          "value": 1900,
-          "formattedValue": "+1.900%",
-          "link": "/trends/explore?q=norway+vs+ivory+coast&date=now+7-d&geo=SG"
+          "link": "/trends/explore?q=spain+vs+portugal+2026&date=now+7-d&geo=SG"
         }
       },
       {
         "query": "spain vs austria",
-        "value": 1900,
-        "formattedValue": "+1.900%",
+        "value": 1850,
+        "formattedValue": "+1.850%",
         "raw": {
           "query": "spain vs austria",
-          "value": 1900,
-          "formattedValue": "+1.900%",
+          "value": 1850,
+          "formattedValue": "+1.850%",
           "link": "/trends/explore?q=spain+vs+austria&date=now+7-d&geo=SG"
         }
       },
       {
-        "query": "canada vs morocco",
-        "value": 1700,
-        "formattedValue": "+1.700%",
+        "query": "portugal vs spain 2026 world cup",
+        "value": 1750,
+        "formattedValue": "+1.750%",
         "raw": {
-          "query": "canada vs morocco",
-          "value": 1700,
-          "formattedValue": "+1.700%",
-          "link": "/trends/explore?q=canada+vs+morocco&date=now+7-d&geo=SG"
+          "query": "portugal vs spain 2026 world cup",
+          "value": 1750,
+          "formattedValue": "+1.750%",
+          "link": "/trends/explore?q=portugal+vs+spain+2026+world+cup&date=now+7-d&geo=SG"
         }
       },
       {
-        "query": "spain vs portugal",
-        "value": 1550,
-        "formattedValue": "+1.550%",
+        "query": "canada vs morocco",
+        "value": 1600,
+        "formattedValue": "+1.600%",
         "raw": {
-          "query": "spain vs portugal",
-          "value": 1550,
-          "formattedValue": "+1.550%",
-          "link": "/trends/explore?q=spain+vs+portugal&date=now+7-d&geo=SG"
+          "query": "canada vs morocco",
+          "value": 1600,
+          "formattedValue": "+1.600%",
+          "link": "/trends/explore?q=canada+vs+morocco&date=now+7-d&geo=SG"
         }
       },
       {
@@ -1268,28 +1301,6 @@
         }
       },
       {
-        "query": "usa vs bosnia and herzegovina",
-        "value": 1500,
-        "formattedValue": "+1.500%",
-        "raw": {
-          "query": "usa vs bosnia and herzegovina",
-          "value": 1500,
-          "formattedValue": "+1.500%",
-          "link": "/trends/explore?q=usa+vs+bosnia+and+herzegovina&date=now+7-d&geo=SG"
-        }
-      },
-      {
-        "query": "mexico vs ecuador",
-        "value": 1450,
-        "formattedValue": "+1.450%",
-        "raw": {
-          "query": "mexico vs ecuador",
-          "value": 1450,
-          "formattedValue": "+1.450%",
-          "link": "/trends/explore?q=mexico+vs+ecuador&date=now+7-d&geo=SG"
-        }
-      },
-      {
         "query": "portugal vs croatia highlights",
         "value": 1400,
         "formattedValue": "+1.400%",
@@ -1301,46 +1312,35 @@
         }
       },
       {
-        "query": "saf day 2026",
-        "value": 1300,
-        "formattedValue": "+1.300%",
+        "query": "usa vs bosnia and herzegovina",
+        "value": 1350,
+        "formattedValue": "+1.350%",
         "raw": {
-          "query": "saf day 2026",
-          "value": 1300,
-          "formattedValue": "+1.300%",
-          "link": "/trends/explore?q=saf+day+2026&date=now+7-d&geo=SG"
+          "query": "usa vs bosnia and herzegovina",
+          "value": 1350,
+          "formattedValue": "+1.350%",
+          "link": "/trends/explore?q=usa+vs+bosnia+and+herzegovina&date=now+7-d&geo=SG"
         }
       },
       {
         "query": "brazil vs norway 2026",
-        "value": 1300,
-        "formattedValue": "+1.300%",
+        "value": 1350,
+        "formattedValue": "+1.350%",
         "raw": {
           "query": "brazil vs norway 2026",
-          "value": 1300,
-          "formattedValue": "+1.300%",
+          "value": 1350,
+          "formattedValue": "+1.350%",
           "link": "/trends/explore?q=brazil+vs+norway+2026&date=now+7-d&geo=SG"
         }
       },
       {
-        "query": "morocco vs canada 2026",
-        "value": 1150,
-        "formattedValue": "+1.150%",
-        "raw": {
-          "query": "morocco vs canada 2026",
-          "value": 1150,
-          "formattedValue": "+1.150%",
-          "link": "/trends/explore?q=morocco+vs+canada+2026&date=now+7-d&geo=SG"
-        }
-      },
-      {
         "query": "portugal vs croatia live",
-        "value": 1150,
-        "formattedValue": "+1.150%",
+        "value": 1200,
+        "formattedValue": "+1.200%",
         "raw": {
           "query": "portugal vs croatia live",
-          "value": 1150,
-          "formattedValue": "+1.150%",
+          "value": 1200,
+          "formattedValue": "+1.200%",
           "link": "/trends/explore?q=portugal+vs+croatia+live&date=now+7-d&geo=SG"
         }
       }
