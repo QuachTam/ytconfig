@@ -1,553 +1,1363 @@
 {
   "status": "success",
   "topics": {
-    "top": [],
-    "rising": []
-  },
-  "queries": {
     "top": [
       {
-        "query": "新聞",
+        "query": "Âm nhạc",
         "value": 100,
         "formattedValue": "100",
         "raw": {
-          "query": "新聞",
+          "topic": {
+            "mid": "/m/04rlf",
+            "title": "Âm nhạc",
+            "type": "Định dạng âm thanh"
+          },
           "value": 100,
           "formattedValue": "100",
           "hasData": true,
-          "link": "/trends/explore?q=%E6%96%B0%E8%81%9E&date=now+7-d&geo=TW"
+          "link": "/trends/explore?q=/m/04rlf&date=now+7-d&geo=TW"
         }
       },
       {
-        "query": "音樂",
-        "value": 88,
-        "formattedValue": "88",
+        "query": "Bài hát",
+        "value": 84,
+        "formattedValue": "84",
         "raw": {
-          "query": "音樂",
-          "value": 88,
-          "formattedValue": "88",
+          "topic": {
+            "mid": "/m/074ft",
+            "title": "Bài hát",
+            "type": "Loại sáng tác"
+          },
+          "value": 84,
+          "formattedValue": "84",
           "hasData": true,
-          "link": "/trends/explore?q=%E9%9F%B3%E6%A8%82&date=now+7-d&geo=TW"
+          "link": "/trends/explore?q=/m/074ft&date=now+7-d&geo=TW"
         }
       },
       {
-        "query": "電影",
-        "value": 33,
-        "formattedValue": "33",
+        "query": "Bão cuồng phong",
+        "value": 55,
+        "formattedValue": "55",
         "raw": {
-          "query": "電影",
-          "value": 33,
-          "formattedValue": "33",
+          "topic": {
+            "mid": "/m/02wv9xd",
+            "title": "Bão cuồng phong",
+            "type": "Chủ đề"
+          },
+          "value": 55,
+          "formattedValue": "55",
           "hasData": true,
-          "link": "/trends/explore?q=%E9%9B%BB%E5%BD%B1&date=now+7-d&geo=TW"
+          "link": "/trends/explore?q=/m/02wv9xd&date=now+7-d&geo=TW"
         }
       },
       {
-        "query": "新聞 直播",
-        "value": 32,
-        "formattedValue": "32",
+        "query": "Phát trực tiếp",
+        "value": 46,
+        "formattedValue": "46",
         "raw": {
-          "query": "新聞 直播",
-          "value": 32,
-          "formattedValue": "32",
+          "topic": {
+            "mid": "/g/12214wvs",
+            "title": "Phát trực tiếp",
+            "type": "Chủ đề"
+          },
+          "value": 46,
+          "formattedValue": "46",
           "hasData": true,
-          "link": "/trends/explore?q=%E6%96%B0%E8%81%9E+%E7%9B%B4%E6%92%AD&date=now+7-d&geo=TW"
+          "link": "/trends/explore?q=/g/12214wvs&date=now+7-d&geo=TW"
         }
       },
       {
-        "query": "颱風",
+        "query": "Tin tức",
         "value": 30,
         "formattedValue": "30",
         "raw": {
-          "query": "颱風",
+          "topic": {
+            "mid": "/m/05jhg",
+            "title": "Tin tức",
+            "type": "Định dạng phát thanh"
+          },
           "value": 30,
           "formattedValue": "30",
           "hasData": true,
-          "link": "/trends/explore?q=%E9%A2%B1%E9%A2%A8&date=now+7-d&geo=TW"
+          "link": "/trends/explore?q=/m/05jhg&date=now+7-d&geo=TW"
         }
       },
       {
-        "query": "短 劇",
-        "value": 29,
-        "formattedValue": "29",
-        "raw": {
-          "query": "短 劇",
-          "value": 29,
-          "formattedValue": "29",
-          "hasData": true,
-          "link": "/trends/explore?q=%E7%9F%AD+%E5%8A%87&date=now+7-d&geo=TW"
-        }
-      },
-      {
-        "query": "世 足",
+        "query": "Truyền hình trực tiếp",
         "value": 27,
         "formattedValue": "27",
         "raw": {
-          "query": "世 足",
+          "topic": {
+            "mid": "/m/02mzct",
+            "title": "Truyền hình trực tiếp",
+            "type": "Chủ đề"
+          },
           "value": 27,
           "formattedValue": "27",
           "hasData": true,
-          "link": "/trends/explore?q=%E4%B8%96+%E8%B6%B3&date=now+7-d&geo=TW"
+          "link": "/trends/explore?q=/m/02mzct&date=now+7-d&geo=TW"
         }
       },
       {
-        "query": "豆腐 媽媽",
+        "query": "2026",
+        "value": 25,
+        "formattedValue": "25",
+        "raw": {
+          "topic": {
+            "mid": "/g/11b77d6b6g",
+            "title": "2026",
+            "type": "Chủ đề"
+          },
+          "value": 25,
+          "formattedValue": "25",
+          "hasData": true,
+          "link": "/trends/explore?q=/g/11b77d6b6g&date=now+7-d&geo=TW"
+        }
+      },
+      {
+        "query": "Điện ảnh",
+        "value": 25,
+        "formattedValue": "25",
+        "raw": {
+          "topic": {
+            "mid": "/m/02vxn",
+            "title": "Điện ảnh",
+            "type": "Loại truyền hình"
+          },
+          "value": 25,
+          "formattedValue": "25",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/02vxn&date=now+7-d&geo=TW"
+        }
+      },
+      {
+        "query": "Video",
         "value": 24,
         "formattedValue": "24",
         "raw": {
-          "query": "豆腐 媽媽",
+          "topic": {
+            "mid": "/m/07z4p",
+            "title": "Video",
+            "type": "Định dạng phim"
+          },
           "value": 24,
           "formattedValue": "24",
           "hasData": true,
-          "link": "/trends/explore?q=%E8%B1%86%E8%85%90+%E5%AA%BD%E5%AA%BD&date=now+7-d&geo=TW"
+          "link": "/trends/explore?q=/m/07z4p&date=now+7-d&geo=TW"
         }
       },
       {
-        "query": "足球",
-        "value": 24,
-        "formattedValue": "24",
+        "query": "Giải Bóng đá Vô địch Thế giới",
+        "value": 23,
+        "formattedValue": "23",
         "raw": {
-          "query": "足球",
-          "value": 24,
-          "formattedValue": "24",
+          "topic": {
+            "mid": "/m/030q7",
+            "title": "Giải Bóng đá Vô địch Thế giới",
+            "type": "Giải bóng đá"
+          },
+          "value": 23,
+          "formattedValue": "23",
           "hasData": true,
-          "link": "/trends/explore?q=%E8%B6%B3%E7%90%83&date=now+7-d&geo=TW"
+          "link": "/trends/explore?q=/m/030q7&date=now+7-d&geo=TW"
         }
       },
       {
-        "query": "世界 盃",
-        "value": 22,
-        "formattedValue": "22",
+        "query": "Đài Loan",
+        "value": 21,
+        "formattedValue": "21",
         "raw": {
-          "query": "世界 盃",
-          "value": 22,
-          "formattedValue": "22",
+          "topic": {
+            "mid": "/m/06f32",
+            "title": "Đài Loan",
+            "type": "Chủ đề"
+          },
+          "value": 21,
+          "formattedValue": "21",
           "hasData": true,
-          "link": "/trends/explore?q=%E4%B8%96%E7%95%8C+%E7%9B%83&date=now+7-d&geo=TW"
+          "link": "/trends/explore?q=/m/06f32&date=now+7-d&geo=TW"
         }
       },
       {
-        "query": "roblox",
+        "query": "Tiếng Trung",
         "value": 19,
         "formattedValue": "19",
         "raw": {
-          "query": "roblox",
+          "topic": {
+            "mid": "/m/01r2l",
+            "title": "Tiếng Trung",
+            "type": "Tiếng"
+          },
           "value": 19,
           "formattedValue": "19",
           "hasData": true,
-          "link": "/trends/explore?q=roblox&date=now+7-d&geo=TW"
+          "link": "/trends/explore?q=/m/01r2l&date=now+7-d&geo=TW"
         }
       },
       {
-        "query": "百味 人生",
-        "value": 19,
-        "formattedValue": "19",
-        "raw": {
-          "query": "百味 人生",
-          "value": 19,
-          "formattedValue": "19",
-          "hasData": true,
-          "link": "/trends/explore?q=%E7%99%BE%E5%91%B3+%E4%BA%BA%E7%94%9F&date=now+7-d&geo=TW"
-        }
-      },
-      {
-        "query": "蠟筆 小 新",
+        "query": "Mèo",
         "value": 17,
         "formattedValue": "17",
         "raw": {
-          "query": "蠟筆 小 新",
+          "topic": {
+            "mid": "/m/01yrx",
+            "title": "Mèo",
+            "type": "Động vật"
+          },
           "value": 17,
           "formattedValue": "17",
           "hasData": true,
-          "link": "/trends/explore?q=%E8%A0%9F%E7%AD%86+%E5%B0%8F+%E6%96%B0&date=now+7-d&geo=TW"
+          "link": "/trends/explore?q=/m/01yrx&date=now+7-d&geo=TW"
         }
       },
       {
-        "query": "蔡 阿 嘎",
+        "query": "DJ",
         "value": 17,
         "formattedValue": "17",
         "raw": {
-          "query": "蔡 阿 嘎",
+          "topic": {
+            "mid": "/m/02dsz",
+            "title": "DJ",
+            "type": "Nghề nghiệp"
+          },
           "value": 17,
           "formattedValue": "17",
           "hasData": true,
-          "link": "/trends/explore?q=%E8%94%A1+%E9%98%BF+%E5%98%8E&date=now+7-d&geo=TW"
+          "link": "/trends/explore?q=/m/02dsz&date=now+7-d&geo=TW"
         }
       },
       {
-        "query": "東森 新聞",
-        "value": 17,
-        "formattedValue": "17",
-        "raw": {
-          "query": "東森 新聞",
-          "value": 17,
-          "formattedValue": "17",
-          "hasData": true,
-          "link": "/trends/explore?q=%E6%9D%B1%E6%A3%AE+%E6%96%B0%E8%81%9E&date=now+7-d&geo=TW"
-        }
-      },
-      {
-        "query": "動漫",
+        "query": "Karaoke",
         "value": 15,
         "formattedValue": "15",
         "raw": {
-          "query": "動漫",
+          "topic": {
+            "mid": "/m/04c5p",
+            "title": "Karaoke",
+            "type": "Chủ đề"
+          },
           "value": 15,
           "formattedValue": "15",
           "hasData": true,
-          "link": "/trends/explore?q=%E5%8B%95%E6%BC%AB&date=now+7-d&geo=TW"
+          "link": "/trends/explore?q=/m/04c5p&date=now+7-d&geo=TW"
         }
       },
       {
-        "query": "寶 可 夢",
+        "query": "Lời bài hát",
         "value": 14,
         "formattedValue": "14",
         "raw": {
-          "query": "寶 可 夢",
+          "topic": {
+            "mid": "/m/09lgd",
+            "title": "Lời bài hát",
+            "type": "Chủ đề"
+          },
           "value": 14,
           "formattedValue": "14",
           "hasData": true,
-          "link": "/trends/explore?q=%E5%AF%B6+%E5%8F%AF+%E5%A4%A2&date=now+7-d&geo=TW"
+          "link": "/trends/explore?q=/m/09lgd&date=now+7-d&geo=TW"
         }
       },
       {
-        "query": "asmr",
+        "query": "Nhảy múa",
         "value": 14,
         "formattedValue": "14",
         "raw": {
-          "query": "asmr",
+          "topic": {
+            "mid": "/m/026bk",
+            "title": "Nhảy múa",
+            "type": "Lĩnh vực nghề nghiệp"
+          },
           "value": 14,
           "formattedValue": "14",
           "hasData": true,
-          "link": "/trends/explore?q=asmr&date=now+7-d&geo=TW"
+          "link": "/trends/explore?q=/m/026bk&date=now+7-d&geo=TW"
         }
       },
       {
-        "query": "minecraft",
+        "query": "Trò chơi",
+        "value": 14,
+        "formattedValue": "14",
+        "raw": {
+          "topic": {
+            "mid": "/m/03bt1gh",
+            "title": "Trò chơi",
+            "type": "Chủ đề"
+          },
+          "value": 14,
+          "formattedValue": "14",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/03bt1gh&date=now+7-d&geo=TW"
+        }
+      },
+      {
+        "query": "Tiếng Anh",
         "value": 13,
         "formattedValue": "13",
         "raw": {
-          "query": "minecraft",
+          "topic": {
+            "mid": "/m/02h40lc",
+            "title": "Tiếng Anh",
+            "type": "Ngôn ngữ"
+          },
           "value": 13,
           "formattedValue": "13",
           "hasData": true,
-          "link": "/trends/explore?q=minecraft&date=now+7-d&geo=TW"
+          "link": "/trends/explore?q=/m/02h40lc&date=now+7-d&geo=TW"
         }
       },
       {
-        "query": "fifa",
+        "query": "Phụ nữ",
         "value": 13,
         "formattedValue": "13",
         "raw": {
-          "query": "fifa",
+          "topic": {
+            "mid": "/m/03bt1vf",
+            "title": "Phụ nữ",
+            "type": "Chủ đề"
+          },
           "value": 13,
           "formattedValue": "13",
           "hasData": true,
-          "link": "/trends/explore?q=fifa&date=now+7-d&geo=TW"
+          "link": "/trends/explore?q=/m/03bt1vf&date=now+7-d&geo=TW"
         }
       },
       {
-        "query": "阿根廷",
-        "value": 13,
-        "formattedValue": "13",
-        "raw": {
-          "query": "阿根廷",
-          "value": 13,
-          "formattedValue": "13",
-          "hasData": true,
-          "link": "/trends/explore?q=%E9%98%BF%E6%A0%B9%E5%BB%B7&date=now+7-d&geo=TW"
-        }
-      },
-      {
-        "query": "五月天",
+        "query": "Ăn",
         "value": 12,
         "formattedValue": "12",
         "raw": {
-          "query": "五月天",
+          "topic": {
+            "mid": "/m/01f5gx",
+            "title": "Ăn",
+            "type": "Chủ đề"
+          },
           "value": 12,
           "formattedValue": "12",
           "hasData": true,
-          "link": "/trends/explore?q=%E4%BA%94%E6%9C%88%E5%A4%A9&date=now+7-d&geo=TW"
+          "link": "/trends/explore?q=/m/01f5gx&date=now+7-d&geo=TW"
         }
       },
       {
-        "query": "仙 逆",
-        "value": 12,
-        "formattedValue": "12",
+        "query": "Vợ",
+        "value": 11,
+        "formattedValue": "11",
         "raw": {
-          "query": "仙 逆",
-          "value": 12,
-          "formattedValue": "12",
+          "topic": {
+            "mid": "/m/025rz_f",
+            "title": "Vợ",
+            "type": "Chủ đề"
+          },
+          "value": 11,
+          "formattedValue": "11",
           "hasData": true,
-          "link": "/trends/explore?q=%E4%BB%99+%E9%80%86&date=now+7-d&geo=TW"
+          "link": "/trends/explore?q=/m/025rz_f&date=now+7-d&geo=TW"
         }
       },
       {
-        "query": "babymonster",
-        "value": 12,
-        "formattedValue": "12",
+        "query": "Trí tuệ nhân tạo",
+        "value": 10,
+        "formattedValue": "10",
         "raw": {
-          "query": "babymonster",
-          "value": 12,
-          "formattedValue": "12",
+          "topic": {
+            "mid": "/m/0mkz",
+            "title": "Trí tuệ nhân tạo",
+            "type": "Lĩnh vực nghề nghiệp"
+          },
+          "value": 10,
+          "formattedValue": "10",
           "hasData": true,
-          "link": "/trends/explore?q=babymonster&date=now+7-d&geo=TW"
+          "link": "/trends/explore?q=/m/0mkz&date=now+7-d&geo=TW"
         }
       },
       {
-        "query": "兒歌",
-        "value": 12,
-        "formattedValue": "12",
+        "query": "Nhật Bản",
+        "value": 10,
+        "formattedValue": "10",
         "raw": {
-          "query": "兒歌",
-          "value": 12,
-          "formattedValue": "12",
+          "topic": {
+            "mid": "/m/03_3d",
+            "title": "Nhật Bản",
+            "type": "Quốc gia ở Đông Á"
+          },
+          "value": 10,
+          "formattedValue": "10",
           "hasData": true,
-          "link": "/trends/explore?q=%E5%85%92%E6%AD%8C&date=now+7-d&geo=TW"
+          "link": "/trends/explore?q=/m/03_3d&date=now+7-d&geo=TW"
+        }
+      },
+      {
+        "query": "Ô tô",
+        "value": 10,
+        "formattedValue": "10",
+        "raw": {
+          "topic": {
+            "mid": "/m/0k4j",
+            "title": "Ô tô",
+            "type": "Chế độ phương tiện"
+          },
+          "value": 10,
+          "formattedValue": "10",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/0k4j&date=now+7-d&geo=TW"
         }
       }
     ],
     "rising": [
       {
-        "query": "巴 威 颱風",
-        "value": 2250,
-        "formattedValue": "+2.250%",
+        "query": "Kung Fu Soccer",
+        "value": 2950,
+        "formattedValue": "+2.950%",
         "raw": {
-          "query": "巴 威 颱風",
-          "value": 2250,
-          "formattedValue": "+2.250%",
-          "link": "/trends/explore?q=%E5%B7%B4+%E5%A8%81+%E9%A2%B1%E9%A2%A8&date=now+7-d&geo=TW"
+          "topic": {
+            "mid": "/g/11nqlstnlg",
+            "title": "Kung Fu Soccer",
+            "type": "Chủ đề"
+          },
+          "value": 2950,
+          "formattedValue": "+2.950%",
+          "link": "/trends/explore?q=/g/11nqlstnlg&date=now+7-d&geo=TW"
         }
       },
       {
-        "query": "阿根廷 對 埃及",
-        "value": 2000,
-        "formattedValue": "+2.000%",
+        "query": "Bóng đá nữ",
+        "value": 2100,
+        "formattedValue": "+2.100%",
         "raw": {
-          "query": "阿根廷 對 埃及",
-          "value": 2000,
-          "formattedValue": "+2.000%",
-          "link": "/trends/explore?q=%E9%98%BF%E6%A0%B9%E5%BB%B7+%E5%B0%8D+%E5%9F%83%E5%8F%8A&date=now+7-d&geo=TW"
+          "topic": {
+            "mid": "/m/01b5r_",
+            "title": "Bóng đá nữ",
+            "type": "Thể thao"
+          },
+          "value": 2100,
+          "formattedValue": "+2.100%",
+          "link": "/trends/explore?q=/m/01b5r_&date=now+7-d&geo=TW"
         }
       },
       {
-        "query": "傅子純 告別 式",
-        "value": 1750,
-        "formattedValue": "+1.750%",
+        "query": "Bão Bavi",
+        "value": 1300,
+        "formattedValue": "+1.300%",
         "raw": {
-          "query": "傅子純 告別 式",
-          "value": 1750,
-          "formattedValue": "+1.750%",
-          "link": "/trends/explore?q=%E5%82%85%E5%AD%90%E7%B4%94+%E5%91%8A%E5%88%A5+%E5%BC%8F&date=now+7-d&geo=TW"
+          "topic": {
+            "mid": "/g/11hk61kc9b",
+            "title": "Bão Bavi",
+            "type": "Bão lốc xoáy nhiệt đới 2020"
+          },
+          "value": 1300,
+          "formattedValue": "+1.300%",
+          "link": "/trends/explore?q=/g/11hk61kc9b&date=now+7-d&geo=TW"
         }
       },
       {
-        "query": "阿根廷 對 維 德 角",
-        "value": 1600,
-        "formattedValue": "+1.600%",
+        "query": "Bão cuồng phong",
+        "value": 1000,
+        "formattedValue": "+1.000%",
         "raw": {
-          "query": "阿根廷 對 維 德 角",
-          "value": 1600,
-          "formattedValue": "+1.600%",
-          "link": "/trends/explore?q=%E9%98%BF%E6%A0%B9%E5%BB%B7+%E5%B0%8D+%E7%B6%AD+%E5%BE%B7+%E8%A7%92&date=now+7-d&geo=TW"
+          "topic": {
+            "mid": "/m/02wv9xd",
+            "title": "Bão cuồng phong",
+            "type": "Chủ đề"
+          },
+          "value": 1000,
+          "formattedValue": "+1.000%",
+          "link": "/trends/explore?q=/m/02wv9xd&date=now+7-d&geo=TW"
         }
       },
       {
-        "query": "nihonjinfufu",
-        "value": 1400,
-        "formattedValue": "+1.400%",
+        "query": "Lin An-ko",
+        "value": 700,
+        "formattedValue": "+700%",
         "raw": {
-          "query": "nihonjinfufu",
-          "value": 1400,
-          "formattedValue": "+1.400%",
-          "link": "/trends/explore?q=nihonjinfufu&date=now+7-d&geo=TW"
+          "topic": {
+            "mid": "/g/11fml22n56",
+            "title": "Lin An-ko",
+            "type": "Cầu thủ bóng chày"
+          },
+          "value": 700,
+          "formattedValue": "+700%",
+          "link": "/trends/explore?q=/g/11fml22n56&date=now+7-d&geo=TW"
         }
       },
       {
-        "query": "fiba",
-        "value": 1150,
-        "formattedValue": "+1.150%",
+        "query": "Palworld",
+        "value": 450,
+        "formattedValue": "+450%",
         "raw": {
-          "query": "fiba",
-          "value": 1150,
-          "formattedValue": "+1.150%",
-          "link": "/trends/explore?q=fiba&date=now+7-d&geo=TW"
+          "topic": {
+            "mid": "/g/11rfsctfg_",
+            "title": "Palworld",
+            "type": "Trò chơi điện tử"
+          },
+          "value": 450,
+          "formattedValue": "+450%",
+          "link": "/trends/explore?q=/g/11rfsctfg_&date=now+7-d&geo=TW"
         }
       },
       {
-        "query": "藍 貓",
-        "value": 550,
-        "formattedValue": "+550%",
+        "query": "Hook",
+        "value": 250,
+        "formattedValue": "+250%",
         "raw": {
-          "query": "藍 貓",
-          "value": 550,
-          "formattedValue": "+550%",
-          "link": "/trends/explore?q=%E8%97%8D+%E8%B2%93&date=now+7-d&geo=TW"
+          "topic": {
+            "mid": "/g/11k9s3v_c6",
+            "title": "Hook",
+            "type": "Người làm YouTube"
+          },
+          "value": 250,
+          "formattedValue": "+250%",
+          "link": "/trends/explore?q=/g/11k9s3v_c6&date=now+7-d&geo=TW"
         }
       },
       {
-        "query": "無職 轉生",
-        "value": 400,
-        "formattedValue": "+400%",
+        "query": "Mèo Nga xanh",
+        "value": 250,
+        "formattedValue": "+250%",
         "raw": {
-          "query": "無職 轉生",
-          "value": 400,
-          "formattedValue": "+400%",
-          "link": "/trends/explore?q=%E7%84%A1%E8%81%B7+%E8%BD%89%E7%94%9F&date=now+7-d&geo=TW"
+          "topic": {
+            "mid": "/m/012cc2",
+            "title": "Mèo Nga xanh",
+            "type": "Nòi mèo"
+          },
+          "value": 250,
+          "formattedValue": "+250%",
+          "link": "/trends/explore?q=/m/012cc2&date=now+7-d&geo=TW"
         }
       },
       {
-        "query": "阿根廷",
-        "value": 350,
-        "formattedValue": "+350%",
+        "query": "Thụy Sĩ",
+        "value": 250,
+        "formattedValue": "+250%",
         "raw": {
-          "query": "阿根廷",
-          "value": 350,
-          "formattedValue": "+350%",
-          "link": "/trends/explore?q=%E9%98%BF%E6%A0%B9%E5%BB%B7&date=now+7-d&geo=TW"
+          "topic": {
+            "mid": "/m/06mzp",
+            "title": "Thụy Sĩ",
+            "type": "Quốc gia ở Châu Âu"
+          },
+          "value": 250,
+          "formattedValue": "+250%",
+          "link": "/trends/explore?q=/m/06mzp&date=now+7-d&geo=TW"
         }
       },
       {
-        "query": "颱風 動態",
-        "value": 300,
-        "formattedValue": "+300%",
+        "query": "Anh",
+        "value": 200,
+        "formattedValue": "+200%",
         "raw": {
-          "query": "颱風 動態",
-          "value": 300,
-          "formattedValue": "+300%",
-          "link": "/trends/explore?q=%E9%A2%B1%E9%A2%A8+%E5%8B%95%E6%85%8B&date=now+7-d&geo=TW"
+          "topic": {
+            "mid": "/m/02jx1",
+            "title": "Anh",
+            "type": "Quốc gia cấu thành Vương quốc Liên hiệp Anh và Bắc Ireland"
+          },
+          "value": 200,
+          "formattedValue": "+200%",
+          "link": "/trends/explore?q=/m/02jx1&date=now+7-d&geo=TW"
+        }
+      },
+      {
+        "query": "Ai Cập",
+        "value": 180,
+        "formattedValue": "+180%",
+        "raw": {
+          "topic": {
+            "mid": "/m/02k54",
+            "title": "Ai Cập",
+            "type": "Quốc gia"
+          },
+          "value": 180,
+          "formattedValue": "+180%",
+          "link": "/trends/explore?q=/m/02k54&date=now+7-d&geo=TW"
+        }
+      },
+      {
+        "query": "Khí tượng học",
+        "value": 170,
+        "formattedValue": "+170%",
+        "raw": {
+          "topic": {
+            "mid": "/m/04__y",
+            "title": "Khí tượng học",
+            "type": "Lĩnh vực nghiên cứu"
+          },
+          "value": 170,
+          "formattedValue": "+170%",
+          "link": "/trends/explore?q=/m/04__y&date=now+7-d&geo=TW"
+        }
+      },
+      {
+        "query": "Erling Haaland",
+        "value": 150,
+        "formattedValue": "+150%",
+        "raw": {
+          "topic": {
+            "mid": "/g/11c6y_yl51",
+            "title": "Erling Haaland",
+            "type": "Cầu thủ"
+          },
+          "value": 150,
+          "formattedValue": "+150%",
+          "link": "/trends/explore?q=/g/11c6y_yl51&date=now+7-d&geo=TW"
+        }
+      },
+      {
+        "query": "Mushoku Tensei ~Isekai ittara Honki dasu~",
+        "value": 130,
+        "formattedValue": "+130%",
+        "raw": {
+          "topic": {
+            "mid": "/g/11k57h86_v",
+            "title": "Mushoku Tensei ~Isekai ittara Honki dasu~",
+            "type": "Chủ đề"
+          },
+          "value": 130,
+          "formattedValue": "+130%",
+          "link": "/trends/explore?q=/g/11k57h86_v&date=now+7-d&geo=TW"
+        }
+      },
+      {
+        "query": "i-dle",
+        "value": 120,
+        "formattedValue": "+120%",
+        "raw": {
+          "topic": {
+            "mid": "/g/11f5bxxppw",
+            "title": "i-dle",
+            "type": "Nhóm nhạc"
+          },
+          "value": 120,
+          "formattedValue": "+120%",
+          "link": "/trends/explore?q=/g/11f5bxxppw&date=now+7-d&geo=TW"
+        }
+      },
+      {
+        "query": "TVBS News",
+        "value": 120,
+        "formattedValue": "+120%",
+        "raw": {
+          "topic": {
+            "mid": "/m/02r3crx",
+            "title": "TVBS News",
+            "type": "Đài truyền hình"
+          },
+          "value": 120,
+          "formattedValue": "+120%",
+          "link": "/trends/explore?q=/m/02r3crx&date=now+7-d&geo=TW"
+        }
+      },
+      {
+        "query": "Argentina",
+        "value": 120,
+        "formattedValue": "+120%",
+        "raw": {
+          "topic": {
+            "mid": "/m/0jgd",
+            "title": "Argentina",
+            "type": "Quốc gia ở Nam Mỹ"
+          },
+          "value": 120,
+          "formattedValue": "+120%",
+          "link": "/trends/explore?q=/m/0jgd&date=now+7-d&geo=TW"
+        }
+      },
+      {
+        "query": "Tây Ban Nha",
+        "value": 100,
+        "formattedValue": "+100%",
+        "raw": {
+          "topic": {
+            "mid": "/m/06mkj",
+            "title": "Tây Ban Nha",
+            "type": "Quốc gia"
+          },
+          "value": 100,
+          "formattedValue": "+100%",
+          "link": "/trends/explore?q=/m/06mkj&date=now+7-d&geo=TW"
+        }
+      },
+      {
+        "query": "Na Uy",
+        "value": 90,
+        "formattedValue": "+90%",
+        "raw": {
+          "topic": {
+            "mid": "/m/05b4w",
+            "title": "Na Uy",
+            "type": "Quốc gia ở Châu Âu"
+          },
+          "value": 90,
+          "formattedValue": "+90%",
+          "link": "/trends/explore?q=/m/05b4w&date=now+7-d&geo=TW"
+        }
+      },
+      {
+        "query": "Joeman",
+        "value": 80,
+        "formattedValue": "+80%",
+        "raw": {
+          "topic": {
+            "mid": "/g/11f789n223",
+            "title": "Joeman",
+            "type": "Người làm YouTube"
+          },
+          "value": 80,
+          "formattedValue": "+80%",
+          "link": "/trends/explore?q=/g/11f789n223&date=now+7-d&geo=TW"
+        }
+      },
+      {
+        "query": "TVBS",
+        "value": 80,
+        "formattedValue": "+80%",
+        "raw": {
+          "topic": {
+            "mid": "/m/04gwq9",
+            "title": "TVBS",
+            "type": "Mạng truyền hình"
+          },
+          "value": 80,
+          "formattedValue": "+80%",
+          "link": "/trends/explore?q=/m/04gwq9&date=now+7-d&geo=TW"
+        }
+      },
+      {
+        "query": "Tin tức",
+        "value": 70,
+        "formattedValue": "+70%",
+        "raw": {
+          "topic": {
+            "mid": "/m/05jhg",
+            "title": "Tin tức",
+            "type": "Định dạng phát thanh"
+          },
+          "value": 70,
+          "formattedValue": "+70%",
+          "link": "/trends/explore?q=/m/05jhg&date=now+7-d&geo=TW"
+        }
+      },
+      {
+        "query": "Đài Bắc",
+        "value": 60,
+        "formattedValue": "+60%",
+        "raw": {
+          "topic": {
+            "mid": "/g/1q5bldlsj",
+            "title": "Đài Bắc",
+            "type": "Thành phố trực thuộc trung ương của Đài Loan"
+          },
+          "value": 60,
+          "formattedValue": "+60%",
+          "link": "/trends/explore?q=/g/1q5bldlsj&date=now+7-d&geo=TW"
+        }
+      },
+      {
+        "query": "Tiên",
+        "value": 60,
+        "formattedValue": "+60%",
+        "raw": {
+          "topic": {
+            "mid": "/m/0274184",
+            "title": "Tiên",
+            "type": "Chủ đề"
+          },
+          "value": 60,
+          "formattedValue": "+60%",
+          "link": "/trends/explore?q=/m/0274184&date=now+7-d&geo=TW"
+        }
+      },
+      {
+        "query": "EBC News",
+        "value": 60,
+        "formattedValue": "+60%",
+        "raw": {
+          "topic": {
+            "mid": "/m/03csq8x",
+            "title": "EBC News",
+            "type": "Kênh truyền hình"
+          },
+          "value": 60,
+          "formattedValue": "+60%",
+          "link": "/trends/explore?q=/m/03csq8x&date=now+7-d&geo=TW"
+        }
+      }
+    ]
+  },
+  "queries": {
+    "top": [
+      {
+        "query": "music",
+        "value": 100,
+        "formattedValue": "100",
+        "raw": {
+          "query": "music",
+          "value": 100,
+          "formattedValue": "100",
+          "hasData": true,
+          "link": "/trends/explore?q=music&date=now+7-d&geo=TW"
         }
       },
       {
         "query": "颱風",
-        "value": 250,
-        "formattedValue": "+250%",
+        "value": 81,
+        "formattedValue": "81",
         "raw": {
           "query": "颱風",
-          "value": 250,
-          "formattedValue": "+250%",
+          "value": 81,
+          "formattedValue": "81",
+          "hasData": true,
           "link": "/trends/explore?q=%E9%A2%B1%E9%A2%A8&date=now+7-d&geo=TW"
         }
       },
       {
-        "query": "ray",
-        "value": 200,
-        "formattedValue": "+200%",
+        "query": "新聞",
+        "value": 73,
+        "formattedValue": "73",
         "raw": {
-          "query": "ray",
-          "value": 200,
-          "formattedValue": "+200%",
-          "link": "/trends/explore?q=ray&date=now+7-d&geo=TW"
+          "query": "新聞",
+          "value": 73,
+          "formattedValue": "73",
+          "hasData": true,
+          "link": "/trends/explore?q=%E6%96%B0%E8%81%9E&date=now+7-d&geo=TW"
         }
       },
       {
-        "query": "魯 冰花",
-        "value": 170,
-        "formattedValue": "+170%",
+        "query": "直播",
+        "value": 68,
+        "formattedValue": "68",
         "raw": {
-          "query": "魯 冰花",
-          "value": 170,
-          "formattedValue": "+170%",
-          "link": "/trends/explore?q=%E9%AD%AF+%E5%86%B0%E8%8A%B1&date=now+7-d&geo=TW"
+          "query": "直播",
+          "value": 68,
+          "formattedValue": "68",
+          "hasData": true,
+          "link": "/trends/explore?q=%E7%9B%B4%E6%92%AD&date=now+7-d&geo=TW"
         }
       },
       {
-        "query": "bad ateez",
-        "value": 150,
-        "formattedValue": "+150%",
+        "query": "歌",
+        "value": 55,
+        "formattedValue": "55",
         "raw": {
-          "query": "bad ateez",
-          "value": 150,
-          "formattedValue": "+150%",
-          "link": "/trends/explore?q=bad+ateez&date=now+7-d&geo=TW"
+          "query": "歌",
+          "value": 55,
+          "formattedValue": "55",
+          "hasData": true,
+          "link": "/trends/explore?q=%E6%AD%8C&date=now+7-d&geo=TW"
         }
       },
       {
-        "query": "五月天",
-        "value": 120,
-        "formattedValue": "+120%",
+        "query": "音樂",
+        "value": 41,
+        "formattedValue": "41",
         "raw": {
-          "query": "五月天",
-          "value": 120,
-          "formattedValue": "+120%",
-          "link": "/trends/explore?q=%E4%BA%94%E6%9C%88%E5%A4%A9&date=now+7-d&geo=TW"
+          "query": "音樂",
+          "value": 41,
+          "formattedValue": "41",
+          "hasData": true,
+          "link": "/trends/explore?q=%E9%9F%B3%E6%A8%82&date=now+7-d&geo=TW"
         }
       },
       {
-        "query": "哈 蘭 德",
-        "value": 110,
-        "formattedValue": "+110%",
+        "query": "新聞 直播",
+        "value": 29,
+        "formattedValue": "29",
         "raw": {
-          "query": "哈 蘭 德",
-          "value": 110,
-          "formattedValue": "+110%",
-          "link": "/trends/explore?q=%E5%93%88+%E8%98%AD+%E5%BE%B7&date=now+7-d&geo=TW"
+          "query": "新聞 直播",
+          "value": 29,
+          "formattedValue": "29",
+          "hasData": true,
+          "link": "/trends/explore?q=%E6%96%B0%E8%81%9E+%E7%9B%B4%E6%92%AD&date=now+7-d&geo=TW"
         }
       },
       {
-        "query": "idle",
-        "value": 90,
-        "formattedValue": "+90%",
+        "query": "dj",
+        "value": 28,
+        "formattedValue": "28",
         "raw": {
-          "query": "idle",
-          "value": 90,
-          "formattedValue": "+90%",
-          "link": "/trends/explore?q=idle&date=now+7-d&geo=TW"
+          "query": "dj",
+          "value": 28,
+          "formattedValue": "28",
+          "hasData": true,
+          "link": "/trends/explore?q=dj&date=now+7-d&geo=TW"
         }
       },
       {
-        "query": "hook",
-        "value": 90,
-        "formattedValue": "+90%",
+        "query": "颱風 動態",
+        "value": 24,
+        "formattedValue": "24",
         "raw": {
-          "query": "hook",
-          "value": 90,
-          "formattedValue": "+90%",
-          "link": "/trends/explore?q=hook&date=now+7-d&geo=TW"
+          "query": "颱風 動態",
+          "value": 24,
+          "formattedValue": "24",
+          "hasData": true,
+          "link": "/trends/explore?q=%E9%A2%B1%E9%A2%A8+%E5%8B%95%E6%85%8B&date=now+7-d&geo=TW"
         }
       },
       {
-        "query": "ateez",
-        "value": 80,
-        "formattedValue": "+80%",
+        "query": "電影",
+        "value": 18,
+        "formattedValue": "18",
         "raw": {
-          "query": "ateez",
-          "value": 80,
-          "formattedValue": "+80%",
-          "link": "/trends/explore?q=ateez&date=now+7-d&geo=TW"
+          "query": "電影",
+          "value": 18,
+          "formattedValue": "18",
+          "hasData": true,
+          "link": "/trends/explore?q=%E9%9B%BB%E5%BD%B1&date=now+7-d&geo=TW"
         }
       },
       {
-        "query": "msi",
-        "value": 70,
-        "formattedValue": "+70%",
+        "query": "即時 影像",
+        "value": 17,
+        "formattedValue": "17",
         "raw": {
-          "query": "msi",
-          "value": 70,
-          "formattedValue": "+70%",
-          "link": "/trends/explore?q=msi&date=now+7-d&geo=TW"
+          "query": "即時 影像",
+          "value": 17,
+          "formattedValue": "17",
+          "hasData": true,
+          "link": "/trends/explore?q=%E5%8D%B3%E6%99%82+%E5%BD%B1%E5%83%8F&date=now+7-d&geo=TW"
         }
       },
       {
-        "query": "bad",
-        "value": 60,
-        "formattedValue": "+60%",
+        "query": "短 劇",
+        "value": 15,
+        "formattedValue": "15",
         "raw": {
-          "query": "bad",
-          "value": 60,
-          "formattedValue": "+60%",
-          "link": "/trends/explore?q=bad&date=now+7-d&geo=TW"
+          "query": "短 劇",
+          "value": 15,
+          "formattedValue": "15",
+          "hasData": true,
+          "link": "/trends/explore?q=%E7%9F%AD+%E5%8A%87&date=now+7-d&geo=TW"
         }
       },
       {
-        "query": "lol",
-        "value": 50,
-        "formattedValue": "+50%",
+        "query": "巴 威",
+        "value": 14,
+        "formattedValue": "14",
         "raw": {
-          "query": "lol",
-          "value": 50,
-          "formattedValue": "+50%",
-          "link": "/trends/explore?q=lol&date=now+7-d&geo=TW"
+          "query": "巴 威",
+          "value": 14,
+          "formattedValue": "14",
+          "hasData": true,
+          "link": "/trends/explore?q=%E5%B7%B4+%E5%A8%81&date=now+7-d&geo=TW"
+        }
+      },
+      {
+        "query": "東森",
+        "value": 14,
+        "formattedValue": "14",
+        "raw": {
+          "query": "東森",
+          "value": 14,
+          "formattedValue": "14",
+          "hasData": true,
+          "link": "/trends/explore?q=%E6%9D%B1%E6%A3%AE&date=now+7-d&geo=TW"
+        }
+      },
+      {
+        "query": "世 足",
+        "value": 12,
+        "formattedValue": "12",
+        "raw": {
+          "query": "世 足",
+          "value": 12,
+          "formattedValue": "12",
+          "hasData": true,
+          "link": "/trends/explore?q=%E4%B8%96+%E8%B6%B3&date=now+7-d&geo=TW"
+        }
+      },
+      {
+        "query": "足球",
+        "value": 12,
+        "formattedValue": "12",
+        "raw": {
+          "query": "足球",
+          "value": 12,
+          "formattedValue": "12",
+          "hasData": true,
+          "link": "/trends/explore?q=%E8%B6%B3%E7%90%83&date=now+7-d&geo=TW"
+        }
+      },
+      {
+        "query": "豆腐 媽媽",
+        "value": 12,
+        "formattedValue": "12",
+        "raw": {
+          "query": "豆腐 媽媽",
+          "value": 12,
+          "formattedValue": "12",
+          "hasData": true,
+          "link": "/trends/explore?q=%E8%B1%86%E8%85%90+%E5%AA%BD%E5%AA%BD&date=now+7-d&geo=TW"
+        }
+      },
+      {
+        "query": "東森 新聞",
+        "value": 11,
+        "formattedValue": "11",
+        "raw": {
+          "query": "東森 新聞",
+          "value": 11,
+          "formattedValue": "11",
+          "hasData": true,
+          "link": "/trends/explore?q=%E6%9D%B1%E6%A3%AE+%E6%96%B0%E8%81%9E&date=now+7-d&geo=TW"
+        }
+      },
+      {
+        "query": "重生",
+        "value": 11,
+        "formattedValue": "11",
+        "raw": {
+          "query": "重生",
+          "value": 11,
+          "formattedValue": "11",
+          "hasData": true,
+          "link": "/trends/explore?q=%E9%87%8D%E7%94%9F&date=now+7-d&geo=TW"
+        }
+      },
+      {
+        "query": "氣象",
+        "value": 11,
+        "formattedValue": "11",
+        "raw": {
+          "query": "氣象",
+          "value": 11,
+          "formattedValue": "11",
+          "hasData": true,
+          "link": "/trends/explore?q=%E6%B0%A3%E8%B1%A1&date=now+7-d&geo=TW"
+        }
+      },
+      {
+        "query": "世界 盃",
+        "value": 10,
+        "formattedValue": "10",
+        "raw": {
+          "query": "世界 盃",
+          "value": 10,
+          "formattedValue": "10",
+          "hasData": true,
+          "link": "/trends/explore?q=%E4%B8%96%E7%95%8C+%E7%9B%83&date=now+7-d&geo=TW"
+        }
+      },
+      {
+        "query": "巴 威 颱風",
+        "value": 10,
+        "formattedValue": "10",
+        "raw": {
+          "query": "巴 威 颱風",
+          "value": 10,
+          "formattedValue": "10",
+          "hasData": true,
+          "link": "/trends/explore?q=%E5%B7%B4+%E5%A8%81+%E9%A2%B1%E9%A2%A8&date=now+7-d&geo=TW"
+        }
+      },
+      {
+        "query": "roblox",
+        "value": 10,
+        "formattedValue": "10",
+        "raw": {
+          "query": "roblox",
+          "value": 10,
+          "formattedValue": "10",
+          "hasData": true,
+          "link": "/trends/explore?q=roblox&date=now+7-d&geo=TW"
+        }
+      },
+      {
+        "query": "傳說",
+        "value": 9,
+        "formattedValue": "9",
+        "raw": {
+          "query": "傳說",
+          "value": 9,
+          "formattedValue": "9",
+          "hasData": true,
+          "link": "/trends/explore?q=%E5%82%B3%E8%AA%AA&date=now+7-d&geo=TW"
+        }
+      },
+      {
+        "query": "百味 人生",
+        "value": 9,
+        "formattedValue": "9",
+        "raw": {
+          "query": "百味 人生",
+          "value": 9,
+          "formattedValue": "9",
+          "hasData": true,
+          "link": "/trends/explore?q=%E7%99%BE%E5%91%B3+%E4%BA%BA%E7%94%9F&date=now+7-d&geo=TW"
+        }
+      }
+    ],
+    "rising": [
+      {
+        "query": "颱風 假",
+        "value": 3150,
+        "formattedValue": "+3.150%",
+        "raw": {
+          "query": "颱風 假",
+          "value": 3150,
+          "formattedValue": "+3.150%",
+          "link": "/trends/explore?q=%E9%A2%B1%E9%A2%A8+%E5%81%87&date=now+7-d&geo=TW"
+        }
+      },
+      {
+        "query": "功夫 女足",
+        "value": 2950,
+        "formattedValue": "+2.950%",
+        "raw": {
+          "query": "功夫 女足",
+          "value": 2950,
+          "formattedValue": "+2.950%",
+          "link": "/trends/explore?q=%E5%8A%9F%E5%A4%AB+%E5%A5%B3%E8%B6%B3&date=now+7-d&geo=TW"
+        }
+      },
+      {
+        "query": "颱風 直播",
+        "value": 2800,
+        "formattedValue": "+2.800%",
+        "raw": {
+          "query": "颱風 直播",
+          "value": 2800,
+          "formattedValue": "+2.800%",
+          "link": "/trends/explore?q=%E9%A2%B1%E9%A2%A8+%E7%9B%B4%E6%92%AD&date=now+7-d&geo=TW"
+        }
+      },
+      {
+        "query": "停 班 停課",
+        "value": 2750,
+        "formattedValue": "+2.750%",
+        "raw": {
+          "query": "停 班 停課",
+          "value": 2750,
+          "formattedValue": "+2.750%",
+          "link": "/trends/explore?q=%E5%81%9C+%E7%8F%AD+%E5%81%9C%E8%AA%B2&date=now+7-d&geo=TW"
+        }
+      },
+      {
+        "query": "當年 閃 人 現在 閃婚",
+        "value": 2250,
+        "formattedValue": "+2.250%",
+        "raw": {
+          "query": "當年 閃 人 現在 閃婚",
+          "value": 2250,
+          "formattedValue": "+2.250%",
+          "link": "/trends/explore?q=%E7%95%B6%E5%B9%B4+%E9%96%83+%E4%BA%BA+%E7%8F%BE%E5%9C%A8+%E9%96%83%E5%A9%9A&date=now+7-d&geo=TW"
+        }
+      },
+      {
+        "query": "阿根廷 瑞士",
+        "value": 2150,
+        "formattedValue": "+2.150%",
+        "raw": {
+          "query": "阿根廷 瑞士",
+          "value": 2150,
+          "formattedValue": "+2.150%",
+          "link": "/trends/explore?q=%E9%98%BF%E6%A0%B9%E5%BB%B7+%E7%91%9E%E5%A3%AB&date=now+7-d&geo=TW"
+        }
+      },
+      {
+        "query": "颱風 動態 直播",
+        "value": 2100,
+        "formattedValue": "+2.100%",
+        "raw": {
+          "query": "颱風 動態 直播",
+          "value": 2100,
+          "formattedValue": "+2.100%",
+          "link": "/trends/explore?q=%E9%A2%B1%E9%A2%A8+%E5%8B%95%E6%85%8B+%E7%9B%B4%E6%92%AD&date=now+7-d&geo=TW"
+        }
+      },
+      {
+        "query": "挪威 英格蘭",
+        "value": 2100,
+        "formattedValue": "+2.100%",
+        "raw": {
+          "query": "挪威 英格蘭",
+          "value": 2100,
+          "formattedValue": "+2.100%",
+          "link": "/trends/explore?q=%E6%8C%AA%E5%A8%81+%E8%8B%B1%E6%A0%BC%E8%98%AD&date=now+7-d&geo=TW"
+        }
+      },
+      {
+        "query": "hot limit",
+        "value": 2000,
+        "formattedValue": "+2.000%",
+        "raw": {
+          "query": "hot limit",
+          "value": 2000,
+          "formattedValue": "+2.000%",
+          "link": "/trends/explore?q=hot+limit&date=now+7-d&geo=TW"
+        }
+      },
+      {
+        "query": "颱風 動態 最新",
+        "value": 1950,
+        "formattedValue": "+1.950%",
+        "raw": {
+          "query": "颱風 動態 最新",
+          "value": 1950,
+          "formattedValue": "+1.950%",
+          "link": "/trends/explore?q=%E9%A2%B1%E9%A2%A8+%E5%8B%95%E6%85%8B+%E6%9C%80%E6%96%B0&date=now+7-d&geo=TW"
+        }
+      },
+      {
+        "query": "nihonjinfufu",
+        "value": 1850,
+        "formattedValue": "+1.850%",
+        "raw": {
+          "query": "nihonjinfufu",
+          "value": 1850,
+          "formattedValue": "+1.850%",
+          "link": "/trends/explore?q=nihonjinfufu&date=now+7-d&geo=TW"
+        }
+      },
+      {
+        "query": "阿根廷 對 埃及",
+        "value": 1800,
+        "formattedValue": "+1.800%",
+        "raw": {
+          "query": "阿根廷 對 埃及",
+          "value": 1800,
+          "formattedValue": "+1.800%",
+          "link": "/trends/explore?q=%E9%98%BF%E6%A0%B9%E5%BB%B7+%E5%B0%8D+%E5%9F%83%E5%8F%8A&date=now+7-d&geo=TW"
+        }
+      },
+      {
+        "query": "gimme dat love",
+        "value": 1650,
+        "formattedValue": "+1.650%",
+        "raw": {
+          "query": "gimme dat love",
+          "value": 1650,
+          "formattedValue": "+1.650%",
+          "link": "/trends/explore?q=gimme+dat+love&date=now+7-d&geo=TW"
+        }
+      },
+      {
+        "query": "颱風 動態",
+        "value": 1600,
+        "formattedValue": "+1.600%",
+        "raw": {
+          "query": "颱風 動態",
+          "value": 1600,
+          "formattedValue": "+1.600%",
+          "link": "/trends/explore?q=%E9%A2%B1%E9%A2%A8+%E5%8B%95%E6%85%8B&date=now+7-d&geo=TW"
+        }
+      },
+      {
+        "query": "巴 威",
+        "value": 1300,
+        "formattedValue": "+1.300%",
+        "raw": {
+          "query": "巴 威",
+          "value": 1300,
+          "formattedValue": "+1.300%",
+          "link": "/trends/explore?q=%E5%B7%B4+%E5%A8%81&date=now+7-d&geo=TW"
+        }
+      },
+      {
+        "query": "眠 眠 歸 家 歲 歲 安",
+        "value": 1300,
+        "formattedValue": "+1.300%",
+        "raw": {
+          "query": "眠 眠 歸 家 歲 歲 安",
+          "value": 1300,
+          "formattedValue": "+1.300%",
+          "link": "/trends/explore?q=%E7%9C%A0+%E7%9C%A0+%E6%AD%B8+%E5%AE%B6+%E6%AD%B2+%E6%AD%B2+%E5%AE%89&date=now+7-d&geo=TW"
+        }
+      },
+      {
+        "query": "惹 火 嬌 妻 專 治 各種 不服",
+        "value": 1250,
+        "formattedValue": "+1.250%",
+        "raw": {
+          "query": "惹 火 嬌 妻 專 治 各種 不服",
+          "value": 1250,
+          "formattedValue": "+1.250%",
+          "link": "/trends/explore?q=%E6%83%B9+%E7%81%AB+%E5%AC%8C+%E5%A6%BB+%E5%B0%88+%E6%B2%BB+%E5%90%84%E7%A8%AE+%E4%B8%8D%E6%9C%8D&date=now+7-d&geo=TW"
+        }
+      },
+      {
+        "query": "巴 威 颱風",
+        "value": 1250,
+        "formattedValue": "+1.250%",
+        "raw": {
+          "query": "巴 威 颱風",
+          "value": 1250,
+          "formattedValue": "+1.250%",
+          "link": "/trends/explore?q=%E5%B7%B4+%E5%A8%81+%E9%A2%B1%E9%A2%A8&date=now+7-d&geo=TW"
+        }
+      },
+      {
+        "query": "颱風",
+        "value": 1200,
+        "formattedValue": "+1.200%",
+        "raw": {
+          "query": "颱風",
+          "value": 1200,
+          "formattedValue": "+1.200%",
+          "link": "/trends/explore?q=%E9%A2%B1%E9%A2%A8&date=now+7-d&geo=TW"
+        }
+      },
+      {
+        "query": "台北 電影 節",
+        "value": 1200,
+        "formattedValue": "+1.200%",
+        "raw": {
+          "query": "台北 電影 節",
+          "value": 1200,
+          "formattedValue": "+1.200%",
+          "link": "/trends/explore?q=%E5%8F%B0%E5%8C%97+%E9%9B%BB%E5%BD%B1+%E7%AF%80&date=now+7-d&geo=TW"
+        }
+      },
+      {
+        "query": "我 靠 滿 級 嬰 語 成 全家 白 月光",
+        "value": 1050,
+        "formattedValue": "+1.050%",
+        "raw": {
+          "query": "我 靠 滿 級 嬰 語 成 全家 白 月光",
+          "value": 1050,
+          "formattedValue": "+1.050%",
+          "link": "/trends/explore?q=%E6%88%91+%E9%9D%A0+%E6%BB%BF+%E7%B4%9A+%E5%AC%B0+%E8%AA%9E+%E6%88%90+%E5%85%A8%E5%AE%B6+%E7%99%BD+%E6%9C%88%E5%85%89&date=now+7-d&geo=TW"
+        }
+      },
+      {
+        "query": "巴 威 颱風 動態",
+        "value": 900,
+        "formattedValue": "+900%",
+        "raw": {
+          "query": "巴 威 颱風 動態",
+          "value": 900,
+          "formattedValue": "+900%",
+          "link": "/trends/explore?q=%E5%B7%B4+%E5%A8%81+%E9%A2%B1%E9%A2%A8+%E5%8B%95%E6%85%8B&date=now+7-d&geo=TW"
+        }
+      },
+      {
+        "query": "hahababy",
+        "value": 900,
+        "formattedValue": "+900%",
+        "raw": {
+          "query": "hahababy",
+          "value": 900,
+          "formattedValue": "+900%",
+          "link": "/trends/explore?q=hahababy&date=now+7-d&geo=TW"
+        }
+      },
+      {
+        "query": "多良 車站",
+        "value": 850,
+        "formattedValue": "+850%",
+        "raw": {
+          "query": "多良 車站",
+          "value": 850,
+          "formattedValue": "+850%",
+          "link": "/trends/explore?q=%E5%A4%9A%E8%89%AF+%E8%BB%8A%E7%AB%99&date=now+7-d&geo=TW"
+        }
+      },
+      {
+        "query": "野 狗 骨頭",
+        "value": 750,
+        "formattedValue": "+750%",
+        "raw": {
+          "query": "野 狗 骨頭",
+          "value": 750,
+          "formattedValue": "+750%",
+          "link": "/trends/explore?q=%E9%87%8E+%E7%8B%97+%E9%AA%A8%E9%A0%AD&date=now+7-d&geo=TW"
         }
       }
     ]
