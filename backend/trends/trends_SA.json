@@ -1,8 +1,725 @@
 {
   "status": "success",
   "topics": {
-    "top": [],
-    "rising": []
+    "top": [
+      {
+        "query": "Bài hát",
+        "value": 100,
+        "formattedValue": "100",
+        "raw": {
+          "topic": {
+            "mid": "/m/074ft",
+            "title": "Bài hát",
+            "type": "Loại sáng tác"
+          },
+          "value": 100,
+          "formattedValue": "100",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/074ft&date=now+7-d&geo=SA"
+        }
+      },
+      {
+        "query": "Điện ảnh",
+        "value": 46,
+        "formattedValue": "46",
+        "raw": {
+          "topic": {
+            "mid": "/m/02vxn",
+            "title": "Điện ảnh",
+            "type": "Loại truyền hình"
+          },
+          "value": 46,
+          "formattedValue": "46",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/02vxn&date=now+7-d&geo=SA"
+        }
+      },
+      {
+        "query": "tính chất",
+        "value": 22,
+        "formattedValue": "22",
+        "raw": {
+          "topic": {
+            "mid": "/m/02vq979",
+            "title": "tính chất",
+            "type": "Chủ đề"
+          },
+          "value": 22,
+          "formattedValue": "22",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/02vq979&date=now+7-d&geo=SA"
+        }
+      },
+      {
+        "query": "Trẻ em",
+        "value": 22,
+        "formattedValue": "22",
+        "raw": {
+          "topic": {
+            "mid": "/m/0ytgt",
+            "title": "Trẻ em",
+            "type": "Chủ đề"
+          },
+          "value": 22,
+          "formattedValue": "22",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/0ytgt&date=now+7-d&geo=SA"
+        }
+      },
+      {
+        "query": "2026",
+        "value": 19,
+        "formattedValue": "19",
+        "raw": {
+          "topic": {
+            "mid": "/g/11b77d6b6g",
+            "title": "2026",
+            "type": "Chủ đề"
+          },
+          "value": 19,
+          "formattedValue": "19",
+          "hasData": true,
+          "link": "/trends/explore?q=/g/11b77d6b6g&date=now+7-d&geo=SA"
+        }
+      },
+      {
+        "query": "sheilat",
+        "value": 19,
+        "formattedValue": "19",
+        "raw": {
+          "topic": {
+            "mid": "/g/121_bwhv",
+            "title": "sheilat",
+            "type": "Chủ đề"
+          },
+          "value": 19,
+          "formattedValue": "19",
+          "hasData": true,
+          "link": "/trends/explore?q=/g/121_bwhv&date=now+7-d&geo=SA"
+        }
+      },
+      {
+        "query": "shfa",
+        "value": 18,
+        "formattedValue": "18",
+        "raw": {
+          "topic": {
+            "mid": "/g/11yg3szk0n",
+            "title": "shfa",
+            "type": "Website"
+          },
+          "value": 18,
+          "formattedValue": "18",
+          "hasData": true,
+          "link": "/trends/explore?q=/g/11yg3szk0n&date=now+7-d&geo=SA"
+        }
+      },
+      {
+        "query": "Tập phim",
+        "value": 18,
+        "formattedValue": "18",
+        "raw": {
+          "topic": {
+            "mid": "/m/02cphr",
+            "title": "Tập phim",
+            "type": "Chủ đề"
+          },
+          "value": 18,
+          "formattedValue": "18",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/02cphr&date=now+7-d&geo=SA"
+        }
+      },
+      {
+        "query": "Chương trình truyền hình dài tập",
+        "value": 17,
+        "formattedValue": "17",
+        "raw": {
+          "topic": {
+            "mid": "/g/1219y26q",
+            "title": "Chương trình truyền hình dài tập",
+            "type": "Chủ đề"
+          },
+          "value": 17,
+          "formattedValue": "17",
+          "hasData": true,
+          "link": "/trends/explore?q=/g/1219y26q&date=now+7-d&geo=SA"
+        }
+      },
+      {
+        "query": "Âm nhạc",
+        "value": 16,
+        "formattedValue": "16",
+        "raw": {
+          "topic": {
+            "mid": "/m/04rlf",
+            "title": "Âm nhạc",
+            "type": "Định dạng âm thanh"
+          },
+          "value": 16,
+          "formattedValue": "16",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/04rlf&date=now+7-d&geo=SA"
+        }
+      },
+      {
+        "query": "Ai Cập",
+        "value": 16,
+        "formattedValue": "16",
+        "raw": {
+          "topic": {
+            "mid": "/m/02k54",
+            "title": "Ai Cập",
+            "type": "Quốc gia"
+          },
+          "value": 16,
+          "formattedValue": "16",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/02k54&date=now+7-d&geo=SA"
+        }
+      },
+      {
+        "query": "Con gái",
+        "value": 15,
+        "formattedValue": "15",
+        "raw": {
+          "topic": {
+            "mid": "/m/05r655",
+            "title": "Con gái",
+            "type": "Chủ đề"
+          },
+          "value": 15,
+          "formattedValue": "15",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/05r655&date=now+7-d&geo=SA"
+        }
+      },
+      {
+        "query": "Firecrackers Youth",
+        "value": 15,
+        "formattedValue": "15",
+        "raw": {
+          "topic": {
+            "mid": "/g/11dy68y99",
+            "title": "Firecrackers Youth",
+            "type": "Chương trình truyền hình"
+          },
+          "value": 15,
+          "formattedValue": "15",
+          "hasData": true,
+          "link": "/trends/explore?q=/g/11dy68y99&date=now+7-d&geo=SA"
+        }
+      },
+      {
+        "query": "Chính kịch",
+        "value": 14,
+        "formattedValue": "14",
+        "raw": {
+          "topic": {
+            "mid": "/m/02822",
+            "title": "Chính kịch",
+            "type": "Thể loại văn học"
+          },
+          "value": 14,
+          "formattedValue": "14",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/02822&date=now+7-d&geo=SA"
+        }
+      },
+      {
+        "query": "Ả Rập Xê-út",
+        "value": 13,
+        "formattedValue": "13",
+        "raw": {
+          "topic": {
+            "mid": "/m/01z215",
+            "title": "Ả Rập Xê-út",
+            "type": "Quốc gia ở Trung Đông"
+          },
+          "value": 13,
+          "formattedValue": "13",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/01z215&date=now+7-d&geo=SA"
+        }
+      },
+      {
+        "query": "Video",
+        "value": 12,
+        "formattedValue": "12",
+        "raw": {
+          "topic": {
+            "mid": "/m/07z4p",
+            "title": "Video",
+            "type": "Định dạng phim"
+          },
+          "value": 12,
+          "formattedValue": "12",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/07z4p&date=now+7-d&geo=SA"
+        }
+      },
+      {
+        "query": "Tiếng Ả Rập",
+        "value": 12,
+        "formattedValue": "12",
+        "raw": {
+          "topic": {
+            "mid": "/m/0jzc",
+            "title": "Tiếng Ả Rập",
+            "type": "Ngôn ngữ"
+          },
+          "value": 12,
+          "formattedValue": "12",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/0jzc&date=now+7-d&geo=SA"
+        }
+      },
+      {
+        "query": "Thiên Chúa",
+        "value": 12,
+        "formattedValue": "12",
+        "raw": {
+          "topic": {
+            "mid": "/m/0d05l6",
+            "title": "Thiên Chúa",
+            "type": "Chủ đề"
+          },
+          "value": 12,
+          "formattedValue": "12",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/0d05l6&date=now+7-d&geo=SA"
+        }
+      },
+      {
+        "query": "Giải Bóng đá Vô địch Thế giới",
+        "value": 11,
+        "formattedValue": "11",
+        "raw": {
+          "topic": {
+            "mid": "/m/030q7",
+            "title": "Giải Bóng đá Vô địch Thế giới",
+            "type": "Giải bóng đá"
+          },
+          "value": 11,
+          "formattedValue": "11",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/030q7&date=now+7-d&geo=SA"
+        }
+      },
+      {
+        "query": "Tiếng Hindi",
+        "value": 11,
+        "formattedValue": "11",
+        "raw": {
+          "topic": {
+            "mid": "/m/03k50",
+            "title": "Tiếng Hindi",
+            "type": "Tiếng"
+          },
+          "value": 11,
+          "formattedValue": "11",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/03k50&date=now+7-d&geo=SA"
+        }
+      },
+      {
+        "query": "Đội tuyển Bóng đá Quốc gia Argentina",
+        "value": 10,
+        "formattedValue": "10",
+        "raw": {
+          "topic": {
+            "mid": "/m/02bh_v",
+            "title": "Đội tuyển Bóng đá Quốc gia Argentina",
+            "type": "Đội bóng đá"
+          },
+          "value": 10,
+          "formattedValue": "10",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/02bh_v&date=now+7-d&geo=SA"
+        }
+      },
+      {
+        "query": "Âm thanh",
+        "value": 10,
+        "formattedValue": "10",
+        "raw": {
+          "topic": {
+            "mid": "/m/06qc5",
+            "title": "Âm thanh",
+            "type": "Chủ đề"
+          },
+          "value": 10,
+          "formattedValue": "10",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/06qc5&date=now+7-d&geo=SA"
+        }
+      },
+      {
+        "query": "Tình yêu",
+        "value": 10,
+        "formattedValue": "10",
+        "raw": {
+          "topic": {
+            "mid": "/m/048knlz",
+            "title": "Tình yêu",
+            "type": "Chủ đề"
+          },
+          "value": 10,
+          "formattedValue": "10",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/048knlz&date=now+7-d&geo=SA"
+        }
+      },
+      {
+        "query": "Trò chơi",
+        "value": 9,
+        "formattedValue": "9",
+        "raw": {
+          "topic": {
+            "mid": "/m/03bt1gh",
+            "title": "Trò chơi",
+            "type": "Chủ đề"
+          },
+          "value": 9,
+          "formattedValue": "9",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/03bt1gh&date=now+7-d&geo=SA"
+        }
+      },
+      {
+        "query": "Ô tô",
+        "value": 9,
+        "formattedValue": "9",
+        "raw": {
+          "topic": {
+            "mid": "/m/0k4j",
+            "title": "Ô tô",
+            "type": "Chế độ phương tiện"
+          },
+          "value": 9,
+          "formattedValue": "9",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/0k4j&date=now+7-d&geo=SA"
+        }
+      }
+    ],
+    "rising": [
+      {
+        "query": "Al-Qasas",
+        "value": 1200,
+        "formattedValue": "+1.200%",
+        "raw": {
+          "topic": {
+            "mid": "/m/04vf3t",
+            "title": "Al-Qasas",
+            "type": "Tài liệu tôn giáo"
+          },
+          "value": 1200,
+          "formattedValue": "+1.200%",
+          "link": "/trends/explore?q=/m/04vf3t&date=now+7-d&geo=SA"
+        }
+      },
+      {
+        "query": "Đội tuyển Bóng đá Quốc gia Thụy Sĩ",
+        "value": 650,
+        "formattedValue": "+650%",
+        "raw": {
+          "topic": {
+            "mid": "/m/032jlh",
+            "title": "Đội tuyển Bóng đá Quốc gia Thụy Sĩ",
+            "type": "Đội bóng đá"
+          },
+          "value": 650,
+          "formattedValue": "+650%",
+          "link": "/trends/explore?q=/m/032jlh&date=now+7-d&geo=SA"
+        }
+      },
+      {
+        "query": "Đội tuyển Bóng đá Quốc gia Tây Ban Nha",
+        "value": 350,
+        "formattedValue": "+350%",
+        "raw": {
+          "topic": {
+            "mid": "/m/02w64f",
+            "title": "Đội tuyển Bóng đá Quốc gia Tây Ban Nha",
+            "type": "Đội bóng đá"
+          },
+          "value": 350,
+          "formattedValue": "+350%",
+          "link": "/trends/explore?q=/m/02w64f&date=now+7-d&geo=SA"
+        }
+      },
+      {
+        "query": "Đội tuyển Bóng đá Quốc gia Anh",
+        "value": 300,
+        "formattedValue": "+300%",
+        "raw": {
+          "topic": {
+            "mid": "/m/02pp1",
+            "title": "Đội tuyển Bóng đá Quốc gia Anh",
+            "type": "Đội bóng đá"
+          },
+          "value": 300,
+          "formattedValue": "+300%",
+          "link": "/trends/explore?q=/m/02pp1&date=now+7-d&geo=SA"
+        }
+      },
+      {
+        "query": "Đội tuyển Bóng đá Quốc gia Argentina",
+        "value": 250,
+        "formattedValue": "+250%",
+        "raw": {
+          "topic": {
+            "mid": "/m/02bh_v",
+            "title": "Đội tuyển Bóng đá Quốc gia Argentina",
+            "type": "Đội bóng đá"
+          },
+          "value": 250,
+          "formattedValue": "+250%",
+          "link": "/trends/explore?q=/m/02bh_v&date=now+7-d&geo=SA"
+        }
+      },
+      {
+        "query": "Argentina",
+        "value": 190,
+        "formattedValue": "+190%",
+        "raw": {
+          "topic": {
+            "mid": "/m/0jgd",
+            "title": "Argentina",
+            "type": "Quốc gia ở Nam Mỹ"
+          },
+          "value": 190,
+          "formattedValue": "+190%",
+          "link": "/trends/explore?q=/m/0jgd&date=now+7-d&geo=SA"
+        }
+      },
+      {
+        "query": "Al Jazeera Mubasher",
+        "value": 120,
+        "formattedValue": "+120%",
+        "raw": {
+          "topic": {
+            "mid": "/m/04kbhq7",
+            "title": "Al Jazeera Mubasher",
+            "type": "Mạng truyền hình"
+          },
+          "value": 120,
+          "formattedValue": "+120%",
+          "link": "/trends/explore?q=/m/04kbhq7&date=now+7-d&geo=SA"
+        }
+      },
+      {
+        "query": "Đội tuyển bóng đá quốc gia Ai Cập",
+        "value": 110,
+        "formattedValue": "+110%",
+        "raw": {
+          "topic": {
+            "mid": "/m/03_3z4",
+            "title": "Đội tuyển bóng đá quốc gia Ai Cập",
+            "type": "Đội bóng đá"
+          },
+          "value": 110,
+          "formattedValue": "+110%",
+          "link": "/trends/explore?q=/m/03_3z4&date=now+7-d&geo=SA"
+        }
+      },
+      {
+        "query": "Đội tuyển Bóng đá Quốc gia Pháp",
+        "value": 100,
+        "formattedValue": "+100%",
+        "raw": {
+          "topic": {
+            "mid": "/m/01l3vx",
+            "title": "Đội tuyển Bóng đá Quốc gia Pháp",
+            "type": "Đội bóng đá"
+          },
+          "value": 100,
+          "formattedValue": "+100%",
+          "link": "/trends/explore?q=/m/01l3vx&date=now+7-d&geo=SA"
+        }
+      },
+      {
+        "query": "Tây Ban Nha",
+        "value": 90,
+        "formattedValue": "+90%",
+        "raw": {
+          "topic": {
+            "mid": "/m/06mkj",
+            "title": "Tây Ban Nha",
+            "type": "Quốc gia"
+          },
+          "value": 90,
+          "formattedValue": "+90%",
+          "link": "/trends/explore?q=/m/06mkj&date=now+7-d&geo=SA"
+        }
+      },
+      {
+        "query": "Al Arabiya",
+        "value": 90,
+        "formattedValue": "+90%",
+        "raw": {
+          "topic": {
+            "mid": "/m/01vlgr",
+            "title": "Al Arabiya",
+            "type": "Mạng truyền hình"
+          },
+          "value": 90,
+          "formattedValue": "+90%",
+          "link": "/trends/explore?q=/m/01vlgr&date=now+7-d&geo=SA"
+        }
+      },
+      {
+        "query": "Truyền hình thực tế",
+        "value": 90,
+        "formattedValue": "+90%",
+        "raw": {
+          "topic": {
+            "mid": "/m/09lmb",
+            "title": "Truyền hình thực tế",
+            "type": "Thể loại truyền hình"
+          },
+          "value": 90,
+          "formattedValue": "+90%",
+          "link": "/trends/explore?q=/m/09lmb&date=now+7-d&geo=SA"
+        }
+      },
+      {
+        "query": "Pháp",
+        "value": 80,
+        "formattedValue": "+80%",
+        "raw": {
+          "topic": {
+            "mid": "/m/0f8l9c",
+            "title": "Pháp",
+            "type": "Quốc gia ở Châu Âu"
+          },
+          "value": 80,
+          "formattedValue": "+80%",
+          "link": "/trends/explore?q=/m/0f8l9c&date=now+7-d&geo=SA"
+        }
+      },
+      {
+        "query": "Al Jazeera",
+        "value": 80,
+        "formattedValue": "+80%",
+        "raw": {
+          "topic": {
+            "mid": "/m/027glbp",
+            "title": "Al Jazeera",
+            "type": "Công ty"
+          },
+          "value": 80,
+          "formattedValue": "+80%",
+          "link": "/trends/explore?q=/m/027glbp&date=now+7-d&geo=SA"
+        }
+      },
+      {
+        "query": "Al Hadath",
+        "value": 80,
+        "formattedValue": "+80%",
+        "raw": {
+          "topic": {
+            "mid": "/g/1215jg4m",
+            "title": "Al Hadath",
+            "type": "Chủ đề"
+          },
+          "value": 80,
+          "formattedValue": "+80%",
+          "link": "/trends/explore?q=/g/1215jg4m&date=now+7-d&geo=SA"
+        }
+      },
+      {
+        "query": "Zabt",
+        "value": 60,
+        "formattedValue": "+60%",
+        "raw": {
+          "topic": {
+            "mid": "/g/11zc5qclgd",
+            "title": "Zabt",
+            "type": "Chương trình truyền hình"
+          },
+          "value": 60,
+          "formattedValue": "+60%",
+          "link": "/trends/explore?q=/g/11zc5qclgd&date=now+7-d&geo=SA"
+        }
+      },
+      {
+        "query": "Lionel Messi",
+        "value": 60,
+        "formattedValue": "+60%",
+        "raw": {
+          "topic": {
+            "mid": "/m/06qjgc",
+            "title": "Lionel Messi",
+            "type": "Cầu thủ"
+          },
+          "value": 60,
+          "formattedValue": "+60%",
+          "link": "/trends/explore?q=/m/06qjgc&date=now+7-d&geo=SA"
+        }
+      },
+      {
+        "query": "Đội tuyển bóng đá quốc gia Na Uy",
+        "value": 50,
+        "formattedValue": "+50%",
+        "raw": {
+          "topic": {
+            "mid": "/m/01cw24",
+            "title": "Đội tuyển bóng đá quốc gia Na Uy",
+            "type": "Đội bóng đá"
+          },
+          "value": 50,
+          "formattedValue": "+50%",
+          "link": "/trends/explore?q=/m/01cw24&date=now+7-d&geo=SA"
+        }
+      },
+      {
+        "query": "Cristiano Ronaldo",
+        "value": 50,
+        "formattedValue": "+50%",
+        "raw": {
+          "topic": {
+            "mid": "/m/02xt6q",
+            "title": "Cristiano Ronaldo",
+            "type": "Cầu thủ"
+          },
+          "value": 50,
+          "formattedValue": "+50%",
+          "link": "/trends/explore?q=/m/02xt6q&date=now+7-d&geo=SA"
+        }
+      },
+      {
+        "query": "Bộ",
+        "value": 50,
+        "formattedValue": "+50%",
+        "raw": {
+          "topic": {
+            "mid": "/m/02x35fs",
+            "title": "Bộ",
+            "type": "Thể loại văn học"
+          },
+          "value": 50,
+          "formattedValue": "+50%",
+          "link": "/trends/explore?q=/m/02x35fs&date=now+7-d&geo=SA"
+        }
+      },
+      {
+        "query": "Bệnh viện",
+        "value": 50,
+        "formattedValue": "+50%",
+        "raw": {
+          "topic": {
+            "mid": "/m/0hpnr",
+            "title": "Bệnh viện",
+            "type": "Chức năng của tòa nhà"
+          },
+          "value": 50,
+          "formattedValue": "+50%",
+          "link": "/trends/explore?q=/m/0hpnr&date=now+7-d&geo=SA"
+        }
+      }
+    ]
   },
   "queries": {
     "top": [
@@ -19,73 +736,73 @@
         }
       },
       {
-        "query": "song",
-        "value": 66,
-        "formattedValue": "66",
-        "raw": {
-          "query": "song",
-          "value": 66,
-          "formattedValue": "66",
-          "hasData": true,
-          "link": "/trends/explore?q=song&date=now+7-d&geo=SA"
-        }
-      },
-      {
         "query": "مسلسل",
-        "value": 64,
-        "formattedValue": "64",
+        "value": 74,
+        "formattedValue": "74",
         "raw": {
           "query": "مسلسل",
-          "value": 64,
-          "formattedValue": "64",
+          "value": 74,
+          "formattedValue": "74",
           "hasData": true,
           "link": "/trends/explore?q=%D9%85%D8%B3%D9%84%D8%B3%D9%84&date=now+7-d&geo=SA"
         }
       },
       {
-        "query": "شفا شفا",
-        "value": 57,
-        "formattedValue": "57",
+        "query": "song",
+        "value": 70,
+        "formattedValue": "70",
         "raw": {
-          "query": "شفا شفا",
-          "value": 57,
-          "formattedValue": "57",
+          "query": "song",
+          "value": 70,
+          "formattedValue": "70",
           "hasData": true,
-          "link": "/trends/explore?q=%D8%B4%D9%81%D8%A7+%D8%B4%D9%81%D8%A7&date=now+7-d&geo=SA"
+          "link": "/trends/explore?q=song&date=now+7-d&geo=SA"
         }
       },
       {
         "query": "شفا",
-        "value": 56,
-        "formattedValue": "56",
+        "value": 62,
+        "formattedValue": "62",
         "raw": {
           "query": "شفا",
-          "value": 56,
-          "formattedValue": "56",
+          "value": 62,
+          "formattedValue": "62",
           "hasData": true,
           "link": "/trends/explore?q=%D8%B4%D9%81%D8%A7&date=now+7-d&geo=SA"
         }
       },
       {
+        "query": "شفا شفا",
+        "value": 61,
+        "formattedValue": "61",
+        "raw": {
+          "query": "شفا شفا",
+          "value": 61,
+          "formattedValue": "61",
+          "hasData": true,
+          "link": "/trends/explore?q=%D8%B4%D9%81%D8%A7+%D8%B4%D9%81%D8%A7&date=now+7-d&geo=SA"
+        }
+      },
+      {
         "query": "اغنيه",
-        "value": 55,
-        "formattedValue": "55",
+        "value": 59,
+        "formattedValue": "59",
         "raw": {
           "query": "اغنيه",
-          "value": 55,
-          "formattedValue": "55",
+          "value": 59,
+          "formattedValue": "59",
           "hasData": true,
           "link": "/trends/explore?q=%D8%A7%D8%BA%D9%86%D9%8A%D9%87&date=now+7-d&geo=SA"
         }
       },
       {
         "query": "شباب البومب",
-        "value": 44,
-        "formattedValue": "44",
+        "value": 46,
+        "formattedValue": "46",
         "raw": {
           "query": "شباب البومب",
-          "value": 44,
-          "formattedValue": "44",
+          "value": 46,
+          "formattedValue": "46",
           "hasData": true,
           "link": "/trends/explore?q=%D8%B4%D8%A8%D8%A7%D8%A8+%D8%A7%D9%84%D8%A8%D9%88%D9%85%D8%A8&date=now+7-d&geo=SA"
         }
@@ -104,122 +821,194 @@
       },
       {
         "query": "songs",
-        "value": 37,
-        "formattedValue": "37",
+        "value": 38,
+        "formattedValue": "38",
         "raw": {
           "query": "songs",
-          "value": 37,
-          "formattedValue": "37",
+          "value": 38,
+          "formattedValue": "38",
           "hasData": true,
           "link": "/trends/explore?q=songs&date=now+7-d&geo=SA"
         }
       },
       {
         "query": "اطفال",
-        "value": 31,
-        "formattedValue": "31",
+        "value": 34,
+        "formattedValue": "34",
         "raw": {
           "query": "اطفال",
-          "value": 31,
-          "formattedValue": "31",
+          "value": 34,
+          "formattedValue": "34",
           "hasData": true,
           "link": "/trends/explore?q=%D8%A7%D8%B7%D9%81%D8%A7%D9%84&date=now+7-d&geo=SA"
         }
       },
       {
+        "query": "مصر",
+        "value": 32,
+        "formattedValue": "32",
+        "raw": {
+          "query": "مصر",
+          "value": 32,
+          "formattedValue": "32",
+          "hasData": true,
+          "link": "/trends/explore?q=%D9%85%D8%B5%D8%B1&date=now+7-d&geo=SA"
+        }
+      },
+      {
         "query": "شيلات",
-        "value": 30,
-        "formattedValue": "30",
+        "value": 31,
+        "formattedValue": "31",
         "raw": {
           "query": "شيلات",
-          "value": 30,
-          "formattedValue": "30",
+          "value": 31,
+          "formattedValue": "31",
           "hasData": true,
           "link": "/trends/explore?q=%D8%B4%D9%8A%D9%84%D8%A7%D8%AA&date=now+7-d&geo=SA"
         }
       },
       {
+        "query": "اغنية",
+        "value": 29,
+        "formattedValue": "29",
+        "raw": {
+          "query": "اغنية",
+          "value": 29,
+          "formattedValue": "29",
+          "hasData": true,
+          "link": "/trends/explore?q=%D8%A7%D8%BA%D9%86%D9%8A%D8%A9&date=now+7-d&geo=SA"
+        }
+      },
+      {
         "query": "بيبي",
-        "value": 25,
-        "formattedValue": "25",
+        "value": 26,
+        "formattedValue": "26",
         "raw": {
           "query": "بيبي",
-          "value": 25,
-          "formattedValue": "25",
+          "value": 26,
+          "formattedValue": "26",
           "hasData": true,
           "link": "/trends/explore?q=%D8%A8%D9%8A%D8%A8%D9%8A&date=now+7-d&geo=SA"
         }
       },
       {
         "query": "لولو",
-        "value": 23,
-        "formattedValue": "23",
+        "value": 25,
+        "formattedValue": "25",
         "raw": {
           "query": "لولو",
-          "value": 23,
-          "formattedValue": "23",
+          "value": 25,
+          "formattedValue": "25",
           "hasData": true,
           "link": "/trends/explore?q=%D9%84%D9%88%D9%84%D9%88&date=now+7-d&geo=SA"
         }
       },
       {
         "query": "شيله",
-        "value": 19,
-        "formattedValue": "19",
+        "value": 20,
+        "formattedValue": "20",
         "raw": {
           "query": "شيله",
-          "value": 19,
-          "formattedValue": "19",
+          "value": 20,
+          "formattedValue": "20",
           "hasData": true,
           "link": "/trends/explore?q=%D8%B4%D9%8A%D9%84%D9%87&date=now+7-d&geo=SA"
         }
       },
       {
         "query": "باور",
-        "value": 19,
-        "formattedValue": "19",
+        "value": 20,
+        "formattedValue": "20",
         "raw": {
           "query": "باور",
-          "value": 19,
-          "formattedValue": "19",
+          "value": 20,
+          "formattedValue": "20",
           "hasData": true,
           "link": "/trends/explore?q=%D8%A8%D8%A7%D9%88%D8%B1&date=now+7-d&geo=SA"
         }
       },
       {
+        "query": "افلام",
+        "value": 19,
+        "formattedValue": "19",
+        "raw": {
+          "query": "افلام",
+          "value": 19,
+          "formattedValue": "19",
+          "hasData": true,
+          "link": "/trends/explore?q=%D8%A7%D9%81%D9%84%D8%A7%D9%85&date=now+7-d&geo=SA"
+        }
+      },
+      {
         "query": "شيلة",
-        "value": 17,
-        "formattedValue": "17",
+        "value": 19,
+        "formattedValue": "19",
         "raw": {
           "query": "شيلة",
-          "value": 17,
-          "formattedValue": "17",
+          "value": 19,
+          "formattedValue": "19",
           "hasData": true,
           "link": "/trends/explore?q=%D8%B4%D9%8A%D9%84%D8%A9&date=now+7-d&geo=SA"
         }
       },
       {
+        "query": "فارس",
+        "value": 18,
+        "formattedValue": "18",
+        "raw": {
+          "query": "فارس",
+          "value": 18,
+          "formattedValue": "18",
+          "hasData": true,
+          "link": "/trends/explore?q=%D9%81%D8%A7%D8%B1%D8%B3&date=now+7-d&geo=SA"
+        }
+      },
+      {
         "query": "قران",
-        "value": 17,
-        "formattedValue": "17",
+        "value": 16,
+        "formattedValue": "16",
         "raw": {
           "query": "قران",
-          "value": 17,
-          "formattedValue": "17",
+          "value": 16,
+          "formattedValue": "16",
           "hasData": true,
           "link": "/trends/explore?q=%D9%82%D8%B1%D8%A7%D9%86&date=now+7-d&geo=SA"
         }
       },
       {
-        "query": "فارس",
+        "query": "حب",
         "value": 16,
         "formattedValue": "16",
         "raw": {
-          "query": "فارس",
+          "query": "حب",
           "value": 16,
           "formattedValue": "16",
           "hasData": true,
-          "link": "/trends/explore?q=%D9%81%D8%A7%D8%B1%D8%B3&date=now+7-d&geo=SA"
+          "link": "/trends/explore?q=%D8%AD%D8%A8&date=now+7-d&geo=SA"
+        }
+      },
+      {
+        "query": "رعب",
+        "value": 15,
+        "formattedValue": "15",
+        "raw": {
+          "query": "رعب",
+          "value": 15,
+          "formattedValue": "15",
+          "hasData": true,
+          "link": "/trends/explore?q=%D8%B1%D8%B9%D8%A8&date=now+7-d&geo=SA"
+        }
+      },
+      {
+        "query": "دربحه",
+        "value": 14,
+        "formattedValue": "14",
+        "raw": {
+          "query": "دربحه",
+          "value": 14,
+          "formattedValue": "14",
+          "hasData": true,
+          "link": "/trends/explore?q=%D8%AF%D8%B1%D8%A8%D8%AD%D9%87&date=now+7-d&geo=SA"
         }
       },
       {
@@ -233,222 +1022,282 @@
           "hasData": true,
           "link": "/trends/explore?q=%D9%85%D8%AD%D9%85%D8%AF+%D8%B9%D8%A8%D8%AF%D9%87&date=now+7-d&geo=SA"
         }
-      },
-      {
-        "query": "شباب البومب 14",
-        "value": 13,
-        "formattedValue": "13",
-        "raw": {
-          "query": "شباب البومب 14",
-          "value": 13,
-          "formattedValue": "13",
-          "hasData": true,
-          "link": "/trends/explore?q=%D8%B4%D8%A8%D8%A7%D8%A8+%D8%A7%D9%84%D8%A8%D9%88%D9%85%D8%A8+14&date=now+7-d&geo=SA"
-        }
-      },
-      {
-        "query": "سلومو",
-        "value": 12,
-        "formattedValue": "12",
-        "raw": {
-          "query": "سلومو",
-          "value": 12,
-          "formattedValue": "12",
-          "hasData": true,
-          "link": "/trends/explore?q=%D8%B3%D9%84%D9%88%D9%85%D9%88&date=now+7-d&geo=SA"
-        }
-      },
-      {
-        "query": "دربحه",
-        "value": 11,
-        "formattedValue": "11",
-        "raw": {
-          "query": "دربحه",
-          "value": 11,
-          "formattedValue": "11",
-          "hasData": true,
-          "link": "/trends/explore?q=%D8%AF%D8%B1%D8%A8%D8%AD%D9%87&date=now+7-d&geo=SA"
-        }
-      },
-      {
-        "query": "بندريتا",
-        "value": 11,
-        "formattedValue": "11",
-        "raw": {
-          "query": "بندريتا",
-          "value": 11,
-          "formattedValue": "11",
-          "hasData": true,
-          "link": "/trends/explore?q=%D8%A8%D9%86%D8%AF%D8%B1%D9%8A%D8%AA%D8%A7&date=now+7-d&geo=SA"
-        }
-      },
-      {
-        "query": "قسمة ونصيب",
-        "value": 11,
-        "formattedValue": "11",
-        "raw": {
-          "query": "قسمة ونصيب",
-          "value": 11,
-          "formattedValue": "11",
-          "hasData": true,
-          "link": "/trends/explore?q=%D9%82%D8%B3%D9%85%D8%A9+%D9%88%D9%86%D8%B5%D9%8A%D8%A8&date=now+7-d&geo=SA"
-        }
-      },
-      {
-        "query": "عامر",
-        "value": 11,
-        "formattedValue": "11",
-        "raw": {
-          "query": "عامر",
-          "value": 11,
-          "formattedValue": "11",
-          "hasData": true,
-          "link": "/trends/explore?q=%D8%B9%D8%A7%D9%85%D8%B1&date=now+7-d&geo=SA"
-        }
       }
     ],
     "rising": [
       {
         "query": "مصر والارجنتين",
-        "value": 15000,
+        "value": 5700,
         "formattedValue": "Đột phá",
         "raw": {
           "query": "مصر والارجنتين",
-          "value": 15000,
+          "value": 5700,
           "formattedValue": "Đột phá",
           "link": "/trends/explore?q=%D9%85%D8%B5%D8%B1+%D9%88%D8%A7%D9%84%D8%A7%D8%B1%D8%AC%D9%86%D8%AA%D9%8A%D9%86&date=now+7-d&geo=SA"
         }
       },
       {
-        "query": "مباراة مصر والارجنتين",
-        "value": 4100,
-        "formattedValue": "+4.100%",
-        "raw": {
-          "query": "مباراة مصر والارجنتين",
-          "value": 4100,
-          "formattedValue": "+4.100%",
-          "link": "/trends/explore?q=%D9%85%D8%A8%D8%A7%D8%B1%D8%A7%D8%A9+%D9%85%D8%B5%D8%B1+%D9%88%D8%A7%D9%84%D8%A7%D8%B1%D8%AC%D9%86%D8%AA%D9%8A%D9%86&date=now+7-d&geo=SA"
-        }
-      },
-      {
         "query": "ملخص مصر والارجنتين",
-        "value": 3100,
-        "formattedValue": "+3.100%",
+        "value": 3800,
+        "formattedValue": "+3.800%",
         "raw": {
           "query": "ملخص مصر والارجنتين",
-          "value": 3100,
-          "formattedValue": "+3.100%",
+          "value": 3800,
+          "formattedValue": "+3.800%",
           "link": "/trends/explore?q=%D9%85%D9%84%D8%AE%D8%B5+%D9%85%D8%B5%D8%B1+%D9%88%D8%A7%D9%84%D8%A7%D8%B1%D8%AC%D9%86%D8%AA%D9%8A%D9%86&date=now+7-d&geo=SA"
         }
       },
       {
-        "query": "argentina vs egypt live",
-        "value": 1650,
-        "formattedValue": "+1.650%",
+        "query": "الارجنتين ومصر",
+        "value": 3100,
+        "formattedValue": "+3.100%",
         "raw": {
-          "query": "argentina vs egypt live",
-          "value": 1650,
-          "formattedValue": "+1.650%",
-          "link": "/trends/explore?q=argentina+vs+egypt+live&date=now+7-d&geo=SA"
+          "query": "الارجنتين ومصر",
+          "value": 3100,
+          "formattedValue": "+3.100%",
+          "link": "/trends/explore?q=%D8%A7%D9%84%D8%A7%D8%B1%D8%AC%D9%86%D8%AA%D9%8A%D9%86+%D9%88%D9%85%D8%B5%D8%B1&date=now+7-d&geo=SA"
         }
       },
       {
-        "query": "بث دربحه",
+        "query": "المغرب وفرنسا",
+        "value": 2750,
+        "formattedValue": "+2.750%",
+        "raw": {
+          "query": "المغرب وفرنسا",
+          "value": 2750,
+          "formattedValue": "+2.750%",
+          "link": "/trends/explore?q=%D8%A7%D9%84%D9%85%D8%BA%D8%B1%D8%A8+%D9%88%D9%81%D8%B1%D9%86%D8%B3%D8%A7&date=now+7-d&geo=SA"
+        }
+      },
+      {
+        "query": "انجلترا والنرويج",
+        "value": 1750,
+        "formattedValue": "+1.750%",
+        "raw": {
+          "query": "انجلترا والنرويج",
+          "value": 1750,
+          "formattedValue": "+1.750%",
+          "link": "/trends/explore?q=%D8%A7%D9%86%D8%AC%D9%84%D8%AA%D8%B1%D8%A7+%D9%88%D8%A7%D9%84%D9%86%D8%B1%D9%88%D9%8A%D8%AC&date=now+7-d&geo=SA"
+        }
+      },
+      {
+        "query": "سعود العتيبي",
+        "value": 1450,
+        "formattedValue": "+1.450%",
+        "raw": {
+          "query": "سعود العتيبي",
+          "value": 1450,
+          "formattedValue": "+1.450%",
+          "link": "/trends/explore?q=%D8%B3%D8%B9%D9%88%D8%AF+%D8%A7%D9%84%D8%B9%D8%AA%D9%8A%D8%A8%D9%8A&date=now+7-d&geo=SA"
+        }
+      },
+      {
+        "query": "argentina vs switzerland",
         "value": 1300,
         "formattedValue": "+1.300%",
         "raw": {
-          "query": "بث دربحه",
+          "query": "argentina vs switzerland",
           "value": 1300,
           "formattedValue": "+1.300%",
-          "link": "/trends/explore?q=%D8%A8%D8%AB+%D8%AF%D8%B1%D8%A8%D8%AD%D9%87&date=now+7-d&geo=SA"
+          "link": "/trends/explore?q=argentina+vs+switzerland&date=now+7-d&geo=SA"
         }
       },
       {
-        "query": "مباراة مصر اليوم مباشر",
-        "value": 550,
-        "formattedValue": "+550%",
+        "query": "جده غير",
+        "value": 1200,
+        "formattedValue": "+1.200%",
         "raw": {
-          "query": "مباراة مصر اليوم مباشر",
-          "value": 550,
-          "formattedValue": "+550%",
-          "link": "/trends/explore?q=%D9%85%D8%A8%D8%A7%D8%B1%D8%A7%D8%A9+%D9%85%D8%B5%D8%B1+%D8%A7%D9%84%D9%8A%D9%88%D9%85+%D9%85%D8%A8%D8%A7%D8%B4%D8%B1&date=now+7-d&geo=SA"
+          "query": "جده غير",
+          "value": 1200,
+          "formattedValue": "+1.200%",
+          "link": "/trends/explore?q=%D8%AC%D8%AF%D9%87+%D8%BA%D9%8A%D8%B1&date=now+7-d&geo=SA"
         }
       },
       {
-        "query": "دربحه",
-        "value": 300,
-        "formattedValue": "+300%",
+        "query": "فرنسا ضد المغرب",
+        "value": 1100,
+        "formattedValue": "+1.100%",
         "raw": {
-          "query": "دربحه",
-          "value": 300,
-          "formattedValue": "+300%",
-          "link": "/trends/explore?q=%D8%AF%D8%B1%D8%A8%D8%AD%D9%87&date=now+7-d&geo=SA"
+          "query": "فرنسا ضد المغرب",
+          "value": 1100,
+          "formattedValue": "+1.100%",
+          "link": "/trends/explore?q=%D9%81%D8%B1%D9%86%D8%B3%D8%A7+%D8%B6%D8%AF+%D8%A7%D9%84%D9%85%D8%BA%D8%B1%D8%A8&date=now+7-d&geo=SA"
         }
       },
       {
-        "query": "احمد شو",
-        "value": 200,
-        "formattedValue": "+200%",
+        "query": "الارجنتين وسويسرا 2026",
+        "value": 850,
+        "formattedValue": "+850%",
         "raw": {
-          "query": "احمد شو",
-          "value": 200,
-          "formattedValue": "+200%",
-          "link": "/trends/explore?q=%D8%A7%D8%AD%D9%85%D8%AF+%D8%B4%D9%88&date=now+7-d&geo=SA"
+          "query": "الارجنتين وسويسرا 2026",
+          "value": 850,
+          "formattedValue": "+850%",
+          "link": "/trends/explore?q=%D8%A7%D9%84%D8%A7%D8%B1%D8%AC%D9%86%D8%AA%D9%8A%D9%86+%D9%88%D8%B3%D9%88%D9%8A%D8%B3%D8%B1%D8%A7+2026&date=now+7-d&geo=SA"
         }
       },
       {
-        "query": "قسمة ونصيب",
-        "value": 150,
-        "formattedValue": "+150%",
+        "query": "البرتغال واسبانيا",
+        "value": 850,
+        "formattedValue": "+850%",
         "raw": {
-          "query": "قسمة ونصيب",
-          "value": 150,
-          "formattedValue": "+150%",
-          "link": "/trends/explore?q=%D9%82%D8%B3%D9%85%D8%A9+%D9%88%D9%86%D8%B5%D9%8A%D8%A8&date=now+7-d&geo=SA"
+          "query": "البرتغال واسبانيا",
+          "value": 850,
+          "formattedValue": "+850%",
+          "link": "/trends/explore?q=%D8%A7%D9%84%D8%A8%D8%B1%D8%AA%D8%BA%D8%A7%D9%84+%D9%88%D8%A7%D8%B3%D8%A8%D8%A7%D9%86%D9%8A%D8%A7&date=now+7-d&geo=SA"
         }
       },
       {
-        "query": "قسمه ونصيب",
-        "value": 130,
-        "formattedValue": "+130%",
+        "query": "الجزيرة مباشر",
+        "value": 120,
+        "formattedValue": "+120%",
         "raw": {
-          "query": "قسمه ونصيب",
-          "value": 130,
-          "formattedValue": "+130%",
-          "link": "/trends/explore?q=%D9%82%D8%B3%D9%85%D9%87+%D9%88%D9%86%D8%B5%D9%8A%D8%A8&date=now+7-d&geo=SA"
+          "query": "الجزيرة مباشر",
+          "value": 120,
+          "formattedValue": "+120%",
+          "link": "/trends/explore?q=%D8%A7%D9%84%D8%AC%D8%B2%D9%8A%D8%B1%D8%A9+%D9%85%D8%A8%D8%A7%D8%B4%D8%B1&date=now+7-d&geo=SA"
         }
       },
       {
-        "query": "سلومو",
+        "query": "نانا",
+        "value": 110,
+        "formattedValue": "+110%",
+        "raw": {
+          "query": "نانا",
+          "value": 110,
+          "formattedValue": "+110%",
+          "link": "/trends/explore?q=%D9%86%D8%A7%D9%86%D8%A7&date=now+7-d&geo=SA"
+        }
+      },
+      {
+        "query": "العربية مباشر",
+        "value": 90,
+        "formattedValue": "+90%",
+        "raw": {
+          "query": "العربية مباشر",
+          "value": 90,
+          "formattedValue": "+90%",
+          "link": "/trends/explore?q=%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9+%D9%85%D8%A8%D8%A7%D8%B4%D8%B1&date=now+7-d&geo=SA"
+        }
+      },
+      {
+        "query": "الواقع",
         "value": 80,
         "formattedValue": "+80%",
         "raw": {
-          "query": "سلومو",
+          "query": "الواقع",
           "value": 80,
           "formattedValue": "+80%",
-          "link": "/trends/explore?q=%D8%B3%D9%84%D9%88%D9%85%D9%88&date=now+7-d&geo=SA"
+          "link": "/trends/explore?q=%D8%A7%D9%84%D9%88%D8%A7%D9%82%D8%B9&date=now+7-d&geo=SA"
+        }
+      },
+      {
+        "query": "الميادين بث مباشر",
+        "value": 80,
+        "formattedValue": "+80%",
+        "raw": {
+          "query": "الميادين بث مباشر",
+          "value": 80,
+          "formattedValue": "+80%",
+          "link": "/trends/explore?q=%D8%A7%D9%84%D9%85%D9%8A%D8%A7%D8%AF%D9%8A%D9%86+%D8%A8%D8%AB+%D9%85%D8%A8%D8%A7%D8%B4%D8%B1&date=now+7-d&geo=SA"
+        }
+      },
+      {
+        "query": "الحدث مباشر",
+        "value": 70,
+        "formattedValue": "+70%",
+        "raw": {
+          "query": "الحدث مباشر",
+          "value": 70,
+          "formattedValue": "+70%",
+          "link": "/trends/explore?q=%D8%A7%D9%84%D8%AD%D8%AF%D8%AB+%D9%85%D8%A8%D8%A7%D8%B4%D8%B1&date=now+7-d&geo=SA"
+        }
+      },
+      {
+        "query": "muhafiz drama episode 1",
+        "value": 70,
+        "formattedValue": "+70%",
+        "raw": {
+          "query": "muhafiz drama episode 1",
+          "value": 70,
+          "formattedValue": "+70%",
+          "link": "/trends/explore?q=muhafiz+drama+episode+1&date=now+7-d&geo=SA"
+        }
+      },
+      {
+        "query": "مباراة اليوم مباشر",
+        "value": 70,
+        "formattedValue": "+70%",
+        "raw": {
+          "query": "مباراة اليوم مباشر",
+          "value": 70,
+          "formattedValue": "+70%",
+          "link": "/trends/explore?q=%D9%85%D8%A8%D8%A7%D8%B1%D8%A7%D8%A9+%D8%A7%D9%84%D9%8A%D9%88%D9%85+%D9%85%D8%A8%D8%A7%D8%B4%D8%B1&date=now+7-d&geo=SA"
         }
       },
       {
         "query": "ishowspeed",
-        "value": 80,
-        "formattedValue": "+80%",
+        "value": 60,
+        "formattedValue": "+60%",
         "raw": {
           "query": "ishowspeed",
-          "value": 80,
-          "formattedValue": "+80%",
+          "value": 60,
+          "formattedValue": "+60%",
           "link": "/trends/explore?q=ishowspeed&date=now+7-d&geo=SA"
         }
       },
       {
-        "query": "كلاش",
+        "query": "مصر",
+        "value": 60,
+        "formattedValue": "+60%",
+        "raw": {
+          "query": "مصر",
+          "value": 60,
+          "formattedValue": "+60%",
+          "link": "/trends/explore?q=%D9%85%D8%B5%D8%B1&date=now+7-d&geo=SA"
+        }
+      },
+      {
+        "query": "مباريات اليوم مباشر",
         "value": 50,
         "formattedValue": "+50%",
         "raw": {
-          "query": "كلاش",
+          "query": "مباريات اليوم مباشر",
           "value": 50,
           "formattedValue": "+50%",
-          "link": "/trends/explore?q=%D9%83%D9%84%D8%A7%D8%B4&date=now+7-d&geo=SA"
+          "link": "/trends/explore?q=%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA+%D8%A7%D9%84%D9%8A%D9%88%D9%85+%D9%85%D8%A8%D8%A7%D8%B4%D8%B1&date=now+7-d&geo=SA"
+        }
+      },
+      {
+        "query": "دربحه",
+        "value": 50,
+        "formattedValue": "+50%",
+        "raw": {
+          "query": "دربحه",
+          "value": 50,
+          "formattedValue": "+50%",
+          "link": "/trends/explore?q=%D8%AF%D8%B1%D8%A8%D8%AD%D9%87&date=now+7-d&geo=SA"
+        }
+      },
+      {
+        "query": "بث دربحه",
+        "value": 50,
+        "formattedValue": "+50%",
+        "raw": {
+          "query": "بث دربحه",
+          "value": 50,
+          "formattedValue": "+50%",
+          "link": "/trends/explore?q=%D8%A8%D8%AB+%D8%AF%D8%B1%D8%A8%D8%AD%D9%87&date=now+7-d&geo=SA"
+        }
+      },
+      {
+        "query": "مباراة المغرب اليوم مباشر",
+        "value": 50,
+        "formattedValue": "+50%",
+        "raw": {
+          "query": "مباراة المغرب اليوم مباشر",
+          "value": 50,
+          "formattedValue": "+50%",
+          "link": "/trends/explore?q=%D9%85%D8%A8%D8%A7%D8%B1%D8%A7%D8%A9+%D8%A7%D9%84%D9%85%D8%BA%D8%B1%D8%A8+%D8%A7%D9%84%D9%8A%D9%88%D9%85+%D9%85%D8%A8%D8%A7%D8%B4%D8%B1&date=now+7-d&geo=SA"
         }
       }
     ]
