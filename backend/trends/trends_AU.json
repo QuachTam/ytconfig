@@ -20,82 +20,66 @@
       },
       {
         "query": "Điện ảnh",
-        "value": 57,
-        "formattedValue": "57",
+        "value": 55,
+        "formattedValue": "55",
         "raw": {
           "topic": {
             "mid": "/m/02vxn",
             "title": "Điện ảnh",
             "type": "Loại truyền hình"
           },
-          "value": 57,
-          "formattedValue": "57",
+          "value": 55,
+          "formattedValue": "55",
           "hasData": true,
           "link": "/trends/explore?q=/m/02vxn&date=now+7-d&geo=AU"
         }
       },
       {
         "query": "2026",
-        "value": 39,
-        "formattedValue": "39",
+        "value": 37,
+        "formattedValue": "37",
         "raw": {
           "topic": {
             "mid": "/g/11b77d6b6g",
             "title": "2026",
             "type": "Chủ đề"
           },
-          "value": 39,
-          "formattedValue": "39",
+          "value": 37,
+          "formattedValue": "37",
           "hasData": true,
           "link": "/trends/explore?q=/g/11b77d6b6g&date=now+7-d&geo=AU"
         }
       },
       {
         "query": "Âm nhạc",
-        "value": 35,
-        "formattedValue": "35",
+        "value": 34,
+        "formattedValue": "34",
         "raw": {
           "topic": {
             "mid": "/m/04rlf",
             "title": "Âm nhạc",
             "type": "Định dạng âm thanh"
           },
-          "value": 35,
-          "formattedValue": "35",
+          "value": 34,
+          "formattedValue": "34",
           "hasData": true,
           "link": "/trends/explore?q=/m/04rlf&date=now+7-d&geo=AU"
         }
       },
       {
         "query": "Video",
-        "value": 27,
-        "formattedValue": "27",
+        "value": 28,
+        "formattedValue": "28",
         "raw": {
           "topic": {
             "mid": "/m/07z4p",
             "title": "Video",
             "type": "Định dạng phim"
           },
-          "value": 27,
-          "formattedValue": "27",
+          "value": 28,
+          "formattedValue": "28",
           "hasData": true,
           "link": "/trends/explore?q=/m/07z4p&date=now+7-d&geo=AU"
-        }
-      },
-      {
-        "query": "Tin tức",
-        "value": 26,
-        "formattedValue": "26",
-        "raw": {
-          "topic": {
-            "mid": "/m/05jhg",
-            "title": "Tin tức",
-            "type": "Định dạng phát thanh"
-          },
-          "value": 26,
-          "formattedValue": "26",
-          "hasData": true,
-          "link": "/trends/explore?q=/m/05jhg&date=now+7-d&geo=AU"
         }
       },
       {
@@ -115,17 +99,33 @@
         }
       },
       {
+        "query": "Tin tức",
+        "value": 26,
+        "formattedValue": "26",
+        "raw": {
+          "topic": {
+            "mid": "/m/05jhg",
+            "title": "Tin tức",
+            "type": "Định dạng phát thanh"
+          },
+          "value": 26,
+          "formattedValue": "26",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/05jhg&date=now+7-d&geo=AU"
+        }
+      },
+      {
         "query": "Úc",
-        "value": 23,
-        "formattedValue": "23",
+        "value": 25,
+        "formattedValue": "25",
         "raw": {
           "topic": {
             "mid": "/m/0chghy",
             "title": "Úc",
             "type": "Quốc gia ở Châu Đại Dương"
           },
-          "value": 23,
-          "formattedValue": "23",
+          "value": 25,
+          "formattedValue": "25",
           "hasData": true,
           "link": "/trends/explore?q=/m/0chghy&date=now+7-d&geo=AU"
         }
@@ -163,38 +163,6 @@
         }
       },
       {
-        "query": "Minecraft",
-        "value": 18,
-        "formattedValue": "18",
-        "raw": {
-          "topic": {
-            "mid": "/m/09v6kpg",
-            "title": "Minecraft",
-            "type": "Trò chơi điện tử"
-          },
-          "value": 18,
-          "formattedValue": "18",
-          "hasData": true,
-          "link": "/trends/explore?q=/m/09v6kpg&date=now+7-d&geo=AU"
-        }
-      },
-      {
-        "query": "Trò chơi",
-        "value": 17,
-        "formattedValue": "17",
-        "raw": {
-          "topic": {
-            "mid": "/m/03bt1gh",
-            "title": "Trò chơi",
-            "type": "Chủ đề"
-          },
-          "value": 17,
-          "formattedValue": "17",
-          "hasData": true,
-          "link": "/trends/explore?q=/m/03bt1gh&date=now+7-d&geo=AU"
-        }
-      },
-      {
         "query": "Nhảy múa",
         "value": 17,
         "formattedValue": "17",
@@ -211,35 +179,83 @@
         }
       },
       {
-        "query": "create",
+        "query": "Minecraft",
         "value": 17,
         "formattedValue": "17",
+        "raw": {
+          "topic": {
+            "mid": "/m/09v6kpg",
+            "title": "Minecraft",
+            "type": "Trò chơi điện tử"
+          },
+          "value": 17,
+          "formattedValue": "17",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/09v6kpg&date=now+7-d&geo=AU"
+        }
+      },
+      {
+        "query": "Phản ứng kích thích cảm giác tự động",
+        "value": 16,
+        "formattedValue": "16",
+        "raw": {
+          "topic": {
+            "mid": "/m/0ngt1v6",
+            "title": "Phản ứng kích thích cảm giác tự động",
+            "type": "Chủ đề"
+          },
+          "value": 16,
+          "formattedValue": "16",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/0ngt1v6&date=now+7-d&geo=AU"
+        }
+      },
+      {
+        "query": "create",
+        "value": 16,
+        "formattedValue": "16",
         "raw": {
           "topic": {
             "mid": "/g/11qg_c03j7",
             "title": "create",
             "type": "Chủ đề"
           },
-          "value": 17,
-          "formattedValue": "17",
+          "value": 16,
+          "formattedValue": "16",
           "hasData": true,
           "link": "/trends/explore?q=/g/11qg_c03j7&date=now+7-d&geo=AU"
         }
       },
       {
         "query": "Công thức nấu ăn",
-        "value": 17,
-        "formattedValue": "17",
+        "value": 16,
+        "formattedValue": "16",
         "raw": {
           "topic": {
             "mid": "/m/0p57p",
             "title": "Công thức nấu ăn",
             "type": "Thể loại văn học"
           },
-          "value": 17,
-          "formattedValue": "17",
+          "value": 16,
+          "formattedValue": "16",
           "hasData": true,
           "link": "/trends/explore?q=/m/0p57p&date=now+7-d&geo=AU"
+        }
+      },
+      {
+        "query": "Trò chơi",
+        "value": 16,
+        "formattedValue": "16",
+        "raw": {
+          "topic": {
+            "mid": "/m/03bt1gh",
+            "title": "Trò chơi",
+            "type": "Chủ đề"
+          },
+          "value": 16,
+          "formattedValue": "16",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/03bt1gh&date=now+7-d&geo=AU"
         }
       },
       {
@@ -259,22 +275,6 @@
         }
       },
       {
-        "query": "Phản ứng kích thích cảm giác tự động",
-        "value": 15,
-        "formattedValue": "15",
-        "raw": {
-          "topic": {
-            "mid": "/m/0ngt1v6",
-            "title": "Phản ứng kích thích cảm giác tự động",
-            "type": "Chủ đề"
-          },
-          "value": 15,
-          "formattedValue": "15",
-          "hasData": true,
-          "link": "/trends/explore?q=/m/0ngt1v6&date=now+7-d&geo=AU"
-        }
-      },
-      {
         "query": "Lời bài hát",
         "value": 14,
         "formattedValue": "14",
@@ -291,22 +291,6 @@
         }
       },
       {
-        "query": "Roblox",
-        "value": 14,
-        "formattedValue": "14",
-        "raw": {
-          "topic": {
-            "mid": "/m/026bs1g",
-            "title": "Roblox",
-            "type": "Nền tảng điện toán"
-          },
-          "value": 14,
-          "formattedValue": "14",
-          "hasData": true,
-          "link": "/trends/explore?q=/m/026bs1g&date=now+7-d&geo=AU"
-        }
-      },
-      {
         "query": "Ô tô",
         "value": 13,
         "formattedValue": "13",
@@ -320,6 +304,38 @@
           "formattedValue": "13",
           "hasData": true,
           "link": "/trends/explore?q=/m/0k4j&date=now+7-d&geo=AU"
+        }
+      },
+      {
+        "query": "Roblox",
+        "value": 13,
+        "formattedValue": "13",
+        "raw": {
+          "topic": {
+            "mid": "/m/026bs1g",
+            "title": "Roblox",
+            "type": "Nền tảng điện toán"
+          },
+          "value": 13,
+          "formattedValue": "13",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/026bs1g&date=now+7-d&geo=AU"
+        }
+      },
+      {
+        "query": "Tiếng Anh",
+        "value": 12,
+        "formattedValue": "12",
+        "raw": {
+          "topic": {
+            "mid": "/m/02h40lc",
+            "title": "Tiếng Anh",
+            "type": "Ngôn ngữ"
+          },
+          "value": 12,
+          "formattedValue": "12",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/02h40lc&date=now+7-d&geo=AU"
         }
       },
       {
@@ -355,67 +371,51 @@
         }
       },
       {
-        "query": "Tiếng Anh",
+        "query": "Karaoke",
         "value": 12,
         "formattedValue": "12",
-        "raw": {
-          "topic": {
-            "mid": "/m/02h40lc",
-            "title": "Tiếng Anh",
-            "type": "Ngôn ngữ"
-          },
-          "value": 12,
-          "formattedValue": "12",
-          "hasData": true,
-          "link": "/trends/explore?q=/m/02h40lc&date=now+7-d&geo=AU"
-        }
-      },
-      {
-        "query": "Trẻ sơ sinh",
-        "value": 11,
-        "formattedValue": "11",
-        "raw": {
-          "topic": {
-            "mid": "/m/0jnvp",
-            "title": "Trẻ sơ sinh",
-            "type": "Chủ đề"
-          },
-          "value": 11,
-          "formattedValue": "11",
-          "hasData": true,
-          "link": "/trends/explore?q=/m/0jnvp&date=now+7-d&geo=AU"
-        }
-      },
-      {
-        "query": "Karaoke",
-        "value": 11,
-        "formattedValue": "11",
         "raw": {
           "topic": {
             "mid": "/m/04c5p",
             "title": "Karaoke",
             "type": "Chủ đề"
           },
+          "value": 12,
+          "formattedValue": "12",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/04c5p&date=now+7-d&geo=AU"
+        }
+      },
+      {
+        "query": "Conor McGregor",
+        "value": 11,
+        "formattedValue": "11",
+        "raw": {
+          "topic": {
+            "mid": "/m/0rfgxy2",
+            "title": "Conor McGregor",
+            "type": "Võ sĩ võ đạo"
+          },
           "value": 11,
           "formattedValue": "11",
           "hasData": true,
-          "link": "/trends/explore?q=/m/04c5p&date=now+7-d&geo=AU"
+          "link": "/trends/explore?q=/m/0rfgxy2&date=now+7-d&geo=AU"
         }
       }
     ],
     "rising": [
       {
         "query": "Argentina và Anh",
-        "value": 4000,
-        "formattedValue": "+4.000%",
+        "value": 6000,
+        "formattedValue": "Đột phá",
         "raw": {
           "topic": {
             "mid": "/m/05f9jzv",
             "title": "Argentina và Anh",
             "type": "Giải vô địch bóng đá thế giới 1986"
           },
-          "value": 4000,
-          "formattedValue": "+4.000%",
+          "value": 6000,
+          "formattedValue": "Đột phá",
           "link": "/trends/explore?q=/m/05f9jzv&date=now+7-d&geo=AU"
         }
       },
@@ -436,92 +436,92 @@
       },
       {
         "query": "Max Holloway",
-        "value": 1250,
-        "formattedValue": "+1.250%",
+        "value": 1150,
+        "formattedValue": "+1.150%",
         "raw": {
           "topic": {
             "mid": "/m/0h_d_h5",
             "title": "Max Holloway",
             "type": "Võ thuật tổng hợp"
           },
-          "value": 1250,
-          "formattedValue": "+1.250%",
+          "value": 1150,
+          "formattedValue": "+1.150%",
           "link": "/trends/explore?q=/m/0h_d_h5&date=now+7-d&geo=AU"
         }
       },
       {
-        "query": "Call of Duty: Black Ops II",
-        "value": 1150,
-        "formattedValue": "+1.150%",
-        "raw": {
-          "topic": {
-            "mid": "/m/0j24v_k",
-            "title": "Call of Duty: Black Ops II",
-            "type": "Trò chơi điện tử"
-          },
-          "value": 1150,
-          "formattedValue": "+1.150%",
-          "link": "/trends/explore?q=/m/0j24v_k&date=now+7-d&geo=AU"
-        }
-      },
-      {
         "query": "UFC 329",
-        "value": 1050,
-        "formattedValue": "+1.050%",
+        "value": 950,
+        "formattedValue": "+950%",
         "raw": {
           "topic": {
             "mid": "/g/11z2_r64q6",
             "title": "UFC 329",
             "type": "Sự kiện"
           },
-          "value": 1050,
-          "formattedValue": "+1.050%",
+          "value": 950,
+          "formattedValue": "+950%",
           "link": "/trends/explore?q=/g/11z2_r64q6&date=now+7-d&geo=AU"
         }
       },
       {
+        "query": "Call of Duty: Black Ops II",
+        "value": 650,
+        "formattedValue": "+650%",
+        "raw": {
+          "topic": {
+            "mid": "/m/0j24v_k",
+            "title": "Call of Duty: Black Ops II",
+            "type": "Trò chơi điện tử"
+          },
+          "value": 650,
+          "formattedValue": "+650%",
+          "link": "/trends/explore?q=/m/0j24v_k&date=now+7-d&geo=AU"
+        }
+      },
+      {
         "query": "Conor McGregor",
-        "value": 600,
-        "formattedValue": "+600%",
+        "value": 500,
+        "formattedValue": "+500%",
         "raw": {
           "topic": {
             "mid": "/m/0rfgxy2",
             "title": "Conor McGregor",
             "type": "Võ sĩ võ đạo"
           },
-          "value": 600,
-          "formattedValue": "+600%",
+          "value": 500,
+          "formattedValue": "+500%",
           "link": "/trends/explore?q=/m/0rfgxy2&date=now+7-d&geo=AU"
         }
       },
       {
-        "query": "Palworld",
+        "query": "Thế giới",
         "value": 500,
         "formattedValue": "+500%",
-        "raw": {
-          "topic": {
-            "mid": "/g/11rfsctfg_",
-            "title": "Palworld",
-            "type": "Trò chơi điện tử"
-          },
-          "value": 500,
-          "formattedValue": "+500%",
-          "link": "/trends/explore?q=/g/11rfsctfg_&date=now+7-d&geo=AU"
-        }
-      },
-      {
-        "query": "Thế giới",
-        "value": 350,
-        "formattedValue": "+350%",
         "raw": {
           "topic": {
             "mid": "/m/09nm_",
             "title": "Thế giới",
             "type": "Chủ đề"
           },
-          "value": 350,
-          "formattedValue": "+350%",
+          "value": 500,
+          "formattedValue": "+500%",
           "link": "/trends/explore?q=/m/09nm_&date=now+7-d&geo=AU"
+        }
+      },
+      {
+        "query": "Palworld",
+        "value": 450,
+        "formattedValue": "+450%",
+        "raw": {
+          "topic": {
+            "mid": "/g/11rfsctfg_",
+            "title": "Palworld",
+            "type": "Trò chơi điện tử"
+          },
+          "value": 450,
+          "formattedValue": "+450%",
+          "link": "/trends/explore?q=/g/11rfsctfg_&date=now+7-d&geo=AU"
         }
       },
       {
@@ -540,78 +540,93 @@
         }
       },
       {
-        "query": "Đội tuyển Bóng đá Quốc gia Pháp",
-        "value": 170,
-        "formattedValue": "+170%",
-        "raw": {
-          "topic": {
-            "mid": "/m/01l3vx",
-            "title": "Đội tuyển Bóng đá Quốc gia Pháp",
-            "type": "Đội bóng đá"
-          },
-          "value": 170,
-          "formattedValue": "+170%",
-          "link": "/trends/explore?q=/m/01l3vx&date=now+7-d&geo=AU"
-        }
-      },
-      {
-        "query": "Assassin's Creed",
-        "value": 100,
-        "formattedValue": "+100%",
-        "raw": {
-          "topic": {
-            "mid": "/g/119pfqdpt",
-            "title": "Assassin's Creed",
-            "type": "Loạt trò chơi điện tử"
-          },
-          "value": 100,
-          "formattedValue": "+100%",
-          "link": "/trends/explore?q=/g/119pfqdpt&date=now+7-d&geo=AU"
-        }
-      },
-      {
-        "query": "Họp báo",
-        "value": 80,
-        "formattedValue": "+80%",
-        "raw": {
-          "topic": {
-            "mid": "/m/01s8fx",
-            "title": "Họp báo",
-            "type": "Chủ đề"
-          },
-          "value": 80,
-          "formattedValue": "+80%",
-          "link": "/trends/explore?q=/m/01s8fx&date=now+7-d&geo=AU"
-        }
-      },
-      {
         "query": "Đội tuyển Bóng đá Quốc gia Anh",
-        "value": 70,
-        "formattedValue": "+70%",
+        "value": 140,
+        "formattedValue": "+140%",
         "raw": {
           "topic": {
             "mid": "/m/02pp1",
             "title": "Đội tuyển Bóng đá Quốc gia Anh",
             "type": "Đội bóng đá"
           },
-          "value": 70,
-          "formattedValue": "+70%",
+          "value": 140,
+          "formattedValue": "+140%",
           "link": "/trends/explore?q=/m/02pp1&date=now+7-d&geo=AU"
         }
       },
       {
+        "query": "HONOR",
+        "value": 100,
+        "formattedValue": "+100%",
+        "raw": {
+          "topic": {
+            "mid": "/g/11c1vkw38x",
+            "title": "HONOR",
+            "type": "Chủ đề"
+          },
+          "value": 100,
+          "formattedValue": "+100%",
+          "link": "/trends/explore?q=/g/11c1vkw38x&date=now+7-d&geo=AU"
+        }
+      },
+      {
         "query": "Đội tuyển Bóng đá Quốc gia Tây Ban Nha",
-        "value": 70,
-        "formattedValue": "+70%",
+        "value": 90,
+        "formattedValue": "+90%",
         "raw": {
           "topic": {
             "mid": "/m/02w64f",
             "title": "Đội tuyển Bóng đá Quốc gia Tây Ban Nha",
             "type": "Đội bóng đá"
           },
-          "value": 70,
-          "formattedValue": "+70%",
+          "value": 90,
+          "formattedValue": "+90%",
           "link": "/trends/explore?q=/m/02w64f&date=now+7-d&geo=AU"
+        }
+      },
+      {
+        "query": "Đội tuyển Bóng đá Quốc gia Pháp",
+        "value": 90,
+        "formattedValue": "+90%",
+        "raw": {
+          "topic": {
+            "mid": "/m/01l3vx",
+            "title": "Đội tuyển Bóng đá Quốc gia Pháp",
+            "type": "Đội bóng đá"
+          },
+          "value": 90,
+          "formattedValue": "+90%",
+          "link": "/trends/explore?q=/m/01l3vx&date=now+7-d&geo=AU"
+        }
+      },
+      {
+        "query": "Tây Ban Nha",
+        "value": 80,
+        "formattedValue": "+80%",
+        "raw": {
+          "topic": {
+            "mid": "/m/06mkj",
+            "title": "Tây Ban Nha",
+            "type": "Quốc gia"
+          },
+          "value": 80,
+          "formattedValue": "+80%",
+          "link": "/trends/explore?q=/m/06mkj&date=now+7-d&geo=AU"
+        }
+      },
+      {
+        "query": "Anh",
+        "value": 80,
+        "formattedValue": "+80%",
+        "raw": {
+          "topic": {
+            "mid": "/m/02jx1",
+            "title": "Anh",
+            "type": "Quốc gia cấu thành Vương quốc Liên hiệp Anh và Bắc Ireland"
+          },
+          "value": 80,
+          "formattedValue": "+80%",
+          "link": "/trends/explore?q=/m/02jx1&date=now+7-d&geo=AU"
         }
       },
       {
@@ -627,21 +642,6 @@
           "value": 60,
           "formattedValue": "+60%",
           "link": "/trends/explore?q=/m/02bh_v&date=now+7-d&geo=AU"
-        }
-      },
-      {
-        "query": "Tây Ban Nha",
-        "value": 50,
-        "formattedValue": "+50%",
-        "raw": {
-          "topic": {
-            "mid": "/m/06mkj",
-            "title": "Tây Ban Nha",
-            "type": "Quốc gia"
-          },
-          "value": 50,
-          "formattedValue": "+50%",
-          "link": "/trends/explore?q=/m/06mkj&date=now+7-d&geo=AU"
         }
       }
     ]
@@ -674,62 +674,50 @@
       },
       {
         "query": "songs",
-        "value": 22,
-        "formattedValue": "22",
+        "value": 24,
+        "formattedValue": "24",
         "raw": {
           "query": "songs",
-          "value": 22,
-          "formattedValue": "22",
+          "value": 24,
+          "formattedValue": "24",
           "hasData": true,
           "link": "/trends/explore?q=songs&date=now+7-d&geo=AU"
         }
       },
       {
         "query": "music",
-        "value": 21,
-        "formattedValue": "21",
+        "value": 20,
+        "formattedValue": "20",
         "raw": {
           "query": "music",
-          "value": 21,
-          "formattedValue": "21",
+          "value": 20,
+          "formattedValue": "20",
           "hasData": true,
           "link": "/trends/explore?q=music&date=now+7-d&geo=AU"
         }
       },
       {
         "query": "news",
-        "value": 19,
-        "formattedValue": "19",
+        "value": 18,
+        "formattedValue": "18",
         "raw": {
           "query": "news",
-          "value": 19,
-          "formattedValue": "19",
+          "value": 18,
+          "formattedValue": "18",
           "hasData": true,
           "link": "/trends/explore?q=news&date=now+7-d&geo=AU"
         }
       },
       {
         "query": "world cup",
-        "value": 13,
-        "formattedValue": "13",
-        "raw": {
-          "query": "world cup",
-          "value": 13,
-          "formattedValue": "13",
-          "hasData": true,
-          "link": "/trends/explore?q=world+cup&date=now+7-d&geo=AU"
-        }
-      },
-      {
-        "query": "dance",
         "value": 12,
         "formattedValue": "12",
         "raw": {
-          "query": "dance",
+          "query": "world cup",
           "value": 12,
           "formattedValue": "12",
           "hasData": true,
-          "link": "/trends/explore?q=dance&date=now+7-d&geo=AU"
+          "link": "/trends/explore?q=world+cup&date=now+7-d&geo=AU"
         }
       },
       {
@@ -769,18 +757,6 @@
         }
       },
       {
-        "query": "roblox",
-        "value": 8,
-        "formattedValue": "8",
-        "raw": {
-          "query": "roblox",
-          "value": 8,
-          "formattedValue": "8",
-          "hasData": true,
-          "link": "/trends/explore?q=roblox&date=now+7-d&geo=AU"
-        }
-      },
-      {
         "query": "funny",
         "value": 8,
         "formattedValue": "8",
@@ -805,61 +781,49 @@
         }
       },
       {
+        "query": "roblox",
+        "value": 8,
+        "formattedValue": "8",
+        "raw": {
+          "query": "roblox",
+          "value": 8,
+          "formattedValue": "8",
+          "hasData": true,
+          "link": "/trends/explore?q=roblox&date=now+7-d&geo=AU"
+        }
+      },
+      {
         "query": "karaoke",
-        "value": 7,
-        "formattedValue": "7",
+        "value": 8,
+        "formattedValue": "8",
         "raw": {
           "query": "karaoke",
-          "value": 7,
-          "formattedValue": "7",
+          "value": 8,
+          "formattedValue": "8",
           "hasData": true,
           "link": "/trends/explore?q=karaoke&date=now+7-d&geo=AU"
         }
       },
       {
-        "query": "mcgregor",
-        "value": 6,
-        "formattedValue": "6",
-        "raw": {
-          "query": "mcgregor",
-          "value": 6,
-          "formattedValue": "6",
-          "hasData": true,
-          "link": "/trends/explore?q=mcgregor&date=now+7-d&geo=AU"
-        }
-      },
-      {
-        "query": "france",
-        "value": 5,
-        "formattedValue": "5",
-        "raw": {
-          "query": "france",
-          "value": 5,
-          "formattedValue": "5",
-          "hasData": true,
-          "link": "/trends/explore?q=france&date=now+7-d&geo=AU"
-        }
-      },
-      {
         "query": "england",
-        "value": 5,
-        "formattedValue": "5",
+        "value": 7,
+        "formattedValue": "7",
         "raw": {
           "query": "england",
-          "value": 5,
-          "formattedValue": "5",
+          "value": 7,
+          "formattedValue": "7",
           "hasData": true,
           "link": "/trends/explore?q=england&date=now+7-d&geo=AU"
         }
       },
       {
         "query": "argentina",
-        "value": 5,
-        "formattedValue": "5",
+        "value": 6,
+        "formattedValue": "6",
         "raw": {
           "query": "argentina",
-          "value": 5,
-          "formattedValue": "5",
+          "value": 6,
+          "formattedValue": "6",
           "hasData": true,
           "link": "/trends/explore?q=argentina&date=now+7-d&geo=AU"
         }
@@ -877,6 +841,18 @@
         }
       },
       {
+        "query": "ufc",
+        "value": 5,
+        "formattedValue": "5",
+        "raw": {
+          "query": "ufc",
+          "value": 5,
+          "formattedValue": "5",
+          "hasData": true,
+          "link": "/trends/explore?q=ufc&date=now+7-d&geo=AU"
+        }
+      },
+      {
         "query": "ai",
         "value": 5,
         "formattedValue": "5",
@@ -889,51 +865,27 @@
         }
       },
       {
-        "query": "food",
-        "value": 4,
-        "formattedValue": "4",
+        "query": "podcast",
+        "value": 5,
+        "formattedValue": "5",
         "raw": {
-          "query": "food",
-          "value": 4,
-          "formattedValue": "4",
+          "query": "podcast",
+          "value": 5,
+          "formattedValue": "5",
           "hasData": true,
-          "link": "/trends/explore?q=food&date=now+7-d&geo=AU"
+          "link": "/trends/explore?q=podcast&date=now+7-d&geo=AU"
         }
       },
       {
         "query": "michael jackson",
-        "value": 4,
-        "formattedValue": "4",
+        "value": 5,
+        "formattedValue": "5",
         "raw": {
           "query": "michael jackson",
-          "value": 4,
-          "formattedValue": "4",
+          "value": 5,
+          "formattedValue": "5",
           "hasData": true,
           "link": "/trends/explore?q=michael+jackson&date=now+7-d&geo=AU"
-        }
-      },
-      {
-        "query": "ufc",
-        "value": 4,
-        "formattedValue": "4",
-        "raw": {
-          "query": "ufc",
-          "value": 4,
-          "formattedValue": "4",
-          "hasData": true,
-          "link": "/trends/explore?q=ufc&date=now+7-d&geo=AU"
-        }
-      },
-      {
-        "query": "podcast",
-        "value": 4,
-        "formattedValue": "4",
-        "raw": {
-          "query": "podcast",
-          "value": 4,
-          "formattedValue": "4",
-          "hasData": true,
-          "link": "/trends/explore?q=podcast&date=now+7-d&geo=AU"
         }
       },
       {
@@ -947,117 +899,143 @@
           "hasData": true,
           "link": "/trends/explore?q=youtube&date=now+7-d&geo=AU"
         }
+      },
+      {
+        "query": "conor mcgregor",
+        "value": 4,
+        "formattedValue": "4",
+        "raw": {
+          "query": "conor mcgregor",
+          "value": 4,
+          "formattedValue": "4",
+          "hasData": true,
+          "link": "/trends/explore?q=conor+mcgregor&date=now+7-d&geo=AU"
+        }
+      },
+      {
+        "query": "fifa world cup",
+        "value": 3,
+        "formattedValue": "3",
+        "raw": {
+          "query": "fifa world cup",
+          "value": 3,
+          "formattedValue": "3",
+          "hasData": true,
+          "link": "/trends/explore?q=fifa+world+cup&date=now+7-d&geo=AU"
+        }
+      },
+      {
+        "query": "peppa pig",
+        "value": 3,
+        "formattedValue": "3",
+        "raw": {
+          "query": "peppa pig",
+          "value": 3,
+          "formattedValue": "3",
+          "hasData": true,
+          "link": "/trends/explore?q=peppa+pig&date=now+7-d&geo=AU"
+        }
+      },
+      {
+        "query": "fortnite",
+        "value": 3,
+        "formattedValue": "3",
+        "raw": {
+          "query": "fortnite",
+          "value": 3,
+          "formattedValue": "3",
+          "hasData": true,
+          "link": "/trends/explore?q=fortnite&date=now+7-d&geo=AU"
+        }
       }
     ],
     "rising": [
       {
-        "query": "france vs spain",
-        "value": 3050,
-        "formattedValue": "+3.050%",
+        "query": "england vs argentina",
+        "value": 3550,
+        "formattedValue": "+3.550%",
         "raw": {
-          "query": "france vs spain",
-          "value": 3050,
-          "formattedValue": "+3.050%",
-          "link": "/trends/explore?q=france+vs+spain&date=now+7-d&geo=AU"
+          "query": "england vs argentina",
+          "value": 3550,
+          "formattedValue": "+3.550%",
+          "link": "/trends/explore?q=england+vs+argentina&date=now+7-d&geo=AU"
+        }
+      },
+      {
+        "query": "spain vs france",
+        "value": 3250,
+        "formattedValue": "+3.250%",
+        "raw": {
+          "query": "spain vs france",
+          "value": 3250,
+          "formattedValue": "+3.250%",
+          "link": "/trends/explore?q=spain+vs+france&date=now+7-d&geo=AU"
         }
       },
       {
         "query": "sam neill",
-        "value": 2600,
-        "formattedValue": "+2.600%",
+        "value": 3100,
+        "formattedValue": "+3.100%",
         "raw": {
           "query": "sam neill",
-          "value": 2600,
-          "formattedValue": "+2.600%",
+          "value": 3100,
+          "formattedValue": "+3.100%",
           "link": "/trends/explore?q=sam+neill&date=now+7-d&geo=AU"
         }
       },
       {
-        "query": "argentina vs england",
-        "value": 2550,
-        "formattedValue": "+2.550%",
-        "raw": {
-          "query": "argentina vs england",
-          "value": 2550,
-          "formattedValue": "+2.550%",
-          "link": "/trends/explore?q=argentina+vs+england&date=now+7-d&geo=AU"
-        }
-      },
-      {
-        "query": "bonnie tyler",
-        "value": 2400,
-        "formattedValue": "+2.400%",
-        "raw": {
-          "query": "bonnie tyler",
-          "value": 2400,
-          "formattedValue": "+2.400%",
-          "link": "/trends/explore?q=bonnie+tyler&date=now+7-d&geo=AU"
-        }
-      },
-      {
         "query": "lindsey graham",
-        "value": 1950,
-        "formattedValue": "+1.950%",
+        "value": 2200,
+        "formattedValue": "+2.200%",
         "raw": {
           "query": "lindsey graham",
-          "value": 1950,
-          "formattedValue": "+1.950%",
+          "value": 2200,
+          "formattedValue": "+2.200%",
           "link": "/trends/explore?q=lindsey+graham&date=now+7-d&geo=AU"
         }
       },
       {
         "query": "paddy pimblett vs benoit saint denis",
-        "value": 1900,
-        "formattedValue": "+1.900%",
+        "value": 2100,
+        "formattedValue": "+2.100%",
         "raw": {
           "query": "paddy pimblett vs benoit saint denis",
-          "value": 1900,
-          "formattedValue": "+1.900%",
+          "value": 2100,
+          "formattedValue": "+2.100%",
           "link": "/trends/explore?q=paddy+pimblett+vs+benoit+saint+denis&date=now+7-d&geo=AU"
         }
       },
       {
         "query": "mcgregor vs holloway",
-        "value": 1900,
-        "formattedValue": "+1.900%",
+        "value": 1800,
+        "formattedValue": "+1.800%",
         "raw": {
           "query": "mcgregor vs holloway",
-          "value": 1900,
-          "formattedValue": "+1.900%",
+          "value": 1800,
+          "formattedValue": "+1.800%",
           "link": "/trends/explore?q=mcgregor+vs+holloway&date=now+7-d&geo=AU"
         }
       },
       {
-        "query": "conor mcgregor vs max holloway",
-        "value": 1800,
-        "formattedValue": "+1.800%",
-        "raw": {
-          "query": "conor mcgregor vs max holloway",
-          "value": 1800,
-          "formattedValue": "+1.800%",
-          "link": "/trends/explore?q=conor+mcgregor+vs+max+holloway&date=now+7-d&geo=AU"
-        }
-      },
-      {
         "query": "conor vs max holloway",
-        "value": 1800,
-        "formattedValue": "+1.800%",
+        "value": 1700,
+        "formattedValue": "+1.700%",
         "raw": {
           "query": "conor vs max holloway",
-          "value": 1800,
-          "formattedValue": "+1.800%",
+          "value": 1700,
+          "formattedValue": "+1.700%",
           "link": "/trends/explore?q=conor+vs+max+holloway&date=now+7-d&geo=AU"
         }
       },
       {
-        "query": "france vs spain 2026",
+        "query": "conor mcgregor vs max holloway",
         "value": 1600,
         "formattedValue": "+1.600%",
         "raw": {
-          "query": "france vs spain 2026",
+          "query": "conor mcgregor vs max holloway",
           "value": 1600,
           "formattedValue": "+1.600%",
-          "link": "/trends/explore?q=france+vs+spain+2026&date=now+7-d&geo=AU"
+          "link": "/trends/explore?q=conor+mcgregor+vs+max+holloway&date=now+7-d&geo=AU"
         }
       },
       {
@@ -1072,80 +1050,47 @@
         }
       },
       {
-        "query": "conor mcgregor vs max holloway 2",
-        "value": 1050,
-        "formattedValue": "+1.050%",
-        "raw": {
-          "query": "conor mcgregor vs max holloway 2",
-          "value": 1050,
-          "formattedValue": "+1.050%",
-          "link": "/trends/explore?q=conor+mcgregor+vs+max+holloway+2&date=now+7-d&geo=AU"
-        }
-      },
-      {
-        "query": "ufc 329",
-        "value": 950,
-        "formattedValue": "+950%",
-        "raw": {
-          "query": "ufc 329",
-          "value": 950,
-          "formattedValue": "+950%",
-          "link": "/trends/explore?q=ufc+329&date=now+7-d&geo=AU"
-        }
-      },
-      {
         "query": "argentina vs england 2026",
-        "value": 900,
-        "formattedValue": "+900%",
+        "value": 1350,
+        "formattedValue": "+1.350%",
         "raw": {
           "query": "argentina vs england 2026",
-          "value": 900,
-          "formattedValue": "+900%",
+          "value": 1350,
+          "formattedValue": "+1.350%",
           "link": "/trends/explore?q=argentina+vs+england+2026&date=now+7-d&geo=AU"
         }
       },
       {
+        "query": "conor mcgregor vs max holloway 2",
+        "value": 1100,
+        "formattedValue": "+1.100%",
+        "raw": {
+          "query": "conor mcgregor vs max holloway 2",
+          "value": 1100,
+          "formattedValue": "+1.100%",
+          "link": "/trends/explore?q=conor+mcgregor+vs+max+holloway+2&date=now+7-d&geo=AU"
+        }
+      },
+      {
         "query": "england vs norway",
-        "value": 750,
-        "formattedValue": "+750%",
+        "value": 800,
+        "formattedValue": "+800%",
         "raw": {
           "query": "england vs norway",
-          "value": 750,
-          "formattedValue": "+750%",
+          "value": 800,
+          "formattedValue": "+800%",
           "link": "/trends/explore?q=england+vs+norway&date=now+7-d&geo=AU"
         }
       },
       {
-        "query": "modi in melbourne",
+        "query": "ufc 329",
         "value": 700,
         "formattedValue": "+700%",
         "raw": {
-          "query": "modi in melbourne",
+          "query": "ufc 329",
           "value": 700,
           "formattedValue": "+700%",
-          "link": "/trends/explore?q=modi+in+melbourne&date=now+7-d&geo=AU"
-        }
-      },
-      {
-        "query": "black ops 2",
-        "value": 650,
-        "formattedValue": "+650%",
-        "raw": {
-          "query": "black ops 2",
-          "value": 650,
-          "formattedValue": "+650%",
-          "link": "/trends/explore?q=black+ops+2&date=now+7-d&geo=AU"
-        }
-      },
-      {
-        "query": "mcgregor",
-        "value": 600,
-        "formattedValue": "+600%",
-        "raw": {
-          "query": "mcgregor",
-          "value": 600,
-          "formattedValue": "+600%",
-          "link": "/trends/explore?q=mcgregor&date=now+7-d&geo=AU"
+          "link": "/trends/explore?q=ufc+329&date=now+7-d&geo=AU"
         }
       },
       {
@@ -1161,68 +1106,123 @@
       },
       {
         "query": "palworld",
-        "value": 550,
-        "formattedValue": "+550%",
+        "value": 500,
+        "formattedValue": "+500%",
         "raw": {
           "query": "palworld",
-          "value": 550,
-          "formattedValue": "+550%",
+          "value": 500,
+          "formattedValue": "+500%",
           "link": "/trends/explore?q=palworld&date=now+7-d&geo=AU"
         }
       },
       {
-        "query": "france vs morocco",
-        "value": 500,
-        "formattedValue": "+500%",
-        "raw": {
-          "query": "france vs morocco",
-          "value": 500,
-          "formattedValue": "+500%",
-          "link": "/trends/explore?q=france+vs+morocco&date=now+7-d&geo=AU"
-        }
-      },
-      {
-        "query": "conor mcgregor",
+        "query": "england vs norway highlights",
         "value": 450,
         "formattedValue": "+450%",
         "raw": {
-          "query": "conor mcgregor",
+          "query": "england vs norway highlights",
           "value": 450,
           "formattedValue": "+450%",
-          "link": "/trends/explore?q=conor+mcgregor&date=now+7-d&geo=AU"
-        }
-      },
-      {
-        "query": "england vs norway highlights",
-        "value": 400,
-        "formattedValue": "+400%",
-        "raw": {
-          "query": "england vs norway highlights",
-          "value": 400,
-          "formattedValue": "+400%",
           "link": "/trends/explore?q=england+vs+norway+highlights&date=now+7-d&geo=AU"
         }
       },
       {
-        "query": "total eclipse of the heart",
+        "query": "conor mcgregor",
         "value": 400,
         "formattedValue": "+400%",
         "raw": {
-          "query": "total eclipse of the heart",
+          "query": "conor mcgregor",
           "value": 400,
           "formattedValue": "+400%",
-          "link": "/trends/explore?q=total+eclipse+of+the+heart&date=now+7-d&geo=AU"
+          "link": "/trends/explore?q=conor+mcgregor&date=now+7-d&geo=AU"
         }
       },
       {
-        "query": "dune 3 trailer",
-        "value": 300,
-        "formattedValue": "+300%",
+        "query": "ufc",
+        "value": 200,
+        "formattedValue": "+200%",
         "raw": {
-          "query": "dune 3 trailer",
-          "value": 300,
-          "formattedValue": "+300%",
-          "link": "/trends/explore?q=dune+3+trailer&date=now+7-d&geo=AU"
+          "query": "ufc",
+          "value": 200,
+          "formattedValue": "+200%",
+          "link": "/trends/explore?q=ufc&date=now+7-d&geo=AU"
+        }
+      },
+      {
+        "query": "jude bellingham",
+        "value": 190,
+        "formattedValue": "+190%",
+        "raw": {
+          "query": "jude bellingham",
+          "value": 190,
+          "formattedValue": "+190%",
+          "link": "/trends/explore?q=jude+bellingham&date=now+7-d&geo=AU"
+        }
+      },
+      {
+        "query": "ultimate fighting championship",
+        "value": 160,
+        "formattedValue": "+160%",
+        "raw": {
+          "query": "ultimate fighting championship",
+          "value": 160,
+          "formattedValue": "+160%",
+          "link": "/trends/explore?q=ultimate+fighting+championship&date=now+7-d&geo=AU"
+        }
+      },
+      {
+        "query": "grox",
+        "value": 130,
+        "formattedValue": "+130%",
+        "raw": {
+          "query": "grox",
+          "value": 130,
+          "formattedValue": "+130%",
+          "link": "/trends/explore?q=grox&date=now+7-d&geo=AU"
+        }
+      },
+      {
+        "query": "count binface",
+        "value": 120,
+        "formattedValue": "+120%",
+        "raw": {
+          "query": "count binface",
+          "value": 120,
+          "formattedValue": "+120%",
+          "link": "/trends/explore?q=count+binface&date=now+7-d&geo=AU"
+        }
+      },
+      {
+        "query": "bonnie tyler",
+        "value": 100,
+        "formattedValue": "+100%",
+        "raw": {
+          "query": "bonnie tyler",
+          "value": 100,
+          "formattedValue": "+100%",
+          "link": "/trends/explore?q=bonnie+tyler&date=now+7-d&geo=AU"
+        }
+      },
+      {
+        "query": "england",
+        "value": 100,
+        "formattedValue": "+100%",
+        "raw": {
+          "query": "england",
+          "value": 100,
+          "formattedValue": "+100%",
+          "link": "/trends/explore?q=england&date=now+7-d&geo=AU"
+        }
+      },
+      {
+        "query": "iran war",
+        "value": 60,
+        "formattedValue": "+60%",
+        "raw": {
+          "query": "iran war",
+          "value": 60,
+          "formattedValue": "+60%",
+          "link": "/trends/explore?q=iran+war&date=now+7-d&geo=AU"
         }
       }
     ]
