@@ -20,50 +20,66 @@
       },
       {
         "query": "Vừa ăn vừa ghi hình",
-        "value": 45,
-        "formattedValue": "45",
+        "value": 46,
+        "formattedValue": "46",
         "raw": {
           "topic": {
             "mid": "/m/0130_vh_",
             "title": "Vừa ăn vừa ghi hình",
             "type": "Chủ đề"
           },
-          "value": 45,
-          "formattedValue": "45",
+          "value": 46,
+          "formattedValue": "46",
           "hasData": true,
           "link": "/trends/explore?q=/m/0130_vh_&date=now+7-d&geo=KR"
         }
       },
       {
         "query": "Truyền hình",
-        "value": 35,
-        "formattedValue": "35",
+        "value": 36,
+        "formattedValue": "36",
         "raw": {
           "topic": {
             "mid": "/m/07c52",
             "title": "Truyền hình",
             "type": "Loại truyền hình"
           },
-          "value": 35,
-          "formattedValue": "35",
+          "value": 36,
+          "formattedValue": "36",
           "hasData": true,
           "link": "/trends/explore?q=/m/07c52&date=now+7-d&geo=KR"
         }
       },
       {
         "query": "Giải Bóng đá Vô địch Thế giới",
-        "value": 33,
-        "formattedValue": "33",
+        "value": 32,
+        "formattedValue": "32",
         "raw": {
           "topic": {
             "mid": "/m/030q7",
             "title": "Giải Bóng đá Vô địch Thế giới",
             "type": "Giải bóng đá"
           },
-          "value": 33,
-          "formattedValue": "33",
+          "value": 32,
+          "formattedValue": "32",
           "hasData": true,
           "link": "/trends/explore?q=/m/030q7&date=now+7-d&geo=KR"
+        }
+      },
+      {
+        "query": "Nguyên âm",
+        "value": 31,
+        "formattedValue": "31",
+        "raw": {
+          "topic": {
+            "mid": "/m/080bx",
+            "title": "Nguyên âm",
+            "type": "Chủ đề"
+          },
+          "value": 31,
+          "formattedValue": "31",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/080bx&date=now+7-d&geo=KR"
         }
       },
       {
@@ -83,33 +99,17 @@
         }
       },
       {
-        "query": "Nguyên âm",
-        "value": 29,
-        "formattedValue": "29",
-        "raw": {
-          "topic": {
-            "mid": "/m/080bx",
-            "title": "Nguyên âm",
-            "type": "Chủ đề"
-          },
-          "value": 29,
-          "formattedValue": "29",
-          "hasData": true,
-          "link": "/trends/explore?q=/m/080bx&date=now+7-d&geo=KR"
-        }
-      },
-      {
         "query": "Âm nhạc",
-        "value": 26,
-        "formattedValue": "26",
+        "value": 27,
+        "formattedValue": "27",
         "raw": {
           "topic": {
             "mid": "/m/04rlf",
             "title": "Âm nhạc",
             "type": "Định dạng âm thanh"
           },
-          "value": 26,
-          "formattedValue": "26",
+          "value": 27,
+          "formattedValue": "27",
           "hasData": true,
           "link": "/trends/explore?q=/m/04rlf&date=now+7-d&geo=KR"
         }
@@ -211,19 +211,19 @@
         }
       },
       {
-        "query": "Hàn Quốc",
-        "value": 19,
-        "formattedValue": "19",
+        "query": "Bóng đá",
+        "value": 18,
+        "formattedValue": "18",
         "raw": {
           "topic": {
-            "mid": "/m/06qd3",
-            "title": "Hàn Quốc",
-            "type": "Quốc gia ở Đông Á"
+            "mid": "/m/02vx4",
+            "title": "Bóng đá",
+            "type": "Thể thao"
           },
-          "value": 19,
-          "formattedValue": "19",
+          "value": 18,
+          "formattedValue": "18",
           "hasData": true,
-          "link": "/trends/explore?q=/m/06qd3&date=now+7-d&geo=KR"
+          "link": "/trends/explore?q=/m/02vx4&date=now+7-d&geo=KR"
         }
       },
       {
@@ -243,51 +243,19 @@
         }
       },
       {
-        "query": "Giá cổ phần",
+        "query": "Nhật Bản",
         "value": 18,
         "formattedValue": "18",
         "raw": {
           "topic": {
-            "mid": "/m/01xm4b",
-            "title": "Giá cổ phần",
-            "type": "Chủ đề"
+            "mid": "/m/03_3d",
+            "title": "Nhật Bản",
+            "type": "Quốc gia ở Đông Á"
           },
           "value": 18,
           "formattedValue": "18",
           "hasData": true,
-          "link": "/trends/explore?q=/m/01xm4b&date=now+7-d&geo=KR"
-        }
-      },
-      {
-        "query": "Trò chơi",
-        "value": 18,
-        "formattedValue": "18",
-        "raw": {
-          "topic": {
-            "mid": "/m/03bt1gh",
-            "title": "Trò chơi",
-            "type": "Chủ đề"
-          },
-          "value": 18,
-          "formattedValue": "18",
-          "hasData": true,
-          "link": "/trends/explore?q=/m/03bt1gh&date=now+7-d&geo=KR"
-        }
-      },
-      {
-        "query": "Bóng đá",
-        "value": 17,
-        "formattedValue": "17",
-        "raw": {
-          "topic": {
-            "mid": "/m/02vx4",
-            "title": "Bóng đá",
-            "type": "Thể thao"
-          },
-          "value": 17,
-          "formattedValue": "17",
-          "hasData": true,
-          "link": "/trends/explore?q=/m/02vx4&date=now+7-d&geo=KR"
+          "link": "/trends/explore?q=/m/03_3d&date=now+7-d&geo=KR"
         }
       },
       {
@@ -307,19 +275,83 @@
         }
       },
       {
-        "query": "Nhật Bản",
+        "query": "Giá cổ phần",
         "value": 17,
         "formattedValue": "17",
         "raw": {
           "topic": {
-            "mid": "/m/03_3d",
-            "title": "Nhật Bản",
-            "type": "Quốc gia ở Đông Á"
+            "mid": "/m/01xm4b",
+            "title": "Giá cổ phần",
+            "type": "Chủ đề"
           },
           "value": 17,
           "formattedValue": "17",
           "hasData": true,
-          "link": "/trends/explore?q=/m/03_3d&date=now+7-d&geo=KR"
+          "link": "/trends/explore?q=/m/01xm4b&date=now+7-d&geo=KR"
+        }
+      },
+      {
+        "query": "Thể dục",
+        "value": 17,
+        "formattedValue": "17",
+        "raw": {
+          "topic": {
+            "mid": "/m/019w6h",
+            "title": "Thể dục",
+            "type": "Chủ đề"
+          },
+          "value": 17,
+          "formattedValue": "17",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/019w6h&date=now+7-d&geo=KR"
+        }
+      },
+      {
+        "query": "Trò chơi",
+        "value": 17,
+        "formattedValue": "17",
+        "raw": {
+          "topic": {
+            "mid": "/m/03bt1gh",
+            "title": "Trò chơi",
+            "type": "Chủ đề"
+          },
+          "value": 17,
+          "formattedValue": "17",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/03bt1gh&date=now+7-d&geo=KR"
+        }
+      },
+      {
+        "query": "Conor McGregor",
+        "value": 17,
+        "formattedValue": "17",
+        "raw": {
+          "topic": {
+            "mid": "/m/0rfgxy2",
+            "title": "Conor McGregor",
+            "type": "Võ sĩ võ đạo"
+          },
+          "value": 17,
+          "formattedValue": "17",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/0rfgxy2&date=now+7-d&geo=KR"
+        }
+      },
+      {
+        "query": "Hàn Quốc",
+        "value": 16,
+        "formattedValue": "16",
+        "raw": {
+          "topic": {
+            "mid": "/m/06qd3",
+            "title": "Hàn Quốc",
+            "type": "Quốc gia ở Đông Á"
+          },
+          "value": 16,
+          "formattedValue": "16",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/06qd3&date=now+7-d&geo=KR"
         }
       },
       {
@@ -339,159 +371,112 @@
         }
       },
       {
-        "query": "Thể dục",
+        "query": "Video",
         "value": 16,
         "formattedValue": "16",
         "raw": {
           "topic": {
-            "mid": "/m/019w6h",
-            "title": "Thể dục",
-            "type": "Chủ đề"
+            "mid": "/m/07z4p",
+            "title": "Video",
+            "type": "Định dạng phim"
           },
           "value": 16,
           "formattedValue": "16",
           "hasData": true,
-          "link": "/trends/explore?q=/m/019w6h&date=now+7-d&geo=KR"
-        }
-      },
-      {
-        "query": "Conor McGregor",
-        "value": 16,
-        "formattedValue": "16",
-        "raw": {
-          "topic": {
-            "mid": "/m/0rfgxy2",
-            "title": "Conor McGregor",
-            "type": "Võ sĩ võ đạo"
-          },
-          "value": 16,
-          "formattedValue": "16",
-          "hasData": true,
-          "link": "/trends/explore?q=/m/0rfgxy2&date=now+7-d&geo=KR"
+          "link": "/trends/explore?q=/m/07z4p&date=now+7-d&geo=KR"
         }
       },
       {
         "query": "Danh sách phát",
-        "value": 16,
-        "formattedValue": "16",
+        "value": 15,
+        "formattedValue": "15",
         "raw": {
           "topic": {
             "mid": "/m/0273dp",
             "title": "Danh sách phát",
             "type": "Loại định dạng tệp"
           },
-          "value": 16,
-          "formattedValue": "16",
-          "hasData": true,
-          "link": "/trends/explore?q=/m/0273dp&date=now+7-d&geo=KR"
-        }
-      },
-      {
-        "query": "Chính kịch",
-        "value": 15,
-        "formattedValue": "15",
-        "raw": {
-          "topic": {
-            "mid": "/m/02822",
-            "title": "Chính kịch",
-            "type": "Thể loại văn học"
-          },
           "value": 15,
           "formattedValue": "15",
           "hasData": true,
-          "link": "/trends/explore?q=/m/02822&date=now+7-d&geo=KR"
+          "link": "/trends/explore?q=/m/0273dp&date=now+7-d&geo=KR"
         }
       }
     ],
     "rising": [
       {
-        "query": "Conor McGregor",
+        "query": "Esports World Cup",
         "value": 1100,
         "formattedValue": "+1.100%",
-        "raw": {
-          "topic": {
-            "mid": "/m/0rfgxy2",
-            "title": "Conor McGregor",
-            "type": "Võ sĩ võ đạo"
-          },
-          "value": 1100,
-          "formattedValue": "+1.100%",
-          "link": "/trends/explore?q=/m/0rfgxy2&date=now+7-d&geo=KR"
-        }
-      },
-      {
-        "query": "KBO All-Star Game",
-        "value": 800,
-        "formattedValue": "+800%",
-        "raw": {
-          "topic": {
-            "mid": "/m/0nbcwqw",
-            "title": "KBO All-Star Game",
-            "type": "Chủ đề"
-          },
-          "value": 800,
-          "formattedValue": "+800%",
-          "link": "/trends/explore?q=/m/0nbcwqw&date=now+7-d&geo=KR"
-        }
-      },
-      {
-        "query": "Esports World Cup",
-        "value": 700,
-        "formattedValue": "+700%",
         "raw": {
           "topic": {
             "mid": "/g/11y2mrrczr",
             "title": "Esports World Cup",
             "type": "Chủ đề"
           },
-          "value": 700,
-          "formattedValue": "+700%",
+          "value": 1100,
+          "formattedValue": "+1.100%",
           "link": "/trends/explore?q=/g/11y2mrrczr&date=now+7-d&geo=KR"
         }
       },
       {
-        "query": "Maroc",
-        "value": 300,
-        "formattedValue": "+300%",
+        "query": "KBO All-Star Game",
+        "value": 1050,
+        "formattedValue": "+1.050%",
         "raw": {
           "topic": {
-            "mid": "/m/04wgh",
-            "title": "Maroc",
-            "type": "Quốc gia ở Bắc Phi"
+            "mid": "/m/0nbcwqw",
+            "title": "KBO All-Star Game",
+            "type": "Chủ đề"
           },
-          "value": 300,
-          "formattedValue": "+300%",
-          "link": "/trends/explore?q=/m/04wgh&date=now+7-d&geo=KR"
+          "value": 1050,
+          "formattedValue": "+1.050%",
+          "link": "/trends/explore?q=/m/0nbcwqw&date=now+7-d&geo=KR"
         }
       },
       {
-        "query": "Shin Tae Il",
-        "value": 300,
-        "formattedValue": "+300%",
+        "query": "Conor McGregor",
+        "value": 850,
+        "formattedValue": "+850%",
         "raw": {
           "topic": {
-            "mid": "/g/11hy9tl64m",
-            "title": "Shin Tae Il",
-            "type": "Người làm YouTube"
+            "mid": "/m/0rfgxy2",
+            "title": "Conor McGregor",
+            "type": "Võ sĩ võ đạo"
           },
-          "value": 300,
-          "formattedValue": "+300%",
-          "link": "/trends/explore?q=/g/11hy9tl64m&date=now+7-d&geo=KR"
+          "value": 850,
+          "formattedValue": "+850%",
+          "link": "/trends/explore?q=/m/0rfgxy2&date=now+7-d&geo=KR"
         }
       },
       {
-        "query": "Ultimate Fighting Championship",
-        "value": 190,
-        "formattedValue": "+190%",
+        "query": "Lee Soo-ji",
+        "value": 250,
+        "formattedValue": "+250%",
         "raw": {
           "topic": {
-            "mid": "/m/016r3g",
-            "title": "Ultimate Fighting Championship",
-            "type": "Công ty"
+            "mid": "/g/11bwdv5k66",
+            "title": "Lee Soo-ji",
+            "type": "Diễn viên hài"
           },
-          "value": 190,
-          "formattedValue": "+190%",
-          "link": "/trends/explore?q=/m/016r3g&date=now+7-d&geo=KR"
+          "value": 250,
+          "formattedValue": "+250%",
+          "link": "/trends/explore?q=/g/11bwdv5k66&date=now+7-d&geo=KR"
+        }
+      },
+      {
+        "query": "Anh",
+        "value": 250,
+        "formattedValue": "+250%",
+        "raw": {
+          "topic": {
+            "mid": "/m/02jx1",
+            "title": "Anh",
+            "type": "Quốc gia cấu thành Vương quốc Liên hiệp Anh và Bắc Ireland"
+          },
+          "value": 250,
+          "formattedValue": "+250%",
+          "link": "/trends/explore?q=/m/02jx1&date=now+7-d&geo=KR"
         }
       },
       {
@@ -510,123 +495,78 @@
         }
       },
       {
-        "query": "Lee Soo-ji",
-        "value": 140,
-        "formattedValue": "+140%",
+        "query": "Ultimate Fighting Championship",
+        "value": 160,
+        "formattedValue": "+160%",
         "raw": {
           "topic": {
-            "mid": "/g/11bwdv5k66",
-            "title": "Lee Soo-ji",
-            "type": "Diễn viên hài"
-          },
-          "value": 140,
-          "formattedValue": "+140%",
-          "link": "/trends/explore?q=/g/11bwdv5k66&date=now+7-d&geo=KR"
-        }
-      },
-      {
-        "query": "HLB",
-        "value": 140,
-        "formattedValue": "+140%",
-        "raw": {
-          "topic": {
-            "mid": "/g/121nm7zs",
-            "title": "HLB",
+            "mid": "/m/016r3g",
+            "title": "Ultimate Fighting Championship",
             "type": "Công ty"
           },
-          "value": 140,
-          "formattedValue": "+140%",
-          "link": "/trends/explore?q=/g/121nm7zs&date=now+7-d&geo=KR"
-        }
-      },
-      {
-        "query": "Anh",
-        "value": 140,
-        "formattedValue": "+140%",
-        "raw": {
-          "topic": {
-            "mid": "/m/02jx1",
-            "title": "Anh",
-            "type": "Quốc gia cấu thành Vương quốc Liên hiệp Anh và Bắc Ireland"
-          },
-          "value": 140,
-          "formattedValue": "+140%",
-          "link": "/trends/explore?q=/m/02jx1&date=now+7-d&geo=KR"
-        }
-      },
-      {
-        "query": "Bão cuồng phong",
-        "value": 130,
-        "formattedValue": "+130%",
-        "raw": {
-          "topic": {
-            "mid": "/m/02wv9xd",
-            "title": "Bão cuồng phong",
-            "type": "Chủ đề"
-          },
-          "value": 130,
-          "formattedValue": "+130%",
-          "link": "/trends/explore?q=/m/02wv9xd&date=now+7-d&geo=KR"
+          "value": 160,
+          "formattedValue": "+160%",
+          "link": "/trends/explore?q=/m/016r3g&date=now+7-d&geo=KR"
         }
       },
       {
         "query": "Tây Ban Nha",
-        "value": 130,
-        "formattedValue": "+130%",
+        "value": 140,
+        "formattedValue": "+140%",
         "raw": {
           "topic": {
             "mid": "/m/06mkj",
             "title": "Tây Ban Nha",
             "type": "Quốc gia"
           },
-          "value": 130,
-          "formattedValue": "+130%",
+          "value": 140,
+          "formattedValue": "+140%",
           "link": "/trends/explore?q=/m/06mkj&date=now+7-d&geo=KR"
         }
       },
       {
-        "query": "Pháp",
-        "value": 120,
-        "formattedValue": "+120%",
+        "query": "Rhyu Si-min",
+        "value": 100,
+        "formattedValue": "+100%",
         "raw": {
           "topic": {
-            "mid": "/m/0f8l9c",
-            "title": "Pháp",
-            "type": "Quốc gia ở Châu Âu"
+            "mid": "/m/02z79qr",
+            "title": "Rhyu Si-min",
+            "type": "Cựu Bộ trưởng Bộ Y tế và Các vấn đề xã hội Hàn Quốc"
           },
-          "value": 120,
-          "formattedValue": "+120%",
-          "link": "/trends/explore?q=/m/0f8l9c&date=now+7-d&geo=KR"
+          "value": 100,
+          "formattedValue": "+100%",
+          "link": "/trends/explore?q=/m/02z79qr&date=now+7-d&geo=KR"
+        }
+      },
+      {
+        "query": "Bão cuồng phong",
+        "value": 90,
+        "formattedValue": "+90%",
+        "raw": {
+          "topic": {
+            "mid": "/m/02wv9xd",
+            "title": "Bão cuồng phong",
+            "type": "Chủ đề"
+          },
+          "value": 90,
+          "formattedValue": "+90%",
+          "link": "/trends/explore?q=/m/02wv9xd&date=now+7-d&geo=KR"
         }
       },
       {
         "query": "Law",
-        "value": 110,
-        "formattedValue": "+110%",
+        "value": 80,
+        "formattedValue": "+80%",
         "raw": {
           "topic": {
             "mid": "/g/11x1npl4m",
             "title": "Law",
             "type": "Chủ đề"
           },
-          "value": 110,
-          "formattedValue": "+110%",
+          "value": 80,
+          "formattedValue": "+80%",
           "link": "/trends/explore?q=/g/11x1npl4m&date=now+7-d&geo=KR"
-        }
-      },
-      {
-        "query": "Ahn Gyu-back",
-        "value": 90,
-        "formattedValue": "+90%",
-        "raw": {
-          "topic": {
-            "mid": "/g/120kbdxc",
-            "title": "Ahn Gyu-back",
-            "type": "Bộ trưởng Bộ Quốc phòng Hàn Quốc"
-          },
-          "value": 90,
-          "formattedValue": "+90%",
-          "link": "/trends/explore?q=/g/120kbdxc&date=now+7-d&geo=KR"
         }
       },
       {
@@ -645,108 +585,123 @@
         }
       },
       {
-        "query": "Bạch tuộc Thái Bình Dương",
+        "query": "HLB",
         "value": 80,
         "formattedValue": "+80%",
         "raw": {
           "topic": {
-            "mid": "/m/0dzjls",
-            "title": "Bạch tuộc Thái Bình Dương",
-            "type": "Mặt nạ con vật"
+            "mid": "/g/121nm7zs",
+            "title": "HLB",
+            "type": "Công ty"
           },
           "value": 80,
           "formattedValue": "+80%",
-          "link": "/trends/explore?q=/m/0dzjls&date=now+7-d&geo=KR"
+          "link": "/trends/explore?q=/g/121nm7zs&date=now+7-d&geo=KR"
         }
       },
       {
         "query": "Dokkaebi",
-        "value": 80,
-        "formattedValue": "+80%",
+        "value": 60,
+        "formattedValue": "+60%",
         "raw": {
           "topic": {
             "mid": "/m/07qh4t",
             "title": "Dokkaebi",
             "type": "Chủ đề"
           },
-          "value": 80,
-          "formattedValue": "+80%",
+          "value": 60,
+          "formattedValue": "+60%",
           "link": "/trends/explore?q=/m/07qh4t&date=now+7-d&geo=KR"
         }
       },
       {
-        "query": "Cắm trại",
-        "value": 70,
-        "formattedValue": "+70%",
-        "raw": {
-          "topic": {
-            "mid": "/m/01h6d4",
-            "title": "Cắm trại",
-            "type": "Chủ đề"
-          },
-          "value": 70,
-          "formattedValue": "+70%",
-          "link": "/trends/explore?q=/m/01h6d4&date=now+7-d&geo=KR"
-        }
-      },
-      {
-        "query": "Iran",
-        "value": 70,
-        "formattedValue": "+70%",
-        "raw": {
-          "topic": {
-            "mid": "/m/03shp",
-            "title": "Iran",
-            "type": "Quốc gia ở Trung Đông"
-          },
-          "value": 70,
-          "formattedValue": "+70%",
-          "link": "/trends/explore?q=/m/03shp&date=now+7-d&geo=KR"
-        }
-      },
-      {
-        "query": "Rescene",
+        "query": "Pháp",
         "value": 60,
         "formattedValue": "+60%",
         "raw": {
           "topic": {
-            "mid": "/g/11y36j339b",
-            "title": "Rescene",
-            "type": "Nhóm nhạc"
+            "mid": "/m/0f8l9c",
+            "title": "Pháp",
+            "type": "Quốc gia ở Châu Âu"
           },
           "value": 60,
           "formattedValue": "+60%",
-          "link": "/trends/explore?q=/g/11y36j339b&date=now+7-d&geo=KR"
+          "link": "/trends/explore?q=/m/0f8l9c&date=now+7-d&geo=KR"
         }
       },
       {
-        "query": "Lee Seon-min",
+        "query": "Argentina",
         "value": 60,
         "formattedValue": "+60%",
         "raw": {
           "topic": {
-            "mid": "/g/11c617f2jd",
-            "title": "Lee Seon-min",
-            "type": "Diễn viên hài"
+            "mid": "/m/0jgd",
+            "title": "Argentina",
+            "type": "Quốc gia ở Nam Mỹ"
           },
           "value": 60,
           "formattedValue": "+60%",
-          "link": "/trends/explore?q=/g/11c617f2jd&date=now+7-d&geo=KR"
+          "link": "/trends/explore?q=/m/0jgd&date=now+7-d&geo=KR"
         }
       },
       {
         "query": "Ngô",
-        "value": 50,
-        "formattedValue": "+50%",
+        "value": 60,
+        "formattedValue": "+60%",
         "raw": {
           "topic": {
             "mid": "/g/1226lvn2",
             "title": "Ngô",
             "type": "Thực vật"
           },
+          "value": 60,
+          "formattedValue": "+60%",
+          "link": "/trends/explore?q=/g/1226lvn2&date=now+7-d&geo=KR"
+        }
+      },
+      {
+        "query": "SK Hynix",
+        "value": 50,
+        "formattedValue": "+50%",
+        "raw": {
+          "topic": {
+            "mid": "/m/083w62",
+            "title": "SK Hynix",
+            "type": "Công ty"
+          },
           "value": 50,
           "formattedValue": "+50%",
-          "link": "/trends/explore?q=/g/1226lvn2&date=now+7-d&geo=KR"
+          "link": "/trends/explore?q=/m/083w62&date=now+7-d&geo=KR"
+        }
+      },
+      {
+        "query": "Cắm trại",
+        "value": 50,
+        "formattedValue": "+50%",
+        "raw": {
+          "topic": {
+            "mid": "/m/01h6d4",
+            "title": "Cắm trại",
+            "type": "Chủ đề"
+          },
+          "value": 50,
+          "formattedValue": "+50%",
+          "link": "/trends/explore?q=/m/01h6d4&date=now+7-d&geo=KR"
+        }
+      },
+      {
+        "query": "Rescene",
+        "value": 50,
+        "formattedValue": "+50%",
+        "raw": {
+          "topic": {
+            "mid": "/g/11y36j339b",
+            "title": "Rescene",
+            "type": "Nhóm nhạc"
+          },
+          "value": 50,
+          "formattedValue": "+50%",
+          "link": "/trends/explore?q=/g/11y36j339b&date=now+7-d&geo=KR"
         }
       },
       {
@@ -765,18 +720,48 @@
         }
       },
       {
-        "query": "Rhyu Si-min",
+        "query": "Iran",
         "value": 50,
         "formattedValue": "+50%",
         "raw": {
           "topic": {
-            "mid": "/m/02z79qr",
-            "title": "Rhyu Si-min",
-            "type": "Cựu Bộ trưởng Bộ Y tế và Các vấn đề xã hội Hàn Quốc"
+            "mid": "/m/03shp",
+            "title": "Iran",
+            "type": "Quốc gia ở Trung Đông"
           },
           "value": 50,
           "formattedValue": "+50%",
-          "link": "/trends/explore?q=/m/02z79qr&date=now+7-d&geo=KR"
+          "link": "/trends/explore?q=/m/03shp&date=now+7-d&geo=KR"
+        }
+      },
+      {
+        "query": "Everyday is Friday Night",
+        "value": 40,
+        "formattedValue": "+40%",
+        "raw": {
+          "topic": {
+            "mid": "/g/11vdqhyfv_",
+            "title": "Everyday is Friday Night",
+            "type": "Chủ đề"
+          },
+          "value": 40,
+          "formattedValue": "+40%",
+          "link": "/trends/explore?q=/g/11vdqhyfv_&date=now+7-d&geo=KR"
+        }
+      },
+      {
+        "query": "Lee Seon-min",
+        "value": 40,
+        "formattedValue": "+40%",
+        "raw": {
+          "topic": {
+            "mid": "/g/11c617f2jd",
+            "title": "Lee Seon-min",
+            "type": "Diễn viên hài"
+          },
+          "value": 40,
+          "formattedValue": "+40%",
+          "link": "/trends/explore?q=/g/11c617f2jd&date=now+7-d&geo=KR"
         }
       }
     ]
@@ -797,74 +782,86 @@
       },
       {
         "query": "먹방",
-        "value": 44,
-        "formattedValue": "44",
+        "value": 42,
+        "formattedValue": "42",
         "raw": {
           "query": "먹방",
-          "value": 44,
-          "formattedValue": "44",
+          "value": 42,
+          "formattedValue": "42",
           "hasData": true,
           "link": "/trends/explore?q=%EB%A8%B9%EB%B0%A9&date=now+7-d&geo=KR"
         }
       },
       {
         "query": "리 센느",
-        "value": 35,
-        "formattedValue": "35",
+        "value": 36,
+        "formattedValue": "36",
         "raw": {
           "query": "리 센느",
-          "value": 35,
-          "formattedValue": "35",
+          "value": 36,
+          "formattedValue": "36",
           "hasData": true,
           "link": "/trends/explore?q=%EB%A6%AC+%EC%84%BC%EB%8A%90&date=now+7-d&geo=KR"
         }
       },
       {
         "query": "노래 모음",
-        "value": 32,
-        "formattedValue": "32",
+        "value": 31,
+        "formattedValue": "31",
         "raw": {
           "query": "노래 모음",
-          "value": 32,
-          "formattedValue": "32",
+          "value": 31,
+          "formattedValue": "31",
           "hasData": true,
           "link": "/trends/explore?q=%EB%85%B8%EB%9E%98+%EB%AA%A8%EC%9D%8C&date=now+7-d&geo=KR"
         }
       },
       {
         "query": "월드컵",
-        "value": 27,
-        "formattedValue": "27",
+        "value": 29,
+        "formattedValue": "29",
         "raw": {
           "query": "월드컵",
-          "value": 27,
-          "formattedValue": "27",
+          "value": 29,
+          "formattedValue": "29",
           "hasData": true,
           "link": "/trends/explore?q=%EC%9B%94%EB%93%9C%EC%BB%B5&date=now+7-d&geo=KR"
         }
       },
       {
-        "query": "뉴스",
+        "query": "asmr",
         "value": 23,
         "formattedValue": "23",
         "raw": {
-          "query": "뉴스",
+          "query": "asmr",
           "value": 23,
           "formattedValue": "23",
+          "hasData": true,
+          "link": "/trends/explore?q=asmr&date=now+7-d&geo=KR"
+        }
+      },
+      {
+        "query": "뉴스",
+        "value": 22,
+        "formattedValue": "22",
+        "raw": {
+          "query": "뉴스",
+          "value": 22,
+          "formattedValue": "22",
           "hasData": true,
           "link": "/trends/explore?q=%EB%89%B4%EC%8A%A4&date=now+7-d&geo=KR"
         }
       },
       {
-        "query": "asmr",
+        "query": "영화",
         "value": 21,
         "formattedValue": "21",
         "raw": {
-          "query": "asmr",
+          "query": "영화",
           "value": 21,
           "formattedValue": "21",
           "hasData": true,
-          "link": "/trends/explore?q=asmr&date=now+7-d&geo=KR"
+          "link": "/trends/explore?q=%EC%98%81%ED%99%94&date=now+7-d&geo=KR"
         }
       },
       {
@@ -880,18 +877,6 @@
         }
       },
       {
-        "query": "영화",
-        "value": 20,
-        "formattedValue": "20",
-        "raw": {
-          "query": "영화",
-          "value": 20,
-          "formattedValue": "20",
-          "hasData": true,
-          "link": "/trends/explore?q=%EC%98%81%ED%99%94&date=now+7-d&geo=KR"
-        }
-      },
-      {
         "query": "노래방",
         "value": 18,
         "formattedValue": "18",
@@ -904,73 +889,61 @@
         }
       },
       {
+        "query": "아르헨티나",
+        "value": 17,
+        "formattedValue": "17",
+        "raw": {
+          "query": "아르헨티나",
+          "value": 17,
+          "formattedValue": "17",
+          "hasData": true,
+          "link": "/trends/explore?q=%EC%95%84%EB%A5%B4%ED%97%A8%ED%8B%B0%EB%82%98&date=now+7-d&geo=KR"
+        }
+      },
+      {
         "query": "브이 로그",
-        "value": 18,
-        "formattedValue": "18",
+        "value": 17,
+        "formattedValue": "17",
         "raw": {
           "query": "브이 로그",
-          "value": 18,
-          "formattedValue": "18",
+          "value": 17,
+          "formattedValue": "17",
           "hasData": true,
           "link": "/trends/explore?q=%EB%B8%8C%EC%9D%B4+%EB%A1%9C%EA%B7%B8&date=now+7-d&geo=KR"
         }
       },
       {
         "query": "야구",
-        "value": 16,
-        "formattedValue": "16",
+        "value": 17,
+        "formattedValue": "17",
         "raw": {
           "query": "야구",
-          "value": 16,
-          "formattedValue": "16",
+          "value": 17,
+          "formattedValue": "17",
           "hasData": true,
           "link": "/trends/explore?q=%EC%95%BC%EA%B5%AC&date=now+7-d&geo=KR"
         }
       },
       {
-        "query": "드라마",
-        "value": 15,
-        "formattedValue": "15",
-        "raw": {
-          "query": "드라마",
-          "value": 15,
-          "formattedValue": "15",
-          "hasData": true,
-          "link": "/trends/explore?q=%EB%93%9C%EB%9D%BC%EB%A7%88&date=now+7-d&geo=KR"
-        }
-      },
-      {
         "query": "축구",
-        "value": 15,
-        "formattedValue": "15",
+        "value": 16,
+        "formattedValue": "16",
         "raw": {
           "query": "축구",
-          "value": 15,
-          "formattedValue": "15",
+          "value": 16,
+          "formattedValue": "16",
           "hasData": true,
           "link": "/trends/explore?q=%EC%B6%95%EA%B5%AC&date=now+7-d&geo=KR"
         }
       },
       {
-        "query": "아르헨티나",
+        "query": "맥그리거",
         "value": 15,
         "formattedValue": "15",
         "raw": {
-          "query": "아르헨티나",
+          "query": "맥그리거",
           "value": 15,
           "formattedValue": "15",
-          "hasData": true,
-          "link": "/trends/explore?q=%EC%95%84%EB%A5%B4%ED%97%A8%ED%8B%B0%EB%82%98&date=now+7-d&geo=KR"
-        }
-      },
-      {
-        "query": "맥그리거",
-        "value": 14,
-        "formattedValue": "14",
-        "raw": {
-          "query": "맥그리거",
-          "value": 14,
-          "formattedValue": "14",
           "hasData": true,
           "link": "/trends/explore?q=%EB%A7%A5%EA%B7%B8%EB%A6%AC%EA%B1%B0&date=now+7-d&geo=KR"
         }
@@ -988,6 +961,18 @@
         }
       },
       {
+        "query": "김부장",
+        "value": 13,
+        "formattedValue": "13",
+        "raw": {
+          "query": "김부장",
+          "value": 13,
+          "formattedValue": "13",
+          "hasData": true,
+          "link": "/trends/explore?q=%EA%B9%80%EB%B6%80%EC%9E%A5&date=now+7-d&geo=KR"
+        }
+      },
+      {
         "query": "메이플",
         "value": 12,
         "formattedValue": "12",
@@ -997,18 +982,6 @@
           "formattedValue": "12",
           "hasData": true,
           "link": "/trends/explore?q=%EB%A9%94%EC%9D%B4%ED%94%8C&date=now+7-d&geo=KR"
-        }
-      },
-      {
-        "query": "김부장",
-        "value": 12,
-        "formattedValue": "12",
-        "raw": {
-          "query": "김부장",
-          "value": 12,
-          "formattedValue": "12",
-          "hasData": true,
-          "link": "/trends/explore?q=%EA%B9%80%EB%B6%80%EC%9E%A5&date=now+7-d&geo=KR"
         }
       },
       {
@@ -1048,6 +1021,18 @@
         }
       },
       {
+        "query": "맥그리거 할로 웨이",
+        "value": 10,
+        "formattedValue": "10",
+        "raw": {
+          "query": "맥그리거 할로 웨이",
+          "value": 10,
+          "formattedValue": "10",
+          "hasData": true,
+          "link": "/trends/explore?q=%EB%A7%A5%EA%B7%B8%EB%A6%AC%EA%B1%B0+%ED%95%A0%EB%A1%9C+%EC%9B%A8%EC%9D%B4&date=now+7-d&geo=KR"
+        }
+      },
+      {
         "query": "동요",
         "value": 10,
         "formattedValue": "10",
@@ -1060,51 +1045,62 @@
         }
       },
       {
-        "query": "맥그리거 할로 웨이",
+        "query": "플리",
         "value": 9,
         "formattedValue": "9",
         "raw": {
-          "query": "맥그리거 할로 웨이",
+          "query": "플리",
           "value": 9,
           "formattedValue": "9",
           "hasData": true,
-          "link": "/trends/explore?q=%EB%A7%A5%EA%B7%B8%EB%A6%AC%EA%B1%B0+%ED%95%A0%EB%A1%9C+%EC%9B%A8%EC%9D%B4&date=now+7-d&geo=KR"
+          "link": "/trends/explore?q=%ED%94%8C%EB%A6%AC&date=now+7-d&geo=KR"
         }
       },
       {
-        "query": "마크",
+        "query": "잉글랜드 아르헨티나",
         "value": 9,
         "formattedValue": "9",
         "raw": {
-          "query": "마크",
+          "query": "잉글랜드 아르헨티나",
           "value": 9,
           "formattedValue": "9",
           "hasData": true,
-          "link": "/trends/explore?q=%EB%A7%88%ED%81%AC&date=now+7-d&geo=KR"
+          "link": "/trends/explore?q=%EC%9E%89%EA%B8%80%EB%9E%9C%EB%93%9C+%EC%95%84%EB%A5%B4%ED%97%A8%ED%8B%B0%EB%82%98&date=now+7-d&geo=KR"
         }
       }
     ],
     "rising": [
       {
-        "query": "프랑스 스페인",
-        "value": 4650,
-        "formattedValue": "+4.650%",
+        "query": "잉글랜드 아르헨티나",
+        "value": 5650,
+        "formattedValue": "Đột phá",
         "raw": {
-          "query": "프랑스 스페인",
-          "value": 4650,
-          "formattedValue": "+4.650%",
-          "link": "/trends/explore?q=%ED%94%84%EB%9E%91%EC%8A%A4+%EC%8A%A4%ED%8E%98%EC%9D%B8&date=now+7-d&geo=KR"
+          "query": "잉글랜드 아르헨티나",
+          "value": 5650,
+          "formattedValue": "Đột phá",
+          "link": "/trends/explore?q=%EC%9E%89%EA%B8%80%EB%9E%9C%EB%93%9C+%EC%95%84%EB%A5%B4%ED%97%A8%ED%8B%B0%EB%82%98&date=now+7-d&geo=KR"
         }
       },
       {
-        "query": "아르헨티나 잉글랜드",
-        "value": 4150,
-        "formattedValue": "+4.150%",
+        "query": "스페인 프랑스",
+        "value": 4550,
+        "formattedValue": "+4.550%",
         "raw": {
-          "query": "아르헨티나 잉글랜드",
-          "value": 4150,
-          "formattedValue": "+4.150%",
-          "link": "/trends/explore?q=%EC%95%84%EB%A5%B4%ED%97%A8%ED%8B%B0%EB%82%98+%EC%9E%89%EA%B8%80%EB%9E%9C%EB%93%9C&date=now+7-d&geo=KR"
+          "query": "스페인 프랑스",
+          "value": 4550,
+          "formattedValue": "+4.550%",
+          "link": "/trends/explore?q=%EC%8A%A4%ED%8E%98%EC%9D%B8+%ED%94%84%EB%9E%91%EC%8A%A4&date=now+7-d&geo=KR"
+        }
+      },
+      {
+        "query": "프랑스 스페인",
+        "value": 4400,
+        "formattedValue": "+4.400%",
+        "raw": {
+          "query": "프랑스 스페인",
+          "value": 4400,
+          "formattedValue": "+4.400%",
+          "link": "/trends/explore?q=%ED%94%84%EB%9E%91%EC%8A%A4+%EC%8A%A4%ED%8E%98%EC%9D%B8&date=now+7-d&geo=KR"
         }
       },
       {
@@ -1119,14 +1115,14 @@
         }
       },
       {
-        "query": "맥그리거 할로 웨이",
+        "query": "잉글랜드 아르헨티나 하이라이트",
         "value": 2400,
         "formattedValue": "+2.400%",
         "raw": {
-          "query": "맥그리거 할로 웨이",
+          "query": "잉글랜드 아르헨티나 하이라이트",
           "value": 2400,
           "formattedValue": "+2.400%",
-          "link": "/trends/explore?q=%EB%A7%A5%EA%B7%B8%EB%A6%AC%EA%B1%B0+%ED%95%A0%EB%A1%9C+%EC%9B%A8%EC%9D%B4&date=now+7-d&geo=KR"
+          "link": "/trends/explore?q=%EC%9E%89%EA%B8%80%EB%9E%9C%EB%93%9C+%EC%95%84%EB%A5%B4%ED%97%A8%ED%8B%B0%EB%82%98+%ED%95%98%EC%9D%B4%EB%9D%BC%EC%9D%B4%ED%8A%B8&date=now+7-d&geo=KR"
         }
       },
       {
@@ -1141,6 +1137,39 @@
         }
       },
       {
+        "query": "쇠 를 로트",
+        "value": 2250,
+        "formattedValue": "+2.250%",
+        "raw": {
+          "query": "쇠 를 로트",
+          "value": 2250,
+          "formattedValue": "+2.250%",
+          "link": "/trends/explore?q=%EC%87%A0+%EB%A5%BC+%EB%A1%9C%ED%8A%B8&date=now+7-d&geo=KR"
+        }
+      },
+      {
+        "query": "맥그리거 할로 웨이",
+        "value": 1950,
+        "formattedValue": "+1.950%",
+        "raw": {
+          "query": "맥그리거 할로 웨이",
+          "value": 1950,
+          "formattedValue": "+1.950%",
+          "link": "/trends/explore?q=%EB%A7%A5%EA%B7%B8%EB%A6%AC%EA%B1%B0+%ED%95%A0%EB%A1%9C+%EC%9B%A8%EC%9D%B4&date=now+7-d&geo=KR"
+        }
+      },
+      {
+        "query": "유노 기내식",
+        "value": 1550,
+        "formattedValue": "+1.550%",
+        "raw": {
+          "query": "유노 기내식",
+          "value": 1550,
+          "formattedValue": "+1.550%",
+          "link": "/trends/explore?q=%EC%9C%A0%EB%85%B8+%EA%B8%B0%EB%82%B4%EC%8B%9D&date=now+7-d&geo=KR"
+        }
+      },
+      {
         "query": "올스타전 야구",
         "value": 1100,
         "formattedValue": "+1.100%",
@@ -1152,58 +1181,69 @@
         }
       },
       {
-        "query": "프랑스 모로코",
-        "value": 1050,
-        "formattedValue": "+1.050%",
-        "raw": {
-          "query": "프랑스 모로코",
-          "value": 1050,
-          "formattedValue": "+1.050%",
-          "link": "/trends/explore?q=%ED%94%84%EB%9E%91%EC%8A%A4+%EB%AA%A8%EB%A1%9C%EC%BD%94&date=now+7-d&geo=KR"
-        }
-      },
-      {
-        "query": "맥그리거",
-        "value": 1050,
-        "formattedValue": "+1.050%",
-        "raw": {
-          "query": "맥그리거",
-          "value": 1050,
-          "formattedValue": "+1.050%",
-          "link": "/trends/explore?q=%EB%A7%A5%EA%B7%B8%EB%A6%AC%EA%B1%B0&date=now+7-d&geo=KR"
-        }
-      },
-      {
         "query": "월드컵 4 강",
-        "value": 950,
-        "formattedValue": "+950%",
+        "value": 1050,
+        "formattedValue": "+1.050%",
         "raw": {
           "query": "월드컵 4 강",
-          "value": 950,
-          "formattedValue": "+950%",
+          "value": 1050,
+          "formattedValue": "+1.050%",
           "link": "/trends/explore?q=%EC%9B%94%EB%93%9C%EC%BB%B5+4+%EA%B0%95&date=now+7-d&geo=KR"
         }
       },
       {
-        "query": "충주 시장 재검 표",
-        "value": 950,
-        "formattedValue": "+950%",
+        "query": "ewc",
+        "value": 850,
+        "formattedValue": "+850%",
         "raw": {
-          "query": "충주 시장 재검 표",
-          "value": 950,
-          "formattedValue": "+950%",
-          "link": "/trends/explore?q=%EC%B6%A9%EC%A3%BC+%EC%8B%9C%EC%9E%A5+%EC%9E%AC%EA%B2%80+%ED%91%9C&date=now+7-d&geo=KR"
+          "query": "ewc",
+          "value": 850,
+          "formattedValue": "+850%",
+          "link": "/trends/explore?q=ewc&date=now+7-d&geo=KR"
+        }
+      },
+      {
+        "query": "맥그리거",
+        "value": 850,
+        "formattedValue": "+850%",
+        "raw": {
+          "query": "맥그리거",
+          "value": 850,
+          "formattedValue": "+850%",
+          "link": "/trends/explore?q=%EB%A7%A5%EA%B7%B8%EB%A6%AC%EA%B1%B0&date=now+7-d&geo=KR"
         }
       },
       {
         "query": "스페인 벨기에",
+        "value": 800,
+        "formattedValue": "+800%",
+        "raw": {
+          "query": "스페인 벨기에",
+          "value": 800,
+          "formattedValue": "+800%",
+          "link": "/trends/explore?q=%EC%8A%A4%ED%8E%98%EC%9D%B8+%EB%B2%A8%EA%B8%B0%EC%97%90&date=now+7-d&geo=KR"
+        }
+      },
+      {
+        "query": "윤도영",
         "value": 750,
         "formattedValue": "+750%",
         "raw": {
-          "query": "스페인 벨기에",
+          "query": "윤도영",
           "value": 750,
           "formattedValue": "+750%",
-          "link": "/trends/explore?q=%EC%8A%A4%ED%8E%98%EC%9D%B8+%EB%B2%A8%EA%B8%B0%EC%97%90&date=now+7-d&geo=KR"
+          "link": "/trends/explore?q=%EC%9C%A4%EB%8F%84%EC%98%81&date=now+7-d&geo=KR"
+        }
+      },
+      {
+        "query": "그대 에게 드림",
+        "value": 750,
+        "formattedValue": "+750%",
+        "raw": {
+          "query": "그대 에게 드림",
+          "value": 750,
+          "formattedValue": "+750%",
+          "link": "/trends/explore?q=%EA%B7%B8%EB%8C%80+%EC%97%90%EA%B2%8C+%EB%93%9C%EB%A6%BC&date=now+7-d&geo=KR"
         }
       },
       {
@@ -1218,39 +1258,6 @@
         }
       },
       {
-        "query": "윤도영",
-        "value": 650,
-        "formattedValue": "+650%",
-        "raw": {
-          "query": "윤도영",
-          "value": 650,
-          "formattedValue": "+650%",
-          "link": "/trends/explore?q=%EC%9C%A4%EB%8F%84%EC%98%81&date=now+7-d&geo=KR"
-        }
-      },
-      {
-        "query": "ewc",
-        "value": 650,
-        "formattedValue": "+650%",
-        "raw": {
-          "query": "ewc",
-          "value": 650,
-          "formattedValue": "+650%",
-          "link": "/trends/explore?q=ewc&date=now+7-d&geo=KR"
-        }
-      },
-      {
-        "query": "그대 에게 드림",
-        "value": 650,
-        "formattedValue": "+650%",
-        "raw": {
-          "query": "그대 에게 드림",
-          "value": 650,
-          "formattedValue": "+650%",
-          "link": "/trends/explore?q=%EA%B7%B8%EB%8C%80+%EC%97%90%EA%B2%8C+%EB%93%9C%EB%A6%BC&date=now+7-d&geo=KR"
-        }
-      },
-      {
         "query": "팰 월드",
         "value": 550,
         "formattedValue": "+550%",
@@ -1262,102 +1269,80 @@
         }
       },
       {
-        "query": "리 센느 1 위",
-        "value": 550,
-        "formattedValue": "+550%",
-        "raw": {
-          "query": "리 센느 1 위",
-          "value": 550,
-          "formattedValue": "+550%",
-          "link": "/trends/explore?q=%EB%A6%AC+%EC%84%BC%EB%8A%90+1+%EC%9C%84&date=now+7-d&geo=KR"
-        }
-      },
-      {
         "query": "하안 아뜰리에",
-        "value": 550,
-        "formattedValue": "+550%",
+        "value": 450,
+        "formattedValue": "+450%",
         "raw": {
           "query": "하안 아뜰리에",
-          "value": 550,
-          "formattedValue": "+550%",
+          "value": 450,
+          "formattedValue": "+450%",
           "link": "/trends/explore?q=%ED%95%98%EC%95%88+%EC%95%84%EB%9C%B0%EB%A6%AC%EC%97%90&date=now+7-d&geo=KR"
         }
       },
       {
+        "query": "클릭비",
+        "value": 400,
+        "formattedValue": "+400%",
+        "raw": {
+          "query": "클릭비",
+          "value": 400,
+          "formattedValue": "+400%",
+          "link": "/trends/explore?q=%ED%81%B4%EB%A6%AD%EB%B9%84&date=now+7-d&geo=KR"
+        }
+      },
+      {
+        "query": "김부장 5 화",
+        "value": 300,
+        "formattedValue": "+300%",
+        "raw": {
+          "query": "김부장 5 화",
+          "value": 300,
+          "formattedValue": "+300%",
+          "link": "/trends/explore?q=%EA%B9%80%EB%B6%80%EC%9E%A5+5+%ED%99%94&date=now+7-d&geo=KR"
+        }
+      },
+      {
         "query": "야구 여왕 시즌 2",
-        "value": 500,
-        "formattedValue": "+500%",
+        "value": 300,
+        "formattedValue": "+300%",
         "raw": {
           "query": "야구 여왕 시즌 2",
-          "value": 500,
-          "formattedValue": "+500%",
+          "value": 300,
+          "formattedValue": "+300%",
           "link": "/trends/explore?q=%EC%95%BC%EA%B5%AC+%EC%97%AC%EC%99%95+%EC%8B%9C%EC%A6%8C+2&date=now+7-d&geo=KR"
         }
       },
       {
         "query": "야구 여왕",
-        "value": 400,
-        "formattedValue": "+400%",
+        "value": 250,
+        "formattedValue": "+250%",
         "raw": {
           "query": "야구 여왕",
-          "value": 400,
-          "formattedValue": "+400%",
+          "value": 250,
+          "formattedValue": "+250%",
           "link": "/trends/explore?q=%EC%95%BC%EA%B5%AC+%EC%97%AC%EC%99%95&date=now+7-d&geo=KR"
         }
       },
       {
-        "query": "김부장 5 화",
-        "value": 350,
-        "formattedValue": "+350%",
+        "query": "어쩔수 없는 윤화",
+        "value": 250,
+        "formattedValue": "+250%",
         "raw": {
-          "query": "김부장 5 화",
-          "value": 350,
-          "formattedValue": "+350%",
-          "link": "/trends/explore?q=%EA%B9%80%EB%B6%80%EC%9E%A5+5+%ED%99%94&date=now+7-d&geo=KR"
+          "query": "어쩔수 없는 윤화",
+          "value": 250,
+          "formattedValue": "+250%",
+          "link": "/trends/explore?q=%EC%96%B4%EC%A9%94%EC%88%98+%EC%97%86%EB%8A%94+%EC%9C%A4%ED%99%94&date=now+7-d&geo=KR"
         }
       },
       {
-        "query": "감옥 에서 누가 돌아 왔게 원본",
-        "value": 300,
-        "formattedValue": "+300%",
+        "query": "이수지",
+        "value": 250,
+        "formattedValue": "+250%",
         "raw": {
-          "query": "감옥 에서 누가 돌아 왔게 원본",
-          "value": 300,
-          "formattedValue": "+300%",
-          "link": "/trends/explore?q=%EA%B0%90%EC%98%A5+%EC%97%90%EC%84%9C+%EB%88%84%EA%B0%80+%EB%8F%8C%EC%95%84+%EC%99%94%EA%B2%8C+%EC%9B%90%EB%B3%B8&date=now+7-d&geo=KR"
-        }
-      },
-      {
-        "query": "신태일",
-        "value": 300,
-        "formattedValue": "+300%",
-        "raw": {
-          "query": "신태일",
-          "value": 300,
-          "formattedValue": "+300%",
-          "link": "/trends/explore?q=%EC%8B%A0%ED%83%9C%EC%9D%BC&date=now+7-d&geo=KR"
-        }
-      },
-      {
-        "query": "로 봉순",
-        "value": 200,
-        "formattedValue": "+200%",
-        "raw": {
-          "query": "로 봉순",
-          "value": 200,
-          "formattedValue": "+200%",
-          "link": "/trends/explore?q=%EB%A1%9C+%EB%B4%89%EC%88%9C&date=now+7-d&geo=KR"
-        }
-      },
-      {
-        "query": "프리티 걸",
-        "value": 180,
-        "formattedValue": "+180%",
-        "raw": {
-          "query": "프리티 걸",
-          "value": 180,
-          "formattedValue": "+180%",
-          "link": "/trends/explore?q=%ED%94%84%EB%A6%AC%ED%8B%B0+%EA%B1%B8&date=now+7-d&geo=KR"
+          "query": "이수지",
+          "value": 250,
+          "formattedValue": "+250%",
+          "link": "/trends/explore?q=%EC%9D%B4%EC%88%98%EC%A7%80&date=now+7-d&geo=KR"
         }
       }
     ]
