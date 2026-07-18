@@ -20,18 +20,34 @@
       },
       {
         "query": "Karaoke",
-        "value": 42,
-        "formattedValue": "42",
+        "value": 44,
+        "formattedValue": "44",
         "raw": {
           "topic": {
             "mid": "/m/04c5p",
             "title": "Karaoke",
             "type": "Chủ đề"
           },
-          "value": 42,
-          "formattedValue": "42",
+          "value": 44,
+          "formattedValue": "44",
           "hasData": true,
           "link": "/trends/explore?q=/m/04c5p&date=now+7-d&geo=ID"
+        }
+      },
+      {
+        "query": "Điện ảnh",
+        "value": 41,
+        "formattedValue": "41",
+        "raw": {
+          "topic": {
+            "mid": "/m/02vxn",
+            "title": "Điện ảnh",
+            "type": "Loại truyền hình"
+          },
+          "value": 41,
+          "formattedValue": "41",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/02vxn&date=now+7-d&geo=ID"
         }
       },
       {
@@ -51,65 +67,49 @@
         }
       },
       {
-        "query": "Điện ảnh",
-        "value": 37,
-        "formattedValue": "37",
-        "raw": {
-          "topic": {
-            "mid": "/m/02vxn",
-            "title": "Điện ảnh",
-            "type": "Loại truyền hình"
-          },
-          "value": 37,
-          "formattedValue": "37",
-          "hasData": true,
-          "link": "/trends/explore?q=/m/02vxn&date=now+7-d&geo=ID"
-        }
-      },
-      {
         "query": "DJ",
-        "value": 33,
-        "formattedValue": "33",
+        "value": 34,
+        "formattedValue": "34",
         "raw": {
           "topic": {
             "mid": "/m/02dsz",
             "title": "DJ",
             "type": "Nghề nghiệp"
           },
-          "value": 33,
-          "formattedValue": "33",
+          "value": 34,
+          "formattedValue": "34",
           "hasData": true,
           "link": "/trends/explore?q=/m/02dsz&date=now+7-d&geo=ID"
         }
       },
       {
         "query": "Tiếng Indonesia",
-        "value": 32,
-        "formattedValue": "32",
+        "value": 34,
+        "formattedValue": "34",
         "raw": {
           "topic": {
             "mid": "/m/097kp",
             "title": "Tiếng Indonesia",
             "type": "Ngôn ngữ"
           },
-          "value": 32,
-          "formattedValue": "32",
+          "value": 34,
+          "formattedValue": "34",
           "hasData": true,
           "link": "/trends/explore?q=/m/097kp&date=now+7-d&geo=ID"
         }
       },
       {
         "query": "Trẻ em",
-        "value": 29,
-        "formattedValue": "29",
+        "value": 30,
+        "formattedValue": "30",
         "raw": {
           "topic": {
             "mid": "/m/0ytgt",
             "title": "Trẻ em",
             "type": "Chủ đề"
           },
-          "value": 29,
-          "formattedValue": "29",
+          "value": 30,
+          "formattedValue": "30",
           "hasData": true,
           "link": "/trends/explore?q=/m/0ytgt&date=now+7-d&geo=ID"
         }
@@ -131,49 +131,49 @@
         }
       },
       {
-        "query": "DHOT DESIGN",
-        "value": 18,
-        "formattedValue": "18",
-        "raw": {
-          "topic": {
-            "mid": "/g/11vwlzgh77",
-            "title": "DHOT DESIGN",
-            "type": "Nghệ sĩ âm nhạc"
-          },
-          "value": 18,
-          "formattedValue": "18",
-          "hasData": true,
-          "link": "/trends/explore?q=/g/11vwlzgh77&date=now+7-d&geo=ID"
-        }
-      },
-      {
         "query": "Album",
-        "value": 17,
-        "formattedValue": "17",
+        "value": 19,
+        "formattedValue": "19",
         "raw": {
           "topic": {
             "mid": "/m/02lx2r",
             "title": "Album",
             "type": "Loại anbom nhạc"
           },
-          "value": 17,
-          "formattedValue": "17",
+          "value": 19,
+          "formattedValue": "19",
           "hasData": true,
           "link": "/trends/explore?q=/m/02lx2r&date=now+7-d&geo=ID"
         }
       },
       {
+        "query": "DHOT DESIGN",
+        "value": 19,
+        "formattedValue": "19",
+        "raw": {
+          "topic": {
+            "mid": "/g/11vwlzgh77",
+            "title": "DHOT DESIGN",
+            "type": "Nghệ sĩ âm nhạc"
+          },
+          "value": 19,
+          "formattedValue": "19",
+          "hasData": true,
+          "link": "/trends/explore?q=/g/11vwlzgh77&date=now+7-d&geo=ID"
+        }
+      },
+      {
         "query": "Nhạc Dangdut",
-        "value": 16,
-        "formattedValue": "16",
+        "value": 17,
+        "formattedValue": "17",
         "raw": {
           "topic": {
             "mid": "/m/0219tx",
             "title": "Nhạc Dangdut",
             "type": "Thể loại nhạc"
           },
-          "value": 16,
-          "formattedValue": "16",
+          "value": 17,
+          "formattedValue": "17",
           "hasData": true,
           "link": "/trends/explore?q=/m/0219tx&date=now+7-d&geo=ID"
         }
@@ -192,6 +192,22 @@
           "formattedValue": "15",
           "hasData": true,
           "link": "/trends/explore?q=/m/04g7d&date=now+7-d&geo=ID"
+        }
+      },
+      {
+        "query": "Âm thanh",
+        "value": 15,
+        "formattedValue": "15",
+        "raw": {
+          "topic": {
+            "mid": "/m/06qc5",
+            "title": "Âm thanh",
+            "type": "Chủ đề"
+          },
+          "value": 15,
+          "formattedValue": "15",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/06qc5&date=now+7-d&geo=ID"
         }
       },
       {
@@ -227,65 +243,49 @@
         }
       },
       {
-        "query": "Âm thanh",
+        "query": "Upin & Ipin",
         "value": 13,
         "formattedValue": "13",
-        "raw": {
-          "topic": {
-            "mid": "/m/06qc5",
-            "title": "Âm thanh",
-            "type": "Chủ đề"
-          },
-          "value": 13,
-          "formattedValue": "13",
-          "hasData": true,
-          "link": "/trends/explore?q=/m/06qc5&date=now+7-d&geo=ID"
-        }
-      },
-      {
-        "query": "Upin & Ipin",
-        "value": 12,
-        "formattedValue": "12",
         "raw": {
           "topic": {
             "mid": "/m/04n34bl",
             "title": "Upin & Ipin",
             "type": "Phim"
           },
-          "value": 12,
-          "formattedValue": "12",
+          "value": 13,
+          "formattedValue": "13",
           "hasData": true,
           "link": "/trends/explore?q=/m/04n34bl&date=now+7-d&geo=ID"
         }
       },
       {
         "query": "Tình yêu",
-        "value": 11,
-        "formattedValue": "11",
+        "value": 12,
+        "formattedValue": "12",
         "raw": {
           "topic": {
             "mid": "/m/048knlz",
             "title": "Tình yêu",
             "type": "Chủ đề"
           },
-          "value": 11,
-          "formattedValue": "11",
+          "value": 12,
+          "formattedValue": "12",
           "hasData": true,
           "link": "/trends/explore?q=/m/048knlz&date=now+7-d&geo=ID"
         }
       },
       {
         "query": "Người",
-        "value": 11,
-        "formattedValue": "11",
+        "value": 12,
+        "formattedValue": "12",
         "raw": {
           "topic": {
             "mid": "/m/0dgw9r",
             "title": "Người",
             "type": "Bộ Linh trưởng"
           },
-          "value": 11,
-          "formattedValue": "11",
+          "value": 12,
+          "formattedValue": "12",
           "hasData": true,
           "link": "/trends/explore?q=/m/0dgw9r&date=now+7-d&geo=ID"
         }
@@ -307,22 +307,6 @@
         }
       },
       {
-        "query": "Ô tô",
-        "value": 11,
-        "formattedValue": "11",
-        "raw": {
-          "topic": {
-            "mid": "/m/0k4j",
-            "title": "Ô tô",
-            "type": "Chế độ phương tiện"
-          },
-          "value": 11,
-          "formattedValue": "11",
-          "hasData": true,
-          "link": "/trends/explore?q=/m/0k4j&date=now+7-d&geo=ID"
-        }
-      },
-      {
         "query": "TikTok",
         "value": 11,
         "formattedValue": "11",
@@ -336,6 +320,22 @@
           "formattedValue": "11",
           "hasData": true,
           "link": "/trends/explore?q=/g/11f555cn8l&date=now+7-d&geo=ID"
+        }
+      },
+      {
+        "query": "Ô tô",
+        "value": 11,
+        "formattedValue": "11",
+        "raw": {
+          "topic": {
+            "mid": "/m/0k4j",
+            "title": "Ô tô",
+            "type": "Chế độ phương tiện"
+          },
+          "value": 11,
+          "formattedValue": "11",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/0k4j&date=now+7-d&geo=ID"
         }
       },
       {
@@ -388,37 +388,22 @@
       },
       {
         "query": "Ma",
-        "value": 9,
-        "formattedValue": "9",
+        "value": 10,
+        "formattedValue": "10",
         "raw": {
           "topic": {
             "mid": "/m/038_l",
             "title": "Ma",
             "type": "Chủ đề"
           },
-          "value": 9,
-          "formattedValue": "9",
+          "value": 10,
+          "formattedValue": "10",
           "hasData": true,
           "link": "/trends/explore?q=/m/038_l&date=now+7-d&geo=ID"
         }
       }
     ],
     "rising": [
-      {
-        "query": "Chuyển mạch nhãn đa giao thức",
-        "value": 350,
-        "formattedValue": "+350%",
-        "raw": {
-          "topic": {
-            "mid": "/m/055sy",
-            "title": "Chuyển mạch nhãn đa giao thức",
-            "type": "Giao thức internet"
-          },
-          "value": 350,
-          "formattedValue": "+350%",
-          "link": "/trends/explore?q=/m/055sy&date=now+7-d&geo=ID"
-        }
-      },
       {
         "query": "Đội tuyển Bóng đá Quốc gia Anh",
         "value": 300,
@@ -436,62 +421,47 @@
       },
       {
         "query": "Đội tuyển Bóng đá Quốc gia Thụy Sĩ",
-        "value": 250,
-        "formattedValue": "+250%",
+        "value": 200,
+        "formattedValue": "+200%",
         "raw": {
           "topic": {
             "mid": "/m/032jlh",
             "title": "Đội tuyển Bóng đá Quốc gia Thụy Sĩ",
             "type": "Đội bóng đá"
           },
-          "value": 250,
-          "formattedValue": "+250%",
+          "value": 200,
+          "formattedValue": "+200%",
           "link": "/trends/explore?q=/m/032jlh&date=now+7-d&geo=ID"
         }
       },
       {
+        "query": "Chuyển mạch nhãn đa giao thức",
+        "value": 150,
+        "formattedValue": "+150%",
+        "raw": {
+          "topic": {
+            "mid": "/m/055sy",
+            "title": "Chuyển mạch nhãn đa giao thức",
+            "type": "Giao thức internet"
+          },
+          "value": 150,
+          "formattedValue": "+150%",
+          "link": "/trends/explore?q=/m/055sy&date=now+7-d&geo=ID"
+        }
+      },
+      {
         "query": "Mũ",
-        "value": 180,
-        "formattedValue": "+180%",
+        "value": 130,
+        "formattedValue": "+130%",
         "raw": {
           "topic": {
             "mid": "/m/02dl1y",
             "title": "Mũ",
             "type": "Hàng may mặc"
           },
-          "value": 180,
-          "formattedValue": "+180%",
+          "value": 130,
+          "formattedValue": "+130%",
           "link": "/trends/explore?q=/m/02dl1y&date=now+7-d&geo=ID"
-        }
-      },
-      {
-        "query": "Giấy bìa",
-        "value": 110,
-        "formattedValue": "+110%",
-        "raw": {
-          "topic": {
-            "mid": "/g/120kyzv0",
-            "title": "Giấy bìa",
-            "type": "Chủ đề"
-          },
-          "value": 110,
-          "formattedValue": "+110%",
-          "link": "/trends/explore?q=/g/120kyzv0&date=now+7-d&geo=ID"
-        }
-      },
-      {
-        "query": "Trường mẫu giáo",
-        "value": 90,
-        "formattedValue": "+90%",
-        "raw": {
-          "topic": {
-            "mid": "/m/01ft5b",
-            "title": "Trường mẫu giáo",
-            "type": "Danh mục trường học"
-          },
-          "value": 90,
-          "formattedValue": "+90%",
-          "link": "/trends/explore?q=/m/01ft5b&date=now+7-d&geo=ID"
         }
       },
       {
@@ -510,122 +480,62 @@
         }
       },
       {
-        "query": "Đội tuyển Bóng đá Quốc gia Pháp",
-        "value": 70,
-        "formattedValue": "+70%",
+        "query": "Giấy bìa",
+        "value": 80,
+        "formattedValue": "+80%",
         "raw": {
           "topic": {
-            "mid": "/m/01l3vx",
-            "title": "Đội tuyển Bóng đá Quốc gia Pháp",
-            "type": "Đội bóng đá"
-          },
-          "value": 70,
-          "formattedValue": "+70%",
-          "link": "/trends/explore?q=/m/01l3vx&date=now+7-d&geo=ID"
-        }
-      },
-      {
-        "query": "Grand Theft Auto",
-        "value": 60,
-        "formattedValue": "+60%",
-        "raw": {
-          "topic": {
-            "mid": "/m/04w8jw",
-            "title": "Grand Theft Auto",
-            "type": "Loạt trò chơi điện tử"
-          },
-          "value": 60,
-          "formattedValue": "+60%",
-          "link": "/trends/explore?q=/m/04w8jw&date=now+7-d&geo=ID"
-        }
-      },
-      {
-        "query": "Đội tuyển Bóng đá Quốc gia Tây Ban Nha",
-        "value": 50,
-        "formattedValue": "+50%",
-        "raw": {
-          "topic": {
-            "mid": "/m/02w64f",
-            "title": "Đội tuyển Bóng đá Quốc gia Tây Ban Nha",
-            "type": "Đội bóng đá"
-          },
-          "value": 50,
-          "formattedValue": "+50%",
-          "link": "/trends/explore?q=/m/02w64f&date=now+7-d&geo=ID"
-        }
-      },
-      {
-        "query": "Trường học",
-        "value": 50,
-        "formattedValue": "+50%",
-        "raw": {
-          "topic": {
-            "mid": "/m/06zdj",
-            "title": "Trường học",
-            "type": "Chức năng của tòa nhà"
-          },
-          "value": 50,
-          "formattedValue": "+50%",
-          "link": "/trends/explore?q=/m/06zdj&date=now+7-d&geo=ID"
-        }
-      },
-      {
-        "query": "Giấy",
-        "value": 50,
-        "formattedValue": "+50%",
-        "raw": {
-          "topic": {
-            "mid": "/m/0641k",
-            "title": "Giấy",
+            "mid": "/g/120kyzv0",
+            "title": "Giấy bìa",
             "type": "Chủ đề"
           },
-          "value": 50,
-          "formattedValue": "+50%",
-          "link": "/trends/explore?q=/m/0641k&date=now+7-d&geo=ID"
+          "value": 80,
+          "formattedValue": "+80%",
+          "link": "/trends/explore?q=/g/120kyzv0&date=now+7-d&geo=ID"
+        }
+      },
+      {
+        "query": "Trường mẫu giáo",
+        "value": 80,
+        "formattedValue": "+80%",
+        "raw": {
+          "topic": {
+            "mid": "/m/01ft5b",
+            "title": "Trường mẫu giáo",
+            "type": "Danh mục trường học"
+          },
+          "value": 80,
+          "formattedValue": "+80%",
+          "link": "/trends/explore?q=/m/01ft5b&date=now+7-d&geo=ID"
         }
       },
       {
         "query": "Thể dục dụng cụ",
-        "value": 40,
-        "formattedValue": "+40%",
+        "value": 60,
+        "formattedValue": "+60%",
         "raw": {
           "topic": {
             "mid": "/m/0397w",
             "title": "Thể dục dụng cụ",
             "type": "Thể thao"
           },
-          "value": 40,
-          "formattedValue": "+40%",
+          "value": 60,
+          "formattedValue": "+60%",
           "link": "/trends/explore?q=/m/0397w&date=now+7-d&geo=ID"
         }
       },
       {
-        "query": "Sesi Potret",
-        "value": 40,
-        "formattedValue": "+40%",
-        "raw": {
-          "topic": {
-            "mid": "/g/11mz9zsply",
-            "title": "Sesi Potret",
-            "type": "Bài hát"
-          },
-          "value": 40,
-          "formattedValue": "+40%",
-          "link": "/trends/explore?q=/g/11mz9zsply&date=now+7-d&geo=ID"
-        }
-      },
-      {
         "query": "Singapore",
-        "value": 40,
-        "formattedValue": "+40%",
+        "value": 50,
+        "formattedValue": "+50%",
         "raw": {
           "topic": {
             "mid": "/m/06t2t",
             "title": "Singapore",
             "type": "Quốc gia ở Châu Á"
           },
-          "value": 40,
-          "formattedValue": "+40%",
+          "value": 50,
+          "formattedValue": "+50%",
           "link": "/trends/explore?q=/m/06t2t&date=now+7-d&geo=ID"
         }
       }
@@ -647,36 +557,36 @@
       },
       {
         "query": "karaoke",
-        "value": 43,
-        "formattedValue": "43",
+        "value": 46,
+        "formattedValue": "46",
         "raw": {
           "query": "karaoke",
-          "value": 43,
-          "formattedValue": "43",
+          "value": 46,
+          "formattedValue": "46",
           "hasData": true,
           "link": "/trends/explore?q=karaoke&date=now+7-d&geo=ID"
         }
       },
       {
         "query": "dj",
-        "value": 37,
-        "formattedValue": "37",
+        "value": 38,
+        "formattedValue": "38",
         "raw": {
           "query": "dj",
-          "value": 37,
-          "formattedValue": "37",
+          "value": 38,
+          "formattedValue": "38",
           "hasData": true,
           "link": "/trends/explore?q=dj&date=now+7-d&geo=ID"
         }
       },
       {
         "query": "film",
-        "value": 32,
-        "formattedValue": "32",
+        "value": 31,
+        "formattedValue": "31",
         "raw": {
           "query": "film",
-          "value": 32,
-          "formattedValue": "32",
+          "value": 31,
+          "formattedValue": "31",
           "hasData": true,
           "link": "/trends/explore?q=film&date=now+7-d&geo=ID"
         }
@@ -707,38 +617,26 @@
       },
       {
         "query": "dangdut",
-        "value": 17,
-        "formattedValue": "17",
+        "value": 18,
+        "formattedValue": "18",
         "raw": {
           "query": "dangdut",
-          "value": 17,
-          "formattedValue": "17",
+          "value": 18,
+          "formattedValue": "18",
           "hasData": true,
           "link": "/trends/explore?q=dangdut&date=now+7-d&geo=ID"
         }
       },
       {
         "query": "upin ipin",
-        "value": 14,
-        "formattedValue": "14",
+        "value": 13,
+        "formattedValue": "13",
         "raw": {
           "query": "upin ipin",
-          "value": 14,
-          "formattedValue": "14",
+          "value": 13,
+          "formattedValue": "13",
           "hasData": true,
           "link": "/trends/explore?q=upin+ipin&date=now+7-d&geo=ID"
-        }
-      },
-      {
-        "query": "hantu",
-        "value": 11,
-        "formattedValue": "11",
-        "raw": {
-          "query": "hantu",
-          "value": 11,
-          "formattedValue": "11",
-          "hasData": true,
-          "link": "/trends/explore?q=hantu&date=now+7-d&geo=ID"
         }
       },
       {
@@ -751,6 +649,18 @@
           "formattedValue": "11",
           "hasData": true,
           "link": "/trends/explore?q=mobil&date=now+7-d&geo=ID"
+        }
+      },
+      {
+        "query": "hantu",
+        "value": 11,
+        "formattedValue": "11",
+        "raw": {
+          "query": "hantu",
+          "value": 11,
+          "formattedValue": "11",
+          "hasData": true,
+          "link": "/trends/explore?q=hantu&date=now+7-d&geo=ID"
         }
       },
       {
@@ -778,6 +688,30 @@
         }
       },
       {
+        "query": "anak-anak",
+        "value": 8,
+        "formattedValue": "8",
+        "raw": {
+          "query": "anak-anak",
+          "value": 8,
+          "formattedValue": "8",
+          "hasData": true,
+          "link": "/trends/explore?q=anak-anak&date=now+7-d&geo=ID"
+        }
+      },
+      {
+        "query": "sholawat",
+        "value": 8,
+        "formattedValue": "8",
+        "raw": {
+          "query": "sholawat",
+          "value": 8,
+          "formattedValue": "8",
+          "hasData": true,
+          "link": "/trends/explore?q=sholawat&date=now+7-d&geo=ID"
+        }
+      },
+      {
         "query": "roblox",
         "value": 7,
         "formattedValue": "7",
@@ -790,42 +724,6 @@
         }
       },
       {
-        "query": "piala dunia",
-        "value": 7,
-        "formattedValue": "7",
-        "raw": {
-          "query": "piala dunia",
-          "value": 7,
-          "formattedValue": "7",
-          "hasData": true,
-          "link": "/trends/explore?q=piala+dunia&date=now+7-d&geo=ID"
-        }
-      },
-      {
-        "query": "anak-anak",
-        "value": 7,
-        "formattedValue": "7",
-        "raw": {
-          "query": "anak-anak",
-          "value": 7,
-          "formattedValue": "7",
-          "hasData": true,
-          "link": "/trends/explore?q=anak-anak&date=now+7-d&geo=ID"
-        }
-      },
-      {
-        "query": "sholawat",
-        "value": 7,
-        "formattedValue": "7",
-        "raw": {
-          "query": "sholawat",
-          "value": 7,
-          "formattedValue": "7",
-          "hasData": true,
-          "link": "/trends/explore?q=sholawat&date=now+7-d&geo=ID"
-        }
-      },
-      {
         "query": "kicau mania",
         "value": 7,
         "formattedValue": "7",
@@ -835,6 +733,18 @@
           "formattedValue": "7",
           "hasData": true,
           "link": "/trends/explore?q=kicau+mania&date=now+7-d&geo=ID"
+        }
+      },
+      {
+        "query": "ikan",
+        "value": 7,
+        "formattedValue": "7",
+        "raw": {
+          "query": "ikan",
+          "value": 7,
+          "formattedValue": "7",
+          "hasData": true,
+          "link": "/trends/explore?q=ikan&date=now+7-d&geo=ID"
         }
       },
       {
@@ -862,154 +772,176 @@
         }
       },
       {
-        "query": "kicau kicau kicau mania",
+        "query": "horor",
         "value": 7,
         "formattedValue": "7",
         "raw": {
-          "query": "kicau kicau kicau mania",
+          "query": "horor",
           "value": 7,
           "formattedValue": "7",
           "hasData": true,
-          "link": "/trends/explore?q=kicau+kicau+kicau+mania&date=now+7-d&geo=ID"
-        }
-      },
-      {
-        "query": "ikan",
-        "value": 6,
-        "formattedValue": "6",
-        "raw": {
-          "query": "ikan",
-          "value": 6,
-          "formattedValue": "6",
-          "hasData": true,
-          "link": "/trends/explore?q=ikan&date=now+7-d&geo=ID"
-        }
-      },
-      {
-        "query": "mukbang",
-        "value": 6,
-        "formattedValue": "6",
-        "raw": {
-          "query": "mukbang",
-          "value": 6,
-          "formattedValue": "6",
-          "hasData": true,
-          "link": "/trends/explore?q=mukbang&date=now+7-d&geo=ID"
+          "link": "/trends/explore?q=horor&date=now+7-d&geo=ID"
         }
       },
       {
         "query": "musik",
-        "value": 6,
-        "formattedValue": "6",
+        "value": 7,
+        "formattedValue": "7",
         "raw": {
           "query": "musik",
-          "value": 6,
-          "formattedValue": "6",
+          "value": 7,
+          "formattedValue": "7",
           "hasData": true,
           "link": "/trends/explore?q=musik&date=now+7-d&geo=ID"
         }
       },
       {
-        "query": "ayam",
-        "value": 6,
-        "formattedValue": "6",
+        "query": "lagu anak anak",
+        "value": 7,
+        "formattedValue": "7",
         "raw": {
-          "query": "ayam",
-          "value": 6,
-          "formattedValue": "6",
+          "query": "lagu anak anak",
+          "value": 7,
+          "formattedValue": "7",
           "hasData": true,
-          "link": "/trends/explore?q=ayam&date=now+7-d&geo=ID"
+          "link": "/trends/explore?q=lagu+anak+anak&date=now+7-d&geo=ID"
         }
       },
       {
-        "query": "lagu anak anak",
+        "query": "mukbang",
+        "value": 7,
+        "formattedValue": "7",
+        "raw": {
+          "query": "mukbang",
+          "value": 7,
+          "formattedValue": "7",
+          "hasData": true,
+          "link": "/trends/explore?q=mukbang&date=now+7-d&geo=ID"
+        }
+      },
+      {
+        "query": "nadia omara",
         "value": 6,
         "formattedValue": "6",
         "raw": {
-          "query": "lagu anak anak",
+          "query": "nadia omara",
           "value": 6,
           "formattedValue": "6",
           "hasData": true,
-          "link": "/trends/explore?q=lagu+anak+anak&date=now+7-d&geo=ID"
+          "link": "/trends/explore?q=nadia+omara&date=now+7-d&geo=ID"
+        }
+      },
+      {
+        "query": "karaoke dangdut",
+        "value": 6,
+        "formattedValue": "6",
+        "raw": {
+          "query": "karaoke dangdut",
+          "value": 6,
+          "formattedValue": "6",
+          "hasData": true,
+          "link": "/trends/explore?q=karaoke+dangdut&date=now+7-d&geo=ID"
         }
       }
     ],
     "rising": [
       {
-        "query": "inggris vs argentina",
-        "value": 7250,
+        "query": "argentina vs inggris",
+        "value": 7900,
         "formattedValue": "Đột phá",
         "raw": {
-          "query": "inggris vs argentina",
-          "value": 7250,
+          "query": "argentina vs inggris",
+          "value": 7900,
           "formattedValue": "Đột phá",
-          "link": "/trends/explore?q=inggris+vs+argentina&date=now+7-d&geo=ID"
+          "link": "/trends/explore?q=argentina+vs+inggris&date=now+7-d&geo=ID"
         }
       },
       {
         "query": "argentina vs inggris 2026",
-        "value": 5650,
+        "value": 6350,
         "formattedValue": "Đột phá",
         "raw": {
           "query": "argentina vs inggris 2026",
-          "value": 5650,
+          "value": 6350,
           "formattedValue": "Đột phá",
           "link": "/trends/explore?q=argentina+vs+inggris+2026&date=now+7-d&geo=ID"
         }
       },
       {
-        "query": "argentina vs swiss 2026",
-        "value": 4600,
-        "formattedValue": "+4.600%",
-        "raw": {
-          "query": "argentina vs swiss 2026",
-          "value": 4600,
-          "formattedValue": "+4.600%",
-          "link": "/trends/explore?q=argentina+vs+swiss+2026&date=now+7-d&geo=ID"
-        }
-      },
-      {
         "query": "spanyol vs prancis",
-        "value": 4000,
-        "formattedValue": "+4.000%",
+        "value": 2900,
+        "formattedValue": "+2.900%",
         "raw": {
           "query": "spanyol vs prancis",
-          "value": 4000,
-          "formattedValue": "+4.000%",
+          "value": 2900,
+          "formattedValue": "+2.900%",
           "link": "/trends/explore?q=spanyol+vs+prancis&date=now+7-d&geo=ID"
         }
       },
       {
-        "query": "france vs spain",
+        "query": "argentina vs swiss 2026",
+        "value": 2850,
+        "formattedValue": "+2.850%",
+        "raw": {
+          "query": "argentina vs swiss 2026",
+          "value": 2850,
+          "formattedValue": "+2.850%",
+          "link": "/trends/explore?q=argentina+vs+swiss+2026&date=now+7-d&geo=ID"
+        }
+      },
+      {
+        "query": "prancis vs spanyol 2026",
         "value": 2500,
         "formattedValue": "+2.500%",
         "raw": {
-          "query": "france vs spain",
+          "query": "prancis vs spanyol 2026",
           "value": 2500,
           "formattedValue": "+2.500%",
+          "link": "/trends/explore?q=prancis+vs+spanyol+2026&date=now+7-d&geo=ID"
+        }
+      },
+      {
+        "query": "france vs spain",
+        "value": 2150,
+        "formattedValue": "+2.150%",
+        "raw": {
+          "query": "france vs spain",
+          "value": 2150,
+          "formattedValue": "+2.150%",
           "link": "/trends/explore?q=france+vs+spain&date=now+7-d&geo=ID"
         }
       },
       {
+        "query": "argentina vs swiss",
+        "value": 2100,
+        "formattedValue": "+2.100%",
+        "raw": {
+          "query": "argentina vs swiss",
+          "value": 2100,
+          "formattedValue": "+2.100%",
+          "link": "/trends/explore?q=argentina+vs+swiss&date=now+7-d&geo=ID"
+        }
+      },
+      {
         "query": "inggris vs norwegia",
-        "value": 1350,
-        "formattedValue": "+1.350%",
+        "value": 750,
+        "formattedValue": "+750%",
         "raw": {
           "query": "inggris vs norwegia",
-          "value": 1350,
-          "formattedValue": "+1.350%",
+          "value": 750,
+          "formattedValue": "+750%",
           "link": "/trends/explore?q=inggris+vs+norwegia&date=now+7-d&geo=ID"
         }
       },
       {
-        "query": "spanyol vs belgia",
-        "value": 1050,
-        "formattedValue": "+1.050%",
+        "query": "7 kebiasaan anak indonesia hebat",
+        "value": 450,
+        "formattedValue": "+450%",
         "raw": {
-          "query": "spanyol vs belgia",
-          "value": 1050,
-          "formattedValue": "+1.050%",
-          "link": "/trends/explore?q=spanyol+vs+belgia&date=now+7-d&geo=ID"
+          "query": "7 kebiasaan anak indonesia hebat",
+          "value": 450,
+          "formattedValue": "+450%",
+          "link": "/trends/explore?q=7+kebiasaan+anak+indonesia+hebat&date=now+7-d&geo=ID"
         }
       },
       {
@@ -1025,12 +957,12 @@
       },
       {
         "query": "senam anak indonesia hebat",
-        "value": 200,
-        "formattedValue": "+200%",
+        "value": 250,
+        "formattedValue": "+250%",
         "raw": {
           "query": "senam anak indonesia hebat",
-          "value": 200,
-          "formattedValue": "+200%",
+          "value": 250,
+          "formattedValue": "+250%",
           "link": "/trends/explore?q=senam+anak+indonesia+hebat&date=now+7-d&geo=ID"
         }
       },
@@ -1046,6 +978,17 @@
         }
       },
       {
+        "query": "wajah cinta yang lain sctv",
+        "value": 60,
+        "formattedValue": "+60%",
+        "raw": {
+          "query": "wajah cinta yang lain sctv",
+          "value": 60,
+          "formattedValue": "+60%",
+          "link": "/trends/explore?q=wajah+cinta+yang+lain+sctv&date=now+7-d&geo=ID"
+        }
+      },
+      {
         "query": "lagu anak anak indonesia",
         "value": 60,
         "formattedValue": "+60%",
@@ -1054,6 +997,17 @@
           "value": 60,
           "formattedValue": "+60%",
           "link": "/trends/explore?q=lagu+anak+anak+indonesia&date=now+7-d&geo=ID"
+        }
+      },
+      {
+        "query": "naykilla",
+        "value": 50,
+        "formattedValue": "+50%",
+        "raw": {
+          "query": "naykilla",
+          "value": 50,
+          "formattedValue": "+50%",
+          "link": "/trends/explore?q=naykilla&date=now+7-d&geo=ID"
         }
       }
     ]
