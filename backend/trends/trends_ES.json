@@ -36,50 +36,50 @@
       },
       {
         "query": "2026",
-        "value": 64,
-        "formattedValue": "64",
+        "value": 60,
+        "formattedValue": "60",
         "raw": {
           "topic": {
             "mid": "/g/11b77d6b6g",
             "title": "2026",
             "type": "Chủ đề"
           },
-          "value": 64,
-          "formattedValue": "64",
+          "value": 60,
+          "formattedValue": "60",
           "hasData": true,
           "link": "/trends/explore?q=/g/11b77d6b6g&date=now+7-d&geo=ES"
         }
       },
       {
-        "query": "Tây Ban Nha",
-        "value": 60,
-        "formattedValue": "60",
-        "raw": {
-          "topic": {
-            "mid": "/m/06mkj",
-            "title": "Tây Ban Nha",
-            "type": "Quốc gia"
-          },
-          "value": 60,
-          "formattedValue": "60",
-          "hasData": true,
-          "link": "/trends/explore?q=/m/06mkj&date=now+7-d&geo=ES"
-        }
-      },
-      {
         "query": "Giải Bóng đá Vô địch Thế giới",
-        "value": 55,
-        "formattedValue": "55",
+        "value": 51,
+        "formattedValue": "51",
         "raw": {
           "topic": {
             "mid": "/m/030q7",
             "title": "Giải Bóng đá Vô địch Thế giới",
             "type": "Giải bóng đá"
           },
-          "value": 55,
-          "formattedValue": "55",
+          "value": 51,
+          "formattedValue": "51",
           "hasData": true,
           "link": "/trends/explore?q=/m/030q7&date=now+7-d&geo=ES"
+        }
+      },
+      {
+        "query": "Tây Ban Nha",
+        "value": 50,
+        "formattedValue": "50",
+        "raw": {
+          "topic": {
+            "mid": "/m/06mkj",
+            "title": "Tây Ban Nha",
+            "type": "Quốc gia"
+          },
+          "value": 50,
+          "formattedValue": "50",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/06mkj&date=now+7-d&geo=ES"
         }
       },
       {
@@ -100,16 +100,16 @@
       },
       {
         "query": "Điện ảnh",
-        "value": 46,
-        "formattedValue": "46",
+        "value": 45,
+        "formattedValue": "45",
         "raw": {
           "topic": {
             "mid": "/m/02vxn",
             "title": "Điện ảnh",
             "type": "Loại truyền hình"
           },
-          "value": 46,
-          "formattedValue": "46",
+          "value": 45,
+          "formattedValue": "45",
           "hasData": true,
           "link": "/trends/explore?q=/m/02vxn&date=now+7-d&geo=ES"
         }
@@ -132,34 +132,18 @@
       },
       {
         "query": "Đội tuyển Bóng đá Quốc gia Tây Ban Nha",
-        "value": 34,
-        "formattedValue": "34",
+        "value": 32,
+        "formattedValue": "32",
         "raw": {
           "topic": {
             "mid": "/m/02w64f",
             "title": "Đội tuyển Bóng đá Quốc gia Tây Ban Nha",
             "type": "Đội bóng đá"
           },
-          "value": 34,
-          "formattedValue": "34",
-          "hasData": true,
-          "link": "/trends/explore?q=/m/02w64f&date=now+7-d&geo=ES"
-        }
-      },
-      {
-        "query": "Argentina",
-        "value": 32,
-        "formattedValue": "32",
-        "raw": {
-          "topic": {
-            "mid": "/m/0jgd",
-            "title": "Argentina",
-            "type": "Quốc gia ở Nam Mỹ"
-          },
           "value": 32,
           "formattedValue": "32",
           "hasData": true,
-          "link": "/trends/explore?q=/m/0jgd&date=now+7-d&geo=ES"
+          "link": "/trends/explore?q=/m/02w64f&date=now+7-d&geo=ES"
         }
       },
       {
@@ -179,6 +163,22 @@
         }
       },
       {
+        "query": "Argentina",
+        "value": 29,
+        "formattedValue": "29",
+        "raw": {
+          "topic": {
+            "mid": "/m/0jgd",
+            "title": "Argentina",
+            "type": "Quốc gia ở Nam Mỹ"
+          },
+          "value": 29,
+          "formattedValue": "29",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/0jgd&date=now+7-d&geo=ES"
+        }
+      },
+      {
         "query": "Giải Bóng đá Thế giới 2026",
         "value": 25,
         "formattedValue": "25",
@@ -192,6 +192,22 @@
           "formattedValue": "25",
           "hasData": true,
           "link": "/trends/explore?q=/m/0r4xs1m&date=now+7-d&geo=ES"
+        }
+      },
+      {
+        "query": "Trailer",
+        "value": 22,
+        "formattedValue": "22",
+        "raw": {
+          "topic": {
+            "mid": "/m/03hdbf",
+            "title": "Trailer",
+            "type": "Chủ đề"
+          },
+          "value": 22,
+          "formattedValue": "22",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/03hdbf&date=now+7-d&geo=ES"
         }
       },
       {
@@ -211,38 +227,6 @@
         }
       },
       {
-        "query": "Trailer",
-        "value": 21,
-        "formattedValue": "21",
-        "raw": {
-          "topic": {
-            "mid": "/m/03hdbf",
-            "title": "Trailer",
-            "type": "Chủ đề"
-          },
-          "value": 21,
-          "formattedValue": "21",
-          "hasData": true,
-          "link": "/trends/explore?q=/m/03hdbf&date=now+7-d&geo=ES"
-        }
-      },
-      {
-        "query": "Bóng đá",
-        "value": 21,
-        "formattedValue": "21",
-        "raw": {
-          "topic": {
-            "mid": "/m/02vx4",
-            "title": "Bóng đá",
-            "type": "Thể thao"
-          },
-          "value": 21,
-          "formattedValue": "21",
-          "hasData": true,
-          "link": "/trends/explore?q=/m/02vx4&date=now+7-d&geo=ES"
-        }
-      },
-      {
         "query": "Shakira",
         "value": 20,
         "formattedValue": "20",
@@ -259,35 +243,51 @@
         }
       },
       {
-        "query": "Đội tuyển Bóng đá Quốc gia Argentina",
+        "query": "Bóng đá",
         "value": 18,
         "formattedValue": "18",
         "raw": {
           "topic": {
-            "mid": "/m/02bh_v",
-            "title": "Đội tuyển Bóng đá Quốc gia Argentina",
-            "type": "Đội bóng đá"
+            "mid": "/m/02vx4",
+            "title": "Bóng đá",
+            "type": "Thể thao"
           },
           "value": 18,
           "formattedValue": "18",
           "hasData": true,
-          "link": "/trends/explore?q=/m/02bh_v&date=now+7-d&geo=ES"
+          "link": "/trends/explore?q=/m/02vx4&date=now+7-d&geo=ES"
         }
       },
       {
         "query": "Nhảy múa",
-        "value": 18,
-        "formattedValue": "18",
+        "value": 17,
+        "formattedValue": "17",
         "raw": {
           "topic": {
             "mid": "/m/026bk",
             "title": "Nhảy múa",
             "type": "Lĩnh vực nghề nghiệp"
           },
-          "value": 18,
-          "formattedValue": "18",
+          "value": 17,
+          "formattedValue": "17",
           "hasData": true,
           "link": "/trends/explore?q=/m/026bk&date=now+7-d&geo=ES"
+        }
+      },
+      {
+        "query": "Đội tuyển Bóng đá Quốc gia Argentina",
+        "value": 16,
+        "formattedValue": "16",
+        "raw": {
+          "topic": {
+            "mid": "/m/02bh_v",
+            "title": "Đội tuyển Bóng đá Quốc gia Argentina",
+            "type": "Đội bóng đá"
+          },
+          "value": 16,
+          "formattedValue": "16",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/02bh_v&date=now+7-d&geo=ES"
         }
       },
       {
@@ -307,49 +307,65 @@
         }
       },
       {
-        "query": "Pháp",
-        "value": 15,
-        "formattedValue": "15",
+        "query": "2025",
+        "value": 13,
+        "formattedValue": "13",
         "raw": {
           "topic": {
-            "mid": "/m/0f8l9c",
-            "title": "Pháp",
-            "type": "Quốc gia ở Châu Âu"
+            "mid": "/g/11b77d3kyg",
+            "title": "2025",
+            "type": "Chủ đề"
           },
-          "value": 15,
-          "formattedValue": "15",
+          "value": 13,
+          "formattedValue": "13",
           "hasData": true,
-          "link": "/trends/explore?q=/m/0f8l9c&date=now+7-d&geo=ES"
+          "link": "/trends/explore?q=/g/11b77d3kyg&date=now+7-d&geo=ES"
         }
       },
       {
         "query": "Minecraft",
-        "value": 14,
-        "formattedValue": "14",
+        "value": 13,
+        "formattedValue": "13",
         "raw": {
           "topic": {
             "mid": "/m/09v6kpg",
             "title": "Minecraft",
             "type": "Trò chơi điện tử"
           },
-          "value": 14,
-          "formattedValue": "14",
+          "value": 13,
+          "formattedValue": "13",
           "hasData": true,
           "link": "/trends/explore?q=/m/09v6kpg&date=now+7-d&geo=ES"
         }
       },
       {
+        "query": "Tập phim",
+        "value": 13,
+        "formattedValue": "13",
+        "raw": {
+          "topic": {
+            "mid": "/m/02cphr",
+            "title": "Tập phim",
+            "type": "Chủ đề"
+          },
+          "value": 13,
+          "formattedValue": "13",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/02cphr&date=now+7-d&geo=ES"
+        }
+      },
+      {
         "query": "Phản ứng kích thích cảm giác tự động",
-        "value": 14,
-        "formattedValue": "14",
+        "value": 13,
+        "formattedValue": "13",
         "raw": {
           "topic": {
             "mid": "/m/0ngt1v6",
             "title": "Phản ứng kích thích cảm giác tự động",
             "type": "Chủ đề"
           },
-          "value": 14,
-          "formattedValue": "14",
+          "value": 13,
+          "formattedValue": "13",
           "hasData": true,
           "link": "/trends/explore?q=/m/0ngt1v6&date=now+7-d&geo=ES"
         }
@@ -371,111 +387,65 @@
         }
       },
       {
-        "query": "2025",
-        "value": 13,
-        "formattedValue": "13",
-        "raw": {
-          "topic": {
-            "mid": "/g/11b77d3kyg",
-            "title": "2025",
-            "type": "Chủ đề"
-          },
-          "value": 13,
-          "formattedValue": "13",
-          "hasData": true,
-          "link": "/trends/explore?q=/g/11b77d3kyg&date=now+7-d&geo=ES"
-        }
-      },
-      {
-        "query": "Tập phim",
+        "query": "Arta Game",
         "value": 12,
         "formattedValue": "12",
         "raw": {
           "topic": {
-            "mid": "/m/02cphr",
-            "title": "Tập phim",
-            "type": "Chủ đề"
+            "mid": "/g/11h10vz8r1",
+            "title": "Arta Game",
+            "type": "Người nổi tiếng trên mạng"
           },
           "value": 12,
           "formattedValue": "12",
           "hasData": true,
-          "link": "/trends/explore?q=/m/02cphr&date=now+7-d&geo=ES"
+          "link": "/trends/explore?q=/g/11h10vz8r1&date=now+7-d&geo=ES"
         }
       }
     ],
     "rising": [
       {
-        "query": "Les Girls",
-        "value": 2300,
-        "formattedValue": "+2.300%",
-        "raw": {
-          "topic": {
-            "mid": "/m/0g_8pr",
-            "title": "Les Girls",
-            "type": "Phim 1957"
-          },
-          "value": 2300,
-          "formattedValue": "+2.300%",
-          "link": "/trends/explore?q=/m/0g_8pr&date=now+7-d&geo=ES"
-        }
-      },
-      {
         "query": "Avengers: Doomsday",
-        "value": 1700,
-        "formattedValue": "+1.700%",
+        "value": 1950,
+        "formattedValue": "+1.950%",
         "raw": {
           "topic": {
             "mid": "/g/11s5740nj4",
             "title": "Avengers: Doomsday",
             "type": "Phim 2026"
           },
-          "value": 1700,
-          "formattedValue": "+1.700%",
+          "value": 1950,
+          "formattedValue": "+1.950%",
           "link": "/trends/explore?q=/g/11s5740nj4&date=now+7-d&geo=ES"
         }
       },
       {
-        "query": "Argentina và Anh",
-        "value": 1050,
-        "formattedValue": "+1.050%",
-        "raw": {
-          "topic": {
-            "mid": "/m/05f9jzv",
-            "title": "Argentina và Anh",
-            "type": "Giải vô địch bóng đá thế giới 1986"
-          },
-          "value": 1050,
-          "formattedValue": "+1.050%",
-          "link": "/trends/explore?q=/m/05f9jzv&date=now+7-d&geo=ES"
-        }
-      },
-      {
         "query": "La casa de los gemelos",
-        "value": 800,
-        "formattedValue": "+800%",
+        "value": 1500,
+        "formattedValue": "+1.500%",
         "raw": {
           "topic": {
             "mid": "/g/11y13g2_hz",
             "title": "La casa de los gemelos",
             "type": "Chương trình truyền hình"
           },
-          "value": 800,
-          "formattedValue": "+800%",
+          "value": 1500,
+          "formattedValue": "+1.500%",
           "link": "/trends/explore?q=/g/11y13g2_hz&date=now+7-d&geo=ES"
         }
       },
       {
         "query": "Biệt đội siêu anh hùng",
-        "value": 700,
-        "formattedValue": "+700%",
+        "value": 800,
+        "formattedValue": "+800%",
         "raw": {
           "topic": {
             "mid": "/g/11f2hl2c8y",
             "title": "Biệt đội siêu anh hùng",
             "type": "Loạt phim"
           },
-          "value": 700,
-          "formattedValue": "+700%",
+          "value": 800,
+          "formattedValue": "+800%",
           "link": "/trends/explore?q=/g/11f2hl2c8y&date=now+7-d&geo=ES"
         }
       },
@@ -495,168 +465,168 @@
         }
       },
       {
-        "query": "Karina y Marina",
+        "query": "Odyssey",
         "value": 350,
         "formattedValue": "+350%",
         "raw": {
           "topic": {
-            "mid": "/g/11h0021fz6",
-            "title": "Karina y Marina",
-            "type": "Người làm YouTube"
+            "mid": "/m/05lm8",
+            "title": "Odyssey",
+            "type": "Thơ kể chuyện của Homer"
           },
           "value": 350,
           "formattedValue": "+350%",
-          "link": "/trends/explore?q=/g/11h0021fz6&date=now+7-d&geo=ES"
+          "link": "/trends/explore?q=/m/05lm8&date=now+7-d&geo=ES"
         }
       },
       {
-        "query": "Người Argentina",
-        "value": 250,
-        "formattedValue": "+250%",
+        "query": "Tomorrowland",
+        "value": 300,
+        "formattedValue": "+300%",
         "raw": {
           "topic": {
-            "mid": "/m/09gk_6h",
-            "title": "Người Argentina",
-            "type": "Dân tộc"
+            "mid": "/m/0gywk0k",
+            "title": "Tomorrowland",
+            "type": "Lễ hội âm nhạc"
           },
-          "value": 250,
-          "formattedValue": "+250%",
-          "link": "/trends/explore?q=/m/09gk_6h&date=now+7-d&geo=ES"
-        }
-      },
-      {
-        "query": "Thế giới",
-        "value": 200,
-        "formattedValue": "+200%",
-        "raw": {
-          "topic": {
-            "mid": "/m/09nm_",
-            "title": "Thế giới",
-            "type": "Chủ đề"
-          },
-          "value": 200,
-          "formattedValue": "+200%",
-          "link": "/trends/explore?q=/m/09nm_&date=now+7-d&geo=ES"
-        }
-      },
-      {
-        "query": "Argentina",
-        "value": 170,
-        "formattedValue": "+170%",
-        "raw": {
-          "topic": {
-            "mid": "/m/0jgd",
-            "title": "Argentina",
-            "type": "Quốc gia ở Nam Mỹ"
-          },
-          "value": 170,
-          "formattedValue": "+170%",
-          "link": "/trends/explore?q=/m/0jgd&date=now+7-d&geo=ES"
-        }
-      },
-      {
-        "query": "La Velada del Año",
-        "value": 160,
-        "formattedValue": "+160%",
-        "raw": {
-          "topic": {
-            "mid": "/g/11sb9gcvkd",
-            "title": "La Velada del Año",
-            "type": "Chủ đề"
-          },
-          "value": 160,
-          "formattedValue": "+160%",
-          "link": "/trends/explore?q=/g/11sb9gcvkd&date=now+7-d&geo=ES"
-        }
-      },
-      {
-        "query": "Marc Cucurella",
-        "value": 160,
-        "formattedValue": "+160%",
-        "raw": {
-          "topic": {
-            "mid": "/g/11c5wj93fx",
-            "title": "Marc Cucurella",
-            "type": "Cầu thủ"
-          },
-          "value": 160,
-          "formattedValue": "+160%",
-          "link": "/trends/explore?q=/g/11c5wj93fx&date=now+7-d&geo=ES"
-        }
-      },
-      {
-        "query": "Đội tuyển Bóng đá Quốc gia Anh",
-        "value": 150,
-        "formattedValue": "+150%",
-        "raw": {
-          "topic": {
-            "mid": "/m/02pp1",
-            "title": "Đội tuyển Bóng đá Quốc gia Anh",
-            "type": "Đội bóng đá"
-          },
-          "value": 150,
-          "formattedValue": "+150%",
-          "link": "/trends/explore?q=/m/02pp1&date=now+7-d&geo=ES"
-        }
-      },
-      {
-        "query": "The Odyssey",
-        "value": 150,
-        "formattedValue": "+150%",
-        "raw": {
-          "topic": {
-            "mid": "/g/11lywy6grr",
-            "title": "The Odyssey",
-            "type": "Phim 2026"
-          },
-          "value": 150,
-          "formattedValue": "+150%",
-          "link": "/trends/explore?q=/g/11lywy6grr&date=now+7-d&geo=ES"
-        }
-      },
-      {
-        "query": "Đội tuyển Bóng đá Quốc gia Tây Ban Nha",
-        "value": 130,
-        "formattedValue": "+130%",
-        "raw": {
-          "topic": {
-            "mid": "/m/02w64f",
-            "title": "Đội tuyển Bóng đá Quốc gia Tây Ban Nha",
-            "type": "Đội bóng đá"
-          },
-          "value": 130,
-          "formattedValue": "+130%",
-          "link": "/trends/explore?q=/m/02w64f&date=now+7-d&geo=ES"
-        }
-      },
-      {
-        "query": "Plex",
-        "value": 130,
-        "formattedValue": "+130%",
-        "raw": {
-          "topic": {
-            "mid": "/m/04lg2zc",
-            "title": "Plex",
-            "type": "Trình đa phương tiện"
-          },
-          "value": 130,
-          "formattedValue": "+130%",
-          "link": "/trends/explore?q=/m/04lg2zc&date=now+7-d&geo=ES"
+          "value": 300,
+          "formattedValue": "+300%",
+          "link": "/trends/explore?q=/m/0gywk0k&date=now+7-d&geo=ES"
         }
       },
       {
         "query": "Sinh đôi",
-        "value": 110,
-        "formattedValue": "+110%",
+        "value": 200,
+        "formattedValue": "+200%",
         "raw": {
           "topic": {
             "mid": "/m/0klw8",
             "title": "Sinh đôi",
             "type": "Chủ đề"
           },
-          "value": 110,
-          "formattedValue": "+110%",
+          "value": 200,
+          "formattedValue": "+200%",
           "link": "/trends/explore?q=/m/0klw8&date=now+7-d&geo=ES"
+        }
+      },
+      {
+        "query": "Người Argentina",
+        "value": 200,
+        "formattedValue": "+200%",
+        "raw": {
+          "topic": {
+            "mid": "/m/09gk_6h",
+            "title": "Người Argentina",
+            "type": "Dân tộc"
+          },
+          "value": 200,
+          "formattedValue": "+200%",
+          "link": "/trends/explore?q=/m/09gk_6h&date=now+7-d&geo=ES"
+        }
+      },
+      {
+        "query": "La Velada del Año",
+        "value": 190,
+        "formattedValue": "+190%",
+        "raw": {
+          "topic": {
+            "mid": "/g/11sb9gcvkd",
+            "title": "La Velada del Año",
+            "type": "Chủ đề"
+          },
+          "value": 190,
+          "formattedValue": "+190%",
+          "link": "/trends/explore?q=/g/11sb9gcvkd&date=now+7-d&geo=ES"
+        }
+      },
+      {
+        "query": "Karina y Marina",
+        "value": 180,
+        "formattedValue": "+180%",
+        "raw": {
+          "topic": {
+            "mid": "/g/11h0021fz6",
+            "title": "Karina y Marina",
+            "type": "Người làm YouTube"
+          },
+          "value": 180,
+          "formattedValue": "+180%",
+          "link": "/trends/explore?q=/g/11h0021fz6&date=now+7-d&geo=ES"
+        }
+      },
+      {
+        "query": "Donald Trump",
+        "value": 170,
+        "formattedValue": "+170%",
+        "raw": {
+          "topic": {
+            "mid": "/m/0cqt90",
+            "title": "Donald Trump",
+            "type": "Tổng thống Hoa Kỳ"
+          },
+          "value": 170,
+          "formattedValue": "+170%",
+          "link": "/trends/explore?q=/m/0cqt90&date=now+7-d&geo=ES"
+        }
+      },
+      {
+        "query": "Thế giới",
+        "value": 160,
+        "formattedValue": "+160%",
+        "raw": {
+          "topic": {
+            "mid": "/m/09nm_",
+            "title": "Thế giới",
+            "type": "Chủ đề"
+          },
+          "value": 160,
+          "formattedValue": "+160%",
+          "link": "/trends/explore?q=/m/09nm_&date=now+7-d&geo=ES"
+        }
+      },
+      {
+        "query": "The Odyssey",
+        "value": 160,
+        "formattedValue": "+160%",
+        "raw": {
+          "topic": {
+            "mid": "/g/11lywy6grr",
+            "title": "The Odyssey",
+            "type": "Phim 2026"
+          },
+          "value": 160,
+          "formattedValue": "+160%",
+          "link": "/trends/explore?q=/g/11lywy6grr&date=now+7-d&geo=ES"
+        }
+      },
+      {
+        "query": "Marc Cucurella",
+        "value": 140,
+        "formattedValue": "+140%",
+        "raw": {
+          "topic": {
+            "mid": "/g/11c5wj93fx",
+            "title": "Marc Cucurella",
+            "type": "Cầu thủ"
+          },
+          "value": 140,
+          "formattedValue": "+140%",
+          "link": "/trends/explore?q=/g/11c5wj93fx&date=now+7-d&geo=ES"
+        }
+      },
+      {
+        "query": "Plex",
+        "value": 120,
+        "formattedValue": "+120%",
+        "raw": {
+          "topic": {
+            "mid": "/m/04lg2zc",
+            "title": "Plex",
+            "type": "Phần mềm"
+          },
+          "value": 120,
+          "formattedValue": "+120%",
+          "link": "/trends/explore?q=/m/04lg2zc&date=now+7-d&geo=ES"
         }
       },
       {
@@ -675,108 +645,138 @@
         }
       },
       {
-        "query": "Giải vô địch bóng đá thế giới 2010",
+        "query": "Argentina",
         "value": 110,
         "formattedValue": "+110%",
         "raw": {
           "topic": {
-            "mid": "/m/016h2b",
-            "title": "Giải vô địch bóng đá thế giới 2010",
-            "type": "Mùa giải thể thao"
+            "mid": "/m/0jgd",
+            "title": "Argentina",
+            "type": "Quốc gia ở Nam Mỹ"
           },
           "value": 110,
           "formattedValue": "+110%",
-          "link": "/trends/explore?q=/m/016h2b&date=now+7-d&geo=ES"
+          "link": "/trends/explore?q=/m/0jgd&date=now+7-d&geo=ES"
         }
       },
       {
-        "query": "Anh",
-        "value": 90,
-        "formattedValue": "+90%",
+        "query": "Đội tuyển Bóng đá Quốc gia Tây Ban Nha",
+        "value": 100,
+        "formattedValue": "+100%",
         "raw": {
           "topic": {
-            "mid": "/m/02jx1",
-            "title": "Anh",
-            "type": "Quốc gia cấu thành Vương quốc Liên hiệp Anh và Bắc Ireland"
+            "mid": "/m/02w64f",
+            "title": "Đội tuyển Bóng đá Quốc gia Tây Ban Nha",
+            "type": "Đội bóng đá"
           },
-          "value": 90,
-          "formattedValue": "+90%",
-          "link": "/trends/explore?q=/m/02jx1&date=now+7-d&geo=ES"
+          "value": 100,
+          "formattedValue": "+100%",
+          "link": "/trends/explore?q=/m/02w64f&date=now+7-d&geo=ES"
         }
       },
       {
         "query": "BTS",
-        "value": 90,
-        "formattedValue": "+90%",
+        "value": 80,
+        "formattedValue": "+80%",
         "raw": {
           "topic": {
             "mid": "/m/0w68qx3",
             "title": "BTS",
             "type": "Nhóm nhạc"
           },
-          "value": 90,
-          "formattedValue": "+90%",
+          "value": 80,
+          "formattedValue": "+80%",
           "link": "/trends/explore?q=/m/0w68qx3&date=now+7-d&geo=ES"
         }
       },
       {
+        "query": "Ibai Llanos",
+        "value": 70,
+        "formattedValue": "+70%",
+        "raw": {
+          "topic": {
+            "mid": "/g/11h06sl1ky",
+            "title": "Ibai Llanos",
+            "type": "Nhân vật nổi tiếng trên internet"
+          },
+          "value": 70,
+          "formattedValue": "+70%",
+          "link": "/trends/explore?q=/g/11h06sl1ky&date=now+7-d&geo=ES"
+        }
+      },
+      {
         "query": "Lionel Messi",
-        "value": 80,
-        "formattedValue": "+80%",
+        "value": 70,
+        "formattedValue": "+70%",
         "raw": {
           "topic": {
             "mid": "/m/06qjgc",
             "title": "Lionel Messi",
             "type": "Cầu thủ"
           },
-          "value": 80,
-          "formattedValue": "+80%",
+          "value": 70,
+          "formattedValue": "+70%",
           "link": "/trends/explore?q=/m/06qjgc&date=now+7-d&geo=ES"
         }
       },
       {
-        "query": "Đội tuyển Bóng đá Quốc gia Argentina",
-        "value": 80,
-        "formattedValue": "+80%",
+        "query": "Giải Bóng đá Thế giới 2026",
+        "value": 70,
+        "formattedValue": "+70%",
         "raw": {
           "topic": {
-            "mid": "/m/02bh_v",
-            "title": "Đội tuyển Bóng đá Quốc gia Argentina",
-            "type": "Đội bóng đá"
+            "mid": "/m/0r4xs1m",
+            "title": "Giải Bóng đá Thế giới 2026",
+            "type": "Mùa giải thể thao"
           },
-          "value": 80,
-          "formattedValue": "+80%",
-          "link": "/trends/explore?q=/m/02bh_v&date=now+7-d&geo=ES"
+          "value": 70,
+          "formattedValue": "+70%",
+          "link": "/trends/explore?q=/m/0r4xs1m&date=now+7-d&geo=ES"
         }
       },
       {
-        "query": "2010",
-        "value": 80,
-        "formattedValue": "+80%",
+        "query": "Giải vô địch bóng đá thế giới 2010",
+        "value": 70,
+        "formattedValue": "+70%",
         "raw": {
           "topic": {
-            "mid": "/g/11b77d3kyd",
-            "title": "2010",
-            "type": "Chủ đề"
+            "mid": "/m/016h2b",
+            "title": "Giải vô địch bóng đá thế giới 2010",
+            "type": "Mùa giải thể thao"
           },
-          "value": 80,
-          "formattedValue": "+80%",
-          "link": "/trends/explore?q=/g/11b77d3kyd&date=now+7-d&geo=ES"
+          "value": 70,
+          "formattedValue": "+70%",
+          "link": "/trends/explore?q=/m/016h2b&date=now+7-d&geo=ES"
         }
       },
       {
         "query": "Giải Bóng đá Vô địch Thế giới",
-        "value": 70,
-        "formattedValue": "+70%",
+        "value": 60,
+        "formattedValue": "+60%",
         "raw": {
           "topic": {
             "mid": "/m/030q7",
             "title": "Giải Bóng đá Vô địch Thế giới",
             "type": "Giải bóng đá"
           },
-          "value": 70,
-          "formattedValue": "+70%",
+          "value": 60,
+          "formattedValue": "+60%",
           "link": "/trends/explore?q=/m/030q7&date=now+7-d&geo=ES"
+        }
+      },
+      {
+        "query": "Don Omar",
+        "value": 50,
+        "formattedValue": "+50%",
+        "raw": {
+          "topic": {
+            "mid": "/m/04lxnb",
+            "title": "Don Omar",
+            "type": "Người đọc rap"
+          },
+          "value": 50,
+          "formattedValue": "+50%",
+          "link": "/trends/explore?q=/m/04lxnb&date=now+7-d&geo=ES"
         }
       }
     ]
@@ -797,182 +797,170 @@
       },
       {
         "query": "mundial",
-        "value": 71,
-        "formattedValue": "71",
+        "value": 69,
+        "formattedValue": "69",
         "raw": {
           "query": "mundial",
-          "value": 71,
-          "formattedValue": "71",
+          "value": 69,
+          "formattedValue": "69",
           "hasData": true,
           "link": "/trends/explore?q=mundial&date=now+7-d&geo=ES"
         }
       },
       {
         "query": "argentina",
-        "value": 59,
-        "formattedValue": "59",
+        "value": 53,
+        "formattedValue": "53",
         "raw": {
           "query": "argentina",
-          "value": 59,
-          "formattedValue": "59",
+          "value": 53,
+          "formattedValue": "53",
           "hasData": true,
           "link": "/trends/explore?q=argentina&date=now+7-d&geo=ES"
         }
       },
       {
         "query": "musica",
-        "value": 38,
-        "formattedValue": "38",
+        "value": 39,
+        "formattedValue": "39",
         "raw": {
           "query": "musica",
-          "value": 38,
-          "formattedValue": "38",
+          "value": 39,
+          "formattedValue": "39",
           "hasData": true,
           "link": "/trends/explore?q=musica&date=now+7-d&geo=ES"
         }
       },
       {
-        "query": "canciones",
-        "value": 38,
-        "formattedValue": "38",
-        "raw": {
-          "query": "canciones",
-          "value": 38,
-          "formattedValue": "38",
-          "hasData": true,
-          "link": "/trends/explore?q=canciones&date=now+7-d&geo=ES"
-        }
-      },
-      {
         "query": "arta",
-        "value": 36,
-        "formattedValue": "36",
+        "value": 37,
+        "formattedValue": "37",
         "raw": {
           "query": "arta",
-          "value": 36,
-          "formattedValue": "36",
+          "value": 37,
+          "formattedValue": "37",
           "hasData": true,
           "link": "/trends/explore?q=arta&date=now+7-d&geo=ES"
         }
       },
       {
+        "query": "canciones",
+        "value": 37,
+        "formattedValue": "37",
+        "raw": {
+          "query": "canciones",
+          "value": 37,
+          "formattedValue": "37",
+          "hasData": true,
+          "link": "/trends/explore?q=canciones&date=now+7-d&geo=ES"
+        }
+      },
+      {
         "query": "mundial 2026",
-        "value": 33,
-        "formattedValue": "33",
+        "value": 34,
+        "formattedValue": "34",
         "raw": {
           "query": "mundial 2026",
-          "value": 33,
-          "formattedValue": "33",
+          "value": 34,
+          "formattedValue": "34",
           "hasData": true,
           "link": "/trends/explore?q=mundial+2026&date=now+7-d&geo=ES"
         }
       },
       {
         "query": "shakira",
-        "value": 30,
-        "formattedValue": "30",
+        "value": 32,
+        "formattedValue": "32",
         "raw": {
           "query": "shakira",
-          "value": 30,
-          "formattedValue": "30",
+          "value": 32,
+          "formattedValue": "32",
           "hasData": true,
           "link": "/trends/explore?q=shakira&date=now+7-d&geo=ES"
         }
       },
       {
-        "query": "españa argentina",
-        "value": 25,
-        "formattedValue": "25",
+        "query": "argentina españa",
+        "value": 27,
+        "formattedValue": "27",
         "raw": {
-          "query": "españa argentina",
-          "value": 25,
-          "formattedValue": "25",
+          "query": "argentina españa",
+          "value": 27,
+          "formattedValue": "27",
           "hasData": true,
-          "link": "/trends/explore?q=espa%C3%B1a+argentina&date=now+7-d&geo=ES"
+          "link": "/trends/explore?q=argentina+espa%C3%B1a&date=now+7-d&geo=ES"
         }
       },
       {
         "query": "asmr",
-        "value": 22,
-        "formattedValue": "22",
+        "value": 21,
+        "formattedValue": "21",
         "raw": {
           "query": "asmr",
-          "value": 22,
-          "formattedValue": "22",
+          "value": 21,
+          "formattedValue": "21",
           "hasData": true,
           "link": "/trends/explore?q=asmr&date=now+7-d&geo=ES"
         }
       },
       {
         "query": "minecraft",
-        "value": 20,
-        "formattedValue": "20",
+        "value": 21,
+        "formattedValue": "21",
         "raw": {
           "query": "minecraft",
-          "value": 20,
-          "formattedValue": "20",
+          "value": 21,
+          "formattedValue": "21",
           "hasData": true,
           "link": "/trends/explore?q=minecraft&date=now+7-d&geo=ES"
         }
       },
       {
         "query": "arta game",
-        "value": 19,
-        "formattedValue": "19",
+        "value": 20,
+        "formattedValue": "20",
         "raw": {
           "query": "arta game",
-          "value": 19,
-          "formattedValue": "19",
+          "value": 20,
+          "formattedValue": "20",
           "hasData": true,
           "link": "/trends/explore?q=arta+game&date=now+7-d&geo=ES"
         }
       },
       {
         "query": "fede",
-        "value": 18,
-        "formattedValue": "18",
+        "value": 19,
+        "formattedValue": "19",
         "raw": {
           "query": "fede",
-          "value": 18,
-          "formattedValue": "18",
+          "value": 19,
+          "formattedValue": "19",
           "hasData": true,
           "link": "/trends/explore?q=fede&date=now+7-d&geo=ES"
         }
       },
       {
-        "query": "vídeos",
-        "value": 17,
-        "formattedValue": "17",
-        "raw": {
-          "query": "vídeos",
-          "value": 17,
-          "formattedValue": "17",
-          "hasData": true,
-          "link": "/trends/explore?q=v%C3%ADdeos&date=now+7-d&geo=ES"
-        }
-      },
-      {
-        "query": "roblox",
-        "value": 17,
-        "formattedValue": "17",
-        "raw": {
-          "query": "roblox",
-          "value": 17,
-          "formattedValue": "17",
-          "hasData": true,
-          "link": "/trends/explore?q=roblox&date=now+7-d&geo=ES"
-        }
-      },
-      {
         "query": "ibai",
-        "value": 17,
-        "formattedValue": "17",
+        "value": 18,
+        "formattedValue": "18",
         "raw": {
           "query": "ibai",
-          "value": 17,
-          "formattedValue": "17",
+          "value": 18,
+          "formattedValue": "18",
           "hasData": true,
           "link": "/trends/explore?q=ibai&date=now+7-d&geo=ES"
+        }
+      },
+      {
+        "query": "vídeos",
+        "value": 18,
+        "formattedValue": "18",
+        "raw": {
+          "query": "vídeos",
+          "value": 18,
+          "formattedValue": "18",
+          "hasData": true,
+          "link": "/trends/explore?q=v%C3%ADdeos&date=now+7-d&geo=ES"
         }
       },
       {
@@ -988,37 +976,37 @@
         }
       },
       {
-        "query": "futbol",
-        "value": 15,
-        "formattedValue": "15",
+        "query": "roblox",
+        "value": 17,
+        "formattedValue": "17",
         "raw": {
-          "query": "futbol",
-          "value": 15,
-          "formattedValue": "15",
+          "query": "roblox",
+          "value": 17,
+          "formattedValue": "17",
           "hasData": true,
-          "link": "/trends/explore?q=futbol&date=now+7-d&geo=ES"
+          "link": "/trends/explore?q=roblox&date=now+7-d&geo=ES"
         }
       },
       {
         "query": "dai dai",
-        "value": 14,
-        "formattedValue": "14",
+        "value": 15,
+        "formattedValue": "15",
         "raw": {
           "query": "dai dai",
-          "value": 14,
-          "formattedValue": "14",
+          "value": 15,
+          "formattedValue": "15",
           "hasData": true,
           "link": "/trends/explore?q=dai+dai&date=now+7-d&geo=ES"
         }
       },
       {
         "query": "news",
-        "value": 14,
-        "formattedValue": "14",
+        "value": 15,
+        "formattedValue": "15",
         "raw": {
           "query": "news",
-          "value": 14,
-          "formattedValue": "14",
+          "value": 15,
+          "formattedValue": "15",
           "hasData": true,
           "link": "/trends/explore?q=news&date=now+7-d&geo=ES"
         }
@@ -1036,6 +1024,42 @@
         }
       },
       {
+        "query": "futbol",
+        "value": 14,
+        "formattedValue": "14",
+        "raw": {
+          "query": "futbol",
+          "value": 14,
+          "formattedValue": "14",
+          "hasData": true,
+          "link": "/trends/explore?q=futbol&date=now+7-d&geo=ES"
+        }
+      },
+      {
+        "query": "songs",
+        "value": 14,
+        "formattedValue": "14",
+        "raw": {
+          "query": "songs",
+          "value": 14,
+          "formattedValue": "14",
+          "hasData": true,
+          "link": "/trends/explore?q=songs&date=now+7-d&geo=ES"
+        }
+      },
+      {
+        "query": "karaoke",
+        "value": 13,
+        "formattedValue": "13",
+        "raw": {
+          "query": "karaoke",
+          "value": 13,
+          "formattedValue": "13",
+          "hasData": true,
+          "link": "/trends/explore?q=karaoke&date=now+7-d&geo=ES"
+        }
+      },
+      {
         "query": "youtube",
         "value": 13,
         "formattedValue": "13",
@@ -1048,316 +1072,292 @@
         }
       },
       {
-        "query": "songs",
-        "value": 12,
-        "formattedValue": "12",
+        "query": "dibujos",
+        "value": 13,
+        "formattedValue": "13",
         "raw": {
-          "query": "songs",
-          "value": 12,
-          "formattedValue": "12",
+          "query": "dibujos",
+          "value": 13,
+          "formattedValue": "13",
           "hasData": true,
-          "link": "/trends/explore?q=songs&date=now+7-d&geo=ES"
-        }
-      },
-      {
-        "query": "messi",
-        "value": 12,
-        "formattedValue": "12",
-        "raw": {
-          "query": "messi",
-          "value": 12,
-          "formattedValue": "12",
-          "hasData": true,
-          "link": "/trends/explore?q=messi&date=now+7-d&geo=ES"
-        }
-      },
-      {
-        "query": "karaoke",
-        "value": 12,
-        "formattedValue": "12",
-        "raw": {
-          "query": "karaoke",
-          "value": 12,
-          "formattedValue": "12",
-          "hasData": true,
-          "link": "/trends/explore?q=karaoke&date=now+7-d&geo=ES"
+          "link": "/trends/explore?q=dibujos&date=now+7-d&geo=ES"
         }
       }
     ],
     "rising": [
       {
         "query": "celebracion españa mundial 2026",
-        "value": 2900,
-        "formattedValue": "+2.900%",
+        "value": 2400,
+        "formattedValue": "+2.400%",
         "raw": {
           "query": "celebracion españa mundial 2026",
-          "value": 2900,
-          "formattedValue": "+2.900%",
+          "value": 2400,
+          "formattedValue": "+2.400%",
           "link": "/trends/explore?q=celebracion+espa%C3%B1a+mundial+2026&date=now+7-d&geo=ES"
         }
       },
       {
-        "query": "españa argentina",
-        "value": 2750,
-        "formattedValue": "+2.750%",
+        "query": "doomsday trailer",
+        "value": 2200,
+        "formattedValue": "+2.200%",
         "raw": {
-          "query": "españa argentina",
-          "value": 2750,
-          "formattedValue": "+2.750%",
-          "link": "/trends/explore?q=espa%C3%B1a+argentina&date=now+7-d&geo=ES"
+          "query": "doomsday trailer",
+          "value": 2200,
+          "formattedValue": "+2.200%",
+          "link": "/trends/explore?q=doomsday+trailer&date=now+7-d&geo=ES"
+        }
+      },
+      {
+        "query": "argentina españa",
+        "value": 1950,
+        "formattedValue": "+1.950%",
+        "raw": {
+          "query": "argentina españa",
+          "value": 1950,
+          "formattedValue": "+1.950%",
+          "link": "/trends/explore?q=argentina+espa%C3%B1a&date=now+7-d&geo=ES"
+        }
+      },
+      {
+        "query": "trailer avengers doomsday",
+        "value": 1900,
+        "formattedValue": "+1.900%",
+        "raw": {
+          "query": "trailer avengers doomsday",
+          "value": 1900,
+          "formattedValue": "+1.900%",
+          "link": "/trends/explore?q=trailer+avengers+doomsday&date=now+7-d&geo=ES"
+        }
+      },
+      {
+        "query": "final mundial 2026",
+        "value": 1800,
+        "formattedValue": "+1.800%",
+        "raw": {
+          "query": "final mundial 2026",
+          "value": 1800,
+          "formattedValue": "+1.800%",
+          "link": "/trends/explore?q=final+mundial+2026&date=now+7-d&geo=ES"
+        }
+      },
+      {
+        "query": "doomsday",
+        "value": 1650,
+        "formattedValue": "+1.650%",
+        "raw": {
+          "query": "doomsday",
+          "value": 1650,
+          "formattedValue": "+1.650%",
+          "link": "/trends/explore?q=doomsday&date=now+7-d&geo=ES"
+        }
+      },
+      {
+        "query": "xokas burger king",
+        "value": 1650,
+        "formattedValue": "+1.650%",
+        "raw": {
+          "query": "xokas burger king",
+          "value": 1650,
+          "formattedValue": "+1.650%",
+          "link": "/trends/explore?q=xokas+burger+king&date=now+7-d&geo=ES"
         }
       },
       {
         "query": "spain vs argentina",
-        "value": 2100,
-        "formattedValue": "+2.100%",
+        "value": 1650,
+        "formattedValue": "+1.650%",
         "raw": {
           "query": "spain vs argentina",
-          "value": 2100,
-          "formattedValue": "+2.100%",
+          "value": 1650,
+          "formattedValue": "+1.650%",
           "link": "/trends/explore?q=spain+vs+argentina&date=now+7-d&geo=ES"
         }
       },
       {
         "query": "inglaterra francia",
-        "value": 2050,
-        "formattedValue": "+2.050%",
+        "value": 1600,
+        "formattedValue": "+1.600%",
         "raw": {
           "query": "inglaterra francia",
-          "value": 2050,
-          "formattedValue": "+2.050%",
+          "value": 1600,
+          "formattedValue": "+1.600%",
           "link": "/trends/explore?q=inglaterra+francia&date=now+7-d&geo=ES"
         }
       },
       {
-        "query": "las girls",
-        "value": 1950,
-        "formattedValue": "+1.950%",
-        "raw": {
-          "query": "las girls",
-          "value": 1950,
-          "formattedValue": "+1.950%",
-          "link": "/trends/explore?q=las+girls&date=now+7-d&geo=ES"
-        }
-      },
-      {
-        "query": "doomsday trailer",
-        "value": 1900,
-        "formattedValue": "+1.900%",
-        "raw": {
-          "query": "doomsday trailer",
-          "value": 1900,
-          "formattedValue": "+1.900%",
-          "link": "/trends/explore?q=doomsday+trailer&date=now+7-d&geo=ES"
-        }
-      },
-      {
-        "query": "final mundial 2026",
-        "value": 1900,
-        "formattedValue": "+1.900%",
-        "raw": {
-          "query": "final mundial 2026",
-          "value": 1900,
-          "formattedValue": "+1.900%",
-          "link": "/trends/explore?q=final+mundial+2026&date=now+7-d&geo=ES"
-        }
-      },
-      {
-        "query": "españa vs argentina",
-        "value": 1700,
-        "formattedValue": "+1.700%",
-        "raw": {
-          "query": "españa vs argentina",
-          "value": 1700,
-          "formattedValue": "+1.700%",
-          "link": "/trends/explore?q=espa%C3%B1a+vs+argentina&date=now+7-d&geo=ES"
-        }
-      },
-      {
         "query": "cara a cara velada 6",
-        "value": 1650,
-        "formattedValue": "+1.650%",
+        "value": 1500,
+        "formattedValue": "+1.500%",
         "raw": {
           "query": "cara a cara velada 6",
-          "value": 1650,
-          "formattedValue": "+1.650%",
+          "value": 1500,
+          "formattedValue": "+1.500%",
           "link": "/trends/explore?q=cara+a+cara+velada+6&date=now+7-d&geo=ES"
         }
       },
       {
-        "query": "xokas burger king",
-        "value": 1600,
-        "formattedValue": "+1.600%",
-        "raw": {
-          "query": "xokas burger king",
-          "value": 1600,
-          "formattedValue": "+1.600%",
-          "link": "/trends/explore?q=xokas+burger+king&date=now+7-d&geo=ES"
-        }
-      },
-      {
-        "query": "avengers doomsday trailer",
-        "value": 1600,
-        "formattedValue": "+1.600%",
-        "raw": {
-          "query": "avengers doomsday trailer",
-          "value": 1600,
-          "formattedValue": "+1.600%",
-          "link": "/trends/explore?q=avengers+doomsday+trailer&date=now+7-d&geo=ES"
-        }
-      },
-      {
-        "query": "doomsday",
-        "value": 1450,
-        "formattedValue": "+1.450%",
-        "raw": {
-          "query": "doomsday",
-          "value": 1450,
-          "formattedValue": "+1.450%",
-          "link": "/trends/explore?q=doomsday&date=now+7-d&geo=ES"
-        }
-      },
-      {
-        "query": "normal bts",
-        "value": 1000,
-        "formattedValue": "+1.000%",
-        "raw": {
-          "query": "normal bts",
-          "value": 1000,
-          "formattedValue": "+1.000%",
-          "link": "/trends/explore?q=normal+bts&date=now+7-d&geo=ES"
-        }
-      },
-      {
-        "query": "marvel españa",
-        "value": 800,
-        "formattedValue": "+800%",
-        "raw": {
-          "query": "marvel españa",
-          "value": 800,
-          "formattedValue": "+800%",
-          "link": "/trends/explore?q=marvel+espa%C3%B1a&date=now+7-d&geo=ES"
-        }
-      },
-      {
-        "query": "tomorrowland 2026",
-        "value": 800,
-        "formattedValue": "+800%",
-        "raw": {
-          "query": "tomorrowland 2026",
-          "value": 800,
-          "formattedValue": "+800%",
-          "link": "/trends/explore?q=tomorrowland+2026&date=now+7-d&geo=ES"
-        }
-      },
-      {
         "query": "casa de los gemelos",
-        "value": 750,
-        "formattedValue": "+750%",
+        "value": 1400,
+        "formattedValue": "+1.400%",
         "raw": {
           "query": "casa de los gemelos",
-          "value": 750,
-          "formattedValue": "+750%",
+          "value": 1400,
+          "formattedValue": "+1.400%",
           "link": "/trends/explore?q=casa+de+los+gemelos&date=now+7-d&geo=ES"
         }
       },
       {
+        "query": "españa vs argentina",
+        "value": 1350,
+        "formattedValue": "+1.350%",
+        "raw": {
+          "query": "españa vs argentina",
+          "value": 1350,
+          "formattedValue": "+1.350%",
+          "link": "/trends/explore?q=espa%C3%B1a+vs+argentina&date=now+7-d&geo=ES"
+        }
+      },
+      {
         "query": "la casa de los gemelos",
-        "value": 750,
-        "formattedValue": "+750%",
+        "value": 1300,
+        "formattedValue": "+1.300%",
         "raw": {
           "query": "la casa de los gemelos",
-          "value": 750,
-          "formattedValue": "+750%",
+          "value": 1300,
+          "formattedValue": "+1.300%",
           "link": "/trends/explore?q=la+casa+de+los+gemelos&date=now+7-d&geo=ES"
         }
       },
       {
         "query": "baby lover",
-        "value": 600,
-        "formattedValue": "+600%",
+        "value": 1150,
+        "formattedValue": "+1.150%",
         "raw": {
           "query": "baby lover",
-          "value": 600,
-          "formattedValue": "+600%",
+          "value": 1150,
+          "formattedValue": "+1.150%",
           "link": "/trends/explore?q=baby+lover&date=now+7-d&geo=ES"
         }
       },
       {
-        "query": "inglaterra argentina",
-        "value": 450,
-        "formattedValue": "+450%",
+        "query": "marvel españa",
+        "value": 900,
+        "formattedValue": "+900%",
         "raw": {
-          "query": "inglaterra argentina",
-          "value": 450,
-          "formattedValue": "+450%",
-          "link": "/trends/explore?q=inglaterra+argentina&date=now+7-d&geo=ES"
+          "query": "marvel españa",
+          "value": 900,
+          "formattedValue": "+900%",
+          "link": "/trends/explore?q=marvel+espa%C3%B1a&date=now+7-d&geo=ES"
+        }
+      },
+      {
+        "query": "la casa de los gemelos 3",
+        "value": 900,
+        "formattedValue": "+900%",
+        "raw": {
+          "query": "la casa de los gemelos 3",
+          "value": 900,
+          "formattedValue": "+900%",
+          "link": "/trends/explore?q=la+casa+de+los+gemelos+3&date=now+7-d&geo=ES"
+        }
+      },
+      {
+        "query": "tomorrowland 2026",
+        "value": 850,
+        "formattedValue": "+850%",
+        "raw": {
+          "query": "tomorrowland 2026",
+          "value": 850,
+          "formattedValue": "+850%",
+          "link": "/trends/explore?q=tomorrowland+2026&date=now+7-d&geo=ES"
+        }
+      },
+      {
+        "query": "las girls",
+        "value": 800,
+        "formattedValue": "+800%",
+        "raw": {
+          "query": "las girls",
+          "value": 800,
+          "formattedValue": "+800%",
+          "link": "/trends/explore?q=las+girls&date=now+7-d&geo=ES"
+        }
+      },
+      {
+        "query": "ferran torres",
+        "value": 550,
+        "formattedValue": "+550%",
+        "raw": {
+          "query": "ferran torres",
+          "value": 550,
+          "formattedValue": "+550%",
+          "link": "/trends/explore?q=ferran+torres&date=now+7-d&geo=ES"
         }
       },
       {
         "query": "zonagemelos",
-        "value": 300,
-        "formattedValue": "+300%",
+        "value": 550,
+        "formattedValue": "+550%",
         "raw": {
           "query": "zonagemelos",
-          "value": 300,
-          "formattedValue": "+300%",
+          "value": 550,
+          "formattedValue": "+550%",
           "link": "/trends/explore?q=zonagemelos&date=now+7-d&geo=ES"
         }
       },
       {
-        "query": "hay un color que recorre el planeta",
+        "query": "normal bts",
+        "value": 500,
+        "formattedValue": "+500%",
+        "raw": {
+          "query": "normal bts",
+          "value": 500,
+          "formattedValue": "+500%",
+          "link": "/trends/explore?q=normal+bts&date=now+7-d&geo=ES"
+        }
+      },
+      {
+        "query": "tomorrowland",
         "value": 300,
         "formattedValue": "+300%",
         "raw": {
-          "query": "hay un color que recorre el planeta",
+          "query": "tomorrowland",
           "value": 300,
           "formattedValue": "+300%",
-          "link": "/trends/explore?q=hay+un+color+que+recorre+el+planeta&date=now+7-d&geo=ES"
+          "link": "/trends/explore?q=tomorrowland&date=now+7-d&geo=ES"
         }
       },
       {
         "query": "dai dai shakira español",
-        "value": 250,
-        "formattedValue": "+250%",
+        "value": 300,
+        "formattedValue": "+300%",
         "raw": {
           "query": "dai dai shakira español",
-          "value": 250,
-          "formattedValue": "+250%",
+          "value": 300,
+          "formattedValue": "+300%",
           "link": "/trends/explore?q=dai+dai+shakira+espa%C3%B1ol&date=now+7-d&geo=ES"
         }
       },
       {
         "query": "velada del año 6",
-        "value": 200,
-        "formattedValue": "+200%",
+        "value": 250,
+        "formattedValue": "+250%",
         "raw": {
           "query": "velada del año 6",
-          "value": 200,
-          "formattedValue": "+200%",
+          "value": 250,
+          "formattedValue": "+250%",
           "link": "/trends/explore?q=velada+del+a%C3%B1o+6&date=now+7-d&geo=ES"
         }
       },
       {
         "query": "la odisea",
-        "value": 200,
-        "formattedValue": "+200%",
+        "value": 250,
+        "formattedValue": "+250%",
         "raw": {
           "query": "la odisea",
-          "value": 200,
-          "formattedValue": "+200%",
+          "value": 250,
+          "formattedValue": "+250%",
           "link": "/trends/explore?q=la+odisea&date=now+7-d&geo=ES"
-        }
-      },
-      {
-        "query": "españa mundial 2026",
-        "value": 170,
-        "formattedValue": "+170%",
-        "raw": {
-          "query": "españa mundial 2026",
-          "value": 170,
-          "formattedValue": "+170%",
-          "link": "/trends/explore?q=espa%C3%B1a+mundial+2026&date=now+7-d&geo=ES"
         }
       }
     ]
