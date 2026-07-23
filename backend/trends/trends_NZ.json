@@ -20,16 +20,16 @@
       },
       {
         "query": "Điện ảnh",
-        "value": 59,
-        "formattedValue": "59",
+        "value": 62,
+        "formattedValue": "62",
         "raw": {
           "topic": {
             "mid": "/m/02vxn",
             "title": "Điện ảnh",
             "type": "Loại truyền hình"
           },
-          "value": 59,
-          "formattedValue": "59",
+          "value": 62,
+          "formattedValue": "62",
           "hasData": true,
           "link": "/trends/explore?q=/m/02vxn&date=now+7-d&geo=NZ"
         }
@@ -52,50 +52,34 @@
       },
       {
         "query": "Âm nhạc",
-        "value": 25,
-        "formattedValue": "25",
+        "value": 26,
+        "formattedValue": "26",
         "raw": {
           "topic": {
             "mid": "/m/04rlf",
             "title": "Âm nhạc",
             "type": "Định dạng âm thanh"
           },
-          "value": 25,
-          "formattedValue": "25",
+          "value": 26,
+          "formattedValue": "26",
           "hasData": true,
           "link": "/trends/explore?q=/m/04rlf&date=now+7-d&geo=NZ"
         }
       },
       {
         "query": "Tập phim",
-        "value": 24,
-        "formattedValue": "24",
+        "value": 25,
+        "formattedValue": "25",
         "raw": {
           "topic": {
             "mid": "/m/02cphr",
             "title": "Tập phim",
             "type": "Chủ đề"
           },
-          "value": 24,
-          "formattedValue": "24",
+          "value": 25,
+          "formattedValue": "25",
           "hasData": true,
           "link": "/trends/explore?q=/m/02cphr&date=now+7-d&geo=NZ"
-        }
-      },
-      {
-        "query": "Giải Bóng đá Vô địch Thế giới",
-        "value": 22,
-        "formattedValue": "22",
-        "raw": {
-          "topic": {
-            "mid": "/m/030q7",
-            "title": "Giải Bóng đá Vô địch Thế giới",
-            "type": "Giải bóng đá"
-          },
-          "value": 22,
-          "formattedValue": "22",
-          "hasData": true,
-          "link": "/trends/explore?q=/m/030q7&date=now+7-d&geo=NZ"
         }
       },
       {
@@ -132,34 +116,66 @@
       },
       {
         "query": "Lời bài hát",
-        "value": 19,
-        "formattedValue": "19",
+        "value": 21,
+        "formattedValue": "21",
         "raw": {
           "topic": {
             "mid": "/m/09lgd",
             "title": "Lời bài hát",
             "type": "Chủ đề"
           },
-          "value": 19,
-          "formattedValue": "19",
+          "value": 21,
+          "formattedValue": "21",
           "hasData": true,
           "link": "/trends/explore?q=/m/09lgd&date=now+7-d&geo=NZ"
         }
       },
       {
         "query": "Tin tức",
-        "value": 18,
-        "formattedValue": "18",
+        "value": 19,
+        "formattedValue": "19",
         "raw": {
           "topic": {
             "mid": "/m/05jhg",
             "title": "Tin tức",
             "type": "Định dạng phát thanh"
           },
+          "value": 19,
+          "formattedValue": "19",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/05jhg&date=now+7-d&geo=NZ"
+        }
+      },
+      {
+        "query": "Giải Bóng đá Vô địch Thế giới",
+        "value": 18,
+        "formattedValue": "18",
+        "raw": {
+          "topic": {
+            "mid": "/m/030q7",
+            "title": "Giải Bóng đá Vô địch Thế giới",
+            "type": "Giải bóng đá"
+          },
           "value": 18,
           "formattedValue": "18",
           "hasData": true,
-          "link": "/trends/explore?q=/m/05jhg&date=now+7-d&geo=NZ"
+          "link": "/trends/explore?q=/m/030q7&date=now+7-d&geo=NZ"
+        }
+      },
+      {
+        "query": "Trailer",
+        "value": 18,
+        "formattedValue": "18",
+        "raw": {
+          "topic": {
+            "mid": "/m/03hdbf",
+            "title": "Trailer",
+            "type": "Chủ đề"
+          },
+          "value": 18,
+          "formattedValue": "18",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/03hdbf&date=now+7-d&geo=NZ"
         }
       },
       {
@@ -179,33 +195,17 @@
         }
       },
       {
-        "query": "Trailer",
-        "value": 17,
-        "formattedValue": "17",
-        "raw": {
-          "topic": {
-            "mid": "/m/03hdbf",
-            "title": "Trailer",
-            "type": "Chủ đề"
-          },
-          "value": 17,
-          "formattedValue": "17",
-          "hasData": true,
-          "link": "/trends/explore?q=/m/03hdbf&date=now+7-d&geo=NZ"
-        }
-      },
-      {
         "query": "Nhảy múa",
-        "value": 14,
-        "formattedValue": "14",
+        "value": 15,
+        "formattedValue": "15",
         "raw": {
           "topic": {
             "mid": "/m/026bk",
             "title": "Nhảy múa",
             "type": "Lĩnh vực nghề nghiệp"
           },
-          "value": 14,
-          "formattedValue": "14",
+          "value": 15,
+          "formattedValue": "15",
           "hasData": true,
           "link": "/trends/explore?q=/m/026bk&date=now+7-d&geo=NZ"
         }
@@ -228,16 +228,16 @@
       },
       {
         "query": "Công thức nấu ăn",
-        "value": 13,
-        "formattedValue": "13",
+        "value": 14,
+        "formattedValue": "14",
         "raw": {
           "topic": {
             "mid": "/m/0p57p",
             "title": "Công thức nấu ăn",
             "type": "Thể loại văn học"
           },
-          "value": 13,
-          "formattedValue": "13",
+          "value": 14,
+          "formattedValue": "14",
           "hasData": true,
           "link": "/trends/explore?q=/m/0p57p&date=now+7-d&geo=NZ"
         }
@@ -260,32 +260,48 @@
       },
       {
         "query": "Minecraft",
-        "value": 13,
-        "formattedValue": "13",
+        "value": 12,
+        "formattedValue": "12",
         "raw": {
           "topic": {
             "mid": "/m/09v6kpg",
             "title": "Minecraft",
             "type": "Trò chơi điện tử"
           },
-          "value": 13,
-          "formattedValue": "13",
+          "value": 12,
+          "formattedValue": "12",
           "hasData": true,
           "link": "/trends/explore?q=/m/09v6kpg&date=now+7-d&geo=NZ"
         }
       },
       {
-        "query": "create",
+        "query": "Karaoke",
         "value": 12,
         "formattedValue": "12",
+        "raw": {
+          "topic": {
+            "mid": "/m/04c5p",
+            "title": "Karaoke",
+            "type": "Chủ đề"
+          },
+          "value": 12,
+          "formattedValue": "12",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/04c5p&date=now+7-d&geo=NZ"
+        }
+      },
+      {
+        "query": "create",
+        "value": 11,
+        "formattedValue": "11",
         "raw": {
           "topic": {
             "mid": "/g/11qg_c03j7",
             "title": "create",
             "type": "Chủ đề"
           },
-          "value": 12,
-          "formattedValue": "12",
+          "value": 11,
+          "formattedValue": "11",
           "hasData": true,
           "link": "/trends/explore?q=/g/11qg_c03j7&date=now+7-d&geo=NZ"
         }
@@ -307,22 +323,6 @@
         }
       },
       {
-        "query": "Karaoke",
-        "value": 11,
-        "formattedValue": "11",
-        "raw": {
-          "topic": {
-            "mid": "/m/04c5p",
-            "title": "Karaoke",
-            "type": "Chủ đề"
-          },
-          "value": 11,
-          "formattedValue": "11",
-          "hasData": true,
-          "link": "/trends/explore?q=/m/04c5p&date=now+7-d&geo=NZ"
-        }
-      },
-      {
         "query": "Phản ứng kích thích cảm giác tự động",
         "value": 11,
         "formattedValue": "11",
@@ -339,74 +339,74 @@
         }
       },
       {
-        "query": "Roblox",
-        "value": 11,
-        "formattedValue": "11",
-        "raw": {
-          "topic": {
-            "mid": "/m/026bs1g",
-            "title": "Roblox",
-            "type": "Nền tảng điện toán"
-          },
-          "value": 11,
-          "formattedValue": "11",
-          "hasData": true,
-          "link": "/trends/explore?q=/m/026bs1g&date=now+7-d&geo=NZ"
-        }
-      },
-      {
-        "query": "Ô tô",
+        "query": "2025",
         "value": 10,
         "formattedValue": "10",
-        "raw": {
-          "topic": {
-            "mid": "/m/0k4j",
-            "title": "Ô tô",
-            "type": "Chế độ phương tiện"
-          },
-          "value": 10,
-          "formattedValue": "10",
-          "hasData": true,
-          "link": "/trends/explore?q=/m/0k4j&date=now+7-d&geo=NZ"
-        }
-      },
-      {
-        "query": "2025",
-        "value": 9,
-        "formattedValue": "9",
         "raw": {
           "topic": {
             "mid": "/g/11b77d3kyg",
             "title": "2025",
             "type": "Chủ đề"
           },
-          "value": 9,
-          "formattedValue": "9",
+          "value": 10,
+          "formattedValue": "10",
           "hasData": true,
           "link": "/trends/explore?q=/g/11b77d3kyg&date=now+7-d&geo=NZ"
         }
       },
       {
         "query": "Âm thanh",
-        "value": 9,
-        "formattedValue": "9",
+        "value": 10,
+        "formattedValue": "10",
         "raw": {
           "topic": {
             "mid": "/m/06qc5",
             "title": "Âm thanh",
             "type": "Chủ đề"
           },
+          "value": 10,
+          "formattedValue": "10",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/06qc5&date=now+7-d&geo=NZ"
+        }
+      },
+      {
+        "query": "Roblox",
+        "value": 10,
+        "formattedValue": "10",
+        "raw": {
+          "topic": {
+            "mid": "/m/026bs1g",
+            "title": "Roblox",
+            "type": "Nền tảng điện toán"
+          },
+          "value": 10,
+          "formattedValue": "10",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/026bs1g&date=now+7-d&geo=NZ"
+        }
+      },
+      {
+        "query": "Ô tô",
+        "value": 9,
+        "formattedValue": "9",
+        "raw": {
+          "topic": {
+            "mid": "/m/0k4j",
+            "title": "Ô tô",
+            "type": "Chế độ phương tiện"
+          },
           "value": 9,
           "formattedValue": "9",
           "hasData": true,
-          "link": "/trends/explore?q=/m/06qc5&date=now+7-d&geo=NZ"
+          "link": "/trends/explore?q=/m/0k4j&date=now+7-d&geo=NZ"
         }
       }
     ],
     "rising": [
       {
         "query": "Ryan Fox",
-        "value": 8350,
+        "value": 9500,
         "formattedValue": "Đột phá",
         "raw": {
           "topic": {
@@ -414,99 +414,84 @@
             "title": "Ryan Fox",
             "type": "Người chơi golf chuyên nghiệp"
           },
-          "value": 8350,
+          "value": 9500,
           "formattedValue": "Đột phá",
           "link": "/trends/explore?q=/g/11b86yw3hl&date=now+7-d&geo=NZ"
         }
       },
       {
-        "query": "Giải Vô địch Mở rộng",
-        "value": 2250,
-        "formattedValue": "+2.250%",
-        "raw": {
-          "topic": {
-            "mid": "/m/017zk1",
-            "title": "Giải Vô địch Mở rộng",
-            "type": "Hiệp hội thể thao"
-          },
-          "value": 2250,
-          "formattedValue": "+2.250%",
-          "link": "/trends/explore?q=/m/017zk1&date=now+7-d&geo=NZ"
-        }
-      },
-      {
         "query": "Half-time",
-        "value": 1950,
-        "formattedValue": "+1.950%",
+        "value": 2150,
+        "formattedValue": "+2.150%",
         "raw": {
           "topic": {
             "mid": "/m/05s9cq",
             "title": "Half-time",
             "type": "Chủ đề"
           },
-          "value": 1950,
-          "formattedValue": "+1.950%",
+          "value": 2150,
+          "formattedValue": "+2.150%",
           "link": "/trends/explore?q=/m/05s9cq&date=now+7-d&geo=NZ"
         }
       },
       {
         "query": "Halftime show",
-        "value": 1900,
-        "formattedValue": "+1.900%",
+        "value": 2150,
+        "formattedValue": "+2.150%",
         "raw": {
           "topic": {
             "mid": "/m/03kgjs",
             "title": "Halftime show",
             "type": "Chủ đề"
           },
-          "value": 1900,
-          "formattedValue": "+1.900%",
+          "value": 2150,
+          "formattedValue": "+2.150%",
           "link": "/trends/explore?q=/m/03kgjs&date=now+7-d&geo=NZ"
         }
       },
       {
-        "query": "Argentina và Anh",
-        "value": 1050,
-        "formattedValue": "+1.050%",
+        "query": "Giải Vô địch Mở rộng",
+        "value": 1650,
+        "formattedValue": "+1.650%",
         "raw": {
           "topic": {
-            "mid": "/m/05f9jzv",
-            "title": "Argentina và Anh",
-            "type": "Giải vô địch bóng đá thế giới 1986"
+            "mid": "/m/017zk1",
+            "title": "Giải Vô địch Mở rộng",
+            "type": "Hiệp hội thể thao"
           },
-          "value": 1050,
-          "formattedValue": "+1.050%",
-          "link": "/trends/explore?q=/m/05f9jzv&date=now+7-d&geo=NZ"
+          "value": 1650,
+          "formattedValue": "+1.650%",
+          "link": "/trends/explore?q=/m/017zk1&date=now+7-d&geo=NZ"
         }
       },
       {
         "query": "Avengers: Doomsday",
-        "value": 1000,
-        "formattedValue": "+1.000%",
+        "value": 1250,
+        "formattedValue": "+1.250%",
         "raw": {
           "topic": {
             "mid": "/g/11s5740nj4",
             "title": "Avengers: Doomsday",
             "type": "Phim 2026"
           },
-          "value": 1000,
-          "formattedValue": "+1.000%",
+          "value": 1250,
+          "formattedValue": "+1.250%",
           "link": "/trends/explore?q=/g/11s5740nj4&date=now+7-d&geo=NZ"
         }
       },
       {
-        "query": "Thế giới",
-        "value": 750,
-        "formattedValue": "+750%",
+        "query": "Biệt đội siêu anh hùng",
+        "value": 500,
+        "formattedValue": "+500%",
         "raw": {
           "topic": {
-            "mid": "/m/09nm_",
-            "title": "Thế giới",
-            "type": "Chủ đề"
+            "mid": "/g/11f2hl2c8y",
+            "title": "Biệt đội siêu anh hùng",
+            "type": "Loạt phim"
           },
-          "value": 750,
-          "formattedValue": "+750%",
-          "link": "/trends/explore?q=/m/09nm_&date=now+7-d&geo=NZ"
+          "value": 500,
+          "formattedValue": "+500%",
+          "link": "/trends/explore?q=/g/11f2hl2c8y&date=now+7-d&geo=NZ"
         }
       },
       {
@@ -525,48 +510,48 @@
         }
       },
       {
-        "query": "Biệt đội siêu anh hùng",
-        "value": 400,
-        "formattedValue": "+400%",
-        "raw": {
-          "topic": {
-            "mid": "/g/11f2hl2c8y",
-            "title": "Biệt đội siêu anh hùng",
-            "type": "Loạt phim"
-          },
-          "value": 400,
-          "formattedValue": "+400%",
-          "link": "/trends/explore?q=/g/11f2hl2c8y&date=now+7-d&geo=NZ"
-        }
-      },
-      {
         "query": "Người phát sóng trực tiếp",
-        "value": 350,
-        "formattedValue": "+350%",
+        "value": 300,
+        "formattedValue": "+300%",
         "raw": {
           "topic": {
             "mid": "/g/11f2cl9rf9",
             "title": "Người phát sóng trực tiếp",
             "type": "Nghề nghiệp"
           },
-          "value": 350,
-          "formattedValue": "+350%",
+          "value": 300,
+          "formattedValue": "+300%",
           "link": "/trends/explore?q=/g/11f2cl9rf9&date=now+7-d&geo=NZ"
         }
       },
       {
-        "query": "Odyssey",
-        "value": 200,
-        "formattedValue": "+200%",
+        "query": "Thế giới",
+        "value": 250,
+        "formattedValue": "+250%",
         "raw": {
           "topic": {
-            "mid": "/m/05lm8",
-            "title": "Odyssey",
-            "type": "Thơ kể chuyện của Homer"
+            "mid": "/m/09nm_",
+            "title": "Thế giới",
+            "type": "Chủ đề"
           },
-          "value": 200,
-          "formattedValue": "+200%",
-          "link": "/trends/explore?q=/m/05lm8&date=now+7-d&geo=NZ"
+          "value": 250,
+          "formattedValue": "+250%",
+          "link": "/trends/explore?q=/m/09nm_&date=now+7-d&geo=NZ"
+        }
+      },
+      {
+        "query": "Nepal",
+        "value": 250,
+        "formattedValue": "+250%",
+        "raw": {
+          "topic": {
+            "mid": "/m/016zwt",
+            "title": "Nepal",
+            "type": "Quốc gia ở Nam Á"
+          },
+          "value": 250,
+          "formattedValue": "+250%",
+          "link": "/trends/explore?q=/m/016zwt&date=now+7-d&geo=NZ"
         }
       },
       {
@@ -585,198 +570,213 @@
         }
       },
       {
+        "query": "Odyssey",
+        "value": 200,
+        "formattedValue": "+200%",
+        "raw": {
+          "topic": {
+            "mid": "/m/05lm8",
+            "title": "Odyssey",
+            "type": "Thơ kể chuyện của Homer"
+          },
+          "value": 200,
+          "formattedValue": "+200%",
+          "link": "/trends/explore?q=/m/05lm8&date=now+7-d&geo=NZ"
+        }
+      },
+      {
         "query": "The Odyssey",
-        "value": 180,
-        "formattedValue": "+180%",
+        "value": 170,
+        "formattedValue": "+170%",
         "raw": {
           "topic": {
             "mid": "/g/11lywy6grr",
             "title": "The Odyssey",
             "type": "Phim 2026"
           },
-          "value": 180,
-          "formattedValue": "+180%",
+          "value": 170,
+          "formattedValue": "+170%",
           "link": "/trends/explore?q=/g/11lywy6grr&date=now+7-d&geo=NZ"
         }
       },
       {
-        "query": "Nepal",
-        "value": 170,
-        "formattedValue": "+170%",
-        "raw": {
-          "topic": {
-            "mid": "/m/016zwt",
-            "title": "Nepal",
-            "type": "Quốc gia ở Nam Á"
-          },
-          "value": 170,
-          "formattedValue": "+170%",
-          "link": "/trends/explore?q=/m/016zwt&date=now+7-d&geo=NZ"
-        }
-      },
-      {
-        "query": "Đội tuyển Bóng đá Quốc gia Argentina",
-        "value": 160,
-        "formattedValue": "+160%",
-        "raw": {
-          "topic": {
-            "mid": "/m/02bh_v",
-            "title": "Đội tuyển Bóng đá Quốc gia Argentina",
-            "type": "Đội bóng đá"
-          },
-          "value": 160,
-          "formattedValue": "+160%",
-          "link": "/trends/explore?q=/m/02bh_v&date=now+7-d&geo=NZ"
-        }
-      },
-      {
         "query": "Vòng chung kết",
-        "value": 160,
-        "formattedValue": "+160%",
+        "value": 140,
+        "formattedValue": "+140%",
         "raw": {
           "topic": {
             "mid": "/m/02718kr",
             "title": "Vòng chung kết",
             "type": "Chủ đề"
           },
-          "value": 160,
-          "formattedValue": "+160%",
+          "value": 140,
+          "formattedValue": "+140%",
           "link": "/trends/explore?q=/m/02718kr&date=now+7-d&geo=NZ"
         }
       },
       {
-        "query": "Đội tuyển Bóng đá Quốc gia Anh",
-        "value": 130,
-        "formattedValue": "+130%",
+        "query": "Tiếng Nepal",
+        "value": 140,
+        "formattedValue": "+140%",
         "raw": {
           "topic": {
-            "mid": "/m/02pp1",
-            "title": "Đội tuyển Bóng đá Quốc gia Anh",
-            "type": "Đội bóng đá"
+            "mid": "/m/0h0t4",
+            "title": "Tiếng Nepal",
+            "type": "Ngôn ngữ"
           },
-          "value": 130,
-          "formattedValue": "+130%",
-          "link": "/trends/explore?q=/m/02pp1&date=now+7-d&geo=NZ"
-        }
-      },
-      {
-        "query": "Đội tuyển Bóng đá Quốc gia Tây Ban Nha",
-        "value": 130,
-        "formattedValue": "+130%",
-        "raw": {
-          "topic": {
-            "mid": "/m/02w64f",
-            "title": "Đội tuyển Bóng đá Quốc gia Tây Ban Nha",
-            "type": "Đội bóng đá"
-          },
-          "value": 130,
-          "formattedValue": "+130%",
-          "link": "/trends/explore?q=/m/02w64f&date=now+7-d&geo=NZ"
-        }
-      },
-      {
-        "query": "Nhập nhằng",
-        "value": 130,
-        "formattedValue": "+130%",
-        "raw": {
-          "topic": {
-            "mid": "/g/11bc5cxrtv",
-            "title": "Nhập nhằng",
-            "type": "Chủ đề"
-          },
-          "value": 130,
-          "formattedValue": "+130%",
-          "link": "/trends/explore?q=/g/11bc5cxrtv&date=now+7-d&geo=NZ"
-        }
-      },
-      {
-        "query": "Vô địch giải thể thao",
-        "value": 120,
-        "formattedValue": "+120%",
-        "raw": {
-          "topic": {
-            "mid": "/m/0b4_rz",
-            "title": "Vô địch giải thể thao",
-            "type": "Chủ đề"
-          },
-          "value": 120,
-          "formattedValue": "+120%",
-          "link": "/trends/explore?q=/m/0b4_rz&date=now+7-d&geo=NZ"
+          "value": 140,
+          "formattedValue": "+140%",
+          "link": "/trends/explore?q=/m/0h0t4&date=now+7-d&geo=NZ"
         }
       },
       {
         "query": "Công thức 1",
-        "value": 100,
-        "formattedValue": "+100%",
+        "value": 120,
+        "formattedValue": "+120%",
         "raw": {
           "topic": {
             "mid": "/m/02xz2",
             "title": "Công thức 1",
             "type": "Liên đoàn thể thao"
           },
-          "value": 100,
-          "formattedValue": "+100%",
+          "value": 120,
+          "formattedValue": "+120%",
           "link": "/trends/explore?q=/m/02xz2&date=now+7-d&geo=NZ"
         }
       },
       {
-        "query": "Lionel Messi",
-        "value": 80,
-        "formattedValue": "+80%",
+        "query": "Tiếng Tây Ban Nha",
+        "value": 70,
+        "formattedValue": "+70%",
         "raw": {
           "topic": {
-            "mid": "/m/06qjgc",
-            "title": "Lionel Messi",
-            "type": "Cầu thủ"
+            "mid": "/m/06nm1",
+            "title": "Tiếng Tây Ban Nha",
+            "type": "Tiếng"
           },
-          "value": 80,
-          "formattedValue": "+80%",
-          "link": "/trends/explore?q=/m/06qjgc&date=now+7-d&geo=NZ"
-        }
-      },
-      {
-        "query": "Argentina",
-        "value": 80,
-        "formattedValue": "+80%",
-        "raw": {
-          "topic": {
-            "mid": "/m/0jgd",
-            "title": "Argentina",
-            "type": "Quốc gia ở Nam Mỹ"
-          },
-          "value": 80,
-          "formattedValue": "+80%",
-          "link": "/trends/explore?q=/m/0jgd&date=now+7-d&geo=NZ"
-        }
-      },
-      {
-        "query": "Tây Ban Nha",
-        "value": 80,
-        "formattedValue": "+80%",
-        "raw": {
-          "topic": {
-            "mid": "/m/06mkj",
-            "title": "Tây Ban Nha",
-            "type": "Quốc gia"
-          },
-          "value": 80,
-          "formattedValue": "+80%",
-          "link": "/trends/explore?q=/m/06mkj&date=now+7-d&geo=NZ"
+          "value": 70,
+          "formattedValue": "+70%",
+          "link": "/trends/explore?q=/m/06nm1&date=now+7-d&geo=NZ"
         }
       },
       {
         "query": "Số",
-        "value": 70,
-        "formattedValue": "+70%",
+        "value": 60,
+        "formattedValue": "+60%",
         "raw": {
           "topic": {
             "mid": "/m/05fwb",
             "title": "Số",
             "type": "Chủ đề"
           },
-          "value": 70,
-          "formattedValue": "+70%",
+          "value": 60,
+          "formattedValue": "+60%",
           "link": "/trends/explore?q=/m/05fwb&date=now+7-d&geo=NZ"
+        }
+      },
+      {
+        "query": "Đội tuyển Bóng đá Quốc gia Tây Ban Nha",
+        "value": 60,
+        "formattedValue": "+60%",
+        "raw": {
+          "topic": {
+            "mid": "/m/02w64f",
+            "title": "Đội tuyển Bóng đá Quốc gia Tây Ban Nha",
+            "type": "Đội bóng đá"
+          },
+          "value": 60,
+          "formattedValue": "+60%",
+          "link": "/trends/explore?q=/m/02w64f&date=now+7-d&geo=NZ"
+        }
+      },
+      {
+        "query": "Shakira",
+        "value": 60,
+        "formattedValue": "+60%",
+        "raw": {
+          "topic": {
+            "mid": "/m/01wj18h",
+            "title": "Shakira",
+            "type": "Ca sĩ"
+          },
+          "value": 60,
+          "formattedValue": "+60%",
+          "link": "/trends/explore?q=/m/01wj18h&date=now+7-d&geo=NZ"
+        }
+      },
+      {
+        "query": "Nhập nhằng",
+        "value": 50,
+        "formattedValue": "+50%",
+        "raw": {
+          "topic": {
+            "mid": "/g/11bc5cxrtv",
+            "title": "Nhập nhằng",
+            "type": "Chủ đề"
+          },
+          "value": 50,
+          "formattedValue": "+50%",
+          "link": "/trends/explore?q=/g/11bc5cxrtv&date=now+7-d&geo=NZ"
+        }
+      },
+      {
+        "query": "BTS",
+        "value": 50,
+        "formattedValue": "+50%",
+        "raw": {
+          "topic": {
+            "mid": "/m/0w68qx3",
+            "title": "BTS",
+            "type": "Nhóm nhạc"
+          },
+          "value": 50,
+          "formattedValue": "+50%",
+          "link": "/trends/explore?q=/m/0w68qx3&date=now+7-d&geo=NZ"
+        }
+      },
+      {
+        "query": "Truyền hình trực tiếp",
+        "value": 50,
+        "formattedValue": "+50%",
+        "raw": {
+          "topic": {
+            "mid": "/m/02mzct",
+            "title": "Truyền hình trực tiếp",
+            "type": "Chủ đề"
+          },
+          "value": 50,
+          "formattedValue": "+50%",
+          "link": "/trends/explore?q=/m/02mzct&date=now+7-d&geo=NZ"
+        }
+      },
+      {
+        "query": "Lionel Messi",
+        "value": 50,
+        "formattedValue": "+50%",
+        "raw": {
+          "topic": {
+            "mid": "/m/06qjgc",
+            "title": "Lionel Messi",
+            "type": "Cầu thủ"
+          },
+          "value": 50,
+          "formattedValue": "+50%",
+          "link": "/trends/explore?q=/m/06qjgc&date=now+7-d&geo=NZ"
+        }
+      },
+      {
+        "query": "Tây Ban Nha",
+        "value": 50,
+        "formattedValue": "+50%",
+        "raw": {
+          "topic": {
+            "mid": "/m/06mkj",
+            "title": "Tây Ban Nha",
+            "type": "Quốc gia"
+          },
+          "value": 50,
+          "formattedValue": "+50%",
+          "link": "/trends/explore?q=/m/06mkj&date=now+7-d&geo=NZ"
         }
       }
     ]
@@ -797,12 +797,12 @@
       },
       {
         "query": "songs",
-        "value": 61,
-        "formattedValue": "61",
+        "value": 62,
+        "formattedValue": "62",
         "raw": {
           "query": "songs",
-          "value": 61,
-          "formattedValue": "61",
+          "value": 62,
+          "formattedValue": "62",
           "hasData": true,
           "link": "/trends/explore?q=songs&date=now+7-d&geo=NZ"
         }
@@ -832,18 +832,6 @@
         }
       },
       {
-        "query": "world cup",
-        "value": 29,
-        "formattedValue": "29",
-        "raw": {
-          "query": "world cup",
-          "value": 29,
-          "formattedValue": "29",
-          "hasData": true,
-          "link": "/trends/explore?q=world+cup&date=now+7-d&geo=NZ"
-        }
-      },
-      {
         "query": "movies",
         "value": 26,
         "formattedValue": "26",
@@ -856,13 +844,25 @@
         }
       },
       {
+        "query": "world cup",
+        "value": 25,
+        "formattedValue": "25",
+        "raw": {
+          "query": "world cup",
+          "value": 25,
+          "formattedValue": "25",
+          "hasData": true,
+          "link": "/trends/explore?q=world+cup&date=now+7-d&geo=NZ"
+        }
+      },
+      {
         "query": "dance",
-        "value": 24,
-        "formattedValue": "24",
+        "value": 25,
+        "formattedValue": "25",
         "raw": {
           "query": "dance",
-          "value": 24,
-          "formattedValue": "24",
+          "value": 25,
+          "formattedValue": "25",
           "hasData": true,
           "link": "/trends/explore?q=dance&date=now+7-d&geo=NZ"
         }
@@ -880,25 +880,13 @@
         }
       },
       {
-        "query": "minecraft",
-        "value": 21,
-        "formattedValue": "21",
-        "raw": {
-          "query": "minecraft",
-          "value": 21,
-          "formattedValue": "21",
-          "hasData": true,
-          "link": "/trends/explore?q=minecraft&date=now+7-d&geo=NZ"
-        }
-      },
-      {
         "query": "karaoke",
-        "value": 19,
-        "formattedValue": "19",
+        "value": 20,
+        "formattedValue": "20",
         "raw": {
           "query": "karaoke",
-          "value": 19,
-          "formattedValue": "19",
+          "value": 20,
+          "formattedValue": "20",
           "hasData": true,
           "link": "/trends/explore?q=karaoke&date=now+7-d&geo=NZ"
         }
@@ -916,109 +904,97 @@
         }
       },
       {
-        "query": "roblox",
+        "query": "minecraft",
         "value": 18,
         "formattedValue": "18",
         "raw": {
-          "query": "roblox",
+          "query": "minecraft",
           "value": 18,
           "formattedValue": "18",
+          "hasData": true,
+          "link": "/trends/explore?q=minecraft&date=now+7-d&geo=NZ"
+        }
+      },
+      {
+        "query": "roblox",
+        "value": 16,
+        "formattedValue": "16",
+        "raw": {
+          "query": "roblox",
+          "value": 16,
+          "formattedValue": "16",
           "hasData": true,
           "link": "/trends/explore?q=roblox&date=now+7-d&geo=NZ"
         }
       },
       {
         "query": "world cup 2026",
-        "value": 16,
-        "formattedValue": "16",
+        "value": 14,
+        "formattedValue": "14",
         "raw": {
           "query": "world cup 2026",
-          "value": 16,
-          "formattedValue": "16",
+          "value": 14,
+          "formattedValue": "14",
           "hasData": true,
           "link": "/trends/explore?q=world+cup+2026&date=now+7-d&geo=NZ"
         }
       },
       {
-        "query": "argentina",
-        "value": 16,
-        "formattedValue": "16",
-        "raw": {
-          "query": "argentina",
-          "value": 16,
-          "formattedValue": "16",
-          "hasData": true,
-          "link": "/trends/explore?q=argentina&date=now+7-d&geo=NZ"
-        }
-      },
-      {
         "query": "fifa",
-        "value": 16,
-        "formattedValue": "16",
+        "value": 14,
+        "formattedValue": "14",
         "raw": {
           "query": "fifa",
-          "value": 16,
-          "formattedValue": "16",
+          "value": 14,
+          "formattedValue": "14",
           "hasData": true,
           "link": "/trends/explore?q=fifa&date=now+7-d&geo=NZ"
         }
       },
       {
         "query": "funny",
-        "value": 14,
-        "formattedValue": "14",
+        "value": 13,
+        "formattedValue": "13",
         "raw": {
           "query": "funny",
-          "value": 14,
-          "formattedValue": "14",
+          "value": 13,
+          "formattedValue": "13",
           "hasData": true,
           "link": "/trends/explore?q=funny&date=now+7-d&geo=NZ"
         }
       },
       {
-        "query": "england",
-        "value": 13,
-        "formattedValue": "13",
-        "raw": {
-          "query": "england",
-          "value": 13,
-          "formattedValue": "13",
-          "hasData": true,
-          "link": "/trends/explore?q=england&date=now+7-d&geo=NZ"
-        }
-      },
-      {
         "query": "rugby",
-        "value": 13,
-        "formattedValue": "13",
+        "value": 12,
+        "formattedValue": "12",
         "raw": {
           "query": "rugby",
-          "value": 13,
-          "formattedValue": "13",
+          "value": 12,
+          "formattedValue": "12",
           "hasData": true,
           "link": "/trends/explore?q=rugby&date=now+7-d&geo=NZ"
         }
       },
       {
         "query": "new zealand",
-        "value": 12,
-        "formattedValue": "12",
+        "value": 11,
+        "formattedValue": "11",
         "raw": {
           "query": "new zealand",
-          "value": 12,
-          "formattedValue": "12",
+          "value": 11,
+          "formattedValue": "11",
           "hasData": true,
           "link": "/trends/explore?q=new+zealand&date=now+7-d&geo=NZ"
         }
       },
       {
         "query": "football",
-        "value": 11,
-        "formattedValue": "11",
+        "value": 10,
+        "formattedValue": "10",
         "raw": {
           "query": "football",
-          "value": 11,
-          "formattedValue": "11",
+          "value": 10,
+          "formattedValue": "10",
           "hasData": true,
           "link": "/trends/explore?q=football&date=now+7-d&geo=NZ"
         }
@@ -1036,6 +1012,18 @@
         }
       },
       {
+        "query": "food",
+        "value": 9,
+        "formattedValue": "9",
+        "raw": {
+          "query": "food",
+          "value": 9,
+          "formattedValue": "9",
+          "hasData": true,
+          "link": "/trends/explore?q=food&date=now+7-d&geo=NZ"
+        }
+      },
+      {
         "query": "michael jackson",
         "value": 9,
         "formattedValue": "9",
@@ -1049,26 +1037,14 @@
       },
       {
         "query": "fifa world cup",
-        "value": 9,
-        "formattedValue": "9",
+        "value": 8,
+        "formattedValue": "8",
         "raw": {
           "query": "fifa world cup",
-          "value": 9,
-          "formattedValue": "9",
+          "value": 8,
+          "formattedValue": "8",
           "hasData": true,
           "link": "/trends/explore?q=fifa+world+cup&date=now+7-d&geo=NZ"
-        }
-      },
-      {
-        "query": "food",
-        "value": 9,
-        "formattedValue": "9",
-        "raw": {
-          "query": "food",
-          "value": 9,
-          "formattedValue": "9",
-          "hasData": true,
-          "link": "/trends/explore?q=food&date=now+7-d&geo=NZ"
         }
       },
       {
@@ -1082,73 +1058,108 @@
           "hasData": true,
           "link": "/trends/explore?q=odyssey&date=now+7-d&geo=NZ"
         }
+      },
+      {
+        "query": "all blacks",
+        "value": 7,
+        "formattedValue": "7",
+        "raw": {
+          "query": "all blacks",
+          "value": 7,
+          "formattedValue": "7",
+          "hasData": true,
+          "link": "/trends/explore?q=all+blacks&date=now+7-d&geo=NZ"
+        }
+      },
+      {
+        "query": "fortnite",
+        "value": 7,
+        "formattedValue": "7",
+        "raw": {
+          "query": "fortnite",
+          "value": 7,
+          "formattedValue": "7",
+          "hasData": true,
+          "link": "/trends/explore?q=fortnite&date=now+7-d&geo=NZ"
+        }
       }
     ],
     "rising": [
       {
         "query": "ryan fox",
-        "value": 7450,
+        "value": 8450,
         "formattedValue": "Đột phá",
         "raw": {
           "query": "ryan fox",
-          "value": 7450,
+          "value": 8450,
           "formattedValue": "Đột phá",
           "link": "/trends/explore?q=ryan+fox&date=now+7-d&geo=NZ"
         }
       },
       {
         "query": "all blacks vs ireland",
-        "value": 2800,
-        "formattedValue": "+2.800%",
+        "value": 2350,
+        "formattedValue": "+2.350%",
         "raw": {
           "query": "all blacks vs ireland",
-          "value": 2800,
-          "formattedValue": "+2.800%",
+          "value": 2350,
+          "formattedValue": "+2.350%",
           "link": "/trends/explore?q=all+blacks+vs+ireland&date=now+7-d&geo=NZ"
         }
       },
       {
-        "query": "argentina vs spain 2026",
-        "value": 2550,
-        "formattedValue": "+2.550%",
-        "raw": {
-          "query": "argentina vs spain 2026",
-          "value": 2550,
-          "formattedValue": "+2.550%",
-          "link": "/trends/explore?q=argentina+vs+spain+2026&date=now+7-d&geo=NZ"
-        }
-      },
-      {
-        "query": "spain vs argentina",
-        "value": 2450,
-        "formattedValue": "+2.450%",
-        "raw": {
-          "query": "spain vs argentina",
-          "value": 2450,
-          "formattedValue": "+2.450%",
-          "link": "/trends/explore?q=spain+vs+argentina&date=now+7-d&geo=NZ"
-        }
-      },
-      {
         "query": "all blacks vs ireland 2026",
-        "value": 2050,
-        "formattedValue": "+2.050%",
+        "value": 2300,
+        "formattedValue": "+2.300%",
         "raw": {
           "query": "all blacks vs ireland 2026",
-          "value": 2050,
-          "formattedValue": "+2.050%",
+          "value": 2300,
+          "formattedValue": "+2.300%",
           "link": "/trends/explore?q=all+blacks+vs+ireland+2026&date=now+7-d&geo=NZ"
         }
       },
       {
         "query": "ryan fox highlights",
-        "value": 2000,
-        "formattedValue": "+2.000%",
+        "value": 2200,
+        "formattedValue": "+2.200%",
         "raw": {
           "query": "ryan fox highlights",
-          "value": 2000,
-          "formattedValue": "+2.000%",
+          "value": 2200,
+          "formattedValue": "+2.200%",
           "link": "/trends/explore?q=ryan+fox+highlights&date=now+7-d&geo=NZ"
+        }
+      },
+      {
+        "query": "argentina vs spain 2026",
+        "value": 1750,
+        "formattedValue": "+1.750%",
+        "raw": {
+          "query": "argentina vs spain 2026",
+          "value": 1750,
+          "formattedValue": "+1.750%",
+          "link": "/trends/explore?q=argentina+vs+spain+2026&date=now+7-d&geo=NZ"
+        }
+      },
+      {
+        "query": "spain vs argentina",
+        "value": 1700,
+        "formattedValue": "+1.700%",
+        "raw": {
+          "query": "spain vs argentina",
+          "value": 1700,
+          "formattedValue": "+1.700%",
+          "link": "/trends/explore?q=spain+vs+argentina&date=now+7-d&geo=NZ"
+        }
+      },
+      {
+        "query": "world cup halftime show 2026",
+        "value": 1700,
+        "formattedValue": "+1.700%",
+        "raw": {
+          "query": "world cup halftime show 2026",
+          "value": 1700,
+          "formattedValue": "+1.700%",
+          "link": "/trends/explore?q=world+cup+halftime+show+2026&date=now+7-d&geo=NZ"
         }
       },
       {
@@ -1163,190 +1174,168 @@
         }
       },
       {
-        "query": "england vs argentina 2026",
+        "query": "doomsday trailer",
         "value": 1500,
         "formattedValue": "+1.500%",
         "raw": {
-          "query": "england vs argentina 2026",
+          "query": "doomsday trailer",
           "value": 1500,
           "formattedValue": "+1.500%",
-          "link": "/trends/explore?q=england+vs+argentina+2026&date=now+7-d&geo=NZ"
-        }
-      },
-      {
-        "query": "england vs france",
-        "value": 1200,
-        "formattedValue": "+1.200%",
-        "raw": {
-          "query": "england vs france",
-          "value": 1200,
-          "formattedValue": "+1.200%",
-          "link": "/trends/explore?q=england+vs+france&date=now+7-d&geo=NZ"
-        }
-      },
-      {
-        "query": "doomsday trailer",
-        "value": 1100,
-        "formattedValue": "+1.100%",
-        "raw": {
-          "query": "doomsday trailer",
-          "value": 1100,
-          "formattedValue": "+1.100%",
           "link": "/trends/explore?q=doomsday+trailer&date=now+7-d&geo=NZ"
         }
       },
       {
-        "query": "argentina vs england",
-        "value": 1100,
-        "formattedValue": "+1.100%",
-        "raw": {
-          "query": "argentina vs england",
-          "value": 1100,
-          "formattedValue": "+1.100%",
-          "link": "/trends/explore?q=argentina+vs+england&date=now+7-d&geo=NZ"
-        }
-      },
-      {
-        "query": "fifa halftime show 2026 live",
-        "value": 1100,
-        "formattedValue": "+1.100%",
-        "raw": {
-          "query": "fifa halftime show 2026 live",
-          "value": 1100,
-          "formattedValue": "+1.100%",
-          "link": "/trends/explore?q=fifa+halftime+show+2026+live&date=now+7-d&geo=NZ"
-        }
-      },
-      {
         "query": "avengers doomsday trailer",
-        "value": 900,
-        "formattedValue": "+900%",
+        "value": 1150,
+        "formattedValue": "+1.150%",
         "raw": {
           "query": "avengers doomsday trailer",
-          "value": 900,
-          "formattedValue": "+900%",
+          "value": 1150,
+          "formattedValue": "+1.150%",
           "link": "/trends/explore?q=avengers+doomsday+trailer&date=now+7-d&geo=NZ"
         }
       },
       {
+        "query": "fifa halftime show 2026 live",
+        "value": 1050,
+        "formattedValue": "+1.050%",
+        "raw": {
+          "query": "fifa halftime show 2026 live",
+          "value": 1050,
+          "formattedValue": "+1.050%",
+          "link": "/trends/explore?q=fifa+halftime+show+2026+live&date=now+7-d&geo=NZ"
+        }
+      },
+      {
+        "query": "england vs france",
+        "value": 1000,
+        "formattedValue": "+1.000%",
+        "raw": {
+          "query": "england vs france",
+          "value": 1000,
+          "formattedValue": "+1.000%",
+          "link": "/trends/explore?q=england+vs+france&date=now+7-d&geo=NZ"
+        }
+      },
+      {
         "query": "doomsday",
-        "value": 750,
-        "formattedValue": "+750%",
+        "value": 950,
+        "formattedValue": "+950%",
         "raw": {
           "query": "doomsday",
-          "value": 750,
-          "formattedValue": "+750%",
+          "value": 950,
+          "formattedValue": "+950%",
           "link": "/trends/explore?q=doomsday&date=now+7-d&geo=NZ"
         }
       },
       {
         "query": "streamer university",
-        "value": 550,
-        "formattedValue": "+550%",
+        "value": 450,
+        "formattedValue": "+450%",
         "raw": {
           "query": "streamer university",
-          "value": 550,
-          "formattedValue": "+550%",
+          "value": 450,
+          "formattedValue": "+450%",
           "link": "/trends/explore?q=streamer+university&date=now+7-d&geo=NZ"
         }
       },
       {
-        "query": "streamer university 2026",
-        "value": 400,
-        "formattedValue": "+400%",
-        "raw": {
-          "query": "streamer university 2026",
-          "value": 400,
-          "formattedValue": "+400%",
-          "link": "/trends/explore?q=streamer+university+2026&date=now+7-d&geo=NZ"
-        }
-      },
-      {
-        "query": "world cup final",
+        "query": "1 minute scraps",
         "value": 350,
         "formattedValue": "+350%",
         "raw": {
-          "query": "world cup final",
+          "query": "1 minute scraps",
           "value": 350,
           "formattedValue": "+350%",
-          "link": "/trends/explore?q=world+cup+final&date=now+7-d&geo=NZ"
-        }
-      },
-      {
-        "query": "1 minute scraps",
-        "value": 300,
-        "formattedValue": "+300%",
-        "raw": {
-          "query": "1 minute scraps",
-          "value": 300,
-          "formattedValue": "+300%",
           "link": "/trends/explore?q=1+minute+scraps&date=now+7-d&geo=NZ"
         }
       },
       {
-        "query": "the odyssey",
-        "value": 200,
-        "formattedValue": "+200%",
+        "query": "streamer university 2026",
+        "value": 300,
+        "formattedValue": "+300%",
         "raw": {
-          "query": "the odyssey",
-          "value": 200,
-          "formattedValue": "+200%",
-          "link": "/trends/explore?q=the+odyssey&date=now+7-d&geo=NZ"
-        }
-      },
-      {
-        "query": "odyssey",
-        "value": 170,
-        "formattedValue": "+170%",
-        "raw": {
-          "query": "odyssey",
-          "value": 170,
-          "formattedValue": "+170%",
-          "link": "/trends/explore?q=odyssey&date=now+7-d&geo=NZ"
-        }
-      },
-      {
-        "query": "ewc",
-        "value": 170,
-        "formattedValue": "+170%",
-        "raw": {
-          "query": "ewc",
-          "value": 170,
-          "formattedValue": "+170%",
-          "link": "/trends/explore?q=ewc&date=now+7-d&geo=NZ"
+          "query": "streamer university 2026",
+          "value": 300,
+          "formattedValue": "+300%",
+          "link": "/trends/explore?q=streamer+university+2026&date=now+7-d&geo=NZ"
         }
       },
       {
         "query": "f1 highlights",
-        "value": 170,
-        "formattedValue": "+170%",
+        "value": 190,
+        "formattedValue": "+190%",
         "raw": {
           "query": "f1 highlights",
-          "value": 170,
-          "formattedValue": "+170%",
+          "value": 190,
+          "formattedValue": "+190%",
           "link": "/trends/explore?q=f1+highlights&date=now+7-d&geo=NZ"
         }
       },
       {
         "query": "gojo vs sukuna",
-        "value": 150,
-        "formattedValue": "+150%",
+        "value": 170,
+        "formattedValue": "+170%",
         "raw": {
           "query": "gojo vs sukuna",
-          "value": 150,
-          "formattedValue": "+150%",
+          "value": 170,
+          "formattedValue": "+170%",
           "link": "/trends/explore?q=gojo+vs+sukuna&date=now+7-d&geo=NZ"
         }
       },
       {
-        "query": "lacy",
+        "query": "the odyssey",
+        "value": 170,
+        "formattedValue": "+170%",
+        "raw": {
+          "query": "the odyssey",
+          "value": 170,
+          "formattedValue": "+170%",
+          "link": "/trends/explore?q=the+odyssey&date=now+7-d&geo=NZ"
+        }
+      },
+      {
+        "query": "odyssey",
+        "value": 160,
+        "formattedValue": "+160%",
+        "raw": {
+          "query": "odyssey",
+          "value": 160,
+          "formattedValue": "+160%",
+          "link": "/trends/explore?q=odyssey&date=now+7-d&geo=NZ"
+        }
+      },
+      {
+        "query": "formula 1",
         "value": 120,
         "formattedValue": "+120%",
         "raw": {
-          "query": "lacy",
+          "query": "formula 1",
           "value": 120,
           "formattedValue": "+120%",
-          "link": "/trends/explore?q=lacy&date=now+7-d&geo=NZ"
+          "link": "/trends/explore?q=formula+1&date=now+7-d&geo=NZ"
+        }
+      },
+      {
+        "query": "ludwig",
+        "value": 120,
+        "formattedValue": "+120%",
+        "raw": {
+          "query": "ludwig",
+          "value": 120,
+          "formattedValue": "+120%",
+          "link": "/trends/explore?q=ludwig&date=now+7-d&geo=NZ"
+        }
+      },
+      {
+        "query": "odyssey trailer",
+        "value": 110,
+        "formattedValue": "+110%",
+        "raw": {
+          "query": "odyssey trailer",
+          "value": 110,
+          "formattedValue": "+110%",
+          "link": "/trends/explore?q=odyssey+trailer&date=now+7-d&geo=NZ"
         }
       },
       {
@@ -1358,6 +1347,17 @@
           "value": 110,
           "formattedValue": "+110%",
           "link": "/trends/explore?q=yonna&date=now+7-d&geo=NZ"
+        }
+      },
+      {
+        "query": "england vs argentina 2026",
+        "value": 110,
+        "formattedValue": "+110%",
+        "raw": {
+          "query": "england vs argentina 2026",
+          "value": 110,
+          "formattedValue": "+110%",
+          "link": "/trends/explore?q=england+vs+argentina+2026&date=now+7-d&geo=NZ"
         }
       }
     ]
