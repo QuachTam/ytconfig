@@ -36,80 +36,80 @@
       },
       {
         "query": "Video",
-        "value": 33,
-        "formattedValue": "33",
+        "value": 35,
+        "formattedValue": "35",
         "raw": {
           "topic": {
             "mid": "/m/07z4p",
             "title": "Video",
             "type": "Định dạng phim"
           },
-          "value": 33,
-          "formattedValue": "33",
+          "value": 35,
+          "formattedValue": "35",
           "hasData": true,
           "link": "/trends/explore?q=/m/07z4p&date=now+7-d&geo=IN"
         }
       },
       {
         "query": "Tiếng Hindi",
-        "value": 22,
-        "formattedValue": "22",
+        "value": 23,
+        "formattedValue": "23",
         "raw": {
           "topic": {
             "mid": "/m/03k50",
             "title": "Tiếng Hindi",
             "type": "Tiếng"
           },
-          "value": 22,
-          "formattedValue": "22",
+          "value": 23,
+          "formattedValue": "23",
           "hasData": true,
           "link": "/trends/explore?q=/m/03k50&date=now+7-d&geo=IN"
         }
       },
       {
         "query": "Tập phim",
-        "value": 17,
-        "formattedValue": "17",
+        "value": 18,
+        "formattedValue": "18",
         "raw": {
           "topic": {
             "mid": "/m/02cphr",
             "title": "Tập phim",
             "type": "Chủ đề"
           },
-          "value": 17,
-          "formattedValue": "17",
+          "value": 18,
+          "formattedValue": "18",
           "hasData": true,
           "link": "/trends/explore?q=/m/02cphr&date=now+7-d&geo=IN"
         }
       },
       {
         "query": "Tranh biếm họa",
-        "value": 14,
-        "formattedValue": "14",
+        "value": 13,
+        "formattedValue": "13",
         "raw": {
           "topic": {
             "mid": "/m/0215n",
             "title": "Tranh biếm họa",
             "type": "Thể loại truyền hình"
           },
-          "value": 14,
-          "formattedValue": "14",
+          "value": 13,
+          "formattedValue": "13",
           "hasData": true,
           "link": "/trends/explore?q=/m/0215n&date=now+7-d&geo=IN"
         }
       },
       {
         "query": "Tiếng Tamil",
-        "value": 10,
-        "formattedValue": "10",
+        "value": 11,
+        "formattedValue": "11",
         "raw": {
           "topic": {
             "mid": "/m/07c9s",
             "title": "Tiếng Tamil",
             "type": "Ngôn ngữ"
           },
-          "value": 10,
-          "formattedValue": "10",
+          "value": 11,
+          "formattedValue": "11",
           "hasData": true,
           "link": "/trends/explore?q=/m/07c9s&date=now+7-d&geo=IN"
         }
@@ -147,6 +147,22 @@
         }
       },
       {
+        "query": "Gaana",
+        "value": 8,
+        "formattedValue": "8",
+        "raw": {
+          "topic": {
+            "mid": "/m/0rpfk1v",
+            "title": "Gaana",
+            "type": "Phần mềm máy tính"
+          },
+          "value": 8,
+          "formattedValue": "8",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/0rpfk1v&date=now+7-d&geo=IN"
+        }
+      },
+      {
         "query": "Công thức nấu ăn",
         "value": 8,
         "formattedValue": "8",
@@ -179,19 +195,19 @@
         }
       },
       {
-        "query": "Gaana",
+        "query": "DJ",
         "value": 8,
         "formattedValue": "8",
         "raw": {
           "topic": {
-            "mid": "/m/0rpfk1v",
-            "title": "Gaana",
-            "type": "Phần mềm máy tính"
+            "mid": "/m/02dsz",
+            "title": "DJ",
+            "type": "Nghề nghiệp"
           },
           "value": 8,
           "formattedValue": "8",
           "hasData": true,
-          "link": "/trends/explore?q=/m/0rpfk1v&date=now+7-d&geo=IN"
+          "link": "/trends/explore?q=/m/02dsz&date=now+7-d&geo=IN"
         }
       },
       {
@@ -208,22 +224,6 @@
           "formattedValue": "8",
           "hasData": true,
           "link": "/trends/explore?q=/m/02dn30&date=now+7-d&geo=IN"
-        }
-      },
-      {
-        "query": "DJ",
-        "value": 8,
-        "formattedValue": "8",
-        "raw": {
-          "topic": {
-            "mid": "/m/02dsz",
-            "title": "DJ",
-            "type": "Nghề nghiệp"
-          },
-          "value": 8,
-          "formattedValue": "8",
-          "hasData": true,
-          "link": "/trends/explore?q=/m/02dsz&date=now+7-d&geo=IN"
         }
       },
       {
@@ -244,16 +244,16 @@
       },
       {
         "query": "Điện thoại di động",
-        "value": 6,
-        "formattedValue": "6",
+        "value": 7,
+        "formattedValue": "7",
         "raw": {
           "topic": {
             "mid": "/m/050k8",
             "title": "Điện thoại di động",
             "type": "Chủ đề"
           },
-          "value": 6,
-          "formattedValue": "6",
+          "value": 7,
+          "formattedValue": "7",
           "hasData": true,
           "link": "/trends/explore?q=/m/050k8&date=now+7-d&geo=IN"
         }
@@ -291,6 +291,54 @@
         }
       },
       {
+        "query": "Trailer",
+        "value": 6,
+        "formattedValue": "6",
+        "raw": {
+          "topic": {
+            "mid": "/m/03hdbf",
+            "title": "Trailer",
+            "type": "Chủ đề"
+          },
+          "value": 6,
+          "formattedValue": "6",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/03hdbf&date=now+7-d&geo=IN"
+        }
+      },
+      {
+        "query": "Nhảy múa",
+        "value": 6,
+        "formattedValue": "6",
+        "raw": {
+          "topic": {
+            "mid": "/m/026bk",
+            "title": "Nhảy múa",
+            "type": "Lĩnh vực nghề nghiệp"
+          },
+          "value": 6,
+          "formattedValue": "6",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/026bk&date=now+7-d&geo=IN"
+        }
+      },
+      {
+        "query": "Nhạc Bhajan",
+        "value": 6,
+        "formattedValue": "6",
+        "raw": {
+          "topic": {
+            "mid": "/m/017gk8",
+            "title": "Nhạc Bhajan",
+            "type": "Thể loại nhạc"
+          },
+          "value": 6,
+          "formattedValue": "6",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/017gk8&date=now+7-d&geo=IN"
+        }
+      },
+      {
         "query": "Tiếng Anh",
         "value": 6,
         "formattedValue": "6",
@@ -307,251 +355,398 @@
         }
       },
       {
-        "query": "Ma",
+        "query": "Bhoota",
         "value": 6,
         "formattedValue": "6",
-        "raw": {
-          "topic": {
-            "mid": "/m/038_l",
-            "title": "Ma",
-            "type": "Chủ đề"
-          },
-          "value": 6,
-          "formattedValue": "6",
-          "hasData": true,
-          "link": "/trends/explore?q=/m/038_l&date=now+7-d&geo=IN"
-        }
-      },
-      {
-        "query": "Nhạc Bhajan",
-        "value": 5,
-        "formattedValue": "5",
-        "raw": {
-          "topic": {
-            "mid": "/m/017gk8",
-            "title": "Nhạc Bhajan",
-            "type": "Thể loại nhạc"
-          },
-          "value": 5,
-          "formattedValue": "5",
-          "hasData": true,
-          "link": "/trends/explore?q=/m/017gk8&date=now+7-d&geo=IN"
-        }
-      },
-      {
-        "query": "Nhảy múa",
-        "value": 5,
-        "formattedValue": "5",
-        "raw": {
-          "topic": {
-            "mid": "/m/026bk",
-            "title": "Nhảy múa",
-            "type": "Lĩnh vực nghề nghiệp"
-          },
-          "value": 5,
-          "formattedValue": "5",
-          "hasData": true,
-          "link": "/trends/explore?q=/m/026bk&date=now+7-d&geo=IN"
-        }
-      },
-      {
-        "query": "Bhoota",
-        "value": 5,
-        "formattedValue": "5",
         "raw": {
           "topic": {
             "mid": "/m/0czd86q",
             "title": "Bhoota",
             "type": "Chủ đề"
           },
-          "value": 5,
-          "formattedValue": "5",
+          "value": 6,
+          "formattedValue": "6",
           "hasData": true,
           "link": "/trends/explore?q=/m/0czd86q&date=now+7-d&geo=IN"
         }
       },
       {
-        "query": "Trailer",
+        "query": "Ma",
         "value": 5,
         "formattedValue": "5",
         "raw": {
           "topic": {
-            "mid": "/m/03hdbf",
-            "title": "Trailer",
+            "mid": "/m/038_l",
+            "title": "Ma",
             "type": "Chủ đề"
           },
           "value": 5,
           "formattedValue": "5",
           "hasData": true,
-          "link": "/trends/explore?q=/m/03hdbf&date=now+7-d&geo=IN"
+          "link": "/trends/explore?q=/m/038_l&date=now+7-d&geo=IN"
         }
       },
       {
-        "query": "Tiếng Kannada",
+        "query": "Thiết kế",
         "value": 5,
         "formattedValue": "5",
         "raw": {
           "topic": {
-            "mid": "/m/09bnf",
-            "title": "Tiếng Kannada",
-            "type": "Ngôn ngữ"
+            "mid": "/m/02cwm",
+            "title": "Thiết kế",
+            "type": "Danh mục trường học"
           },
           "value": 5,
           "formattedValue": "5",
           "hasData": true,
-          "link": "/trends/explore?q=/m/09bnf&date=now+7-d&geo=IN"
+          "link": "/trends/explore?q=/m/02cwm&date=now+7-d&geo=IN"
         }
       }
     ],
     "rising": [
       {
-        "query": "Guru Purnima",
-        "value": 1000,
-        "formattedValue": "+1.000%",
+        "query": "Ngày Hữu nghị Quốc tế",
+        "value": 1450,
+        "formattedValue": "+1.450%",
         "raw": {
           "topic": {
-            "mid": "/m/0436qg",
-            "title": "Guru Purnima",
-            "type": "Lễ hội Ấn Độ"
+            "mid": "/m/078_m9",
+            "title": "Ngày Hữu nghị Quốc tế",
+            "type": "Ngày lễ"
           },
-          "value": 1000,
-          "formattedValue": "+1.000%",
-          "link": "/trends/explore?q=/m/0436qg&date=now+7-d&geo=IN"
+          "value": 1450,
+          "formattedValue": "+1.450%",
+          "link": "/trends/explore?q=/m/078_m9&date=now+7-d&geo=IN"
         }
       },
       {
-        "query": "Guru",
-        "value": 190,
-        "formattedValue": "+190%",
+        "query": "check",
+        "value": 750,
+        "formattedValue": "+750%",
         "raw": {
           "topic": {
-            "mid": "/m/016gcr",
-            "title": "Guru",
-            "type": "Vai trò của lãnh tụ tôn giáo"
+            "mid": "/g/11p0xr2pbr",
+            "title": "check",
+            "type": "Chủ đề"
           },
-          "value": 190,
-          "formattedValue": "+190%",
-          "link": "/trends/explore?q=/m/016gcr&date=now+7-d&geo=IN"
-        }
-      },
-      {
-        "query": "Ekadashi",
-        "value": 170,
-        "formattedValue": "+170%",
-        "raw": {
-          "topic": {
-            "mid": "/m/0bfhb3",
-            "title": "Ekadashi",
-            "type": "Ngày trong tuần"
-          },
-          "value": 170,
-          "formattedValue": "+170%",
-          "link": "/trends/explore?q=/m/0bfhb3&date=now+7-d&geo=IN"
+          "value": 750,
+          "formattedValue": "+750%",
+          "link": "/trends/explore?q=/g/11p0xr2pbr&date=now+7-d&geo=IN"
         }
       },
       {
         "query": "Ramayana",
-        "value": 170,
-        "formattedValue": "+170%",
+        "value": 350,
+        "formattedValue": "+350%",
         "raw": {
           "topic": {
             "mid": "/g/11j6rlv4gh",
             "title": "Ramayana",
             "type": "Phim 2026"
           },
-          "value": 170,
-          "formattedValue": "+170%",
+          "value": 350,
+          "formattedValue": "+350%",
           "link": "/trends/explore?q=/g/11j6rlv4gh&date=now+7-d&geo=IN"
         }
       },
       {
         "query": "Người Nhện: Khởi đầu mới",
-        "value": 160,
-        "formattedValue": "+160%",
+        "value": 300,
+        "formattedValue": "+300%",
         "raw": {
           "topic": {
             "mid": "/g/11s8hg4517",
             "title": "Người Nhện: Khởi đầu mới",
             "type": "Phim 2026"
           },
-          "value": 160,
-          "formattedValue": "+160%",
+          "value": 300,
+          "formattedValue": "+300%",
           "link": "/trends/explore?q=/g/11s8hg4517&date=now+7-d&geo=IN"
         }
       },
       {
-        "query": "Sawan",
-        "value": 110,
-        "formattedValue": "+110%",
+        "query": "Guru Purnima",
+        "value": 300,
+        "formattedValue": "+300%",
         "raw": {
           "topic": {
-            "mid": "/m/0449l2",
-            "title": "Sawan",
+            "mid": "/m/0436qg",
+            "title": "Guru Purnima",
+            "type": "Lễ hội Ấn Độ"
+          },
+          "value": 300,
+          "formattedValue": "+300%",
+          "link": "/trends/explore?q=/m/0436qg&date=now+7-d&geo=IN"
+        }
+      },
+      {
+        "query": "Tình bạn",
+        "value": 250,
+        "formattedValue": "+250%",
+        "raw": {
+          "topic": {
+            "mid": "/m/019_nn",
+            "title": "Tình bạn",
+            "type": "Chủ đề"
+          },
+          "value": 250,
+          "formattedValue": "+250%",
+          "link": "/trends/explore?q=/m/019_nn&date=now+7-d&geo=IN"
+        }
+      },
+      {
+        "query": "Shraavana Civil Month",
+        "value": 200,
+        "formattedValue": "+200%",
+        "raw": {
+          "topic": {
+            "mid": "/m/0449dt",
+            "title": "Shraavana Civil Month",
             "type": "Tháng"
           },
-          "value": 110,
-          "formattedValue": "+110%",
-          "link": "/trends/explore?q=/m/0449l2&date=now+7-d&geo=IN"
-        }
-      },
-      {
-        "query": "Assam",
-        "value": 100,
-        "formattedValue": "+100%",
-        "raw": {
-          "topic": {
-            "mid": "/m/019fm7",
-            "title": "Assam",
-            "type": "Bang của Ấn Độ"
-          },
-          "value": 100,
-          "formattedValue": "+100%",
-          "link": "/trends/explore?q=/m/019fm7&date=now+7-d&geo=IN"
-        }
-      },
-      {
-        "query": "Vithoba",
-        "value": 80,
-        "formattedValue": "+80%",
-        "raw": {
-          "topic": {
-            "mid": "/m/0c2s6q",
-            "title": "Vithoba",
-            "type": "Thần"
-          },
-          "value": 80,
-          "formattedValue": "+80%",
-          "link": "/trends/explore?q=/m/0c2s6q&date=now+7-d&geo=IN"
-        }
-      },
-      {
-        "query": "Tháng 8",
-        "value": 80,
-        "formattedValue": "+80%",
-        "raw": {
-          "topic": {
-            "mid": "/m/0ll3",
-            "title": "Tháng 8",
-            "type": "Tháng"
-          },
-          "value": 80,
-          "formattedValue": "+80%",
-          "link": "/trends/explore?q=/m/0ll3&date=now+7-d&geo=IN"
+          "value": 200,
+          "formattedValue": "+200%",
+          "link": "/trends/explore?q=/m/0449dt&date=now+7-d&geo=IN"
         }
       },
       {
         "query": "India's Got Latent",
-        "value": 40,
-        "formattedValue": "+40%",
+        "value": 190,
+        "formattedValue": "+190%",
         "raw": {
           "topic": {
             "mid": "/g/11yc5ykjbb",
             "title": "India's Got Latent",
             "type": "Chương trình truyền hình"
           },
+          "value": 190,
+          "formattedValue": "+190%",
+          "link": "/trends/explore?q=/g/11yc5ykjbb&date=now+7-d&geo=IN"
+        }
+      },
+      {
+        "query": "Tháng 8",
+        "value": 180,
+        "formattedValue": "+180%",
+        "raw": {
+          "topic": {
+            "mid": "/m/0ll3",
+            "title": "Tháng 8",
+            "type": "Tháng"
+          },
+          "value": 180,
+          "formattedValue": "+180%",
+          "link": "/trends/explore?q=/m/0ll3&date=now+7-d&geo=IN"
+        }
+      },
+      {
+        "query": "Ramayan",
+        "value": 170,
+        "formattedValue": "+170%",
+        "raw": {
+          "topic": {
+            "mid": "/m/0gh6z2",
+            "title": "Ramayan",
+            "type": "Chương trình truyền hình"
+          },
+          "value": 170,
+          "formattedValue": "+170%",
+          "link": "/trends/explore?q=/m/0gh6z2&date=now+7-d&geo=IN"
+        }
+      },
+      {
+        "query": "Sawan",
+        "value": 140,
+        "formattedValue": "+140%",
+        "raw": {
+          "topic": {
+            "mid": "/m/0449l2",
+            "title": "Sawan",
+            "type": "Tháng"
+          },
+          "value": 140,
+          "formattedValue": "+140%",
+          "link": "/trends/explore?q=/m/0449l2&date=now+7-d&geo=IN"
+        }
+      },
+      {
+        "query": "Thứ Hai",
+        "value": 120,
+        "formattedValue": "+120%",
+        "raw": {
+          "topic": {
+            "mid": "/m/0f6kx",
+            "title": "Thứ Hai",
+            "type": "Ngày trong tuần"
+          },
+          "value": 120,
+          "formattedValue": "+120%",
+          "link": "/trends/explore?q=/m/0f6kx&date=now+7-d&geo=IN"
+        }
+      },
+      {
+        "query": "Samay Raina",
+        "value": 110,
+        "formattedValue": "+110%",
+        "raw": {
+          "topic": {
+            "mid": "/g/11kv_r2kjl",
+            "title": "Samay Raina",
+            "type": "Nghệ sĩ trình tấu hài"
+          },
+          "value": 110,
+          "formattedValue": "+110%",
+          "link": "/trends/explore?q=/g/11kv_r2kjl&date=now+7-d&geo=IN"
+        }
+      },
+      {
+        "query": "15 tháng 8",
+        "value": 110,
+        "formattedValue": "+110%",
+        "raw": {
+          "topic": {
+            "mid": "/m/0pz0",
+            "title": "15 tháng 8",
+            "type": "Ngày"
+          },
+          "value": 110,
+          "formattedValue": "+110%",
+          "link": "/trends/explore?q=/m/0pz0&date=now+7-d&geo=IN"
+        }
+      },
+      {
+        "query": "Guru",
+        "value": 110,
+        "formattedValue": "+110%",
+        "raw": {
+          "topic": {
+            "mid": "/m/016gcr",
+            "title": "Guru",
+            "type": "Vai trò của lãnh tụ tôn giáo"
+          },
+          "value": 110,
+          "formattedValue": "+110%",
+          "link": "/trends/explore?q=/m/016gcr&date=now+7-d&geo=IN"
+        }
+      },
+      {
+        "query": "Assam",
+        "value": 80,
+        "formattedValue": "+80%",
+        "raw": {
+          "topic": {
+            "mid": "/m/019fm7",
+            "title": "Assam",
+            "type": "Bang của Ấn Độ"
+          },
+          "value": 80,
+          "formattedValue": "+80%",
+          "link": "/trends/explore?q=/m/019fm7&date=now+7-d&geo=IN"
+        }
+      },
+      {
+        "query": "Người nhện",
+        "value": 50,
+        "formattedValue": "+50%",
+        "raw": {
+          "topic": {
+            "mid": "/m/06ys2",
+            "title": "Người nhện",
+            "type": "Nhân vật hư cấu"
+          },
+          "value": 50,
+          "formattedValue": "+50%",
+          "link": "/trends/explore?q=/m/06ys2&date=now+7-d&geo=IN"
+        }
+      },
+      {
+        "query": "Mehndi",
+        "value": 50,
+        "formattedValue": "+50%",
+        "raw": {
+          "topic": {
+            "mid": "/m/02mtw0",
+            "title": "Mehndi",
+            "type": "Hình thức nghệ thuật thị giác"
+          },
+          "value": 50,
+          "formattedValue": "+50%",
+          "link": "/trends/explore?q=/m/02mtw0&date=now+7-d&geo=IN"
+        }
+      },
+      {
+        "query": "Shiva",
+        "value": 50,
+        "formattedValue": "+50%",
+        "raw": {
+          "topic": {
+            "mid": "/m/074l5",
+            "title": "Shiva",
+            "type": "Thần"
+          },
+          "value": 50,
+          "formattedValue": "+50%",
+          "link": "/trends/explore?q=/m/074l5&date=now+7-d&geo=IN"
+        }
+      },
+      {
+        "query": "Ngày",
+        "value": 40,
+        "formattedValue": "+40%",
+        "raw": {
+          "topic": {
+            "mid": "/m/02bbq",
+            "title": "Ngày",
+            "type": "Thời gian"
+          },
           "value": 40,
           "formattedValue": "+40%",
-          "link": "/trends/explore?q=/g/11yc5ykjbb&date=now+7-d&geo=IN"
+          "link": "/trends/explore?q=/m/02bbq&date=now+7-d&geo=IN"
+        }
+      },
+      {
+        "query": "Ramayana",
+        "value": 40,
+        "formattedValue": "+40%",
+        "raw": {
+          "topic": {
+            "mid": "/m/0c1wm",
+            "title": "Ramayana",
+            "type": "Sách của Valmiki"
+          },
+          "value": 40,
+          "formattedValue": "+40%",
+          "link": "/trends/explore?q=/m/0c1wm&date=now+7-d&geo=IN"
+        }
+      },
+      {
+        "query": "Trailer",
+        "value": 40,
+        "formattedValue": "+40%",
+        "raw": {
+          "topic": {
+            "mid": "/m/03hdbf",
+            "title": "Trailer",
+            "type": "Chủ đề"
+          },
+          "value": 40,
+          "formattedValue": "+40%",
+          "link": "/trends/explore?q=/m/03hdbf&date=now+7-d&geo=IN"
+        }
+      },
+      {
+        "query": "Quà tặng",
+        "value": 40,
+        "formattedValue": "+40%",
+        "raw": {
+          "topic": {
+            "mid": "/m/0d84n",
+            "title": "Quà tặng",
+            "type": "Chủ đề"
+          },
+          "value": 40,
+          "formattedValue": "+40%",
+          "link": "/trends/explore?q=/m/0d84n&date=now+7-d&geo=IN"
         }
       }
     ]
@@ -584,26 +779,38 @@
       },
       {
         "query": "video",
-        "value": 43,
-        "formattedValue": "43",
+        "value": 45,
+        "formattedValue": "45",
         "raw": {
           "query": "video",
-          "value": 43,
-          "formattedValue": "43",
+          "value": 45,
+          "formattedValue": "45",
           "hasData": true,
           "link": "/trends/explore?q=video&date=now+7-d&geo=IN"
         }
       },
       {
         "query": "songs",
-        "value": 28,
-        "formattedValue": "28",
+        "value": 29,
+        "formattedValue": "29",
         "raw": {
           "query": "songs",
-          "value": 28,
-          "formattedValue": "28",
+          "value": 29,
+          "formattedValue": "29",
           "hasData": true,
           "link": "/trends/explore?q=songs&date=now+7-d&geo=IN"
+        }
+      },
+      {
+        "query": "gana",
+        "value": 25,
+        "formattedValue": "25",
+        "raw": {
+          "query": "gana",
+          "value": 25,
+          "formattedValue": "25",
+          "hasData": true,
+          "link": "/trends/explore?q=gana&date=now+7-d&geo=IN"
         }
       },
       {
@@ -619,51 +826,51 @@
         }
       },
       {
-        "query": "gana",
-        "value": 23,
-        "formattedValue": "23",
-        "raw": {
-          "query": "gana",
-          "value": 23,
-          "formattedValue": "23",
-          "hasData": true,
-          "link": "/trends/explore?q=gana&date=now+7-d&geo=IN"
-        }
-      },
-      {
         "query": "cartoon",
-        "value": 19,
-        "formattedValue": "19",
+        "value": 18,
+        "formattedValue": "18",
         "raw": {
           "query": "cartoon",
-          "value": 19,
-          "formattedValue": "19",
+          "value": 18,
+          "formattedValue": "18",
           "hasData": true,
           "link": "/trends/explore?q=cartoon&date=now+7-d&geo=IN"
         }
       },
       {
         "query": "cartoon cartoon",
-        "value": 19,
-        "formattedValue": "19",
+        "value": 18,
+        "formattedValue": "18",
         "raw": {
           "query": "cartoon cartoon",
-          "value": 19,
-          "formattedValue": "19",
+          "value": 18,
+          "formattedValue": "18",
           "hasData": true,
           "link": "/trends/explore?q=cartoon+cartoon&date=now+7-d&geo=IN"
         }
       },
       {
         "query": "serial",
-        "value": 13,
-        "formattedValue": "13",
+        "value": 12,
+        "formattedValue": "12",
         "raw": {
           "query": "serial",
-          "value": 13,
-          "formattedValue": "13",
+          "value": 12,
+          "formattedValue": "12",
           "hasData": true,
           "link": "/trends/explore?q=serial&date=now+7-d&geo=IN"
+        }
+      },
+      {
+        "query": "dj",
+        "value": 12,
+        "formattedValue": "12",
+        "raw": {
+          "query": "dj",
+          "value": 12,
+          "formattedValue": "12",
+          "hasData": true,
+          "link": "/trends/explore?q=dj&date=now+7-d&geo=IN"
         }
       },
       {
@@ -676,18 +883,6 @@
           "formattedValue": "12",
           "hasData": true,
           "link": "/trends/explore?q=film&date=now+7-d&geo=IN"
-        }
-      },
-      {
-        "query": "dj",
-        "value": 11,
-        "formattedValue": "11",
-        "raw": {
-          "query": "dj",
-          "value": 11,
-          "formattedValue": "11",
-          "hasData": true,
-          "link": "/trends/explore?q=dj&date=now+7-d&geo=IN"
         }
       },
       {
@@ -716,12 +911,12 @@
       },
       {
         "query": "news",
-        "value": 10,
-        "formattedValue": "10",
+        "value": 11,
+        "formattedValue": "11",
         "raw": {
           "query": "news",
-          "value": 10,
-          "formattedValue": "10",
+          "value": 11,
+          "formattedValue": "11",
           "hasData": true,
           "link": "/trends/explore?q=news&date=now+7-d&geo=IN"
         }
@@ -775,6 +970,18 @@
         }
       },
       {
+        "query": "dance",
+        "value": 9,
+        "formattedValue": "9",
+        "raw": {
+          "query": "dance",
+          "value": 9,
+          "formattedValue": "9",
+          "hasData": true,
+          "link": "/trends/explore?q=dance&date=now+7-d&geo=IN"
+        }
+      },
+      {
         "query": "movies",
         "value": 8,
         "formattedValue": "8",
@@ -784,18 +991,6 @@
           "formattedValue": "8",
           "hasData": true,
           "link": "/trends/explore?q=movies&date=now+7-d&geo=IN"
-        }
-      },
-      {
-        "query": "dance",
-        "value": 8,
-        "formattedValue": "8",
-        "raw": {
-          "query": "dance",
-          "value": 8,
-          "formattedValue": "8",
-          "hasData": true,
-          "link": "/trends/explore?q=dance&date=now+7-d&geo=IN"
         }
       },
       {
@@ -835,18 +1030,6 @@
         }
       },
       {
-        "query": "gane",
-        "value": 6,
-        "formattedValue": "6",
-        "raw": {
-          "query": "gane",
-          "value": 6,
-          "formattedValue": "6",
-          "hasData": true,
-          "link": "/trends/explore?q=gane&date=now+7-d&geo=IN"
-        }
-      },
-      {
         "query": "picture",
         "value": 6,
         "formattedValue": "6",
@@ -857,183 +1040,294 @@
           "hasData": true,
           "link": "/trends/explore?q=picture&date=now+7-d&geo=IN"
         }
+      },
+      {
+        "query": "gane",
+        "value": 6,
+        "formattedValue": "6",
+        "raw": {
+          "query": "gane",
+          "value": 6,
+          "formattedValue": "6",
+          "hasData": true,
+          "link": "/trends/explore?q=gane&date=now+7-d&geo=IN"
+        }
       }
     ],
     "rising": [
       {
-        "query": "tyla",
-        "value": 1150,
-        "formattedValue": "+1.150%",
+        "query": "fred again..",
+        "value": 2450,
+        "formattedValue": "+2.450%",
         "raw": {
-          "query": "tyla",
-          "value": 1150,
-          "formattedValue": "+1.150%",
-          "link": "/trends/explore?q=tyla&date=now+7-d&geo=IN"
+          "query": "fred again..",
+          "value": 2450,
+          "formattedValue": "+2.450%",
+          "link": "/trends/explore?q=fred+again..&date=now+7-d&geo=IN"
         }
       },
       {
         "query": "ramayana trailer reaction",
-        "value": 700,
-        "formattedValue": "+700%",
+        "value": 1400,
+        "formattedValue": "+1.400%",
         "raw": {
           "query": "ramayana trailer reaction",
-          "value": 700,
-          "formattedValue": "+700%",
+          "value": 1400,
+          "formattedValue": "+1.400%",
           "link": "/trends/explore?q=ramayana+trailer+reaction&date=now+7-d&geo=IN"
         }
       },
       {
+        "query": "ankit vs arman live",
+        "value": 1250,
+        "formattedValue": "+1.250%",
+        "raw": {
+          "query": "ankit vs arman live",
+          "value": 1250,
+          "formattedValue": "+1.250%",
+          "link": "/trends/explore?q=ankit+vs+arman+live&date=now+7-d&geo=IN"
+        }
+      },
+      {
+        "query": "gatta kusthi 2",
+        "value": 1200,
+        "formattedValue": "+1.200%",
+        "raw": {
+          "query": "gatta kusthi 2",
+          "value": 1200,
+          "formattedValue": "+1.200%",
+          "link": "/trends/explore?q=gatta+kusthi+2&date=now+7-d&geo=IN"
+        }
+      },
+      {
+        "query": "gatta kusthi 2 movie",
+        "value": 1100,
+        "formattedValue": "+1.100%",
+        "raw": {
+          "query": "gatta kusthi 2 movie",
+          "value": 1100,
+          "formattedValue": "+1.100%",
+          "link": "/trends/explore?q=gatta+kusthi+2+movie&date=now+7-d&geo=IN"
+        }
+      },
+      {
         "query": "ramayana trailer telugu",
-        "value": 500,
-        "formattedValue": "+500%",
+        "value": 950,
+        "formattedValue": "+950%",
         "raw": {
           "query": "ramayana trailer telugu",
-          "value": 500,
-          "formattedValue": "+500%",
+          "value": 950,
+          "formattedValue": "+950%",
           "link": "/trends/explore?q=ramayana+trailer+telugu&date=now+7-d&geo=IN"
         }
       },
       {
-        "query": "nagabandham movie",
-        "value": 250,
-        "formattedValue": "+250%",
-        "raw": {
-          "query": "nagabandham movie",
-          "value": 250,
-          "formattedValue": "+250%",
-          "link": "/trends/explore?q=nagabandham+movie&date=now+7-d&geo=IN"
-        }
-      },
-      {
-        "query": "dharmendra pradhan",
-        "value": 250,
-        "formattedValue": "+250%",
-        "raw": {
-          "query": "dharmendra pradhan",
-          "value": 250,
-          "formattedValue": "+250%",
-          "link": "/trends/explore?q=dharmendra+pradhan&date=now+7-d&geo=IN"
-        }
-      },
-      {
         "query": "ramayana trailer",
-        "value": 170,
-        "formattedValue": "+170%",
+        "value": 350,
+        "formattedValue": "+350%",
         "raw": {
           "query": "ramayana trailer",
-          "value": 170,
-          "formattedValue": "+170%",
+          "value": 350,
+          "formattedValue": "+350%",
           "link": "/trends/explore?q=ramayana+trailer&date=now+7-d&geo=IN"
         }
       },
       {
         "query": "ramayana trailer 2026",
-        "value": 110,
-        "formattedValue": "+110%",
+        "value": 350,
+        "formattedValue": "+350%",
         "raw": {
           "query": "ramayana trailer 2026",
-          "value": 110,
-          "formattedValue": "+110%",
+          "value": 350,
+          "formattedValue": "+350%",
           "link": "/trends/explore?q=ramayana+trailer+2026&date=now+7-d&geo=IN"
         }
       },
       {
-        "query": "vitthal songs marathi",
-        "value": 110,
-        "formattedValue": "+110%",
+        "query": "brand new day",
+        "value": 300,
+        "formattedValue": "+300%",
         "raw": {
-          "query": "vitthal songs marathi",
-          "value": 110,
-          "formattedValue": "+110%",
-          "link": "/trends/explore?q=vitthal+songs+marathi&date=now+7-d&geo=IN"
+          "query": "brand new day",
+          "value": 300,
+          "formattedValue": "+300%",
+          "link": "/trends/explore?q=brand+new+day&date=now+7-d&geo=IN"
         }
       },
       {
         "query": "ramayan trailer",
-        "value": 100,
-        "formattedValue": "+100%",
+        "value": 250,
+        "formattedValue": "+250%",
         "raw": {
           "query": "ramayan trailer",
-          "value": 100,
-          "formattedValue": "+100%",
+          "value": 250,
+          "formattedValue": "+250%",
           "link": "/trends/explore?q=ramayan+trailer&date=now+7-d&geo=IN"
         }
       },
       {
-        "query": "spider man brand new day trailer",
-        "value": 80,
-        "formattedValue": "+80%",
+        "query": "sawan song",
+        "value": 200,
+        "formattedValue": "+200%",
         "raw": {
-          "query": "spider man brand new day trailer",
-          "value": 80,
-          "formattedValue": "+80%",
-          "link": "/trends/explore?q=spider+man+brand+new+day+trailer&date=now+7-d&geo=IN"
+          "query": "sawan song",
+          "value": 200,
+          "formattedValue": "+200%",
+          "link": "/trends/explore?q=sawan+song&date=now+7-d&geo=IN"
         }
       },
       {
-        "query": "samay raina",
-        "value": 70,
-        "formattedValue": "+70%",
+        "query": "spider-man movie",
+        "value": 190,
+        "formattedValue": "+190%",
         "raw": {
-          "query": "samay raina",
-          "value": 70,
-          "formattedValue": "+70%",
-          "link": "/trends/explore?q=samay+raina&date=now+7-d&geo=IN"
+          "query": "spider-man movie",
+          "value": 190,
+          "formattedValue": "+190%",
+          "link": "/trends/explore?q=spider-man+movie&date=now+7-d&geo=IN"
         }
       },
       {
         "query": "latent season 2",
-        "value": 50,
-        "formattedValue": "+50%",
+        "value": 180,
+        "formattedValue": "+180%",
         "raw": {
           "query": "latent season 2",
-          "value": 50,
-          "formattedValue": "+50%",
+          "value": 180,
+          "formattedValue": "+180%",
           "link": "/trends/explore?q=latent+season+2&date=now+7-d&geo=IN"
         }
       },
       {
+        "query": "assam news",
+        "value": 180,
+        "formattedValue": "+180%",
+        "raw": {
+          "query": "assam news",
+          "value": 180,
+          "formattedValue": "+180%",
+          "link": "/trends/explore?q=assam+news&date=now+7-d&geo=IN"
+        }
+      },
+      {
+        "query": "live insaan",
+        "value": 170,
+        "formattedValue": "+170%",
+        "raw": {
+          "query": "live insaan",
+          "value": 170,
+          "formattedValue": "+170%",
+          "link": "/trends/explore?q=live+insaan&date=now+7-d&geo=IN"
+        }
+      },
+      {
         "query": "india got latent season 2",
-        "value": 50,
-        "formattedValue": "+50%",
+        "value": 160,
+        "formattedValue": "+160%",
         "raw": {
           "query": "india got latent season 2",
-          "value": 50,
-          "formattedValue": "+50%",
+          "value": 160,
+          "formattedValue": "+160%",
           "link": "/trends/explore?q=india+got+latent+season+2&date=now+7-d&geo=IN"
         }
       },
       {
         "query": "india's got latent",
-        "value": 50,
-        "formattedValue": "+50%",
+        "value": 150,
+        "formattedValue": "+150%",
         "raw": {
           "query": "india's got latent",
-          "value": 50,
-          "formattedValue": "+50%",
+          "value": 150,
+          "formattedValue": "+150%",
           "link": "/trends/explore?q=india's+got+latent&date=now+7-d&geo=IN"
         }
       },
       {
-        "query": "ind vs zim",
-        "value": 40,
-        "formattedValue": "+40%",
+        "query": "mehandi ka design",
+        "value": 140,
+        "formattedValue": "+140%",
         "raw": {
-          "query": "ind vs zim",
-          "value": 40,
-          "formattedValue": "+40%",
-          "link": "/trends/explore?q=ind+vs+zim&date=now+7-d&geo=IN"
+          "query": "mehandi ka design",
+          "value": 140,
+          "formattedValue": "+140%",
+          "link": "/trends/explore?q=mehandi+ka+design&date=now+7-d&geo=IN"
         }
       },
       {
-        "query": "vishnu sahasranamam",
-        "value": 40,
-        "formattedValue": "+40%",
+        "query": "sambhavna seth entertainment",
+        "value": 130,
+        "formattedValue": "+130%",
         "raw": {
-          "query": "vishnu sahasranamam",
-          "value": 40,
-          "formattedValue": "+40%",
-          "link": "/trends/explore?q=vishnu+sahasranamam&date=now+7-d&geo=IN"
+          "query": "sambhavna seth entertainment",
+          "value": 130,
+          "formattedValue": "+130%",
+          "link": "/trends/explore?q=sambhavna+seth+entertainment&date=now+7-d&geo=IN"
+        }
+      },
+      {
+        "query": "bhole baba ke bhajan",
+        "value": 130,
+        "formattedValue": "+130%",
+        "raw": {
+          "query": "bhole baba ke bhajan",
+          "value": 130,
+          "formattedValue": "+130%",
+          "link": "/trends/explore?q=bhole+baba+ke+bhajan&date=now+7-d&geo=IN"
+        }
+      },
+      {
+        "query": "spider man brand new day trailer",
+        "value": 120,
+        "formattedValue": "+120%",
+        "raw": {
+          "query": "spider man brand new day trailer",
+          "value": 120,
+          "formattedValue": "+120%",
+          "link": "/trends/explore?q=spider+man+brand+new+day+trailer&date=now+7-d&geo=IN"
+        }
+      },
+      {
+        "query": "ramayana teaser",
+        "value": 120,
+        "formattedValue": "+120%",
+        "raw": {
+          "query": "ramayana teaser",
+          "value": 120,
+          "formattedValue": "+120%",
+          "link": "/trends/explore?q=ramayana+teaser&date=now+7-d&geo=IN"
+        }
+      },
+      {
+        "query": "samay raina",
+        "value": 110,
+        "formattedValue": "+110%",
+        "raw": {
+          "query": "samay raina",
+          "value": 110,
+          "formattedValue": "+110%",
+          "link": "/trends/explore?q=samay+raina&date=now+7-d&geo=IN"
+        }
+      },
+      {
+        "query": "bhole baba song",
+        "value": 110,
+        "formattedValue": "+110%",
+        "raw": {
+          "query": "bhole baba song",
+          "value": 110,
+          "formattedValue": "+110%",
+          "link": "/trends/explore?q=bhole+baba+song&date=now+7-d&geo=IN"
+        }
+      },
+      {
+        "query": "shiv bhajan",
+        "value": 100,
+        "formattedValue": "+100%",
+        "raw": {
+          "query": "shiv bhajan",
+          "value": 100,
+          "formattedValue": "+100%",
+          "link": "/trends/explore?q=shiv+bhajan&date=now+7-d&geo=IN"
         }
       }
     ]
