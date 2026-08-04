@@ -20,50 +20,66 @@
       },
       {
         "query": "Điện ảnh",
-        "value": 63,
-        "formattedValue": "63",
+        "value": 72,
+        "formattedValue": "72",
         "raw": {
           "topic": {
             "mid": "/m/02vxn",
             "title": "Điện ảnh",
             "type": "Loại truyền hình"
           },
-          "value": 63,
-          "formattedValue": "63",
+          "value": 72,
+          "formattedValue": "72",
           "hasData": true,
           "link": "/trends/explore?q=/m/02vxn&date=now+7-d&geo=HU"
         }
       },
       {
-        "query": "2026",
-        "value": 42,
-        "formattedValue": "42",
-        "raw": {
-          "topic": {
-            "mid": "/g/11b77d6b6g",
-            "title": "2026",
-            "type": "Chủ đề"
-          },
-          "value": 42,
-          "formattedValue": "42",
-          "hasData": true,
-          "link": "/trends/explore?q=/g/11b77d6b6g&date=now+7-d&geo=HU"
-        }
-      },
-      {
         "query": "Bài hát",
-        "value": 42,
-        "formattedValue": "42",
+        "value": 51,
+        "formattedValue": "51",
         "raw": {
           "topic": {
             "mid": "/m/074ft",
             "title": "Bài hát",
             "type": "Loại sáng tác"
           },
-          "value": 42,
-          "formattedValue": "42",
+          "value": 51,
+          "formattedValue": "51",
           "hasData": true,
           "link": "/trends/explore?q=/m/074ft&date=now+7-d&geo=HU"
+        }
+      },
+      {
+        "query": "2026",
+        "value": 37,
+        "formattedValue": "37",
+        "raw": {
+          "topic": {
+            "mid": "/g/11b77d6b6g",
+            "title": "2026",
+            "type": "Chủ đề"
+          },
+          "value": 37,
+          "formattedValue": "37",
+          "hasData": true,
+          "link": "/trends/explore?q=/g/11b77d6b6g&date=now+7-d&geo=HU"
+        }
+      },
+      {
+        "query": "Video",
+        "value": 31,
+        "formattedValue": "31",
+        "raw": {
+          "topic": {
+            "mid": "/m/07z4p",
+            "title": "Video",
+            "type": "Định dạng phim"
+          },
+          "value": 31,
+          "formattedValue": "31",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/07z4p&date=now+7-d&geo=HU"
         }
       },
       {
@@ -83,99 +99,131 @@
         }
       },
       {
-        "query": "Video",
-        "value": 28,
-        "formattedValue": "28",
-        "raw": {
-          "topic": {
-            "mid": "/m/07z4p",
-            "title": "Video",
-            "type": "Định dạng phim"
-          },
-          "value": 28,
-          "formattedValue": "28",
-          "hasData": true,
-          "link": "/trends/explore?q=/m/07z4p&date=now+7-d&geo=HU"
-        }
-      },
-      {
         "query": "Truyện cổ tích",
-        "value": 26,
-        "formattedValue": "26",
+        "value": 25,
+        "formattedValue": "25",
         "raw": {
           "topic": {
             "mid": "/m/0bxg3",
             "title": "Truyện cổ tích",
             "type": "Thể loại văn học"
           },
-          "value": 26,
-          "formattedValue": "26",
+          "value": 25,
+          "formattedValue": "25",
           "hasData": true,
           "link": "/trends/explore?q=/m/0bxg3&date=now+7-d&geo=HU"
         }
       },
       {
-        "query": "Minecraft",
-        "value": 18,
-        "formattedValue": "18",
-        "raw": {
-          "topic": {
-            "mid": "/m/09v6kpg",
-            "title": "Minecraft",
-            "type": "Trò chơi điện tử"
-          },
-          "value": 18,
-          "formattedValue": "18",
-          "hasData": true,
-          "link": "/trends/explore?q=/m/09v6kpg&date=now+7-d&geo=HU"
-        }
-      },
-      {
-        "query": "Trailer",
-        "value": 17,
-        "formattedValue": "17",
-        "raw": {
-          "topic": {
-            "mid": "/m/03hdbf",
-            "title": "Trailer",
-            "type": "Chủ đề"
-          },
-          "value": 17,
-          "formattedValue": "17",
-          "hasData": true,
-          "link": "/trends/explore?q=/m/03hdbf&date=now+7-d&geo=HU"
-        }
-      },
-      {
         "query": "2025",
-        "value": 15,
-        "formattedValue": "15",
+        "value": 19,
+        "formattedValue": "19",
         "raw": {
           "topic": {
             "mid": "/g/11b77d3kyg",
             "title": "2025",
             "type": "Chủ đề"
           },
-          "value": 15,
-          "formattedValue": "15",
+          "value": 19,
+          "formattedValue": "19",
           "hasData": true,
           "link": "/trends/explore?q=/g/11b77d3kyg&date=now+7-d&geo=HU"
         }
       },
       {
+        "query": "Trailer",
+        "value": 18,
+        "formattedValue": "18",
+        "raw": {
+          "topic": {
+            "mid": "/m/03hdbf",
+            "title": "Trailer",
+            "type": "Chủ đề"
+          },
+          "value": 18,
+          "formattedValue": "18",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/03hdbf&date=now+7-d&geo=HU"
+        }
+      },
+      {
+        "query": "Minecraft",
+        "value": 17,
+        "formattedValue": "17",
+        "raw": {
+          "topic": {
+            "mid": "/m/09v6kpg",
+            "title": "Minecraft",
+            "type": "Trò chơi điện tử"
+          },
+          "value": 17,
+          "formattedValue": "17",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/09v6kpg&date=now+7-d&geo=HU"
+        }
+      },
+      {
         "query": "Remix",
-        "value": 14,
-        "formattedValue": "14",
+        "value": 16,
+        "formattedValue": "16",
         "raw": {
           "topic": {
             "mid": "/m/014k25",
             "title": "Remix",
             "type": "Chủ đề"
           },
+          "value": 16,
+          "formattedValue": "16",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/014k25&date=now+7-d&geo=HU"
+        }
+      },
+      {
+        "query": "Nhảy múa",
+        "value": 14,
+        "formattedValue": "14",
+        "raw": {
+          "topic": {
+            "mid": "/m/026bk",
+            "title": "Nhảy múa",
+            "type": "Lĩnh vực nghề nghiệp"
+          },
           "value": 14,
           "formattedValue": "14",
           "hasData": true,
-          "link": "/trends/explore?q=/m/014k25&date=now+7-d&geo=HU"
+          "link": "/trends/explore?q=/m/026bk&date=now+7-d&geo=HU"
+        }
+      },
+      {
+        "query": "Trò chơi",
+        "value": 14,
+        "formattedValue": "14",
+        "raw": {
+          "topic": {
+            "mid": "/m/03bt1gh",
+            "title": "Trò chơi",
+            "type": "Chủ đề"
+          },
+          "value": 14,
+          "formattedValue": "14",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/03bt1gh&date=now+7-d&geo=HU"
+        }
+      },
+      {
+        "query": "Lời bài hát",
+        "value": 14,
+        "formattedValue": "14",
+        "raw": {
+          "topic": {
+            "mid": "/m/09lgd",
+            "title": "Lời bài hát",
+            "type": "Chủ đề"
+          },
+          "value": 14,
+          "formattedValue": "14",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/09lgd&date=now+7-d&geo=HU"
         }
       },
       {
@@ -195,54 +243,6 @@
         }
       },
       {
-        "query": "Nhảy múa",
-        "value": 12,
-        "formattedValue": "12",
-        "raw": {
-          "topic": {
-            "mid": "/m/026bk",
-            "title": "Nhảy múa",
-            "type": "Lĩnh vực nghề nghiệp"
-          },
-          "value": 12,
-          "formattedValue": "12",
-          "hasData": true,
-          "link": "/trends/explore?q=/m/026bk&date=now+7-d&geo=HU"
-        }
-      },
-      {
-        "query": "Trò chơi",
-        "value": 12,
-        "formattedValue": "12",
-        "raw": {
-          "topic": {
-            "mid": "/m/03bt1gh",
-            "title": "Trò chơi",
-            "type": "Chủ đề"
-          },
-          "value": 12,
-          "formattedValue": "12",
-          "hasData": true,
-          "link": "/trends/explore?q=/m/03bt1gh&date=now+7-d&geo=HU"
-        }
-      },
-      {
-        "query": "Crime Busters",
-        "value": 12,
-        "formattedValue": "12",
-        "raw": {
-          "topic": {
-            "mid": "/m/0crrw4v",
-            "title": "Crime Busters",
-            "type": "Phim 1977"
-          },
-          "value": 12,
-          "formattedValue": "12",
-          "hasData": true,
-          "link": "/trends/explore?q=/m/0crrw4v&date=now+7-d&geo=HU"
-        }
-      },
-      {
         "query": "Phản ứng kích thích cảm giác tự động",
         "value": 11,
         "formattedValue": "11",
@@ -259,19 +259,19 @@
         }
       },
       {
-        "query": "Người Hungary",
+        "query": "Truyền hình",
         "value": 11,
         "formattedValue": "11",
         "raw": {
           "topic": {
-            "mid": "/m/0g5y6",
-            "title": "Người Hungary",
-            "type": "Dân tộc"
+            "mid": "/m/07c52",
+            "title": "Truyền hình",
+            "type": "Loại truyền hình"
           },
           "value": 11,
           "formattedValue": "11",
           "hasData": true,
-          "link": "/trends/explore?q=/m/0g5y6&date=now+7-d&geo=HU"
+          "link": "/trends/explore?q=/m/07c52&date=now+7-d&geo=HU"
         }
       },
       {
@@ -291,35 +291,19 @@
         }
       },
       {
-        "query": "Lời bài hát",
-        "value": 11,
-        "formattedValue": "11",
-        "raw": {
-          "topic": {
-            "mid": "/m/09lgd",
-            "title": "Lời bài hát",
-            "type": "Chủ đề"
-          },
-          "value": 11,
-          "formattedValue": "11",
-          "hasData": true,
-          "link": "/trends/explore?q=/m/09lgd&date=now+7-d&geo=HU"
-        }
-      },
-      {
-        "query": "Nessaj",
+        "query": "Người Hungary",
         "value": 10,
         "formattedValue": "10",
         "raw": {
           "topic": {
-            "mid": "/g/11y49qjy70",
-            "title": "Nessaj",
-            "type": "Người có ảnh hưởng"
+            "mid": "/m/0g5y6",
+            "title": "Người Hungary",
+            "type": "Dân tộc"
           },
           "value": 10,
           "formattedValue": "10",
           "hasData": true,
-          "link": "/trends/explore?q=/g/11y49qjy70&date=now+7-d&geo=HU"
+          "link": "/trends/explore?q=/m/0g5y6&date=now+7-d&geo=HU"
         }
       },
       {
@@ -339,6 +323,22 @@
         }
       },
       {
+        "query": "Crime Busters",
+        "value": 10,
+        "formattedValue": "10",
+        "raw": {
+          "topic": {
+            "mid": "/m/0crrw4v",
+            "title": "Crime Busters",
+            "type": "Phim 1977"
+          },
+          "value": 10,
+          "formattedValue": "10",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/0crrw4v&date=now+7-d&geo=HU"
+        }
+      },
+      {
         "query": "Kinh dị",
         "value": 10,
         "formattedValue": "10",
@@ -355,232 +355,172 @@
         }
       },
       {
-        "query": "T. Danny",
+        "query": "Nessaj",
         "value": 9,
         "formattedValue": "9",
         "raw": {
           "topic": {
-            "mid": "/g/11f7l31gqk",
-            "title": "T. Danny",
-            "type": "Ca sĩ"
+            "mid": "/g/11y49qjy70",
+            "title": "Nessaj",
+            "type": "Người có ảnh hưởng"
           },
           "value": 9,
           "formattedValue": "9",
           "hasData": true,
-          "link": "/trends/explore?q=/g/11f7l31gqk&date=now+7-d&geo=HU"
+          "link": "/trends/explore?q=/g/11y49qjy70&date=now+7-d&geo=HU"
         }
       },
       {
-        "query": "Hungary",
+        "query": "Tin tức",
         "value": 9,
         "formattedValue": "9",
         "raw": {
           "topic": {
-            "mid": "/m/03gj2",
-            "title": "Hungary",
-            "type": "Quốc gia ở Châu Âu"
+            "mid": "/m/05jhg",
+            "title": "Tin tức",
+            "type": "Định dạng phát thanh"
           },
           "value": 9,
           "formattedValue": "9",
           "hasData": true,
-          "link": "/trends/explore?q=/m/03gj2&date=now+7-d&geo=HU"
+          "link": "/trends/explore?q=/m/05jhg&date=now+7-d&geo=HU"
         }
       }
     ],
     "rising": [
       {
-        "query": "Blue Ribbon",
-        "value": 1950,
-        "formattedValue": "+1.950%",
-        "raw": {
-          "topic": {
-            "mid": "/g/11bt_2lc8n",
-            "title": "Blue Ribbon",
-            "type": "Chủ đề"
-          },
-          "value": 1950,
-          "formattedValue": "+1.950%",
-          "link": "/trends/explore?q=/g/11bt_2lc8n&date=now+7-d&geo=HU"
-        }
-      },
-      {
-        "query": "Dân số",
-        "value": 1900,
-        "formattedValue": "+1.900%",
-        "raw": {
-          "topic": {
-            "mid": "/g/11dfj1jpr_",
-            "title": "Dân số",
-            "type": "Chủ đề"
-          },
-          "value": 1900,
-          "formattedValue": "+1.900%",
-          "link": "/trends/explore?q=/g/11dfj1jpr_&date=now+7-d&geo=HU"
-        }
-      },
-      {
-        "query": "Bálványos Summer Free University and Student Camp",
-        "value": 600,
-        "formattedValue": "+600%",
-        "raw": {
-          "topic": {
-            "mid": "/g/1q6lg48rt",
-            "title": "Bálványos Summer Free University and Student Camp",
-            "type": "Chủ đề"
-          },
-          "value": 600,
-          "formattedValue": "+600%",
-          "link": "/trends/explore?q=/g/1q6lg48rt&date=now+7-d&geo=HU"
-        }
-      },
-      {
-        "query": "Dai Dai",
+        "query": "Boldog születésnapot",
         "value": 400,
         "formattedValue": "+400%",
         "raw": {
           "topic": {
-            "mid": "/g/11z8sz5bq8",
-            "title": "Dai Dai",
-            "type": "Chủ đề"
+            "mid": "/g/1q5j6vmr_",
+            "title": "Boldog születésnapot",
+            "type": "Bài hát"
           },
           "value": 400,
           "formattedValue": "+400%",
-          "link": "/trends/explore?q=/g/11z8sz5bq8&date=now+7-d&geo=HU"
+          "link": "/trends/explore?q=/g/1q5j6vmr_&date=now+7-d&geo=HU"
         }
       },
       {
-        "query": "Không gian",
-        "value": 160,
-        "formattedValue": "+160%",
+        "query": "Người Nhện: Khởi đầu mới",
+        "value": 200,
+        "formattedValue": "+200%",
         "raw": {
           "topic": {
-            "mid": "/m/06wqb",
-            "title": "Không gian",
-            "type": "Chủ đề"
+            "mid": "/g/11s8hg4517",
+            "title": "Người Nhện: Khởi đầu mới",
+            "type": "Phim 2026"
           },
-          "value": 160,
-          "formattedValue": "+160%",
-          "link": "/trends/explore?q=/m/06wqb&date=now+7-d&geo=HU"
+          "value": 200,
+          "formattedValue": "+200%",
+          "link": "/trends/explore?q=/g/11s8hg4517&date=now+7-d&geo=HU"
         }
       },
       {
-        "query": "Kiss Kevin",
+        "query": "Tiếng Hindi",
         "value": 150,
         "formattedValue": "+150%",
         "raw": {
           "topic": {
-            "mid": "/g/11tdhth30y",
-            "title": "Kiss Kevin",
-            "type": "Nghệ sĩ âm nhạc"
+            "mid": "/m/03k50",
+            "title": "Tiếng Hindi",
+            "type": "Tiếng"
           },
           "value": 150,
           "formattedValue": "+150%",
-          "link": "/trends/explore?q=/g/11tdhth30y&date=now+7-d&geo=HU"
+          "link": "/trends/explore?q=/m/03k50&date=now+7-d&geo=HU"
         }
       },
       {
-        "query": "Orbán Viktor",
-        "value": 100,
-        "formattedValue": "+100%",
+        "query": "Ariana Grande",
+        "value": 120,
+        "formattedValue": "+120%",
         "raw": {
           "topic": {
-            "mid": "/m/03860h",
-            "title": "Orbán Viktor",
-            "type": "Luật sư và cựu Thủ tướng Hungary"
+            "mid": "/m/09gkdy4",
+            "title": "Ariana Grande",
+            "type": "Ca sĩ"
           },
-          "value": 100,
-          "formattedValue": "+100%",
-          "link": "/trends/explore?q=/m/03860h&date=now+7-d&geo=HU"
+          "value": 120,
+          "formattedValue": "+120%",
+          "link": "/trends/explore?q=/m/09gkdy4&date=now+7-d&geo=HU"
         }
       },
       {
         "query": "Kkevin",
-        "value": 80,
-        "formattedValue": "+80%",
+        "value": 120,
+        "formattedValue": "+120%",
         "raw": {
           "topic": {
             "mid": "/g/11hfcjhdyl",
             "title": "Kkevin",
             "type": "Ca sĩ"
           },
-          "value": 80,
-          "formattedValue": "+80%",
+          "value": 120,
+          "formattedValue": "+120%",
           "link": "/trends/explore?q=/g/11hfcjhdyl&date=now+7-d&geo=HU"
         }
       },
       {
-        "query": "Katseye",
+        "query": "Yabani",
+        "value": 110,
+        "formattedValue": "+110%",
+        "raw": {
+          "topic": {
+            "mid": "/g/11v595ymln",
+            "title": "Yabani",
+            "type": "Chương trình truyền hình"
+          },
+          "value": 110,
+          "formattedValue": "+110%",
+          "link": "/trends/explore?q=/g/11v595ymln&date=now+7-d&geo=HU"
+        }
+      },
+      {
+        "query": "Tiếng Tây Ban Nha",
+        "value": 70,
+        "formattedValue": "+70%",
+        "raw": {
+          "topic": {
+            "mid": "/m/06nm1",
+            "title": "Tiếng Tây Ban Nha",
+            "type": "Tiếng"
+          },
+          "value": 70,
+          "formattedValue": "+70%",
+          "link": "/trends/explore?q=/m/06nm1&date=now+7-d&geo=HU"
+        }
+      },
+      {
+        "query": "Người nhện",
         "value": 60,
         "formattedValue": "+60%",
         "raw": {
           "topic": {
-            "mid": "/g/11vj6xh7_6",
-            "title": "Katseye",
-            "type": "Nhóm nhạc"
+            "mid": "/m/06ys2",
+            "title": "Người nhện",
+            "type": "Nhân vật hư cấu"
           },
           "value": 60,
           "formattedValue": "+60%",
-          "link": "/trends/explore?q=/g/11vj6xh7_6&date=now+7-d&geo=HU"
+          "link": "/trends/explore?q=/m/06ys2&date=now+7-d&geo=HU"
         }
       },
       {
-        "query": "Câu lạc bộ Ferencváros",
-        "value": 60,
-        "formattedValue": "+60%",
+        "query": "Tập phim",
+        "value": 40,
+        "formattedValue": "+40%",
         "raw": {
           "topic": {
-            "mid": "/m/03j6zf",
-            "title": "Câu lạc bộ Ferencváros",
-            "type": "Câu lạc bộ bóng đá"
+            "mid": "/m/02cphr",
+            "title": "Tập phim",
+            "type": "Chủ đề"
           },
-          "value": 60,
-          "formattedValue": "+60%",
-          "link": "/trends/explore?q=/m/03j6zf&date=now+7-d&geo=HU"
-        }
-      },
-      {
-        "query": "ROLAND",
-        "value": 60,
-        "formattedValue": "+60%",
-        "raw": {
-          "topic": {
-            "mid": "/g/11s2x_tt17",
-            "title": "ROLAND",
-            "type": "Nghệ sĩ âm nhạc"
-          },
-          "value": 60,
-          "formattedValue": "+60%",
-          "link": "/trends/explore?q=/g/11s2x_tt17&date=now+7-d&geo=HU"
-        }
-      },
-      {
-        "query": "Công thức 1",
-        "value": 60,
-        "formattedValue": "+60%",
-        "raw": {
-          "topic": {
-            "mid": "/m/02xz2",
-            "title": "Công thức 1",
-            "type": "Liên đoàn thể thao"
-          },
-          "value": 60,
-          "formattedValue": "+60%",
-          "link": "/trends/explore?q=/m/02xz2&date=now+7-d&geo=HU"
-        }
-      },
-      {
-        "query": "Péter Majoros",
-        "value": 50,
-        "formattedValue": "+50%",
-        "raw": {
-          "topic": {
-            "mid": "/m/03f3v77",
-            "title": "Péter Majoros",
-            "type": "Người đọc rap"
-          },
-          "value": 50,
-          "formattedValue": "+50%",
-          "link": "/trends/explore?q=/m/03f3v77&date=now+7-d&geo=HU"
+          "value": 40,
+          "formattedValue": "+40%",
+          "link": "/trends/explore?q=/m/02cphr&date=now+7-d&geo=HU"
         }
       }
     ]
@@ -601,98 +541,122 @@
       },
       {
         "query": "filmek",
-        "value": 86,
-        "formattedValue": "86",
+        "value": 92,
+        "formattedValue": "92",
         "raw": {
           "query": "filmek",
-          "value": 86,
-          "formattedValue": "86",
+          "value": 92,
+          "formattedValue": "92",
           "hasData": true,
           "link": "/trends/explore?q=filmek&date=now+7-d&geo=HU"
         }
       },
       {
         "query": "music",
-        "value": 78,
-        "formattedValue": "78",
+        "value": 88,
+        "formattedValue": "88",
         "raw": {
           "query": "music",
-          "value": 78,
-          "formattedValue": "78",
+          "value": 88,
+          "formattedValue": "88",
           "hasData": true,
           "link": "/trends/explore?q=music&date=now+7-d&geo=HU"
         }
       },
       {
         "query": "zenék",
-        "value": 56,
-        "formattedValue": "56",
+        "value": 61,
+        "formattedValue": "61",
         "raw": {
           "query": "zenék",
-          "value": 56,
-          "formattedValue": "56",
+          "value": 61,
+          "formattedValue": "61",
           "hasData": true,
           "link": "/trends/explore?q=zen%C3%A9k&date=now+7-d&geo=HU"
         }
       },
       {
-        "query": "filmek magyarul teljes",
-        "value": 55,
-        "formattedValue": "55",
+        "query": "teljes filmek magyarul",
+        "value": 61,
+        "formattedValue": "61",
         "raw": {
-          "query": "filmek magyarul teljes",
-          "value": 55,
-          "formattedValue": "55",
+          "query": "teljes filmek magyarul",
+          "value": 61,
+          "formattedValue": "61",
           "hasData": true,
-          "link": "/trends/explore?q=filmek+magyarul+teljes&date=now+7-d&geo=HU"
-        }
-      },
-      {
-        "query": "minecraft",
-        "value": 47,
-        "formattedValue": "47",
-        "raw": {
-          "query": "minecraft",
-          "value": 47,
-          "formattedValue": "47",
-          "hasData": true,
-          "link": "/trends/explore?q=minecraft&date=now+7-d&geo=HU"
+          "link": "/trends/explore?q=teljes+filmek+magyarul&date=now+7-d&geo=HU"
         }
       },
       {
         "query": "mese",
-        "value": 47,
-        "formattedValue": "47",
+        "value": 51,
+        "formattedValue": "51",
         "raw": {
           "query": "mese",
-          "value": 47,
-          "formattedValue": "47",
+          "value": 51,
+          "formattedValue": "51",
           "hasData": true,
           "link": "/trends/explore?q=mese&date=now+7-d&geo=HU"
         }
       },
       {
         "query": "teljes film",
-        "value": 44,
-        "formattedValue": "44",
+        "value": 50,
+        "formattedValue": "50",
         "raw": {
           "query": "teljes film",
-          "value": 44,
-          "formattedValue": "44",
+          "value": 50,
+          "formattedValue": "50",
           "hasData": true,
           "link": "/trends/explore?q=teljes+film&date=now+7-d&geo=HU"
         }
       },
       {
+        "query": "minecraft",
+        "value": 48,
+        "formattedValue": "48",
+        "raw": {
+          "query": "minecraft",
+          "value": 48,
+          "formattedValue": "48",
+          "hasData": true,
+          "link": "/trends/explore?q=minecraft&date=now+7-d&geo=HU"
+        }
+      },
+      {
         "query": "alex",
+        "value": 33,
+        "formattedValue": "33",
+        "raw": {
+          "query": "alex",
+          "value": 33,
+          "formattedValue": "33",
+          "hasData": true,
+          "link": "/trends/explore?q=alex&date=now+7-d&geo=HU"
+        }
+      },
+      {
+        "query": "asmr",
+        "value": 31,
+        "formattedValue": "31",
+        "raw": {
+          "query": "asmr",
+          "value": 31,
+          "formattedValue": "31",
+          "hasData": true,
+          "link": "/trends/explore?q=asmr&date=now+7-d&geo=HU"
+        }
+      },
+      {
+        "query": "videók",
         "value": 30,
         "formattedValue": "30",
         "raw": {
-          "query": "alex",
+          "query": "videók",
           "value": 30,
           "formattedValue": "30",
           "hasData": true,
-          "link": "/trends/explore?q=alex&date=now+7-d&geo=HU"
+          "link": "/trends/explore?q=vide%C3%B3k&date=now+7-d&geo=HU"
         }
       },
       {
@@ -708,27 +672,15 @@
         }
       },
       {
-        "query": "asmr",
-        "value": 28,
-        "formattedValue": "28",
+        "query": "nessaj",
+        "value": 27,
+        "formattedValue": "27",
         "raw": {
-          "query": "asmr",
-          "value": 28,
-          "formattedValue": "28",
+          "query": "nessaj",
+          "value": 27,
+          "formattedValue": "27",
           "hasData": true,
-          "link": "/trends/explore?q=asmr&date=now+7-d&geo=HU"
-        }
-      },
-      {
-        "query": "videók",
-        "value": 28,
-        "formattedValue": "28",
-        "raw": {
-          "query": "videók",
-          "value": 28,
-          "formattedValue": "28",
-          "hasData": true,
-          "link": "/trends/explore?q=vide%C3%B3k&date=now+7-d&geo=HU"
+          "link": "/trends/explore?q=nessaj&date=now+7-d&geo=HU"
         }
       },
       {
@@ -744,87 +696,123 @@
         }
       },
       {
-        "query": "nessaj",
-        "value": 25,
-        "formattedValue": "25",
-        "raw": {
-          "query": "nessaj",
-          "value": 25,
-          "formattedValue": "25",
-          "hasData": true,
-          "link": "/trends/explore?q=nessaj&date=now+7-d&geo=HU"
-        }
-      },
-      {
-        "query": "bűnvadászok",
+        "query": "mario",
         "value": 24,
         "formattedValue": "24",
         "raw": {
-          "query": "bűnvadászok",
+          "query": "mario",
           "value": 24,
           "formattedValue": "24",
-          "hasData": true,
-          "link": "/trends/explore?q=b%C5%B1nvad%C3%A1szok&date=now+7-d&geo=HU"
-        }
-      },
-      {
-        "query": "thevr",
-        "value": 22,
-        "formattedValue": "22",
-        "raw": {
-          "query": "thevr",
-          "value": 22,
-          "formattedValue": "22",
-          "hasData": true,
-          "link": "/trends/explore?q=thevr&date=now+7-d&geo=HU"
-        }
-      },
-      {
-        "query": "mario",
-        "value": 20,
-        "formattedValue": "20",
-        "raw": {
-          "query": "mario",
-          "value": 20,
-          "formattedValue": "20",
           "hasData": true,
           "link": "/trends/explore?q=mario&date=now+7-d&geo=HU"
         }
       },
       {
+        "query": "thevr",
+        "value": 24,
+        "formattedValue": "24",
+        "raw": {
+          "query": "thevr",
+          "value": 24,
+          "formattedValue": "24",
+          "hasData": true,
+          "link": "/trends/explore?q=thevr&date=now+7-d&geo=HU"
+        }
+      },
+      {
+        "query": "karaoke",
+        "value": 22,
+        "formattedValue": "22",
+        "raw": {
+          "query": "karaoke",
+          "value": 22,
+          "formattedValue": "22",
+          "hasData": true,
+          "link": "/trends/explore?q=karaoke&date=now+7-d&geo=HU"
+        }
+      },
+      {
+        "query": "news",
+        "value": 22,
+        "formattedValue": "22",
+        "raw": {
+          "query": "news",
+          "value": 22,
+          "formattedValue": "22",
+          "hasData": true,
+          "link": "/trends/explore?q=news&date=now+7-d&geo=HU"
+        }
+      },
+      {
+        "query": "magyar péter",
+        "value": 22,
+        "formattedValue": "22",
+        "raw": {
+          "query": "magyar péter",
+          "value": 22,
+          "formattedValue": "22",
+          "hasData": true,
+          "link": "/trends/explore?q=magyar+p%C3%A9ter&date=now+7-d&geo=HU"
+        }
+      },
+      {
+        "query": "kkevin",
+        "value": 22,
+        "formattedValue": "22",
+        "raw": {
+          "query": "kkevin",
+          "value": 22,
+          "formattedValue": "22",
+          "hasData": true,
+          "link": "/trends/explore?q=kkevin&date=now+7-d&geo=HU"
+        }
+      },
+      {
+        "query": "bűnvadászok",
+        "value": 21,
+        "formattedValue": "21",
+        "raw": {
+          "query": "bűnvadászok",
+          "value": 21,
+          "formattedValue": "21",
+          "hasData": true,
+          "link": "/trends/explore?q=b%C5%B1nvad%C3%A1szok&date=now+7-d&geo=HU"
+        }
+      },
+      {
         "query": "mesék",
-        "value": 19,
-        "formattedValue": "19",
+        "value": 21,
+        "formattedValue": "21",
         "raw": {
           "query": "mesék",
-          "value": 19,
-          "formattedValue": "19",
+          "value": 21,
+          "formattedValue": "21",
           "hasData": true,
           "link": "/trends/explore?q=mes%C3%A9k&date=now+7-d&geo=HU"
         }
       },
       {
         "query": "michael jackson",
-        "value": 19,
-        "formattedValue": "19",
+        "value": 20,
+        "formattedValue": "20",
         "raw": {
           "query": "michael jackson",
-          "value": 19,
-          "formattedValue": "19",
+          "value": 20,
+          "formattedValue": "20",
           "hasData": true,
           "link": "/trends/explore?q=michael+jackson&date=now+7-d&geo=HU"
         }
       },
       {
-        "query": "shakira",
-        "value": 18,
-        "formattedValue": "18",
+        "query": "dani",
+        "value": 19,
+        "formattedValue": "19",
         "raw": {
-          "query": "shakira",
-          "value": 18,
-          "formattedValue": "18",
+          "query": "dani",
+          "value": 19,
+          "formattedValue": "19",
           "hasData": true,
-          "link": "/trends/explore?q=shakira&date=now+7-d&geo=HU"
+          "link": "/trends/explore?q=dani&date=now+7-d&geo=HU"
         }
       },
       {
@@ -838,231 +826,128 @@
           "hasData": true,
           "link": "/trends/explore?q=bing&date=now+7-d&geo=HU"
         }
-      },
-      {
-        "query": "news",
-        "value": 17,
-        "formattedValue": "17",
-        "raw": {
-          "query": "news",
-          "value": 17,
-          "formattedValue": "17",
-          "hasData": true,
-          "link": "/trends/explore?q=news&date=now+7-d&geo=HU"
-        }
-      },
-      {
-        "query": "podcast",
-        "value": 17,
-        "formattedValue": "17",
-        "raw": {
-          "query": "podcast",
-          "value": 17,
-          "formattedValue": "17",
-          "hasData": true,
-          "link": "/trends/explore?q=podcast&date=now+7-d&geo=HU"
-        }
-      },
-      {
-        "query": "peppa malac",
-        "value": 17,
-        "formattedValue": "17",
-        "raw": {
-          "query": "peppa malac",
-          "value": 17,
-          "formattedValue": "17",
-          "hasData": true,
-          "link": "/trends/explore?q=peppa+malac&date=now+7-d&geo=HU"
-        }
-      },
-      {
-        "query": "kkevin",
-        "value": 16,
-        "formattedValue": "16",
-        "raw": {
-          "query": "kkevin",
-          "value": 16,
-          "formattedValue": "16",
-          "hasData": true,
-          "link": "/trends/explore?q=kkevin&date=now+7-d&geo=HU"
-        }
       }
     ],
     "rising": [
       {
-        "query": "orbán viktor tusványos 2026",
-        "value": 1600,
-        "formattedValue": "+1.600%",
-        "raw": {
-          "query": "orbán viktor tusványos 2026",
-          "value": 1600,
-          "formattedValue": "+1.600%",
-          "link": "/trends/explore?q=orb%C3%A1n+viktor+tusv%C3%A1nyos+2026&date=now+7-d&geo=HU"
-        }
-      },
-      {
-        "query": "kekszalag",
-        "value": 900,
-        "formattedValue": "+900%",
-        "raw": {
-          "query": "kekszalag",
-          "value": 900,
-          "formattedValue": "+900%",
-          "link": "/trends/explore?q=kekszalag&date=now+7-d&geo=HU"
-        }
-      },
-      {
-        "query": "tusványos 2026",
+        "query": "hogyan tudnék élni nélküled 2",
         "value": 650,
         "formattedValue": "+650%",
         "raw": {
-          "query": "tusványos 2026",
+          "query": "hogyan tudnék élni nélküled 2",
           "value": 650,
           "formattedValue": "+650%",
-          "link": "/trends/explore?q=tusv%C3%A1nyos+2026&date=now+7-d&geo=HU"
+          "link": "/trends/explore?q=hogyan+tudn%C3%A9k+%C3%A9lni+n%C3%A9lk%C3%BCled+2&date=now+7-d&geo=HU"
         }
       },
       {
-        "query": "tusványos",
-        "value": 650,
-        "formattedValue": "+650%",
-        "raw": {
-          "query": "tusványos",
-          "value": 650,
-          "formattedValue": "+650%",
-          "link": "/trends/explore?q=tusv%C3%A1nyos&date=now+7-d&geo=HU"
-        }
-      },
-      {
-        "query": "animal katseye",
+        "query": "márkopédia",
         "value": 300,
         "formattedValue": "+300%",
         "raw": {
-          "query": "animal katseye",
+          "query": "márkopédia",
           "value": 300,
           "formattedValue": "+300%",
-          "link": "/trends/explore?q=animal+katseye&date=now+7-d&geo=HU"
+          "link": "/trends/explore?q=m%C3%A1rkop%C3%A9dia&date=now+7-d&geo=HU"
         }
       },
       {
-        "query": "kiss kevin",
-        "value": 130,
-        "formattedValue": "+130%",
+        "query": "ozora 2026",
+        "value": 200,
+        "formattedValue": "+200%",
         "raw": {
-          "query": "kiss kevin",
-          "value": 130,
-          "formattedValue": "+130%",
-          "link": "/trends/explore?q=kiss+kevin&date=now+7-d&geo=HU"
+          "query": "ozora 2026",
+          "value": 200,
+          "formattedValue": "+200%",
+          "link": "/trends/explore?q=ozora+2026&date=now+7-d&geo=HU"
         }
       },
       {
-        "query": "orbán viktor",
-        "value": 90,
-        "formattedValue": "+90%",
+        "query": "creator tv",
+        "value": 170,
+        "formattedValue": "+170%",
         "raw": {
-          "query": "orbán viktor",
-          "value": 90,
-          "formattedValue": "+90%",
-          "link": "/trends/explore?q=orb%C3%A1n+viktor&date=now+7-d&geo=HU"
+          "query": "creator tv",
+          "value": 170,
+          "formattedValue": "+170%",
+          "link": "/trends/explore?q=creator+tv&date=now+7-d&geo=HU"
+        }
+      },
+      {
+        "query": "ariana grande",
+        "value": 120,
+        "formattedValue": "+120%",
+        "raw": {
+          "query": "ariana grande",
+          "value": 120,
+          "formattedValue": "+120%",
+          "link": "/trends/explore?q=ariana+grande&date=now+7-d&geo=HU"
         }
       },
       {
         "query": "kkevin",
-        "value": 90,
-        "formattedValue": "+90%",
+        "value": 120,
+        "formattedValue": "+120%",
         "raw": {
           "query": "kkevin",
-          "value": 90,
-          "formattedValue": "+90%",
+          "value": 120,
+          "formattedValue": "+120%",
           "link": "/trends/explore?q=kkevin&date=now+7-d&geo=HU"
         }
       },
       {
-        "query": "animal",
-        "value": 80,
-        "formattedValue": "+80%",
-        "raw": {
-          "query": "animal",
-          "value": 80,
-          "formattedValue": "+80%",
-          "link": "/trends/explore?q=animal&date=now+7-d&geo=HU"
-        }
-      },
-      {
-        "query": "marics péter",
-        "value": 80,
-        "formattedValue": "+80%",
-        "raw": {
-          "query": "marics péter",
-          "value": 80,
-          "formattedValue": "+80%",
-          "link": "/trends/explore?q=marics+p%C3%A9ter&date=now+7-d&geo=HU"
-        }
-      },
-      {
         "query": "hogyan tudnék élni nélküled",
-        "value": 60,
-        "formattedValue": "+60%",
+        "value": 100,
+        "formattedValue": "+100%",
         "raw": {
           "query": "hogyan tudnék élni nélküled",
-          "value": 60,
-          "formattedValue": "+60%",
+          "value": 100,
+          "formattedValue": "+100%",
           "link": "/trends/explore?q=hogyan+tudn%C3%A9k+%C3%A9lni+n%C3%A9lk%C3%BCled&date=now+7-d&geo=HU"
         }
       },
       {
+        "query": "féktelen szív",
+        "value": 80,
+        "formattedValue": "+80%",
+        "raw": {
+          "query": "féktelen szív",
+          "value": 80,
+          "formattedValue": "+80%",
+          "link": "/trends/explore?q=f%C3%A9ktelen+sz%C3%ADv&date=now+7-d&geo=HU"
+        }
+      },
+      {
         "query": "pokember",
-        "value": 50,
-        "formattedValue": "+50%",
+        "value": 60,
+        "formattedValue": "+60%",
         "raw": {
           "query": "pokember",
-          "value": 50,
-          "formattedValue": "+50%",
+          "value": 60,
+          "formattedValue": "+60%",
           "link": "/trends/explore?q=pokember&date=now+7-d&geo=HU"
         }
       },
       {
-        "query": "katseye",
-        "value": 50,
-        "formattedValue": "+50%",
+        "query": "norbow",
+        "value": 60,
+        "formattedValue": "+60%",
         "raw": {
-          "query": "katseye",
-          "value": 50,
-          "formattedValue": "+50%",
-          "link": "/trends/explore?q=katseye&date=now+7-d&geo=HU"
+          "query": "norbow",
+          "value": 60,
+          "formattedValue": "+60%",
+          "link": "/trends/explore?q=norbow&date=now+7-d&geo=HU"
         }
       },
       {
-        "query": "f1",
-        "value": 50,
-        "formattedValue": "+50%",
-        "raw": {
-          "query": "f1",
-          "value": 50,
-          "formattedValue": "+50%",
-          "link": "/trends/explore?q=f1&date=now+7-d&geo=HU"
-        }
-      },
-      {
-        "query": "van valami",
-        "value": 50,
-        "formattedValue": "+50%",
-        "raw": {
-          "query": "van valami",
-          "value": 50,
-          "formattedValue": "+50%",
-          "link": "/trends/explore?q=van+valami&date=now+7-d&geo=HU"
-        }
-      },
-      {
-        "query": "radics zsombor",
+        "query": "pókember",
         "value": 40,
         "formattedValue": "+40%",
         "raw": {
-          "query": "radics zsombor",
+          "query": "pókember",
           "value": 40,
           "formattedValue": "+40%",
-          "link": "/trends/explore?q=radics+zsombor&date=now+7-d&geo=HU"
+          "link": "/trends/explore?q=p%C3%B3kember&date=now+7-d&geo=HU"
         }
       }
     ]
