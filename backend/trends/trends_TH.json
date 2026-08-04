@@ -20,128 +20,128 @@
       },
       {
         "query": "Ngày",
-        "value": 26,
-        "formattedValue": "26",
+        "value": 31,
+        "formattedValue": "31",
         "raw": {
           "topic": {
             "mid": "/m/02bbq",
             "title": "Ngày",
             "type": "Thời gian"
           },
-          "value": 26,
-          "formattedValue": "26",
+          "value": 31,
+          "formattedValue": "31",
           "hasData": true,
           "link": "/trends/explore?q=/m/02bbq&date=now+7-d&geo=TH"
         }
       },
       {
-        "query": "Điện ảnh",
-        "value": 25,
-        "formattedValue": "25",
-        "raw": {
-          "topic": {
-            "mid": "/m/02vxn",
-            "title": "Điện ảnh",
-            "type": "Loại truyền hình"
-          },
-          "value": 25,
-          "formattedValue": "25",
-          "hasData": true,
-          "link": "/trends/explore?q=/m/02vxn&date=now+7-d&geo=TH"
-        }
-      },
-      {
         "query": "Tiếng Thái",
-        "value": 25,
-        "formattedValue": "25",
+        "value": 28,
+        "formattedValue": "28",
         "raw": {
           "topic": {
             "mid": "/m/0c_v2",
             "title": "Tiếng Thái",
             "type": "Ngôn ngữ con người"
           },
-          "value": 25,
-          "formattedValue": "25",
+          "value": 28,
+          "formattedValue": "28",
           "hasData": true,
           "link": "/trends/explore?q=/m/0c_v2&date=now+7-d&geo=TH"
         }
       },
       {
+        "query": "Điện ảnh",
+        "value": 28,
+        "formattedValue": "28",
+        "raw": {
+          "topic": {
+            "mid": "/m/02vxn",
+            "title": "Điện ảnh",
+            "type": "Loại truyền hình"
+          },
+          "value": 28,
+          "formattedValue": "28",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/02vxn&date=now+7-d&geo=TH"
+        }
+      },
+      {
         "query": "Thái Lan",
-        "value": 22,
-        "formattedValue": "22",
+        "value": 24,
+        "formattedValue": "24",
         "raw": {
           "topic": {
             "mid": "/m/07f1x",
             "title": "Thái Lan",
             "type": "Quốc gia ở Châu Á"
           },
-          "value": 22,
-          "formattedValue": "22",
+          "value": 24,
+          "formattedValue": "24",
           "hasData": true,
           "link": "/trends/explore?q=/m/07f1x&date=now+7-d&geo=TH"
         }
       },
       {
-        "query": "Karaoke",
-        "value": 17,
-        "formattedValue": "17",
-        "raw": {
-          "topic": {
-            "mid": "/m/04c5p",
-            "title": "Karaoke",
-            "type": "Chủ đề"
-          },
-          "value": 17,
-          "formattedValue": "17",
-          "hasData": true,
-          "link": "/trends/explore?q=/m/04c5p&date=now+7-d&geo=TH"
-        }
-      },
-      {
-        "query": "Tranh biếm họa",
-        "value": 15,
-        "formattedValue": "15",
-        "raw": {
-          "topic": {
-            "mid": "/m/0215n",
-            "title": "Tranh biếm họa",
-            "type": "Thể loại truyền hình"
-          },
-          "value": 15,
-          "formattedValue": "15",
-          "hasData": true,
-          "link": "/trends/explore?q=/m/0215n&date=now+7-d&geo=TH"
-        }
-      },
-      {
         "query": "Ma",
-        "value": 15,
-        "formattedValue": "15",
+        "value": 18,
+        "formattedValue": "18",
         "raw": {
           "topic": {
             "mid": "/m/038_l",
             "title": "Ma",
             "type": "Chủ đề"
           },
-          "value": 15,
-          "formattedValue": "15",
+          "value": 18,
+          "formattedValue": "18",
           "hasData": true,
           "link": "/trends/explore?q=/m/038_l&date=now+7-d&geo=TH"
         }
       },
       {
+        "query": "Tranh biếm họa",
+        "value": 16,
+        "formattedValue": "16",
+        "raw": {
+          "topic": {
+            "mid": "/m/0215n",
+            "title": "Tranh biếm họa",
+            "type": "Thể loại truyền hình"
+          },
+          "value": 16,
+          "formattedValue": "16",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/0215n&date=now+7-d&geo=TH"
+        }
+      },
+      {
+        "query": "Karaoke",
+        "value": 16,
+        "formattedValue": "16",
+        "raw": {
+          "topic": {
+            "mid": "/m/04c5p",
+            "title": "Karaoke",
+            "type": "Chủ đề"
+          },
+          "value": 16,
+          "formattedValue": "16",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/04c5p&date=now+7-d&geo=TH"
+        }
+      },
+      {
         "query": "Ô tô",
-        "value": 14,
-        "formattedValue": "14",
+        "value": 15,
+        "formattedValue": "15",
         "raw": {
           "topic": {
             "mid": "/m/0k4j",
             "title": "Ô tô",
             "type": "Chế độ phương tiện"
           },
-          "value": 14,
-          "formattedValue": "14",
+          "value": 15,
+          "formattedValue": "15",
           "hasData": true,
           "link": "/trends/explore?q=/m/0k4j&date=now+7-d&geo=TH"
         }
@@ -163,6 +163,54 @@
         }
       },
       {
+        "query": "Người",
+        "value": 13,
+        "formattedValue": "13",
+        "raw": {
+          "topic": {
+            "mid": "/m/0dgw9r",
+            "title": "Người",
+            "type": "Bộ Linh trưởng"
+          },
+          "value": 13,
+          "formattedValue": "13",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/0dgw9r&date=now+7-d&geo=TH"
+        }
+      },
+      {
+        "query": "Xổ số chính phủ Thái Lan",
+        "value": 13,
+        "formattedValue": "13",
+        "raw": {
+          "topic": {
+            "mid": "/g/1q6h_y5q9",
+            "title": "Xổ số chính phủ Thái Lan",
+            "type": "Chủ đề"
+          },
+          "value": 13,
+          "formattedValue": "13",
+          "hasData": true,
+          "link": "/trends/explore?q=/g/1q6h_y5q9&date=now+7-d&geo=TH"
+        }
+      },
+      {
+        "query": "Trò chơi",
+        "value": 13,
+        "formattedValue": "13",
+        "raw": {
+          "topic": {
+            "mid": "/m/03bt1gh",
+            "title": "Trò chơi",
+            "type": "Chủ đề"
+          },
+          "value": 13,
+          "formattedValue": "13",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/03bt1gh&date=now+7-d&geo=TH"
+        }
+      },
+      {
         "query": "Trẻ em",
         "value": 12,
         "formattedValue": "12",
@@ -180,98 +228,66 @@
       },
       {
         "query": "Ngựa",
-        "value": 11,
-        "formattedValue": "11",
+        "value": 12,
+        "formattedValue": "12",
         "raw": {
           "topic": {
             "mid": "/m/03k3r",
             "title": "Ngựa",
             "type": "Động vật"
           },
-          "value": 11,
-          "formattedValue": "11",
+          "value": 12,
+          "formattedValue": "12",
           "hasData": true,
           "link": "/trends/explore?q=/m/03k3r&date=now+7-d&geo=TH"
         }
       },
       {
-        "query": "Người",
-        "value": 11,
-        "formattedValue": "11",
-        "raw": {
-          "topic": {
-            "mid": "/m/0dgw9r",
-            "title": "Người",
-            "type": "Bộ Linh trưởng"
-          },
-          "value": 11,
-          "formattedValue": "11",
-          "hasData": true,
-          "link": "/trends/explore?q=/m/0dgw9r&date=now+7-d&geo=TH"
-        }
-      },
-      {
-        "query": "Trò chơi",
-        "value": 11,
-        "formattedValue": "11",
-        "raw": {
-          "topic": {
-            "mid": "/m/03bt1gh",
-            "title": "Trò chơi",
-            "type": "Chủ đề"
-          },
-          "value": 11,
-          "formattedValue": "11",
-          "hasData": true,
-          "link": "/trends/explore?q=/m/03bt1gh&date=now+7-d&geo=TH"
-        }
-      },
-      {
         "query": "Âm thanh",
-        "value": 10,
-        "formattedValue": "10",
+        "value": 11,
+        "formattedValue": "11",
         "raw": {
           "topic": {
             "mid": "/m/06qc5",
             "title": "Âm thanh",
             "type": "Chủ đề"
           },
-          "value": 10,
-          "formattedValue": "10",
+          "value": 11,
+          "formattedValue": "11",
           "hasData": true,
           "link": "/trends/explore?q=/m/06qc5&date=now+7-d&geo=TH"
         }
       },
       {
-        "query": "Chơi",
-        "value": 9,
-        "formattedValue": "9",
-        "raw": {
-          "topic": {
-            "mid": "/m/013dbvty",
-            "title": "Chơi",
-            "type": "Hoạt động"
-          },
-          "value": 9,
-          "formattedValue": "9",
-          "hasData": true,
-          "link": "/trends/explore?q=/m/013dbvty&date=now+7-d&geo=TH"
-        }
-      },
-      {
         "query": "Tiếng Trung",
-        "value": 9,
-        "formattedValue": "9",
+        "value": 10,
+        "formattedValue": "10",
         "raw": {
           "topic": {
             "mid": "/m/01r2l",
             "title": "Tiếng Trung",
             "type": "Tiếng"
           },
-          "value": 9,
-          "formattedValue": "9",
+          "value": 10,
+          "formattedValue": "10",
           "hasData": true,
           "link": "/trends/explore?q=/m/01r2l&date=now+7-d&geo=TH"
+        }
+      },
+      {
+        "query": "Chơi",
+        "value": 10,
+        "formattedValue": "10",
+        "raw": {
+          "topic": {
+            "mid": "/m/013dbvty",
+            "title": "Chơi",
+            "type": "Hoạt động"
+          },
+          "value": 10,
+          "formattedValue": "10",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/013dbvty&date=now+7-d&geo=TH"
         }
       },
       {
@@ -292,32 +308,32 @@
       },
       {
         "query": "2026",
-        "value": 8,
-        "formattedValue": "8",
+        "value": 9,
+        "formattedValue": "9",
         "raw": {
           "topic": {
             "mid": "/g/11b77d6b6g",
             "title": "2026",
             "type": "Chủ đề"
           },
-          "value": 8,
-          "formattedValue": "8",
+          "value": 9,
+          "formattedValue": "9",
           "hasData": true,
           "link": "/trends/explore?q=/g/11b77d6b6g&date=now+7-d&geo=TH"
         }
       },
       {
         "query": "Ăn",
-        "value": 8,
-        "formattedValue": "8",
+        "value": 9,
+        "formattedValue": "9",
         "raw": {
           "topic": {
             "mid": "/m/01f5gx",
             "title": "Ăn",
             "type": "Chủ đề"
           },
-          "value": 8,
-          "formattedValue": "8",
+          "value": 9,
+          "formattedValue": "9",
           "hasData": true,
           "link": "/trends/explore?q=/m/01f5gx&date=now+7-d&geo=TH"
         }
@@ -340,202 +356,231 @@
       },
       {
         "query": "Nhảy múa",
-        "value": 7,
-        "formattedValue": "7",
+        "value": 8,
+        "formattedValue": "8",
         "raw": {
           "topic": {
             "mid": "/m/026bk",
             "title": "Nhảy múa",
             "type": "Lĩnh vực nghề nghiệp"
           },
-          "value": 7,
-          "formattedValue": "7",
+          "value": 8,
+          "formattedValue": "8",
           "hasData": true,
           "link": "/trends/explore?q=/m/026bk&date=now+7-d&geo=TH"
         }
       },
       {
         "query": "Cá",
-        "value": 6,
-        "formattedValue": "6",
+        "value": 7,
+        "formattedValue": "7",
         "raw": {
           "topic": {
             "mid": "/m/0ch_cf",
             "title": "Cá",
             "type": "Giới Động vật"
           },
-          "value": 6,
-          "formattedValue": "6",
+          "value": 7,
+          "formattedValue": "7",
           "hasData": true,
           "link": "/trends/explore?q=/m/0ch_cf&date=now+7-d&geo=TH"
-        }
-      },
-      {
-        "query": "Korn Khunatipapisiri",
-        "value": 6,
-        "formattedValue": "6",
-        "raw": {
-          "topic": {
-            "mid": "/g/11bwqrf749",
-            "title": "Korn Khunatipapisiri",
-            "type": "Diễn viên"
-          },
-          "value": 6,
-          "formattedValue": "6",
-          "hasData": true,
-          "link": "/trends/explore?q=/g/11bwqrf749&date=now+7-d&geo=TH"
         }
       }
     ],
     "rising": [
       {
         "query": "Georgia",
-        "value": 3950,
-        "formattedValue": "+3.950%",
+        "value": 4600,
+        "formattedValue": "+4.600%",
         "raw": {
           "topic": {
             "mid": "/m/0d0kn",
             "title": "Georgia",
             "type": "Quốc gia"
           },
-          "value": 3950,
-          "formattedValue": "+3.950%",
+          "value": 4600,
+          "formattedValue": "+4.600%",
           "link": "/trends/explore?q=/m/0d0kn&date=now+7-d&geo=TH"
         }
       },
       {
-        "query": "Giải đố",
-        "value": 250,
-        "formattedValue": "+250%",
+        "query": "Chính phủ",
+        "value": 800,
+        "formattedValue": "+800%",
         "raw": {
           "topic": {
-            "mid": "/m/0lvmz",
-            "title": "Giải đố",
-            "type": "Loại trò chơi"
+            "mid": "/m/036nz",
+            "title": "Chính phủ",
+            "type": "Loại hình tổ chức"
           },
-          "value": 250,
-          "formattedValue": "+250%",
-          "link": "/trends/explore?q=/m/0lvmz&date=now+7-d&geo=TH"
+          "value": 800,
+          "formattedValue": "+800%",
+          "link": "/trends/explore?q=/m/036nz&date=now+7-d&geo=TH"
+        }
+      },
+      {
+        "query": "Tháng 8",
+        "value": 350,
+        "formattedValue": "+350%",
+        "raw": {
+          "topic": {
+            "mid": "/m/0ll3",
+            "title": "Tháng 8",
+            "type": "Tháng"
+          },
+          "value": 350,
+          "formattedValue": "+350%",
+          "link": "/trends/explore?q=/m/0ll3&date=now+7-d&geo=TH"
+        }
+      },
+      {
+        "query": "Xổ số",
+        "value": 350,
+        "formattedValue": "+350%",
+        "raw": {
+          "topic": {
+            "mid": "/m/01h8pw",
+            "title": "Xổ số",
+            "type": "Chủ đề"
+          },
+          "value": 350,
+          "formattedValue": "+350%",
+          "link": "/trends/explore?q=/m/01h8pw&date=now+7-d&geo=TH"
+        }
+      },
+      {
+        "query": "Người Nhện: Khởi đầu mới",
+        "value": 300,
+        "formattedValue": "+300%",
+        "raw": {
+          "topic": {
+            "mid": "/g/11s8hg4517",
+            "title": "Người Nhện: Khởi đầu mới",
+            "type": "Phim 2026"
+          },
+          "value": 300,
+          "formattedValue": "+300%",
+          "link": "/trends/explore?q=/g/11s8hg4517&date=now+7-d&geo=TH"
         }
       },
       {
         "query": "ho nok-huk",
-        "value": 200,
-        "formattedValue": "+200%",
+        "value": 250,
+        "formattedValue": "+250%",
         "raw": {
           "topic": {
             "mid": "/g/121fx5h_",
             "title": "ho nok-huk",
             "type": "Chủ đề"
           },
-          "value": 200,
-          "formattedValue": "+200%",
+          "value": 250,
+          "formattedValue": "+250%",
           "link": "/trends/explore?q=/g/121fx5h_&date=now+7-d&geo=TH"
         }
       },
       {
-        "query": "Câu lạc bộ Bóng đá Liverpool",
-        "value": 170,
-        "formattedValue": "+170%",
+        "query": "Tiếng Nga",
+        "value": 190,
+        "formattedValue": "+190%",
         "raw": {
           "topic": {
-            "mid": "/m/04ltf",
-            "title": "Câu lạc bộ Bóng đá Liverpool",
-            "type": "Câu lạc bộ bóng đá"
+            "mid": "/m/06b_j",
+            "title": "Tiếng Nga",
+            "type": "Ngôn ngữ"
           },
-          "value": 170,
-          "formattedValue": "+170%",
-          "link": "/trends/explore?q=/m/04ltf&date=now+7-d&geo=TH"
+          "value": 190,
+          "formattedValue": "+190%",
+          "link": "/trends/explore?q=/m/06b_j&date=now+7-d&geo=TH"
         }
       },
       {
-        "query": "Naiyarat Thanawaigoses",
+        "query": "Nga",
+        "value": 190,
+        "formattedValue": "+190%",
+        "raw": {
+          "topic": {
+            "mid": "/m/06bnz",
+            "title": "Nga",
+            "type": "Quốc gia"
+          },
+          "value": 190,
+          "formattedValue": "+190%",
+          "link": "/trends/explore?q=/m/06bnz&date=now+7-d&geo=TH"
+        }
+      },
+      {
+        "query": "Xổ số chính phủ Thái Lan",
         "value": 140,
         "formattedValue": "+140%",
         "raw": {
           "topic": {
-            "mid": "/g/11c6vr2xgf",
-            "title": "Naiyarat Thanawaigoses",
-            "type": "Người làm YouTube"
+            "mid": "/g/1q6h_y5q9",
+            "title": "Xổ số chính phủ Thái Lan",
+            "type": "Chủ đề"
           },
           "value": 140,
           "formattedValue": "+140%",
-          "link": "/trends/explore?q=/g/11c6vr2xgf&date=now+7-d&geo=TH"
-        }
-      },
-      {
-        "query": "Shingeki no Kyojin",
-        "value": 70,
-        "formattedValue": "+70%",
-        "raw": {
-          "topic": {
-            "mid": "/m/0gtxdb2",
-            "title": "Shingeki no Kyojin",
-            "type": "Loạt truyện tranh"
-          },
-          "value": 70,
-          "formattedValue": "+70%",
-          "link": "/trends/explore?q=/m/0gtxdb2&date=now+7-d&geo=TH"
-        }
-      },
-      {
-        "query": "Hài truyền hình",
-        "value": 60,
-        "formattedValue": "+60%",
-        "raw": {
-          "topic": {
-            "mid": "/m/02lvfq",
-            "title": "Hài truyền hình",
-            "type": "Thể loại của chương trình truyền hình"
-          },
-          "value": 60,
-          "formattedValue": "+60%",
-          "link": "/trends/explore?q=/m/02lvfq&date=now+7-d&geo=TH"
-        }
-      },
-      {
-        "query": "Người nổi tiếng",
-        "value": 50,
-        "formattedValue": "+50%",
-        "raw": {
-          "topic": {
-            "mid": "/m/01rfz",
-            "title": "Người nổi tiếng",
-            "type": "Chủ đề"
-          },
-          "value": 50,
-          "formattedValue": "+50%",
-          "link": "/trends/explore?q=/m/01rfz&date=now+7-d&geo=TH"
-        }
-      },
-      {
-        "query": "Tía",
-        "value": 50,
-        "formattedValue": "+50%",
-        "raw": {
-          "topic": {
-            "mid": "/m/09ggk",
-            "title": "Tía",
-            "type": "Màu"
-          },
-          "value": 50,
-          "formattedValue": "+50%",
-          "link": "/trends/explore?q=/m/09ggk&date=now+7-d&geo=TH"
+          "link": "/trends/explore?q=/g/1q6h_y5q9&date=now+7-d&geo=TH"
         }
       },
       {
         "query": "Người nhện",
-        "value": 50,
-        "formattedValue": "+50%",
+        "value": 100,
+        "formattedValue": "+100%",
         "raw": {
           "topic": {
             "mid": "/m/06ys2",
             "title": "Người nhện",
             "type": "Nhân vật hư cấu"
           },
-          "value": 50,
-          "formattedValue": "+50%",
+          "value": 100,
+          "formattedValue": "+100%",
           "link": "/trends/explore?q=/m/06ys2&date=now+7-d&geo=TH"
+        }
+      },
+      {
+        "query": "Thairath",
+        "value": 90,
+        "formattedValue": "+90%",
+        "raw": {
+          "topic": {
+            "mid": "/m/0cnsn1",
+            "title": "Thairath",
+            "type": "Báo"
+          },
+          "value": 90,
+          "formattedValue": "+90%",
+          "link": "/trends/explore?q=/m/0cnsn1&date=now+7-d&geo=TH"
+        }
+      },
+      {
+        "query": "Tía",
+        "value": 70,
+        "formattedValue": "+70%",
+        "raw": {
+          "topic": {
+            "mid": "/m/09ggk",
+            "title": "Tía",
+            "type": "Màu"
+          },
+          "value": 70,
+          "formattedValue": "+70%",
+          "link": "/trends/explore?q=/m/09ggk&date=now+7-d&geo=TH"
+        }
+      },
+      {
+        "query": "Grand Theft Auto",
+        "value": 60,
+        "formattedValue": "+60%",
+        "raw": {
+          "topic": {
+            "mid": "/m/04w8jw",
+            "title": "Grand Theft Auto",
+            "type": "Loạt trò chơi điện tử"
+          },
+          "value": 60,
+          "formattedValue": "+60%",
+          "link": "/trends/explore?q=/m/04w8jw&date=now+7-d&geo=TH"
         }
       },
       {
@@ -554,33 +599,33 @@
         }
       },
       {
-        "query": "EFootball",
+        "query": "Babymonster",
         "value": 50,
         "formattedValue": "+50%",
         "raw": {
           "topic": {
-            "mid": "/g/1231rqhf",
-            "title": "EFootball",
-            "type": "Loạt trò chơi điện tử"
+            "mid": "/g/11sdr2mt4h",
+            "title": "Babymonster",
+            "type": "Nhóm nhạc"
           },
           "value": 50,
           "formattedValue": "+50%",
-          "link": "/trends/explore?q=/g/1231rqhf&date=now+7-d&geo=TH"
+          "link": "/trends/explore?q=/g/11sdr2mt4h&date=now+7-d&geo=TH"
         }
       },
       {
-        "query": "Thairath",
+        "query": "Mobile Legends: Bang Bang",
         "value": 40,
         "formattedValue": "+40%",
         "raw": {
           "topic": {
-            "mid": "/m/0cnsn1",
-            "title": "Thairath",
-            "type": "Báo"
+            "mid": "/g/11g6wvnkkx",
+            "title": "Mobile Legends: Bang Bang",
+            "type": "Trò chơi điện tử"
           },
           "value": 40,
           "formattedValue": "+40%",
-          "link": "/trends/explore?q=/m/0cnsn1&date=now+7-d&geo=TH"
+          "link": "/trends/explore?q=/g/11g6wvnkkx&date=now+7-d&geo=TH"
         }
       }
     ]
@@ -601,26 +646,50 @@
       },
       {
         "query": "หนัง",
-        "value": 26,
-        "formattedValue": "26",
+        "value": 27,
+        "formattedValue": "27",
         "raw": {
           "query": "หนัง",
-          "value": 26,
-          "formattedValue": "26",
+          "value": 27,
+          "formattedValue": "27",
           "hasData": true,
           "link": "/trends/explore?q=%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87&date=now+7-d&geo=TH"
         }
       },
       {
+        "query": "หวย",
+        "value": 19,
+        "formattedValue": "19",
+        "raw": {
+          "query": "หวย",
+          "value": 19,
+          "formattedValue": "19",
+          "hasData": true,
+          "link": "/trends/explore?q=%E0%B8%AB%E0%B8%A7%E0%B8%A2&date=now+7-d&geo=TH"
+        }
+      },
+      {
         "query": "ผี",
-        "value": 16,
-        "formattedValue": "16",
+        "value": 17,
+        "formattedValue": "17",
         "raw": {
           "query": "ผี",
-          "value": 16,
-          "formattedValue": "16",
+          "value": 17,
+          "formattedValue": "17",
           "hasData": true,
           "link": "/trends/explore?q=%E0%B8%9C%E0%B8%B5&date=now+7-d&geo=TH"
+        }
+      },
+      {
+        "query": "เกม",
+        "value": 15,
+        "formattedValue": "15",
+        "raw": {
+          "query": "เกม",
+          "value": 15,
+          "formattedValue": "15",
+          "hasData": true,
+          "link": "/trends/explore?q=%E0%B9%80%E0%B8%81%E0%B8%A1&date=now+7-d&geo=TH"
         }
       },
       {
@@ -636,30 +705,6 @@
         }
       },
       {
-        "query": "เกม",
-        "value": 14,
-        "formattedValue": "14",
-        "raw": {
-          "query": "เกม",
-          "value": 14,
-          "formattedValue": "14",
-          "hasData": true,
-          "link": "/trends/explore?q=%E0%B9%80%E0%B8%81%E0%B8%A1&date=now+7-d&geo=TH"
-        }
-      },
-      {
-        "query": "คาราโอเกะ",
-        "value": 13,
-        "formattedValue": "13",
-        "raw": {
-          "query": "คาราโอเกะ",
-          "value": 13,
-          "formattedValue": "13",
-          "hasData": true,
-          "link": "/trends/explore?q=%E0%B8%84%E0%B8%B2%E0%B8%A3%E0%B8%B2%E0%B9%82%E0%B8%AD%E0%B9%80%E0%B8%81%E0%B8%B0&date=now+7-d&geo=TH"
-        }
-      },
-      {
         "query": "เดอะ โก ส",
         "value": 13,
         "formattedValue": "13",
@@ -669,6 +714,30 @@
           "formattedValue": "13",
           "hasData": true,
           "link": "/trends/explore?q=%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%B0+%E0%B9%82%E0%B8%81+%E0%B8%AA&date=now+7-d&geo=TH"
+        }
+      },
+      {
+        "query": "โล โซ",
+        "value": 12,
+        "formattedValue": "12",
+        "raw": {
+          "query": "โล โซ",
+          "value": 12,
+          "formattedValue": "12",
+          "hasData": true,
+          "link": "/trends/explore?q=%E0%B9%82%E0%B8%A5+%E0%B9%82%E0%B8%8B&date=now+7-d&geo=TH"
+        }
+      },
+      {
+        "query": "คาราโอเกะ",
+        "value": 12,
+        "formattedValue": "12",
+        "raw": {
+          "query": "คาราโอเกะ",
+          "value": 12,
+          "formattedValue": "12",
+          "hasData": true,
+          "link": "/trends/explore?q=%E0%B8%84%E0%B8%B2%E0%B8%A3%E0%B8%B2%E0%B9%82%E0%B8%AD%E0%B9%80%E0%B8%81%E0%B8%B0&date=now+7-d&geo=TH"
         }
       },
       {
@@ -684,27 +753,51 @@
         }
       },
       {
-        "query": "โล โซ",
+        "query": "หวย ลาว",
         "value": 9,
         "formattedValue": "9",
         "raw": {
-          "query": "โล โซ",
+          "query": "หวย ลาว",
           "value": 9,
           "formattedValue": "9",
           "hasData": true,
-          "link": "/trends/explore?q=%E0%B9%82%E0%B8%A5+%E0%B9%82%E0%B8%8B&date=now+7-d&geo=TH"
+          "link": "/trends/explore?q=%E0%B8%AB%E0%B8%A7%E0%B8%A2+%E0%B8%A5%E0%B8%B2%E0%B8%A7&date=now+7-d&geo=TH"
         }
       },
       {
-        "query": "หวย ลาว",
+        "query": "ฮ ลุ น",
+        "value": 9,
+        "formattedValue": "9",
+        "raw": {
+          "query": "ฮ ลุ น",
+          "value": 9,
+          "formattedValue": "9",
+          "hasData": true,
+          "link": "/trends/explore?q=%E0%B8%AE+%E0%B8%A5%E0%B8%B8+%E0%B8%99&date=now+7-d&geo=TH"
+        }
+      },
+      {
+        "query": "ปลา",
+        "value": 9,
+        "formattedValue": "9",
+        "raw": {
+          "query": "ปลา",
+          "value": 9,
+          "formattedValue": "9",
+          "hasData": true,
+          "link": "/trends/explore?q=%E0%B8%9B%E0%B8%A5%E0%B8%B2&date=now+7-d&geo=TH"
+        }
+      },
+      {
+        "query": "รวม เพลง",
         "value": 8,
         "formattedValue": "8",
         "raw": {
-          "query": "หวย ลาว",
+          "query": "รวม เพลง",
           "value": 8,
           "formattedValue": "8",
           "hasData": true,
-          "link": "/trends/explore?q=%E0%B8%AB%E0%B8%A7%E0%B8%A2+%E0%B8%A5%E0%B8%B2%E0%B8%A7&date=now+7-d&geo=TH"
+          "link": "/trends/explore?q=%E0%B8%A3%E0%B8%A7%E0%B8%A1+%E0%B9%80%E0%B8%9E%E0%B8%A5%E0%B8%87&date=now+7-d&geo=TH"
         }
       },
       {
@@ -744,15 +837,15 @@
         }
       },
       {
-        "query": "ฮ ลุ น",
+        "query": "ฮ ลุ น โซ โล",
         "value": 6,
         "formattedValue": "6",
         "raw": {
-          "query": "ฮ ลุ น",
+          "query": "ฮ ลุ น โซ โล",
           "value": 6,
           "formattedValue": "6",
           "hasData": true,
-          "link": "/trends/explore?q=%E0%B8%AE+%E0%B8%A5%E0%B8%B8+%E0%B8%99&date=now+7-d&geo=TH"
+          "link": "/trends/explore?q=%E0%B8%AE+%E0%B8%A5%E0%B8%B8+%E0%B8%99+%E0%B9%82%E0%B8%8B+%E0%B9%82%E0%B8%A5&date=now+7-d&geo=TH"
         }
       },
       {
@@ -768,39 +861,63 @@
         }
       },
       {
-        "query": "เพลง รัก",
+        "query": "roblox",
         "value": 6,
         "formattedValue": "6",
         "raw": {
-          "query": "เพลง รัก",
+          "query": "roblox",
           "value": 6,
           "formattedValue": "6",
+          "hasData": true,
+          "link": "/trends/explore?q=roblox&date=now+7-d&geo=TH"
+        }
+      },
+      {
+        "query": "ฮานอย วัน นี้",
+        "value": 6,
+        "formattedValue": "6",
+        "raw": {
+          "query": "ฮานอย วัน นี้",
+          "value": 6,
+          "formattedValue": "6",
+          "hasData": true,
+          "link": "/trends/explore?q=%E0%B8%AE%E0%B8%B2%E0%B8%99%E0%B8%AD%E0%B8%A2+%E0%B8%A7%E0%B8%B1%E0%B8%99+%E0%B8%99%E0%B8%B5%E0%B9%89&date=now+7-d&geo=TH"
+        }
+      },
+      {
+        "query": "เพลง รัก",
+        "value": 5,
+        "formattedValue": "5",
+        "raw": {
+          "query": "เพลง รัก",
+          "value": 5,
+          "formattedValue": "5",
           "hasData": true,
           "link": "/trends/explore?q=%E0%B9%80%E0%B8%9E%E0%B8%A5%E0%B8%87+%E0%B8%A3%E0%B8%B1%E0%B8%81&date=now+7-d&geo=TH"
         }
       },
       {
-        "query": "แผล ใหม่",
-        "value": 6,
-        "formattedValue": "6",
+        "query": "เพลง ใหม่",
+        "value": 5,
+        "formattedValue": "5",
         "raw": {
-          "query": "แผล ใหม่",
-          "value": 6,
-          "formattedValue": "6",
+          "query": "เพลง ใหม่",
+          "value": 5,
+          "formattedValue": "5",
           "hasData": true,
-          "link": "/trends/explore?q=%E0%B9%81%E0%B8%9C%E0%B8%A5+%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88&date=now+7-d&geo=TH"
+          "link": "/trends/explore?q=%E0%B9%80%E0%B8%9E%E0%B8%A5%E0%B8%87+%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88&date=now+7-d&geo=TH"
         }
       },
       {
-        "query": "เพลง ใหม่",
-        "value": 6,
-        "formattedValue": "6",
+        "query": "เดอะ โก ส เร ดิ โอ ล่าสุด",
+        "value": 5,
+        "formattedValue": "5",
         "raw": {
-          "query": "เพลง ใหม่",
-          "value": 6,
-          "formattedValue": "6",
+          "query": "เดอะ โก ส เร ดิ โอ ล่าสุด",
+          "value": 5,
+          "formattedValue": "5",
           "hasData": true,
-          "link": "/trends/explore?q=%E0%B9%80%E0%B8%9E%E0%B8%A5%E0%B8%87+%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88&date=now+7-d&geo=TH"
+          "link": "/trends/explore?q=%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%B0+%E0%B9%82%E0%B8%81+%E0%B8%AA+%E0%B9%80%E0%B8%A3+%E0%B8%94%E0%B8%B4+%E0%B9%82%E0%B8%AD+%E0%B8%A5%E0%B9%88%E0%B8%B2%E0%B8%AA%E0%B8%B8%E0%B8%94&date=now+7-d&geo=TH"
         }
       },
       {
@@ -814,266 +931,282 @@
           "hasData": true,
           "link": "/trends/explore?q=%E0%B8%84%E0%B8%B4%E0%B8%94%E0%B8%96%E0%B8%B6%E0%B8%87&date=now+7-d&geo=TH"
         }
-      },
-      {
-        "query": "หนัง ไทย",
-        "value": 5,
-        "formattedValue": "5",
-        "raw": {
-          "query": "หนัง ไทย",
-          "value": 5,
-          "formattedValue": "5",
-          "hasData": true,
-          "link": "/trends/explore?q=%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87+%E0%B9%84%E0%B8%97%E0%B8%A2&date=now+7-d&geo=TH"
-        }
-      },
-      {
-        "query": "ฮานอย วัน นี้",
-        "value": 5,
-        "formattedValue": "5",
-        "raw": {
-          "query": "ฮานอย วัน นี้",
-          "value": 5,
-          "formattedValue": "5",
-          "hasData": true,
-          "link": "/trends/explore?q=%E0%B8%AE%E0%B8%B2%E0%B8%99%E0%B8%AD%E0%B8%A2+%E0%B8%A7%E0%B8%B1%E0%B8%99+%E0%B8%99%E0%B8%B5%E0%B9%89&date=now+7-d&geo=TH"
-        }
-      },
-      {
-        "query": "roblox",
-        "value": 5,
-        "formattedValue": "5",
-        "raw": {
-          "query": "roblox",
-          "value": 5,
-          "formattedValue": "5",
-          "hasData": true,
-          "link": "/trends/explore?q=roblox&date=now+7-d&geo=TH"
-        }
-      },
-      {
-        "query": "อ นิ เมะ",
-        "value": 5,
-        "formattedValue": "5",
-        "raw": {
-          "query": "อ นิ เมะ",
-          "value": 5,
-          "formattedValue": "5",
-          "hasData": true,
-          "link": "/trends/explore?q=%E0%B8%AD+%E0%B8%99%E0%B8%B4+%E0%B9%80%E0%B8%A1%E0%B8%B0&date=now+7-d&geo=TH"
-        }
-      },
-      {
-        "query": "มานะ",
-        "value": 5,
-        "formattedValue": "5",
-        "raw": {
-          "query": "มานะ",
-          "value": 5,
-          "formattedValue": "5",
-          "hasData": true,
-          "link": "/trends/explore?q=%E0%B8%A1%E0%B8%B2%E0%B8%99%E0%B8%B0&date=now+7-d&geo=TH"
-        }
-      },
-      {
-        "query": "ฟัง เพลง",
-        "value": 5,
-        "formattedValue": "5",
-        "raw": {
-          "query": "ฟัง เพลง",
-          "value": 5,
-          "formattedValue": "5",
-          "hasData": true,
-          "link": "/trends/explore?q=%E0%B8%9F%E0%B8%B1%E0%B8%87+%E0%B9%80%E0%B8%9E%E0%B8%A5%E0%B8%87&date=now+7-d&geo=TH"
-        }
       }
     ],
     "rising": [
       {
         "query": "ฮ ลุ น",
-        "value": 3650,
-        "formattedValue": "+3.650%",
+        "value": 5150,
+        "formattedValue": "Đột phá",
         "raw": {
           "query": "ฮ ลุ น",
-          "value": 3650,
-          "formattedValue": "+3.650%",
+          "value": 5150,
+          "formattedValue": "Đột phá",
           "link": "/trends/explore?q=%E0%B8%AE+%E0%B8%A5%E0%B8%B8+%E0%B8%99&date=now+7-d&geo=TH"
         }
       },
       {
+        "query": "จอร์เจีย",
+        "value": 5000,
+        "formattedValue": "+5.000%",
+        "raw": {
+          "query": "จอร์เจีย",
+          "value": 5000,
+          "formattedValue": "+5.000%",
+          "link": "/trends/explore?q=%E0%B8%88%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B9%80%E0%B8%88%E0%B8%B5%E0%B8%A2&date=now+7-d&geo=TH"
+        }
+      },
+      {
         "query": "ฮ ลุ น โซ โล",
-        "value": 2950,
-        "formattedValue": "+2.950%",
+        "value": 4400,
+        "formattedValue": "+4.400%",
         "raw": {
           "query": "ฮ ลุ น โซ โล",
-          "value": 2950,
-          "formattedValue": "+2.950%",
+          "value": 4400,
+          "formattedValue": "+4.400%",
           "link": "/trends/explore?q=%E0%B8%AE+%E0%B8%A5%E0%B8%B8+%E0%B8%99+%E0%B9%82%E0%B8%8B+%E0%B9%82%E0%B8%A5&date=now+7-d&geo=TH"
         }
       },
       {
         "query": "ฮ ลุ น โซ โล ล่าสุด",
-        "value": 2450,
-        "formattedValue": "+2.450%",
+        "value": 2950,
+        "formattedValue": "+2.950%",
         "raw": {
           "query": "ฮ ลุ น โซ โล ล่าสุด",
-          "value": 2450,
-          "formattedValue": "+2.450%",
+          "value": 2950,
+          "formattedValue": "+2.950%",
           "link": "/trends/explore?q=%E0%B8%AE+%E0%B8%A5%E0%B8%B8+%E0%B8%99+%E0%B9%82%E0%B8%8B+%E0%B9%82%E0%B8%A5+%E0%B8%A5%E0%B9%88%E0%B8%B2%E0%B8%AA%E0%B8%B8%E0%B8%94&date=now+7-d&geo=TH"
         }
       },
       {
-        "query": "ปริศนา สายเลือด มังกร พาก ไทย",
-        "value": 2350,
-        "formattedValue": "+2.350%",
+        "query": "สลากกินแบ่ง รัฐบาล วัน นี้",
+        "value": 1850,
+        "formattedValue": "+1.850%",
         "raw": {
-          "query": "ปริศนา สายเลือด มังกร พาก ไทย",
-          "value": 2350,
-          "formattedValue": "+2.350%",
-          "link": "/trends/explore?q=%E0%B8%9B%E0%B8%A3%E0%B8%B4%E0%B8%A8%E0%B8%99%E0%B8%B2+%E0%B8%AA%E0%B8%B2%E0%B8%A2%E0%B9%80%E0%B8%A5%E0%B8%B7%E0%B8%AD%E0%B8%94+%E0%B8%A1%E0%B8%B1%E0%B8%87%E0%B8%81%E0%B8%A3+%E0%B8%9E%E0%B8%B2%E0%B8%81+%E0%B9%84%E0%B8%97%E0%B8%A2&date=now+7-d&geo=TH"
+          "query": "สลากกินแบ่ง รัฐบาล วัน นี้",
+          "value": 1850,
+          "formattedValue": "+1.850%",
+          "link": "/trends/explore?q=%E0%B8%AA%E0%B8%A5%E0%B8%B2%E0%B8%81%E0%B8%81%E0%B8%B4%E0%B8%99%E0%B9%81%E0%B8%9A%E0%B9%88%E0%B8%87+%E0%B8%A3%E0%B8%B1%E0%B8%90%E0%B8%9A%E0%B8%B2%E0%B8%A5+%E0%B8%A7%E0%B8%B1%E0%B8%99+%E0%B8%99%E0%B8%B5%E0%B9%89&date=now+7-d&geo=TH"
         }
       },
       {
         "query": "hlun solo",
-        "value": 1150,
-        "formattedValue": "+1.150%",
+        "value": 1750,
+        "formattedValue": "+1.750%",
         "raw": {
           "query": "hlun solo",
-          "value": 1150,
-          "formattedValue": "+1.150%",
+          "value": 1750,
+          "formattedValue": "+1.750%",
           "link": "/trends/explore?q=hlun+solo&date=now+7-d&geo=TH"
         }
       },
       {
-        "query": "bg sports",
-        "value": 400,
-        "formattedValue": "+400%",
+        "query": "กลับ บ้าน เรา ภูมินทร์",
+        "value": 1750,
+        "formattedValue": "+1.750%",
         "raw": {
-          "query": "bg sports",
-          "value": 400,
-          "formattedValue": "+400%",
-          "link": "/trends/explore?q=bg+sports&date=now+7-d&geo=TH"
+          "query": "กลับ บ้าน เรา ภูมินทร์",
+          "value": 1750,
+          "formattedValue": "+1.750%",
+          "link": "/trends/explore?q=%E0%B8%81%E0%B8%A5%E0%B8%B1%E0%B8%9A+%E0%B8%9A%E0%B9%89%E0%B8%B2%E0%B8%99+%E0%B9%80%E0%B8%A3%E0%B8%B2+%E0%B8%A0%E0%B8%B9%E0%B8%A1%E0%B8%B4%E0%B8%99%E0%B8%97%E0%B8%A3%E0%B9%8C&date=now+7-d&geo=TH"
         }
       },
       {
-        "query": "ณ ความ รัก",
+        "query": "หวย รัฐบาล งวด นี้",
+        "value": 1750,
+        "formattedValue": "+1.750%",
+        "raw": {
+          "query": "หวย รัฐบาล งวด นี้",
+          "value": 1750,
+          "formattedValue": "+1.750%",
+          "link": "/trends/explore?q=%E0%B8%AB%E0%B8%A7%E0%B8%A2+%E0%B8%A3%E0%B8%B1%E0%B8%90%E0%B8%9A%E0%B8%B2%E0%B8%A5+%E0%B8%87%E0%B8%A7%E0%B8%94+%E0%B8%99%E0%B8%B5%E0%B9%89&date=now+7-d&geo=TH"
+        }
+      },
+      {
+        "query": "ถ่ายทอด สด สลากกินแบ่ง รัฐบาล วัน นี้",
+        "value": 1500,
+        "formattedValue": "+1.500%",
+        "raw": {
+          "query": "ถ่ายทอด สด สลากกินแบ่ง รัฐบาล วัน นี้",
+          "value": 1500,
+          "formattedValue": "+1.500%",
+          "link": "/trends/explore?q=%E0%B8%96%E0%B9%88%E0%B8%B2%E0%B8%A2%E0%B8%97%E0%B8%AD%E0%B8%94+%E0%B8%AA%E0%B8%94+%E0%B8%AA%E0%B8%A5%E0%B8%B2%E0%B8%81%E0%B8%81%E0%B8%B4%E0%B8%99%E0%B9%81%E0%B8%9A%E0%B9%88%E0%B8%87+%E0%B8%A3%E0%B8%B1%E0%B8%90%E0%B8%9A%E0%B8%B2%E0%B8%A5+%E0%B8%A7%E0%B8%B1%E0%B8%99+%E0%B8%99%E0%B8%B5%E0%B9%89&date=now+7-d&geo=TH"
+        }
+      },
+      {
+        "query": "ผล สลากกินแบ่ง รัฐบาล วัน นี้",
+        "value": 1250,
+        "formattedValue": "+1.250%",
+        "raw": {
+          "query": "ผล สลากกินแบ่ง รัฐบาล วัน นี้",
+          "value": 1250,
+          "formattedValue": "+1.250%",
+          "link": "/trends/explore?q=%E0%B8%9C%E0%B8%A5+%E0%B8%AA%E0%B8%A5%E0%B8%B2%E0%B8%81%E0%B8%81%E0%B8%B4%E0%B8%99%E0%B9%81%E0%B8%9A%E0%B9%88%E0%B8%87+%E0%B8%A3%E0%B8%B1%E0%B8%90%E0%B8%9A%E0%B8%B2%E0%B8%A5+%E0%B8%A7%E0%B8%B1%E0%B8%99+%E0%B8%99%E0%B8%B5%E0%B9%89&date=now+7-d&geo=TH"
+        }
+      },
+      {
+        "query": "ตรวจ สลากกินแบ่ง รัฐบาล วัน นี้",
+        "value": 1100,
+        "formattedValue": "+1.100%",
+        "raw": {
+          "query": "ตรวจ สลากกินแบ่ง รัฐบาล วัน นี้",
+          "value": 1100,
+          "formattedValue": "+1.100%",
+          "link": "/trends/explore?q=%E0%B8%95%E0%B8%A3%E0%B8%A7%E0%B8%88+%E0%B8%AA%E0%B8%A5%E0%B8%B2%E0%B8%81%E0%B8%81%E0%B8%B4%E0%B8%99%E0%B9%81%E0%B8%9A%E0%B9%88%E0%B8%87+%E0%B8%A3%E0%B8%B1%E0%B8%90%E0%B8%9A%E0%B8%B2%E0%B8%A5+%E0%B8%A7%E0%B8%B1%E0%B8%99+%E0%B8%99%E0%B8%B5%E0%B9%89&date=now+7-d&geo=TH"
+        }
+      },
+      {
+        "query": "หวย ไทยรัฐ งวด นี้",
+        "value": 850,
+        "formattedValue": "+850%",
+        "raw": {
+          "query": "หวย ไทยรัฐ งวด นี้",
+          "value": 850,
+          "formattedValue": "+850%",
+          "link": "/trends/explore?q=%E0%B8%AB%E0%B8%A7%E0%B8%A2+%E0%B9%84%E0%B8%97%E0%B8%A2%E0%B8%A3%E0%B8%B1%E0%B8%90+%E0%B8%87%E0%B8%A7%E0%B8%94+%E0%B8%99%E0%B8%B5%E0%B9%89&date=now+7-d&geo=TH"
+        }
+      },
+      {
+        "query": "อาสา พา ไป หลง",
+        "value": 350,
+        "formattedValue": "+350%",
+        "raw": {
+          "query": "อาสา พา ไป หลง",
+          "value": 350,
+          "formattedValue": "+350%",
+          "link": "/trends/explore?q=%E0%B8%AD%E0%B8%B2%E0%B8%AA%E0%B8%B2+%E0%B8%9E%E0%B8%B2+%E0%B9%84%E0%B8%9B+%E0%B8%AB%E0%B8%A5%E0%B8%87&date=now+7-d&geo=TH"
+        }
+      },
+      {
+        "query": "ดาบ พิฆาต อสูร",
+        "value": 300,
+        "formattedValue": "+300%",
+        "raw": {
+          "query": "ดาบ พิฆาต อสูร",
+          "value": 300,
+          "formattedValue": "+300%",
+          "link": "/trends/explore?q=%E0%B8%94%E0%B8%B2%E0%B8%9A+%E0%B8%9E%E0%B8%B4%E0%B8%86%E0%B8%B2%E0%B8%95+%E0%B8%AD%E0%B8%AA%E0%B8%B9%E0%B8%A3&date=now+7-d&geo=TH"
+        }
+      },
+      {
+        "query": "spider-man brand new day",
+        "value": 250,
+        "formattedValue": "+250%",
+        "raw": {
+          "query": "spider-man brand new day",
+          "value": 250,
+          "formattedValue": "+250%",
+          "link": "/trends/explore?q=spider-man+brand+new+day&date=now+7-d&geo=TH"
+        }
+      },
+      {
+        "query": "เจ้าสาว ที่ กลัว ฝน",
         "value": 190,
         "formattedValue": "+190%",
         "raw": {
-          "query": "ณ ความ รัก",
+          "query": "เจ้าสาว ที่ กลัว ฝน",
           "value": 190,
           "formattedValue": "+190%",
-          "link": "/trends/explore?q=%E0%B8%93+%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1+%E0%B8%A3%E0%B8%B1%E0%B8%81&date=now+7-d&geo=TH"
-        }
-      },
-      {
-        "query": "ลิเวอร์พูล ล่าสุด",
-        "value": 140,
-        "formattedValue": "+140%",
-        "raw": {
-          "query": "ลิเวอร์พูล ล่าสุด",
-          "value": 140,
-          "formattedValue": "+140%",
-          "link": "/trends/explore?q=%E0%B8%A5%E0%B8%B4%E0%B9%80%E0%B8%A7%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%9E%E0%B8%B9%E0%B8%A5+%E0%B8%A5%E0%B9%88%E0%B8%B2%E0%B8%AA%E0%B8%B8%E0%B8%94&date=now+7-d&geo=TH"
-        }
-      },
-      {
-        "query": "ภวังคจิต",
-        "value": 130,
-        "formattedValue": "+130%",
-        "raw": {
-          "query": "ภวังคจิต",
-          "value": 130,
-          "formattedValue": "+130%",
-          "link": "/trends/explore?q=%E0%B8%A0%E0%B8%A7%E0%B8%B1%E0%B8%87%E0%B8%84%E0%B8%88%E0%B8%B4%E0%B8%95&date=now+7-d&geo=TH"
+          "link": "/trends/explore?q=%E0%B9%80%E0%B8%88%E0%B9%89%E0%B8%B2%E0%B8%AA%E0%B8%B2%E0%B8%A7+%E0%B8%97%E0%B8%B5%E0%B9%88+%E0%B8%81%E0%B8%A5%E0%B8%B1%E0%B8%A7+%E0%B8%9D%E0%B8%99&date=now+7-d&geo=TH"
         }
       },
       {
         "query": "โล โซ",
-        "value": 120,
-        "formattedValue": "+120%",
+        "value": 170,
+        "formattedValue": "+170%",
         "raw": {
           "query": "โล โซ",
-          "value": 120,
-          "formattedValue": "+120%",
+          "value": 170,
+          "formattedValue": "+170%",
           "link": "/trends/explore?q=%E0%B9%82%E0%B8%A5+%E0%B9%82%E0%B8%8B&date=now+7-d&geo=TH"
         }
       },
       {
+        "query": "วอ ล เล่ ย์ บอล หญิง ไทย วัน นี้ สด",
+        "value": 140,
+        "formattedValue": "+140%",
+        "raw": {
+          "query": "วอ ล เล่ ย์ บอล หญิง ไทย วัน นี้ สด",
+          "value": 140,
+          "formattedValue": "+140%",
+          "link": "/trends/explore?q=%E0%B8%A7%E0%B8%AD+%E0%B8%A5+%E0%B9%80%E0%B8%A5%E0%B9%88+%E0%B8%A2%E0%B9%8C+%E0%B8%9A%E0%B8%AD%E0%B8%A5+%E0%B8%AB%E0%B8%8D%E0%B8%B4%E0%B8%87+%E0%B9%84%E0%B8%97%E0%B8%A2+%E0%B8%A7%E0%B8%B1%E0%B8%99+%E0%B8%99%E0%B8%B5%E0%B9%89+%E0%B8%AA%E0%B8%94&date=now+7-d&geo=TH"
+        }
+      },
+      {
         "query": "หนู ม่วง",
-        "value": 80,
-        "formattedValue": "+80%",
+        "value": 100,
+        "formattedValue": "+100%",
         "raw": {
           "query": "หนู ม่วง",
-          "value": 80,
-          "formattedValue": "+80%",
+          "value": 100,
+          "formattedValue": "+100%",
           "link": "/trends/explore?q=%E0%B8%AB%E0%B8%99%E0%B8%B9+%E0%B8%A1%E0%B9%88%E0%B8%A7%E0%B8%87&date=now+7-d&geo=TH"
         }
       },
       {
-        "query": "ถอน คํา สาบาน",
+        "query": "bg sports",
         "value": 80,
         "formattedValue": "+80%",
         "raw": {
-          "query": "ถอน คํา สาบาน",
+          "query": "bg sports",
           "value": 80,
           "formattedValue": "+80%",
-          "link": "/trends/explore?q=%E0%B8%96%E0%B8%AD%E0%B8%99+%E0%B8%84%E0%B9%8D%E0%B8%B2+%E0%B8%AA%E0%B8%B2%E0%B8%9A%E0%B8%B2%E0%B8%99&date=now+7-d&geo=TH"
+          "link": "/trends/explore?q=bg+sports&date=now+7-d&geo=TH"
         }
       },
       {
-        "query": "ไม่ คิด นอกใจ",
-        "value": 60,
-        "formattedValue": "+60%",
+        "query": "ตรวจ หวย",
+        "value": 80,
+        "formattedValue": "+80%",
         "raw": {
-          "query": "ไม่ คิด นอกใจ",
-          "value": 60,
-          "formattedValue": "+60%",
-          "link": "/trends/explore?q=%E0%B9%84%E0%B8%A1%E0%B9%88+%E0%B8%84%E0%B8%B4%E0%B8%94+%E0%B8%99%E0%B8%AD%E0%B8%81%E0%B9%83%E0%B8%88&date=now+7-d&geo=TH"
+          "query": "ตรวจ หวย",
+          "value": 80,
+          "formattedValue": "+80%",
+          "link": "/trends/explore?q=%E0%B8%95%E0%B8%A3%E0%B8%A7%E0%B8%88+%E0%B8%AB%E0%B8%A7%E0%B8%A2&date=now+7-d&geo=TH"
+        }
+      },
+      {
+        "query": "ส ไป เด อ ร์ แมน",
+        "value": 70,
+        "formattedValue": "+70%",
+        "raw": {
+          "query": "ส ไป เด อ ร์ แมน",
+          "value": 70,
+          "formattedValue": "+70%",
+          "link": "/trends/explore?q=%E0%B8%AA+%E0%B9%84%E0%B8%9B+%E0%B9%80%E0%B8%94+%E0%B8%AD+%E0%B8%A3%E0%B9%8C+%E0%B9%81%E0%B8%A1%E0%B8%99&date=now+7-d&geo=TH"
         }
       },
       {
         "query": "คํา สารภาพ ของ หมอผี",
-        "value": 60,
-        "formattedValue": "+60%",
+        "value": 50,
+        "formattedValue": "+50%",
         "raw": {
           "query": "คํา สารภาพ ของ หมอผี",
-          "value": 60,
-          "formattedValue": "+60%",
+          "value": 50,
+          "formattedValue": "+50%",
           "link": "/trends/explore?q=%E0%B8%84%E0%B9%8D%E0%B8%B2+%E0%B8%AA%E0%B8%B2%E0%B8%A3%E0%B8%A0%E0%B8%B2%E0%B8%9E+%E0%B8%82%E0%B8%AD%E0%B8%87+%E0%B8%AB%E0%B8%A1%E0%B8%AD%E0%B8%9C%E0%B8%B5&date=now+7-d&geo=TH"
         }
       },
       {
-        "query": "โด เร ม่อน เดอะ มูฟ วี่",
-        "value": 50,
-        "formattedValue": "+50%",
-        "raw": {
-          "query": "โด เร ม่อน เดอะ มูฟ วี่",
-          "value": 50,
-          "formattedValue": "+50%",
-          "link": "/trends/explore?q=%E0%B9%82%E0%B8%94+%E0%B9%80%E0%B8%A3+%E0%B8%A1%E0%B9%88%E0%B8%AD%E0%B8%99+%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%B0+%E0%B8%A1%E0%B8%B9%E0%B8%9F+%E0%B8%A7%E0%B8%B5%E0%B9%88&date=now+7-d&geo=TH"
-        }
-      },
-      {
-        "query": "spd",
-        "value": 50,
-        "formattedValue": "+50%",
-        "raw": {
-          "query": "spd",
-          "value": 50,
-          "formattedValue": "+50%",
-          "link": "/trends/explore?q=spd&date=now+7-d&geo=TH"
-        }
-      },
-      {
-        "query": "แมน ยู ล่าสุด",
+        "query": "อา จุ ม ม่า",
         "value": 40,
         "formattedValue": "+40%",
         "raw": {
-          "query": "แมน ยู ล่าสุด",
+          "query": "อา จุ ม ม่า",
           "value": 40,
           "formattedValue": "+40%",
-          "link": "/trends/explore?q=%E0%B9%81%E0%B8%A1%E0%B8%99+%E0%B8%A2%E0%B8%B9+%E0%B8%A5%E0%B9%88%E0%B8%B2%E0%B8%AA%E0%B8%B8%E0%B8%94&date=now+7-d&geo=TH"
+          "link": "/trends/explore?q=%E0%B8%AD%E0%B8%B2+%E0%B8%88%E0%B8%B8+%E0%B8%A1+%E0%B8%A1%E0%B9%88%E0%B8%B2&date=now+7-d&geo=TH"
+        }
+      },
+      {
+        "query": "ไม่ คิด นอกใจ",
+        "value": 40,
+        "formattedValue": "+40%",
+        "raw": {
+          "query": "ไม่ คิด นอกใจ",
+          "value": 40,
+          "formattedValue": "+40%",
+          "link": "/trends/explore?q=%E0%B9%84%E0%B8%A1%E0%B9%88+%E0%B8%84%E0%B8%B4%E0%B8%94+%E0%B8%99%E0%B8%AD%E0%B8%81%E0%B9%83%E0%B8%88&date=now+7-d&geo=TH"
         }
       }
     ]
