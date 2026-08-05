@@ -36,50 +36,34 @@
       },
       {
         "query": "Truyền hình",
-        "value": 35,
-        "formattedValue": "35",
+        "value": 36,
+        "formattedValue": "36",
         "raw": {
           "topic": {
             "mid": "/m/07c52",
             "title": "Truyền hình",
             "type": "Loại truyền hình"
           },
-          "value": 35,
-          "formattedValue": "35",
+          "value": 36,
+          "formattedValue": "36",
           "hasData": true,
           "link": "/trends/explore?q=/m/07c52&date=now+7-d&geo=KR"
         }
       },
       {
         "query": "Điện ảnh",
-        "value": 28,
-        "formattedValue": "28",
+        "value": 29,
+        "formattedValue": "29",
         "raw": {
           "topic": {
             "mid": "/m/02vxn",
             "title": "Điện ảnh",
             "type": "Loại truyền hình"
           },
-          "value": 28,
-          "formattedValue": "28",
+          "value": 29,
+          "formattedValue": "29",
           "hasData": true,
           "link": "/trends/explore?q=/m/02vxn&date=now+7-d&geo=KR"
-        }
-      },
-      {
-        "query": "Âm nhạc",
-        "value": 27,
-        "formattedValue": "27",
-        "raw": {
-          "topic": {
-            "mid": "/m/04rlf",
-            "title": "Âm nhạc",
-            "type": "Định dạng âm thanh"
-          },
-          "value": 27,
-          "formattedValue": "27",
-          "hasData": true,
-          "link": "/trends/explore?q=/m/04rlf&date=now+7-d&geo=KR"
         }
       },
       {
@@ -99,17 +83,33 @@
         }
       },
       {
+        "query": "Âm nhạc",
+        "value": 25,
+        "formattedValue": "25",
+        "raw": {
+          "topic": {
+            "mid": "/m/04rlf",
+            "title": "Âm nhạc",
+            "type": "Định dạng âm thanh"
+          },
+          "value": 25,
+          "formattedValue": "25",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/04rlf&date=now+7-d&geo=KR"
+        }
+      },
+      {
         "query": "Phản ứng kích thích cảm giác tự động",
-        "value": 23,
-        "formattedValue": "23",
+        "value": 24,
+        "formattedValue": "24",
         "raw": {
           "topic": {
             "mid": "/m/0ngt1v6",
             "title": "Phản ứng kích thích cảm giác tự động",
             "type": "Chủ đề"
           },
-          "value": 23,
-          "formattedValue": "23",
+          "value": 24,
+          "formattedValue": "24",
           "hasData": true,
           "link": "/trends/explore?q=/m/0ngt1v6&date=now+7-d&geo=KR"
         }
@@ -131,19 +131,19 @@
         }
       },
       {
-        "query": "Lineage",
+        "query": "Du lịch",
         "value": 21,
         "formattedValue": "21",
         "raw": {
           "topic": {
-            "mid": "/m/0qftm77",
-            "title": "Lineage",
-            "type": "Loạt trò chơi điện tử"
+            "mid": "/m/014dsx",
+            "title": "Du lịch",
+            "type": "Chủ đề"
           },
           "value": 21,
           "formattedValue": "21",
           "hasData": true,
-          "link": "/trends/explore?q=/m/0qftm77&date=now+7-d&geo=KR"
+          "link": "/trends/explore?q=/m/014dsx&date=now+7-d&geo=KR"
         }
       },
       {
@@ -163,19 +163,35 @@
         }
       },
       {
-        "query": "Du lịch",
-        "value": 20,
-        "formattedValue": "20",
+        "query": "Lineage",
+        "value": 19,
+        "formattedValue": "19",
         "raw": {
           "topic": {
-            "mid": "/m/014dsx",
-            "title": "Du lịch",
+            "mid": "/m/0qftm77",
+            "title": "Lineage",
+            "type": "Loạt trò chơi điện tử"
+          },
+          "value": 19,
+          "formattedValue": "19",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/0qftm77&date=now+7-d&geo=KR"
+        }
+      },
+      {
+        "query": "Trò chơi",
+        "value": 19,
+        "formattedValue": "19",
+        "raw": {
+          "topic": {
+            "mid": "/m/03bt1gh",
+            "title": "Trò chơi",
             "type": "Chủ đề"
           },
-          "value": 20,
-          "formattedValue": "20",
+          "value": 19,
+          "formattedValue": "19",
           "hasData": true,
-          "link": "/trends/explore?q=/m/014dsx&date=now+7-d&geo=KR"
+          "link": "/trends/explore?q=/m/03bt1gh&date=now+7-d&geo=KR"
         }
       },
       {
@@ -195,22 +211,6 @@
         }
       },
       {
-        "query": "Nhật Bản",
-        "value": 19,
-        "formattedValue": "19",
-        "raw": {
-          "topic": {
-            "mid": "/m/03_3d",
-            "title": "Nhật Bản",
-            "type": "Quốc gia ở Đông Á"
-          },
-          "value": 19,
-          "formattedValue": "19",
-          "hasData": true,
-          "link": "/trends/explore?q=/m/03_3d&date=now+7-d&geo=KR"
-        }
-      },
-      {
         "query": "Dàn karaoke",
         "value": 18,
         "formattedValue": "18",
@@ -227,49 +227,65 @@
         }
       },
       {
-        "query": "Trò chơi",
+        "query": "Nhật Bản",
         "value": 18,
         "formattedValue": "18",
         "raw": {
           "topic": {
-            "mid": "/m/03bt1gh",
-            "title": "Trò chơi",
-            "type": "Chủ đề"
+            "mid": "/m/03_3d",
+            "title": "Nhật Bản",
+            "type": "Quốc gia ở Đông Á"
           },
           "value": 18,
           "formattedValue": "18",
           "hasData": true,
-          "link": "/trends/explore?q=/m/03bt1gh&date=now+7-d&geo=KR"
+          "link": "/trends/explore?q=/m/03_3d&date=now+7-d&geo=KR"
         }
       },
       {
         "query": "2026",
-        "value": 18,
-        "formattedValue": "18",
+        "value": 17,
+        "formattedValue": "17",
         "raw": {
           "topic": {
             "mid": "/g/11b77d6b6g",
             "title": "2026",
             "type": "Chủ đề"
           },
-          "value": 18,
-          "formattedValue": "18",
+          "value": 17,
+          "formattedValue": "17",
           "hasData": true,
           "link": "/trends/explore?q=/g/11b77d6b6g&date=now+7-d&geo=KR"
         }
       },
       {
+        "query": "Nam giới",
+        "value": 16,
+        "formattedValue": "16",
+        "raw": {
+          "topic": {
+            "mid": "/m/04yx4",
+            "title": "Nam giới",
+            "type": "Chủ đề"
+          },
+          "value": 16,
+          "formattedValue": "16",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/04yx4&date=now+7-d&geo=KR"
+        }
+      },
+      {
         "query": "Thể dục",
-        "value": 17,
-        "formattedValue": "17",
+        "value": 16,
+        "formattedValue": "16",
         "raw": {
           "topic": {
             "mid": "/m/019w6h",
             "title": "Thể dục",
             "type": "Chủ đề"
           },
-          "value": 17,
-          "formattedValue": "17",
+          "value": 16,
+          "formattedValue": "16",
           "hasData": true,
           "link": "/trends/explore?q=/m/019w6h&date=now+7-d&geo=KR"
         }
@@ -288,22 +304,6 @@
           "formattedValue": "16",
           "hasData": true,
           "link": "/trends/explore?q=/m/07z4p&date=now+7-d&geo=KR"
-        }
-      },
-      {
-        "query": "Nam giới",
-        "value": 15,
-        "formattedValue": "15",
-        "raw": {
-          "topic": {
-            "mid": "/m/04yx4",
-            "title": "Nam giới",
-            "type": "Chủ đề"
-          },
-          "value": 15,
-          "formattedValue": "15",
-          "hasData": true,
-          "link": "/trends/explore?q=/m/04yx4&date=now+7-d&geo=KR"
         }
       },
       {
@@ -339,6 +339,22 @@
         }
       },
       {
+        "query": "Chính kịch",
+        "value": 15,
+        "formattedValue": "15",
+        "raw": {
+          "topic": {
+            "mid": "/m/02822",
+            "title": "Chính kịch",
+            "type": "Thể loại văn học"
+          },
+          "value": 15,
+          "formattedValue": "15",
+          "hasData": true,
+          "link": "/trends/explore?q=/m/02822&date=now+7-d&geo=KR"
+        }
+      },
+      {
         "query": "Hàn Quốc",
         "value": 14,
         "formattedValue": "14",
@@ -355,58 +371,26 @@
         }
       },
       {
-        "query": "Cổ phần",
+        "query": "YouTube",
         "value": 14,
         "formattedValue": "14",
         "raw": {
           "topic": {
-            "mid": "/m/03jzl9",
-            "title": "Cổ phần",
-            "type": "Chủ đề"
+            "mid": "/m/09jcvs",
+            "title": "YouTube",
+            "type": "Nền tảng chia sẻ video"
           },
           "value": 14,
           "formattedValue": "14",
           "hasData": true,
-          "link": "/trends/explore?q=/m/03jzl9&date=now+7-d&geo=KR"
-        }
-      },
-      {
-        "query": "Chính kịch",
-        "value": 14,
-        "formattedValue": "14",
-        "raw": {
-          "topic": {
-            "mid": "/m/02822",
-            "title": "Chính kịch",
-            "type": "Thể loại văn học"
-          },
-          "value": 14,
-          "formattedValue": "14",
-          "hasData": true,
-          "link": "/trends/explore?q=/m/02822&date=now+7-d&geo=KR"
-        }
-      },
-      {
-        "query": "Ẩm thực",
-        "value": 14,
-        "formattedValue": "14",
-        "raw": {
-          "topic": {
-            "mid": "/g/120scw9n",
-            "title": "Ẩm thực",
-            "type": "Chủ đề"
-          },
-          "value": 14,
-          "formattedValue": "14",
-          "hasData": true,
-          "link": "/trends/explore?q=/g/120scw9n&date=now+7-d&geo=KR"
+          "link": "/trends/explore?q=/m/09jcvs&date=now+7-d&geo=KR"
         }
       }
     ],
     "rising": [
       {
         "query": "Giải thưởng Truyền hình Rồng Xanh",
-        "value": 5100,
+        "value": 5550,
         "formattedValue": "Đột phá",
         "raw": {
           "topic": {
@@ -414,113 +398,68 @@
             "title": "Giải thưởng Truyền hình Rồng Xanh",
             "type": "Giải thưởng"
           },
-          "value": 5100,
+          "value": 5550,
           "formattedValue": "Đột phá",
           "link": "/trends/explore?q=/g/11t3zgkqdq&date=now+7-d&geo=KR"
         }
       },
       {
-        "query": "Động đất",
-        "value": 1350,
-        "formattedValue": "+1.350%",
-        "raw": {
-          "topic": {
-            "mid": "/m/02r97",
-            "title": "Động đất",
-            "type": "Chủ đề"
-          },
-          "value": 1350,
-          "formattedValue": "+1.350%",
-          "link": "/trends/explore?q=/m/02r97&date=now+7-d&geo=KR"
-        }
-      },
-      {
         "query": "Hwang Jung-min",
-        "value": 1150,
-        "formattedValue": "+1.150%",
+        "value": 1100,
+        "formattedValue": "+1.100%",
         "raw": {
           "topic": {
             "mid": "/m/0b3gz9",
             "title": "Hwang Jung-min",
             "type": "Diễn viên"
           },
-          "value": 1150,
-          "formattedValue": "+1.150%",
+          "value": 1100,
+          "formattedValue": "+1.100%",
           "link": "/trends/explore?q=/m/0b3gz9&date=now+7-d&geo=KR"
         }
       },
       {
-        "query": "ChulGu",
+        "query": "Giải Vô địch Liên Minh Huyền Thoại Hàn Quốc",
         "value": 550,
         "formattedValue": "+550%",
-        "raw": {
-          "topic": {
-            "mid": "/m/0nbhbd6",
-            "title": "ChulGu",
-            "type": "Game thủ chuyên nghiệp"
-          },
-          "value": 550,
-          "formattedValue": "+550%",
-          "link": "/trends/explore?q=/m/0nbhbd6&date=now+7-d&geo=KR"
-        }
-      },
-      {
-        "query": "Giải Vô địch Liên Minh Huyền Thoại Hàn Quốc",
-        "value": 450,
-        "formattedValue": "+450%",
         "raw": {
           "topic": {
             "mid": "/g/11b6msm_vm",
             "title": "Giải Vô địch Liên Minh Huyền Thoại Hàn Quốc",
             "type": "Giải đấu thể thao"
           },
-          "value": 450,
-          "formattedValue": "+450%",
+          "value": 550,
+          "formattedValue": "+550%",
           "link": "/trends/explore?q=/g/11b6msm_vm&date=now+7-d&geo=KR"
         }
       },
       {
         "query": "Người nhện",
-        "value": 400,
-        "formattedValue": "+400%",
+        "value": 300,
+        "formattedValue": "+300%",
         "raw": {
           "topic": {
             "mid": "/m/06ys2",
             "title": "Người nhện",
             "type": "Nhân vật hư cấu"
           },
-          "value": 400,
-          "formattedValue": "+400%",
+          "value": 300,
+          "formattedValue": "+300%",
           "link": "/trends/explore?q=/m/06ys2&date=now+7-d&geo=KR"
         }
       },
       {
-        "query": "Professional Billiards Association",
-        "value": 400,
-        "formattedValue": "+400%",
-        "raw": {
-          "topic": {
-            "mid": "/g/11h_9xm0ld",
-            "title": "Professional Billiards Association",
-            "type": "Chủ đề"
-          },
-          "value": 400,
-          "formattedValue": "+400%",
-          "link": "/trends/explore?q=/g/11h_9xm0ld&date=now+7-d&geo=KR"
-        }
-      },
-      {
         "query": "Bão cuồng phong",
-        "value": 350,
-        "formattedValue": "+350%",
+        "value": 300,
+        "formattedValue": "+300%",
         "raw": {
           "topic": {
             "mid": "/m/02wv9xd",
             "title": "Bão cuồng phong",
             "type": "Chủ đề"
           },
-          "value": 350,
-          "formattedValue": "+350%",
+          "value": 300,
+          "formattedValue": "+300%",
           "link": "/trends/explore?q=/m/02wv9xd&date=now+7-d&geo=KR"
         }
       },
@@ -540,62 +479,77 @@
         }
       },
       {
-        "query": "Yoo Yong-woo",
-        "value": 170,
-        "formattedValue": "+170%",
-        "raw": {
-          "topic": {
-            "mid": "/g/11tjkgq3sl",
-            "title": "Yoo Yong-woo",
-            "type": "Nhân vật truyền hình"
-          },
-          "value": 170,
-          "formattedValue": "+170%",
-          "link": "/trends/explore?q=/g/11tjkgq3sl&date=now+7-d&geo=KR"
-        }
-      },
-      {
         "query": "The Odyssey",
-        "value": 160,
-        "formattedValue": "+160%",
+        "value": 200,
+        "formattedValue": "+200%",
         "raw": {
           "topic": {
             "mid": "/g/11lywy6grr",
             "title": "The Odyssey",
             "type": "Phim 2026"
           },
-          "value": 160,
-          "formattedValue": "+160%",
+          "value": 200,
+          "formattedValue": "+200%",
           "link": "/trends/explore?q=/g/11lywy6grr&date=now+7-d&geo=KR"
         }
       },
       {
-        "query": "Bi-a",
-        "value": 100,
-        "formattedValue": "+100%",
+        "query": "Yoo Yong-woo",
+        "value": 190,
+        "formattedValue": "+190%",
         "raw": {
           "topic": {
-            "mid": "/m/015_x",
-            "title": "Bi-a",
-            "type": "Chơi thể thao"
+            "mid": "/g/11tjkgq3sl",
+            "title": "Yoo Yong-woo",
+            "type": "Nhân vật truyền hình"
           },
-          "value": 100,
-          "formattedValue": "+100%",
-          "link": "/trends/explore?q=/m/015_x&date=now+7-d&geo=KR"
+          "value": 190,
+          "formattedValue": "+190%",
+          "link": "/trends/explore?q=/g/11tjkgq3sl&date=now+7-d&geo=KR"
         }
       },
       {
-        "query": "Hong Myung-bo",
+        "query": "Professional Billiards Association",
+        "value": 180,
+        "formattedValue": "+180%",
+        "raw": {
+          "topic": {
+            "mid": "/g/11h_9xm0ld",
+            "title": "Professional Billiards Association",
+            "type": "Chủ đề"
+          },
+          "value": 180,
+          "formattedValue": "+180%",
+          "link": "/trends/explore?q=/g/11h_9xm0ld&date=now+7-d&geo=KR"
+        }
+      },
+      {
+        "query": "T1",
         "value": 90,
         "formattedValue": "+90%",
         "raw": {
           "topic": {
-            "mid": "/m/02w_xk",
-            "title": "Hong Myung-bo",
-            "type": "Huấn luyện viên"
+            "mid": "/m/07kfr22",
+            "title": "T1",
+            "type": "Thể thao điện tử"
           },
           "value": 90,
           "formattedValue": "+90%",
+          "link": "/trends/explore?q=/m/07kfr22&date=now+7-d&geo=KR"
+        }
+      },
+      {
+        "query": "Hong Myung-bo",
+        "value": 80,
+        "formattedValue": "+80%",
+        "raw": {
+          "topic": {
+            "mid": "/m/02w_xk",
+            "title": "Hong Myung-bo",
+            "type": "Huấn luyện viên bóng đá"
+          },
+          "value": 80,
+          "formattedValue": "+80%",
           "link": "/trends/explore?q=/m/02w_xk&date=now+7-d&geo=KR"
         }
       },
@@ -615,78 +569,63 @@
         }
       },
       {
-        "query": "Tiền",
+        "query": "Lee Jung-hoo",
         "value": 70,
         "formattedValue": "+70%",
         "raw": {
           "topic": {
-            "mid": "/m/04_x4",
-            "title": "Tiền",
-            "type": "Chủ đề"
+            "mid": "/g/11c4cnkz8z",
+            "title": "Lee Jung-hoo",
+            "type": "Cầu thủ bóng chày"
           },
           "value": 70,
           "formattedValue": "+70%",
-          "link": "/trends/explore?q=/m/04_x4&date=now+7-d&geo=KR"
-        }
-      },
-      {
-        "query": "Syuka",
-        "value": 70,
-        "formattedValue": "+70%",
-        "raw": {
-          "topic": {
-            "mid": "/g/11jm6wtyk6",
-            "title": "Syuka",
-            "type": "Nhân vật truyền hình"
-          },
-          "value": 70,
-          "formattedValue": "+70%",
-          "link": "/trends/explore?q=/g/11jm6wtyk6&date=now+7-d&geo=KR"
-        }
-      },
-      {
-        "query": "SK Hynix",
-        "value": 60,
-        "formattedValue": "+60%",
-        "raw": {
-          "topic": {
-            "mid": "/m/083w62",
-            "title": "SK Hynix",
-            "type": "Công ty"
-          },
-          "value": 60,
-          "formattedValue": "+60%",
-          "link": "/trends/explore?q=/m/083w62&date=now+7-d&geo=KR"
-        }
-      },
-      {
-        "query": "T1",
-        "value": 60,
-        "formattedValue": "+60%",
-        "raw": {
-          "topic": {
-            "mid": "/m/07kfr22",
-            "title": "T1",
-            "type": "Thể thao điện tử"
-          },
-          "value": 60,
-          "formattedValue": "+60%",
-          "link": "/trends/explore?q=/m/07kfr22&date=now+7-d&geo=KR"
+          "link": "/trends/explore?q=/g/11c4cnkz8z&date=now+7-d&geo=KR"
         }
       },
       {
         "query": "YouTube Shorts",
-        "value": 60,
-        "formattedValue": "+60%",
+        "value": 70,
+        "formattedValue": "+70%",
         "raw": {
           "topic": {
             "mid": "/g/11hshy3s20",
             "title": "YouTube Shorts",
             "type": "Chủ đề"
           },
+          "value": 70,
+          "formattedValue": "+70%",
+          "link": "/trends/explore?q=/g/11hshy3s20&date=now+7-d&geo=KR"
+        }
+      },
+      {
+        "query": "Bi-a",
+        "value": 60,
+        "formattedValue": "+60%",
+        "raw": {
+          "topic": {
+            "mid": "/m/015_x",
+            "title": "Bi-a",
+            "type": "Chơi thể thao"
+          },
           "value": 60,
           "formattedValue": "+60%",
-          "link": "/trends/explore?q=/g/11hshy3s20&date=now+7-d&geo=KR"
+          "link": "/trends/explore?q=/m/015_x&date=now+7-d&geo=KR"
+        }
+      },
+      {
+        "query": "Tiền",
+        "value": 60,
+        "formattedValue": "+60%",
+        "raw": {
+          "topic": {
+            "mid": "/m/04_x4",
+            "title": "Tiền",
+            "type": "Chủ đề"
+          },
+          "value": 60,
+          "formattedValue": "+60%",
+          "link": "/trends/explore?q=/m/04_x4&date=now+7-d&geo=KR"
         }
       },
       {
@@ -705,33 +644,48 @@
         }
       },
       {
-        "query": "Cổ phần",
-        "value": 50,
-        "formattedValue": "+50%",
+        "query": "Vũ trụ",
+        "value": 40,
+        "formattedValue": "+40%",
         "raw": {
           "topic": {
-            "mid": "/m/03jzl9",
-            "title": "Cổ phần",
+            "mid": "/m/07v7c",
+            "title": "Vũ trụ",
             "type": "Chủ đề"
           },
-          "value": 50,
-          "formattedValue": "+50%",
-          "link": "/trends/explore?q=/m/03jzl9&date=now+7-d&geo=KR"
+          "value": 40,
+          "formattedValue": "+40%",
+          "link": "/trends/explore?q=/m/07v7c&date=now+7-d&geo=KR"
         }
       },
       {
-        "query": "J. Y. Park",
-        "value": 50,
-        "formattedValue": "+50%",
+        "query": "KBS",
+        "value": 40,
+        "formattedValue": "+40%",
         "raw": {
           "topic": {
-            "mid": "/m/02qz4hk",
-            "title": "J. Y. Park",
-            "type": "Ca sĩ"
+            "mid": "/g/11byd5xkjr",
+            "title": "KBS",
+            "type": "Chủ đề"
           },
-          "value": 50,
-          "formattedValue": "+50%",
-          "link": "/trends/explore?q=/m/02qz4hk&date=now+7-d&geo=KR"
+          "value": 40,
+          "formattedValue": "+40%",
+          "link": "/trends/explore?q=/g/11byd5xkjr&date=now+7-d&geo=KR"
+        }
+      },
+      {
+        "query": "I'm Solo",
+        "value": 40,
+        "formattedValue": "+40%",
+        "raw": {
+          "topic": {
+            "mid": "/g/11ry2qvml4",
+            "title": "I'm Solo",
+            "type": "Chương trình truyền hình"
+          },
+          "value": 40,
+          "formattedValue": "+40%",
+          "link": "/trends/explore?q=/g/11ry2qvml4&date=now+7-d&geo=KR"
         }
       }
     ]
@@ -788,50 +742,62 @@
       },
       {
         "query": "리니지",
-        "value": 23,
-        "formattedValue": "23",
+        "value": 22,
+        "formattedValue": "22",
         "raw": {
           "query": "리니지",
-          "value": 23,
-          "formattedValue": "23",
+          "value": 22,
+          "formattedValue": "22",
           "hasData": true,
           "link": "/trends/explore?q=%EB%A6%AC%EB%8B%88%EC%A7%80&date=now+7-d&geo=KR"
         }
       },
       {
-        "query": "여행",
-        "value": 23,
-        "formattedValue": "23",
-        "raw": {
-          "query": "여행",
-          "value": 23,
-          "formattedValue": "23",
-          "hasData": true,
-          "link": "/trends/explore?q=%EC%97%AC%ED%96%89&date=now+7-d&geo=KR"
-        }
-      },
-      {
         "query": "asmr",
-        "value": 23,
-        "formattedValue": "23",
+        "value": 21,
+        "formattedValue": "21",
         "raw": {
           "query": "asmr",
-          "value": 23,
-          "formattedValue": "23",
+          "value": 21,
+          "formattedValue": "21",
           "hasData": true,
           "link": "/trends/explore?q=asmr&date=now+7-d&geo=KR"
         }
       },
       {
+        "query": "스파이더 맨",
+        "value": 21,
+        "formattedValue": "21",
+        "raw": {
+          "query": "스파이더 맨",
+          "value": 21,
+          "formattedValue": "21",
+          "hasData": true,
+          "link": "/trends/explore?q=%EC%8A%A4%ED%8C%8C%EC%9D%B4%EB%8D%94+%EB%A7%A8&date=now+7-d&geo=KR"
+        }
+      },
+      {
         "query": "뉴스",
-        "value": 22,
-        "formattedValue": "22",
+        "value": 21,
+        "formattedValue": "21",
         "raw": {
           "query": "뉴스",
-          "value": 22,
-          "formattedValue": "22",
+          "value": 21,
+          "formattedValue": "21",
           "hasData": true,
           "link": "/trends/explore?q=%EB%89%B4%EC%8A%A4&date=now+7-d&geo=KR"
+        }
+      },
+      {
+        "query": "영화",
+        "value": 19,
+        "formattedValue": "19",
+        "raw": {
+          "query": "영화",
+          "value": 19,
+          "formattedValue": "19",
+          "hasData": true,
+          "link": "/trends/explore?q=%EC%98%81%ED%99%94&date=now+7-d&geo=KR"
         }
       },
       {
@@ -844,18 +810,6 @@
           "formattedValue": "19",
           "hasData": true,
           "link": "/trends/explore?q=%EC%9D%8C%EC%95%85&date=now+7-d&geo=KR"
-        }
-      },
-      {
-        "query": "스파이더 맨",
-        "value": 18,
-        "formattedValue": "18",
-        "raw": {
-          "query": "스파이더 맨",
-          "value": 18,
-          "formattedValue": "18",
-          "hasData": true,
-          "link": "/trends/explore?q=%EC%8A%A4%ED%8C%8C%EC%9D%B4%EB%8D%94+%EB%A7%A8&date=now+7-d&geo=KR"
         }
       },
       {
@@ -884,26 +838,14 @@
       },
       {
         "query": "리니지 클래식",
-        "value": 16,
-        "formattedValue": "16",
+        "value": 15,
+        "formattedValue": "15",
         "raw": {
           "query": "리니지 클래식",
-          "value": 16,
-          "formattedValue": "16",
+          "value": 15,
+          "formattedValue": "15",
           "hasData": true,
           "link": "/trends/explore?q=%EB%A6%AC%EB%8B%88%EC%A7%80+%ED%81%B4%EB%9E%98%EC%8B%9D&date=now+7-d&geo=KR"
-        }
-      },
-      {
-        "query": "주식",
-        "value": 14,
-        "formattedValue": "14",
-        "raw": {
-          "query": "주식",
-          "value": 14,
-          "formattedValue": "14",
-          "hasData": true,
-          "link": "/trends/explore?q=%EC%A3%BC%EC%8B%9D&date=now+7-d&geo=KR"
         }
       },
       {
@@ -916,6 +858,18 @@
           "formattedValue": "13",
           "hasData": true,
           "link": "/trends/explore?q=%ED%94%8C%EB%A0%88%EC%9D%B4+%EB%A6%AC%EC%8A%A4%ED%8A%B8&date=now+7-d&geo=KR"
+        }
+      },
+      {
+        "query": "주식",
+        "value": 13,
+        "formattedValue": "13",
+        "raw": {
+          "query": "주식",
+          "value": 13,
+          "formattedValue": "13",
+          "hasData": true,
+          "link": "/trends/explore?q=%EC%A3%BC%EC%8B%9D&date=now+7-d&geo=KR"
         }
       },
       {
@@ -956,38 +910,26 @@
       },
       {
         "query": "케이",
-        "value": 11,
-        "formattedValue": "11",
+        "value": 10,
+        "formattedValue": "10",
         "raw": {
           "query": "케이",
-          "value": 11,
-          "formattedValue": "11",
+          "value": 10,
+          "formattedValue": "10",
           "hasData": true,
           "link": "/trends/explore?q=%EC%BC%80%EC%9D%B4&date=now+7-d&geo=KR"
         }
       },
       {
         "query": "고양이",
-        "value": 11,
-        "formattedValue": "11",
-        "raw": {
-          "query": "고양이",
-          "value": 11,
-          "formattedValue": "11",
-          "hasData": true,
-          "link": "/trends/explore?q=%EA%B3%A0%EC%96%91%EC%9D%B4&date=now+7-d&geo=KR"
-        }
-      },
-      {
-        "query": "철구",
         "value": 10,
         "formattedValue": "10",
         "raw": {
-          "query": "철구",
+          "query": "고양이",
           "value": 10,
           "formattedValue": "10",
           "hasData": true,
-          "link": "/trends/explore?q=%EC%B2%A0%EA%B5%AC&date=now+7-d&geo=KR"
+          "link": "/trends/explore?q=%EA%B3%A0%EC%96%91%EC%9D%B4&date=now+7-d&geo=KR"
         }
       },
       {
@@ -1003,6 +945,30 @@
         }
       },
       {
+        "query": "플리",
+        "value": 10,
+        "formattedValue": "10",
+        "raw": {
+          "query": "플리",
+          "value": 10,
+          "formattedValue": "10",
+          "hasData": true,
+          "link": "/trends/explore?q=%ED%94%8C%EB%A6%AC&date=now+7-d&geo=KR"
+        }
+      },
+      {
+        "query": "롤",
+        "value": 9,
+        "formattedValue": "9",
+        "raw": {
+          "query": "롤",
+          "value": 9,
+          "formattedValue": "9",
+          "hasData": true,
+          "link": "/trends/explore?q=%EB%A1%A4&date=now+7-d&geo=KR"
+        }
+      },
+      {
         "query": "손흥 민",
         "value": 9,
         "formattedValue": "9",
@@ -1015,94 +981,71 @@
         }
       },
       {
-        "query": "플리",
+        "query": "황정민",
         "value": 9,
         "formattedValue": "9",
         "raw": {
-          "query": "플리",
+          "query": "황정민",
           "value": 9,
           "formattedValue": "9",
           "hasData": true,
-          "link": "/trends/explore?q=%ED%94%8C%EB%A6%AC&date=now+7-d&geo=KR"
-        }
-      },
-      {
-        "query": "메이플",
-        "value": 9,
-        "formattedValue": "9",
-        "raw": {
-          "query": "메이플",
-          "value": 9,
-          "formattedValue": "9",
-          "hasData": true,
-          "link": "/trends/explore?q=%EB%A9%94%EC%9D%B4%ED%94%8C&date=now+7-d&geo=KR"
+          "link": "/trends/explore?q=%ED%99%A9%EC%A0%95%EB%AF%BC&date=now+7-d&geo=KR"
         }
       }
     ],
     "rising": [
       {
         "query": "청룡 시리즈 어워즈",
-        "value": 6200,
+        "value": 6400,
         "formattedValue": "Đột phá",
         "raw": {
           "query": "청룡 시리즈 어워즈",
-          "value": 6200,
+          "value": 6400,
           "formattedValue": "Đột phá",
           "link": "/trends/explore?q=%EC%B2%AD%EB%A3%A1+%EC%8B%9C%EB%A6%AC%EC%A6%88+%EC%96%B4%EC%9B%8C%EC%A6%88&date=now+7-d&geo=KR"
         }
       },
       {
         "query": "김선태 리 센느",
-        "value": 3050,
-        "formattedValue": "+3.050%",
+        "value": 3200,
+        "formattedValue": "+3.200%",
         "raw": {
           "query": "김선태 리 센느",
-          "value": 3050,
-          "formattedValue": "+3.050%",
+          "value": 3200,
+          "formattedValue": "+3.200%",
           "link": "/trends/explore?q=%EA%B9%80%EC%84%A0%ED%83%9C+%EB%A6%AC+%EC%84%BC%EB%8A%90&date=now+7-d&geo=KR"
         }
       },
       {
-        "query": "구마모토 지진",
-        "value": 2900,
-        "formattedValue": "+2.900%",
+        "query": "정준 원",
+        "value": 2700,
+        "formattedValue": "+2.700%",
         "raw": {
-          "query": "구마모토 지진",
-          "value": 2900,
-          "formattedValue": "+2.900%",
-          "link": "/trends/explore?q=%EA%B5%AC%EB%A7%88%EB%AA%A8%ED%86%A0+%EC%A7%80%EC%A7%84&date=now+7-d&geo=KR"
+          "query": "정준 원",
+          "value": 2700,
+          "formattedValue": "+2.700%",
+          "link": "/trends/explore?q=%EC%A0%95%EC%A4%80+%EC%9B%90&date=now+7-d&geo=KR"
         }
       },
       {
-        "query": "일본 지진",
-        "value": 2600,
-        "formattedValue": "+2.600%",
+        "query": "청룡 시리즈 어워즈 2026",
+        "value": 2200,
+        "formattedValue": "+2.200%",
         "raw": {
-          "query": "일본 지진",
-          "value": 2600,
-          "formattedValue": "+2.600%",
-          "link": "/trends/explore?q=%EC%9D%BC%EB%B3%B8+%EC%A7%80%EC%A7%84&date=now+7-d&geo=KR"
-        }
-      },
-      {
-        "query": "태풍 돌핀",
-        "value": 2550,
-        "formattedValue": "+2.550%",
-        "raw": {
-          "query": "태풍 돌핀",
-          "value": 2550,
-          "formattedValue": "+2.550%",
-          "link": "/trends/explore?q=%ED%83%9C%ED%92%8D+%EB%8F%8C%ED%95%80&date=now+7-d&geo=KR"
+          "query": "청룡 시리즈 어워즈 2026",
+          "value": 2200,
+          "formattedValue": "+2.200%",
+          "link": "/trends/explore?q=%EC%B2%AD%EB%A3%A1+%EC%8B%9C%EB%A6%AC%EC%A6%88+%EC%96%B4%EC%9B%8C%EC%A6%88+2026&date=now+7-d&geo=KR"
         }
       },
       {
         "query": "돈 선태",
-        "value": 1900,
-        "formattedValue": "+1.900%",
+        "value": 1950,
+        "formattedValue": "+1.950%",
         "raw": {
           "query": "돈 선태",
-          "value": 1900,
-          "formattedValue": "+1.900%",
+          "value": 1950,
+          "formattedValue": "+1.950%",
           "link": "/trends/explore?q=%EB%8F%88+%EC%84%A0%ED%83%9C&date=now+7-d&geo=KR"
         }
       },
@@ -1118,58 +1061,69 @@
         }
       },
       {
-        "query": "청룡 시리즈 어워즈 2026",
-        "value": 1800,
-        "formattedValue": "+1.800%",
+        "query": "세이 디 싱크",
+        "value": 1550,
+        "formattedValue": "+1.550%",
         "raw": {
-          "query": "청룡 시리즈 어워즈 2026",
-          "value": 1800,
-          "formattedValue": "+1.800%",
-          "link": "/trends/explore?q=%EC%B2%AD%EB%A3%A1+%EC%8B%9C%EB%A6%AC%EC%A6%88+%EC%96%B4%EC%9B%8C%EC%A6%88+2026&date=now+7-d&geo=KR"
+          "query": "세이 디 싱크",
+          "value": 1550,
+          "formattedValue": "+1.550%",
+          "link": "/trends/explore?q=%EC%84%B8%EC%9D%B4+%EB%94%94+%EC%8B%B1%ED%81%AC&date=now+7-d&geo=KR"
         }
       },
       {
         "query": "축구 협회 청문회",
-        "value": 1600,
-        "formattedValue": "+1.600%",
+        "value": 1450,
+        "formattedValue": "+1.450%",
         "raw": {
           "query": "축구 협회 청문회",
-          "value": 1600,
-          "formattedValue": "+1.600%",
+          "value": 1450,
+          "formattedValue": "+1.450%",
           "link": "/trends/explore?q=%EC%B6%95%EA%B5%AC+%ED%98%91%ED%9A%8C+%EC%B2%AD%EB%AC%B8%ED%9A%8C&date=now+7-d&geo=KR"
         }
       },
       {
-        "query": "정준 원",
-        "value": 1500,
-        "formattedValue": "+1.500%",
-        "raw": {
-          "query": "정준 원",
-          "value": 1500,
-          "formattedValue": "+1.500%",
-          "link": "/trends/explore?q=%EC%A0%95%EC%A4%80+%EC%9B%90&date=now+7-d&geo=KR"
-        }
-      },
-      {
-        "query": "철구 도박",
-        "value": 1400,
-        "formattedValue": "+1.400%",
-        "raw": {
-          "query": "철구 도박",
-          "value": 1400,
-          "formattedValue": "+1.400%",
-          "link": "/trends/explore?q=%EC%B2%A0%EA%B5%AC+%EB%8F%84%EB%B0%95&date=now+7-d&geo=KR"
-        }
-      },
-      {
         "query": "김선태",
+        "value": 1450,
+        "formattedValue": "+1.450%",
+        "raw": {
+          "query": "김선태",
+          "value": 1450,
+          "formattedValue": "+1.450%",
+          "link": "/trends/explore?q=%EA%B9%80%EC%84%A0%ED%83%9C&date=now+7-d&geo=KR"
+        }
+      },
+      {
+        "query": "태풍 돌핀",
+        "value": 1350,
+        "formattedValue": "+1.350%",
+        "raw": {
+          "query": "태풍 돌핀",
+          "value": 1350,
+          "formattedValue": "+1.350%",
+          "link": "/trends/explore?q=%ED%83%9C%ED%92%8D+%EB%8F%8C%ED%95%80&date=now+7-d&geo=KR"
+        }
+      },
+      {
+        "query": "이병한",
+        "value": 1350,
+        "formattedValue": "+1.350%",
+        "raw": {
+          "query": "이병한",
+          "value": 1350,
+          "formattedValue": "+1.350%",
+          "link": "/trends/explore?q=%EC%9D%B4%EB%B3%91%ED%95%9C&date=now+7-d&geo=KR"
+        }
+      },
+      {
+        "query": "김민하",
         "value": 1200,
         "formattedValue": "+1.200%",
         "raw": {
-          "query": "김선태",
+          "query": "김민하",
           "value": 1200,
           "formattedValue": "+1.200%",
-          "link": "/trends/explore?q=%EA%B9%80%EC%84%A0%ED%83%9C&date=now+7-d&geo=KR"
+          "link": "/trends/explore?q=%EA%B9%80%EB%AF%BC%ED%95%98&date=now+7-d&geo=KR"
         }
       },
       {
@@ -1184,28 +1138,6 @@
         }
       },
       {
-        "query": "이병한",
-        "value": 1200,
-        "formattedValue": "+1.200%",
-        "raw": {
-          "query": "이병한",
-          "value": 1200,
-          "formattedValue": "+1.200%",
-          "link": "/trends/explore?q=%EC%9D%B4%EB%B3%91%ED%95%9C&date=now+7-d&geo=KR"
-        }
-      },
-      {
-        "query": "김민하",
-        "value": 1000,
-        "formattedValue": "+1.000%",
-        "raw": {
-          "query": "김민하",
-          "value": 1000,
-          "formattedValue": "+1.000%",
-          "link": "/trends/explore?q=%EA%B9%80%EB%AF%BC%ED%95%98&date=now+7-d&geo=KR"
-        }
-      },
-      {
         "query": "청문회",
         "value": 900,
         "formattedValue": "+900%",
@@ -1217,36 +1149,47 @@
         }
       },
       {
+        "query": "홍명보 청문회",
+        "value": 800,
+        "formattedValue": "+800%",
+        "raw": {
+          "query": "홍명보 청문회",
+          "value": 800,
+          "formattedValue": "+800%",
+          "link": "/trends/explore?q=%ED%99%8D%EB%AA%85%EB%B3%B4+%EC%B2%AD%EB%AC%B8%ED%9A%8C&date=now+7-d&geo=KR"
+        }
+      },
+      {
         "query": "스파이더 맨 브랜드 뉴 데이",
-        "value": 900,
-        "formattedValue": "+900%",
+        "value": 700,
+        "formattedValue": "+700%",
         "raw": {
           "query": "스파이더 맨 브랜드 뉴 데이",
-          "value": 900,
-          "formattedValue": "+900%",
+          "value": 700,
+          "formattedValue": "+700%",
           "link": "/trends/explore?q=%EC%8A%A4%ED%8C%8C%EC%9D%B4%EB%8D%94+%EB%A7%A8+%EB%B8%8C%EB%9E%9C%EB%93%9C+%EB%89%B4+%EB%8D%B0%EC%9D%B4&date=now+7-d&geo=KR"
         }
       },
       {
-        "query": "스파이더 맨 브랜드 뉴 데이 보기 전",
-        "value": 850,
-        "formattedValue": "+850%",
+        "query": "풍향 중",
+        "value": 550,
+        "formattedValue": "+550%",
         "raw": {
-          "query": "스파이더 맨 브랜드 뉴 데이 보기 전",
-          "value": 850,
-          "formattedValue": "+850%",
-          "link": "/trends/explore?q=%EC%8A%A4%ED%8C%8C%EC%9D%B4%EB%8D%94+%EB%A7%A8+%EB%B8%8C%EB%9E%9C%EB%93%9C+%EB%89%B4+%EB%8D%B0%EC%9D%B4+%EB%B3%B4%EA%B8%B0+%EC%A0%84&date=now+7-d&geo=KR"
+          "query": "풍향 중",
+          "value": 550,
+          "formattedValue": "+550%",
+          "link": "/trends/explore?q=%ED%92%8D%ED%96%A5+%EC%A4%91&date=now+7-d&geo=KR"
         }
       },
       {
-        "query": "철구",
-        "value": 700,
-        "formattedValue": "+700%",
+        "query": "lck",
+        "value": 550,
+        "formattedValue": "+550%",
         "raw": {
-          "query": "철구",
-          "value": 700,
-          "formattedValue": "+700%",
-          "link": "/trends/explore?q=%EC%B2%A0%EA%B5%AC&date=now+7-d&geo=KR"
+          "query": "lck",
+          "value": 550,
+          "formattedValue": "+550%",
+          "link": "/trends/explore?q=lck&date=now+7-d&geo=KR"
         }
       },
       {
@@ -1261,58 +1204,69 @@
         }
       },
       {
-        "query": "촌장 엔터테인먼트",
+        "query": "스파이더 맨 브랜드 뉴 데이 보기 전",
         "value": 550,
         "formattedValue": "+550%",
         "raw": {
-          "query": "촌장 엔터테인먼트",
+          "query": "스파이더 맨 브랜드 뉴 데이 보기 전",
           "value": 550,
           "formattedValue": "+550%",
+          "link": "/trends/explore?q=%EC%8A%A4%ED%8C%8C%EC%9D%B4%EB%8D%94+%EB%A7%A8+%EB%B8%8C%EB%9E%9C%EB%93%9C+%EB%89%B4+%EB%8D%B0%EC%9D%B4+%EB%B3%B4%EA%B8%B0+%EC%A0%84&date=now+7-d&geo=KR"
+        }
+      },
+      {
+        "query": "촌장 엔터테인먼트",
+        "value": 500,
+        "formattedValue": "+500%",
+        "raw": {
+          "query": "촌장 엔터테인먼트",
+          "value": 500,
+          "formattedValue": "+500%",
           "link": "/trends/explore?q=%EC%B4%8C%EC%9E%A5+%EC%97%94%ED%84%B0%ED%85%8C%EC%9D%B8%EB%A8%BC%ED%8A%B8&date=now+7-d&geo=KR"
         }
       },
       {
-        "query": "풍향 중",
+        "query": "김병지",
         "value": 500,
         "formattedValue": "+500%",
         "raw": {
-          "query": "풍향 중",
+          "query": "김병지",
           "value": 500,
           "formattedValue": "+500%",
-          "link": "/trends/explore?q=%ED%92%8D%ED%96%A5+%EC%A4%91&date=now+7-d&geo=KR"
+          "link": "/trends/explore?q=%EA%B9%80%EB%B3%91%EC%A7%80&date=now+7-d&geo=KR"
         }
       },
       {
-        "query": "pba",
-        "value": 450,
-        "formattedValue": "+450%",
-        "raw": {
-          "query": "pba",
-          "value": 450,
-          "formattedValue": "+450%",
-          "link": "/trends/explore?q=pba&date=now+7-d&geo=KR"
-        }
-      },
-      {
-        "query": "lck",
-        "value": 450,
-        "formattedValue": "+450%",
-        "raw": {
-          "query": "lck",
-          "value": 450,
-          "formattedValue": "+450%",
-          "link": "/trends/explore?q=lck&date=now+7-d&geo=KR"
-        }
-      },
-      {
-        "query": "김병지",
+        "query": "롤 클래식",
         "value": 400,
         "formattedValue": "+400%",
         "raw": {
-          "query": "김병지",
+          "query": "롤 클래식",
           "value": 400,
           "formattedValue": "+400%",
-          "link": "/trends/explore?q=%EA%B9%80%EB%B3%91%EC%A7%80&date=now+7-d&geo=KR"
+          "link": "/trends/explore?q=%EB%A1%A4+%ED%81%B4%EB%9E%98%EC%8B%9D&date=now+7-d&geo=KR"
+        }
+      },
+      {
+        "query": "스파이더 맨 노 웨이 홈",
+        "value": 350,
+        "formattedValue": "+350%",
+        "raw": {
+          "query": "스파이더 맨 노 웨이 홈",
+          "value": 350,
+          "formattedValue": "+350%",
+          "link": "/trends/explore?q=%EC%8A%A4%ED%8C%8C%EC%9D%B4%EB%8D%94+%EB%A7%A8+%EB%85%B8+%EC%9B%A8%EC%9D%B4+%ED%99%88&date=now+7-d&geo=KR"
+        }
+      },
+      {
+        "query": "노준",
+        "value": 350,
+        "formattedValue": "+350%",
+        "raw": {
+          "query": "노준",
+          "value": 350,
+          "formattedValue": "+350%",
+          "link": "/trends/explore?q=%EB%85%B8%EC%A4%80&date=now+7-d&geo=KR"
         }
       }
     ]
